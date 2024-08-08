@@ -117,7 +117,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:  lextm/jekyll-theme-chirpy
+    repo:  lextm/blog
     repo_id: R_kgDOIwwoQg
     category: General
     category_id: DIC_kwDOIwwoQs4CVyW7
