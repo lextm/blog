@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Windows XP Everywhere"
-description: "This post is about Windows XP used in Shanghai Metro system."
-tags: Windows
-permalink: /windows-xp-everywhere-eecd7661cc58
+description: This post is about Windows XP used in Shanghai Metro system.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /windows-xp-everywhere-eecd7661cc58
+tags: windows
+title: Windows XP Everywhere
 ---
 We all know that Windows XP is a great product. It is so great that sometimes you don't know its existence.
 <!--more-->

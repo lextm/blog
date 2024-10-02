@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: PHP Manager for IIS"
-description: "This post is about PHP Manager for IIS."
-tags: IIS
-permalink: /product-review-php-manager-for-iis-e17105c8f751
+description: This post is about PHP Manager for IIS.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-php-manager-for-iis-e17105c8f751
+tags: iis php windows
+title: 'Product Review: PHP Manager for IIS'
 ---
 I just noticed this project on CodePlex, which provides PHP support in IIS Manager.
 

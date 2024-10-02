@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "If You Cannot Install/Uninstall IIS 7"
-description: "This post is about how to resolve IIS 7 installation issue."
-tags: Windows IIS
-permalink: /if-you-cannot-install-uninstall-iis-7-292f3d582837
+description: This post is about how to resolve IIS 7 installation issue.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /if-you-cannot-install-uninstall-iis-7-292f3d582837
+tags: iis windows
+title: If You Cannot Install/Uninstall IIS 7
 ---
-
 IIS 7 (7.0 on Windows Vista and Windows Server 2008, or 7.5 on Windows 7 and Windows Server 2008 R2) installation depends on Windows CBS. This is a bless but also a curse. If you find installing or uninstalling IIS 7 failed with an error message, please blame CBS in most of the cases.
 
 <!--more-->

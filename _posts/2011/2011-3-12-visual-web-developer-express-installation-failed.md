@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Visual Web Developer Express Installation Failed"
-description: "This post is about Visual Web Developer Express installation failure."
-tags: Visual-Studio
-permalink: /visual-web-developer-express-installation-failed-13a0dd1faafc
+description: This post is about Visual Web Developer Express installation failure.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /visual-web-developer-express-installation-failed-13a0dd1faafc
+tags: microsoft visual-studio
+title: Visual Web Developer Express Installation Failed
 ---
 If you do an Internet search for this title, you will meet tons of posts/threads, and all such failures somehow are related to Microsoft Web Platform Installer. So is Web PI such a bad bad tool?
 <!--more-->

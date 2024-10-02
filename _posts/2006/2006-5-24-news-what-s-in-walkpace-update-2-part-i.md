@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "News! What's in WalkPace Update 2 (Part I)"
-description: "This post is about the latest news of Code Beautifier Collection."
-tags: Code-Beautifier-Collection Delphi
-permalink: /news-whats-in-walkpace-update-2-part-i-e1958b8a824e
+description: This post is about the latest news of Code Beautifier Collection.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /news-whats-in-walkpace-update-2-part-i-e1958b8a824e
+tags: delphi code-beautifier-collection
+title: News! What's in WalkPace Update 2 (Part I)
 ---
 (CSDN May 24, 2006)
 

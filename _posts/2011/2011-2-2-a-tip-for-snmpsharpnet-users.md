@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "A Tip for SnmpSharpNet (SNMP#NET) Users"
-description: "This post is about a tip for SnmpSharpNet (SNMP#NET) users."
-tags: SNMP
-permalink: /a-tip-for-snmpsharpnet-snmp-net-users-6a23a02b71e
+description: This post is about a tip for SnmpSharpNet (SNMP#NET) users.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /a-tip-for-snmpsharpnet-snmp-net-users-6a23a02b71e
+tags: snmp csharp
+title: A Tip for SnmpSharpNet (SNMP#NET) Users
 ---
 Well, I believe you have the habit of reading release notes and pay attention to what was written in SnmpSharpNet's one.
 
