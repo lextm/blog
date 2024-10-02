@@ -9,6 +9,14 @@ excerpt_separator: <!--more-->
 LeXtudio Inc. just released a new product, HttpPlatformHandler v2, which is a new version of Microsoft HttpPlatformHandler. This post talks about why we build it and how we build it.
 <!--more-->
 
+## How to Get HttpPlatformHandler v2?
+
+All changes we make are released under MIT, and you can check out the source code and installers on [our GitHub repository](https://github.com/lextudio/httpplatformhandlerv2/releases).
+
+> The current release is marked as v2.0 RC, as we are still testing it in various scenarios. But the module is already able to handle all the test cases my team have at hand, so we believe it's time that you try it out.
+
+You are welcome to report any issues you find on [GitHub](https://github.com/lextudio/httpplatformhandlerv2/issues).
+
 ## Why HttpPlatformHandler v2?
 
 > The history of HttpPlatformHandler can be found in [this post]({% post_url 2023/2023-4-7-the-rough-history-of-iis-httpplatformhandler %}).
@@ -41,13 +49,5 @@ To recap, this v2 module from us provides the following benefits,
 * Bug fixes. SSE and other modern web features should work properly.
 * IIS Express support (finally I know, as Microsoft never released a version for IIS Express).
 * Open-source. You can check out the source code and build it yourself.
-
-## How to Get HttpPlatformHandler v2?
-
-The changes we make are released under MIT, and you can check out the source code and installers on [our GitHub repository](https://github.com/lextudio/httpplatformhandlerv2/releases).
-
-The current release is marked as v2.0 RC2, as we are still testing it in various scenarios. But the module is already able to handle all the test cases my team have at hand, so we believe it's time that you try it out.
-
-You are welcome to report any issues you find on [GitHub](https://github.com/lextudio/httpplatformhandlerv2/issues).
 
 Stay tuned for more updates on this new project.
