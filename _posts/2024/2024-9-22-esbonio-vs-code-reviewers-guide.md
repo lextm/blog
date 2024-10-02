@@ -51,6 +51,8 @@ pipenv --venv
 >
 > Also note that you must use Python 3.9+ as older Python releases are no longer supported.
 >
+> Also note that esbonio isn't used as a dependency in this virtual environment because the extension itself bundles a version of esbonio already. So, if you used to install esbonio with your virtual environment, delete it there to avoid conflicts.
+>
 > If you never know pyenv or pipenv, you might need to learn about them first. If you prefer other tools, you can use them too but the steps might vary.
 
 In VS Code, open `conf.py` and select this pipenv environment (mine is `/Users/lextm/.local/share/virtualenvs/demo-2cFbohxa`) so that it applies to Microsoft Python extension as well as others.
