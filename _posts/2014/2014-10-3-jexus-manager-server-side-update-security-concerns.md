@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Jexus Manager Server Side Update: Security Concerns"

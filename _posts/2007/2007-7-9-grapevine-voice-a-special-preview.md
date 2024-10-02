@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "GrapeVine Voice: A Special Preview"
 description: "This post describes about a special preview build of GrapeVine release."
