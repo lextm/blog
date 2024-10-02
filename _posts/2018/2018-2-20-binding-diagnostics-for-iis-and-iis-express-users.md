@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Binding Diagnostics for IIS and IIS Express Users
 description: A post about the new Binding Diagnostics for IIS and IIS Express in Jexus Manager.
-tags: IIS
-permalink: /binding-diagnostics-for-iis-and-iis-express-users-595aaa42cbbd
 excerpt_separator: <!--more-->
+layout: post
+permalink: /binding-diagnostics-for-iis-and-iis-express-users-595aaa42cbbd
+tags: iis jexus-manager
+title: Binding Diagnostics for IIS and IIS Express Users
 ---
-
 The complexity of IIS makes it difficult to learn (nginx and Apache are not exceptionally easy either). So many web developers (ASP.NET or not) can find it hard to understand certain concepts, and such might lead to the configuration failing to meet their desires.
 
 <!--more-->

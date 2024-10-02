@@ -1,10 +1,10 @@
 ---
-layout: post
-title: A Closer Look At ASP.NET Core Execution Model
 description: A post about the process model of ASP.NET Core on IIS and why you should know it.
-tags: .NET IIS
-permalink: /a-closer-look-at-asp-net-core-execution-model-b3c332f6ed1
 excerpt_separator: <!--more-->
+layout: post
+permalink: /a-closer-look-at-asp-net-core-execution-model-b3c332f6ed1
+tags: .net asp.net iis windows
+title: A Closer Look At ASP.NET Core Execution Model
 ---
 It is very important to know what process hosts your web application when it is running on IIS, as often you need to attach to that process, or troubleshoot issues related to process model.
 <!--more-->

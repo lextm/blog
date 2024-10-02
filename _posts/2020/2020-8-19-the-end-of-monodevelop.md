@@ -1,16 +1,15 @@
 ---
-layout: post
-title: The End of MonoDevelop
-description: A post about the end of MonoDevelop and why you should now abandon it.
-tags: Mono Microsoft Linux Xamarin
 categories: [History, .NET]
-permalink: /the-end-of-monodevelop-80b383dab34b
+description: A post about the end of MonoDevelop and why you should now abandon it.
 excerpt_separator: <!--more-->
 image:
-  path: /images/riverside.jpg
   alt: Copyright © Lex Li. River side, Montreal.
+  path: /images/riverside.jpg
+layout: post
+permalink: /the-end-of-monodevelop-80b383dab34b
+tags: .net linux microsoft mono visual-studio xamarin visual-studio-code
+title: The End of MonoDevelop
 ---
-
 Microsoft abandoned [MonoDevelop GitHub repository](https://github.com/mono/monodevelop/graphs/contributors) earlier this year, and we can see no commit was pushed since February. However, there is no official announcement from any Microsoft channel on why that happened.
 
 <!--more-->
@@ -24,7 +23,7 @@ I will explain below why I don't think the sudden change is sudden, and provide 
 
 ## The Value of MonoDevelop for Microsoft
 
-Most Microsoft developers are on Windows without a doubt. And recently via VSCode and VS for Mac, Microsoft has been able to reach developer communities on macOS and Linux. But one fact we must consider is that Linux desktop market share is rather small (<1% by certain stats), so VS for Linux has been requested but never fulfilled. Therefore, there is no obvious ROI for Microsoft to keep investing in MonoDevelop for Linux, and we saw more and more issues in the past few years,
+Most Microsoft developers are on Windows without a doubt. And recently via VS Code and VS for Mac, Microsoft has been able to reach developer communities on macOS and Linux. But one fact we must consider is that Linux desktop market share is rather small (<1% by certain stats), so VS for Linux has been requested but never fulfilled. Therefore, there is no obvious ROI for Microsoft to keep investing in MonoDevelop for Linux, and we saw more and more issues in the past few years,
 
 1. No more binary package of MonoDevelop for various Linux distributions.
 1. Many issues to compile the latest code base on Linux.
@@ -53,7 +52,7 @@ There might be some difficulty for VS for Mac extension developers, as they lose
 
 > There has been an attempt to revive MonoDevelop by the community, or at least keep it as it was for the existing users, so let's see what happens next there on [GitHub](https://github.com/dotdevelop/dotdevelop/issues).
 
-If you have to stay on Linux and want to program in .NET, please switch to VSCode or Rider.
+If you have to stay on Linux and want to program in .NET, please switch to VS Code or Rider.
 
 This is the end of an important MonoDevelop chapter, and I start to wonder what might happen to Mono when .NET 5 is released later this year. I will write about that when the time is right.
 

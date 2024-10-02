@@ -1,15 +1,14 @@
 ---
-layout: post
-title: What Does .NET 5 Mean to You
 description: A post about what .NET 5 means to different groups of people
-tags: Linux Mono .NET ASP.NET
-permalink: /what-does-net-5-mean-to-you-c63d06b63285
 excerpt_separator: <!--more-->
 image:
-  path: /images/tree-reflection.jpg
   alt: Copyright © Lex Li. Tree reflection, Montreal.
+  path: /images/tree-reflection.jpg
+layout: post
+permalink: /what-does-net-5-mean-to-you-c63d06b63285
+tags: .net asp.net linux mono
+title: What Does .NET 5 Mean to You
 ---
-
 On Monday, [Microsoft announced .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/), the next major release of its popular .NET Core platform.
 
 The version number bump (to 5) is kind of expected, as nobody wants to mess things up with .NET Framework 4.x.

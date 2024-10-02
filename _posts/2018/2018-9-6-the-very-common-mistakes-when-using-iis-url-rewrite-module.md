@@ -1,15 +1,14 @@
 ---
-layout: post
-title: The Very Common Mistakes When Using IIS URL Rewrite Module
 description: A post about the very common mistakes when using IIS URL Rewrite Module and how to avoid them.
-tags: IIS
-permalink: /the-very-common-mistakes-when-using-iis-url-rewrite-module-a2ab7e4fee59
 excerpt_separator: <!--more-->
 image:
-  path: /images/canada-maltage.jpg
   alt: Copyright © Lex Li. Canada Maltage, Montreal.
+  path: /images/canada-maltage.jpg
+layout: post
+permalink: /the-very-common-mistakes-when-using-iis-url-rewrite-module-a2ab7e4fee59
+tags: iis windows
+title: The Very Common Mistakes When Using IIS URL Rewrite Module
 ---
-
 IIS URL Rewrite module has been a very important addition to the platform, and gives all kinds of possibilities on how you can take full control of the URLs. When proper rules are created and hosted there, many scenarios that were difficult to achieve are no longer miracles.
 
 But flexibility comes at a price, and people can make mistakes if they blindly move on to create rules, without even playing with [the examples](https://docs.microsoft.com/iis/extensions/url-rewrite-module/creating-rewrite-rules-for-the-url-rewrite-module) published by Microsoft on their excellent documentation site.

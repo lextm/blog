@@ -1,10 +1,10 @@
 ---
-layout: post
-title: How to Tune User Account Control on Windows Server
 description: A post about how to tune User Account Control on Windows Server to make your life easier.
-tags: Windows
-permalink: /tune-user-account-control-on-windows-server-a96204c4ebc3
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tune-user-account-control-on-windows-server-a96204c4ebc3
+tags: windows
+title: How to Tune User Account Control on Windows Server
 ---
 It has been a while that I use a Windows Server virtual machine in Azure for all my Windows related testing. I love this approach, so that I can stay comfortably on a MacBook with only virtualized Linux locally.
 

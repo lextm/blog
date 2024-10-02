@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Signing Your Code For The Good, And The Bad
 description: A post about how to sign your code, and why you should do it.
-tags: Visual-Studio .NET
-permalink: /signing-your-code-for-the-good-and-the-bad-350b25d2b38d
 excerpt_separator: <!--more-->
 image:
-  path: /images/trees-moon.jpg
   alt: Copyright © Lex Li. Winter-trees and the moon, Montreal.
+  path: /images/trees-moon.jpg
+layout: post
+permalink: /signing-your-code-for-the-good-and-the-bad-350b25d2b38d
+tags: .net visual-studio
+title: Signing Your Code For The Good, And The Bad
 ---
-
 Signing your code is a very important step to confirm that you ship something that can be trusted by others. However, it comes at a price, because you need to pay a certificate authority for a valid certificate.
 
 > I did hesitate on buying such a certificate, as it is not cheap (consider the fact that SSL certificates for web sites are now almost free (like Let's Encrypt). But suddenly I noticed that Microsoft MVPs are entitled free certificates from DigiCert. So I used the service to get mine.

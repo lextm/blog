@@ -1,16 +1,15 @@
 ---
-layout: post
-title: The Rough History of MonoDevelop
-description: A post about the rough history of MonoDevelop and interesting stories behind it.
-tags: Linux Mono
 categories: [History, .NET]
-permalink: /brief-history-of-monodevelop-93b1d4011978
+description: A post about the rough history of MonoDevelop and interesting stories behind it.
 excerpt_separator: <!--more-->
 image:
-  path: /images/construction-site.jpg
   alt: Copyright © Lex Li. Construction site, Montreal.
+  path: /images/construction-site.jpg
+layout: post
+permalink: /brief-history-of-monodevelop-93b1d4011978
+tags: linux mono sharpdevelop
+title: The Rough History of MonoDevelop
 ---
-
 There is [a Wikipedia article about MonoDevelop](https://en.wikipedia.org/wiki/MonoDevelop). However, I don't think it contains the necessary history events on this product, so here I provide an alternative version.
 
 <!--more-->
@@ -58,7 +57,7 @@ Many people only see one side of the coin, and complain that they have no Window
 
 It would be rather difficult to predict when we shall be able to compile MonoDevelop 8.x flawlessly on Windows, or Linux, as the experts in this field are now busy bringing more new things into the code base for Mac.
 
-Should you really care? Visual Studio Community edition (Windows) and VSCode (Linux) can cover many scenarios already.
+Should you really care? Visual Studio Community edition (Windows) and VS Code (Linux) can cover many scenarios already.
 
 ## Side Notes
 

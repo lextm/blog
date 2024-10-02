@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Samsung .NET Core Debugger and MonoDevelop
 description: A post about Samsung's .NET Core debugger and how I integrate it with MonoDevelop
-tags: Linux Mono Samsung .NET
-permalink: /samsung-net-core-debugger-and-monodevelop-80a6ea4bcab3
 excerpt_separator: <!--more-->
 image:
-  path: /images/bell-center.jpg
   alt: Copyright © Lex Li. Bell Center, Montreal.
+  path: /images/bell-center.jpg
+layout: post
+permalink: /samsung-net-core-debugger-and-monodevelop-80a6ea4bcab3
+tags: .net linux mono samsung
+title: Samsung .NET Core Debugger and MonoDevelop
 ---
-
 Visual Studio for Mac has been supporting .NET Core debugging for a while, but MonoDevelop users do not get the same experience. It has been [a well known issue](https://github.com/mono/monodevelop/issues/3764), and mainly due to the fact that Microsoft does not make the core debugger redistributable for non-VS tools.
 <!--more-->
 

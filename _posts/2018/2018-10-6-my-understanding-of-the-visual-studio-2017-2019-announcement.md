@@ -1,15 +1,14 @@
 ---
-layout: post
-title: My Understanding of The Visual Studio 2017/2019 Announcements
 description: A post about my understanding of the Visual Studio 2017/2019 announcements and Microsoft's intentions behind.
-tags: Visual-Studio Microsoft
-permalink: /my-understanding-of-the-visual-studio-2017-2019-announcements-53846c20453c
 excerpt_separator: <!--more-->
 image:
-  path: /images/railway-bridge.jpg
   alt: Copyright © Lex Li. Railway bridge and new moon, Montreal.
+  path: /images/railway-bridge.jpg
+layout: post
+permalink: /my-understanding-of-the-visual-studio-2017-2019-announcements-53846c20453c
+tags: microsoft visual-studio
+title: My Understanding of The Visual Studio 2017/2019 Announcements
 ---
-
 Visual Studio 2017 is a very important Visual Studio release, not only because that it delivers many unique features, but also [the way it is delivered](https://docs.microsoft.com/visualstudio/productinfo/vs2017-release-rhythm).
 <!--more-->
 If you read the Release Rhythm article above, you know how often Microsoft was planning to update this product. Sometimes I thought that this was great for whoever purchased Visual Studio 2017 (only Express/Community users didn't pay), as Microsoft could update it just like Windows 10.

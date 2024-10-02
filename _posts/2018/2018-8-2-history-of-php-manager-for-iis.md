@@ -1,16 +1,15 @@
 ---
-layout: post
-title: History of PHP Manager for IIS
-description: A post about the history of PHP Manager for IIS and how I got involved.
-tags: PHP IIS
 categories: [History, IIS]
-permalink: /history-of-php-manager-for-iis-7e29bd9828f0
+description: A post about the history of PHP Manager for IIS and how I got involved.
 excerpt_separator: <!--more-->
 image:
-  path: /images/wellington-ann.jpg
   alt: Copyright © Lex Li. Crossroad on rue Wellington, Montreal.
+  path: /images/wellington-ann.jpg
+layout: post
+permalink: /history-of-php-manager-for-iis-7e29bd9828f0
+tags: iis php windows open-source
+title: History of PHP Manager for IIS
 ---
-
 > Ironically [I suggested people to avoid PHP Manager]({% post_url 2018/2018-3-31-why-you-should-forget-php-manager-for-iis %}), but later took over the project.
 
 <!--more-->
