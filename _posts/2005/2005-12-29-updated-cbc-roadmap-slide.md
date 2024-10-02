@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Updated CBC Roadmap Slide"
 description: A post about updated CBC Roadmap Slide
-tags: Code-Beautifier-Collection Delphi
-permalink: /updated-cbc-roadmap-slide-ddfd2f550bb8
 excerpt_separator: <!--more-->
+layout: post
+permalink: /updated-cbc-roadmap-slide-ddfd2f550bb8
+tags: code-beautifier-collection delphi
+title: Updated CBC Roadmap Slide
 ---
 (Originally published to CSDN on Dec 29, 2005)
 

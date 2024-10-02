@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "CBC TechNote: How to solve the coupling effect with SBT?"
 description: A post about how I kept my code isolated from David's Sharp Builder Tools.
-tags: Code-Beautifier-Collection Delphi
-permalink: /cbc-technote-how-to-solve-the-coupling-effect-with-sbt-6fde78543560
 excerpt_separator: <!--more-->
+layout: post
+permalink: /cbc-technote-how-to-solve-the-coupling-effect-with-sbt-6fde78543560
+tags: delphi code-beautifier-collection .net
+title: 'CBC TechNote: How to solve the coupling effect with SBT?'
 ---
-
 (Written on 2005–10–6, originally posted to CSDN on Nov 03, 2005, republished here with some modifications)
 
 The architecture of CBC (JCF Expert) was SBT v0.9. I chose it because it was included in Delphi 2005 (and C#Builder 1.0) and it was simple enough for me to modify. So in the beginning, I put new code inside David's files. The result is a bad/ugly piece of software.
