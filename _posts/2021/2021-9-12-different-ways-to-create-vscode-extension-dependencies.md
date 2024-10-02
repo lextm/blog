@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Different Ways to Create VSCode Extension Dependencies
-description: A post about different ways to define VSCode extension dependencies and which might work best for your case
-tags: Visual-Studio-Code
+description: A post about different ways to define VS Code extension dependencies and which might work best for your case
 excerpt_separator: <!--more-->
+layout: post
+tags: python visual-studio-code javascript typescript
+title: Different Ways to Create VS Code Extension Dependencies
 ---
-
-If you are developing your own VSCode extensions, you might find a need to specify dependencies on other extensions. There are more than one way to manage such relationship, so this post is going to discuss the pros and cons of each approaches, so that you can easily choose the right one for your case.
+If you are developing your own VS Code extensions, you might find a need to specify dependencies on other extensions. There are more than one way to manage such relationship, so this post is going to discuss the pros and cons of each approaches, so that you can easily choose the right one for your case.
 <!--more-->
 
 ## Extension Dependencies in Configuration
@@ -21,7 +20,7 @@ For example, a Python related extension might hope that Microsoft's Python exten
 ]
 ```
 
-This is probably the most likely option you are going to use, as it is very simple to configure. VSCode takes care of the rest for you by installing the specified dependencies ahead of installing your extension.
+This is probably the most likely option you are going to use, as it is very simple to configure. VS Code takes care of the rest for you by installing the specified dependencies ahead of installing your extension.
 
 However, this builds up a very strong binding between your extension and the dependencies. So if some of the dependencies are recommended and optional, but not mandatory, you should avoid putting them here.
 
@@ -55,6 +54,6 @@ This approach requires some TypeScript code in `function activate(context: vscod
 
 ## Extension Pack
 
-If you just want the users to install a bunch of extensions together, you might write your own extension packs, following [the documentation](https://code.visualstudio.com/api/references/extension-manifest#extension-packs). When an extension pack is being installed by VSCode, all extensions defined in this pack are being installed.
+If you just want the users to install a bunch of extensions together, you might write your own extension packs, following [the documentation](https://code.visualstudio.com/api/references/extension-manifest#extension-packs). When an extension pack is being installed by VS Code, all extensions defined in this pack are being installed.
 
 This is rather useful even if you are authoring a specific extension, as even without writing a single line of JavaScript/TypeScript you can create an extension pack based on excellent extensions from others.

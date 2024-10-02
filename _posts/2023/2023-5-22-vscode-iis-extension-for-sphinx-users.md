@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "VS Code IIS Extension for Sphinx Users"
-description: "A post about how to use VS Code IIS extension to host Sphinx sites."
-tags: Visual-Studio-Code Python Windows IIS
+description: A post about how to use VS Code IIS extension to host Sphinx sites.
 excerpt_separator: <!--more-->
+layout: post
+tags: iis python sphinx visual-studio-code windows
+title: VS Code IIS Extension for Sphinx Users
 ---
-
 If you use VS Code to author Sphinx sites, you might find the reStructuredText extension a good companion to help highlight the syntax and preview the pages. One limitation of that extension is it cannot help you host the site locally, so you need to set up a web server separately. This post introduces a new VS Code extension that can help you host Sphinx sites on IIS easily.
 <!--more-->
 
