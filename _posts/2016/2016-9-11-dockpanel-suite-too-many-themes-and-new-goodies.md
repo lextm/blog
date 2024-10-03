@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "DockPanel Suite: Too Many Themes and New Goodies"
-description: "This post is about DockPanel Suite recent changes and how easy it is now to generate new themes."
-tags: DockPanel-Suite
-permalink: /dockpanel-suite-too-many-themes-and-new-goodies-fb4fe55d127e
+description: This post is about DockPanel Suite recent changes and how easy it is now to generate new themes.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-too-many-themes-and-new-goodies-fb4fe55d127e
+tags: dockpanel-suite visual-studio .net
+title: 'DockPanel Suite: Too Many Themes and New Goodies'
 ---
 I blogged a few days ago on DockPanel Suite recent changes, but well excitingly there is much more to share this time.
 <!--more-->
@@ -17,7 +17,7 @@ Remember that I mentioned the "new theme design"? It has been greatly upgraded i
 * All dock indicator images are generated on-the-fly based on the color palette.
 * Dock indicators are now transparent just like VS does.
 Pressed images are now supported (only normal and hovered were supported).
-* Color palettes now can come from .vstheme files exported by Visual Studio Color Theme Manager.
+* Color palettes now can come from `.vstheme` files exported by Visual Studio Color Theme Manager.
 
 What do they mean? They mean that in just a few minutes you should be able now to create a new theme by using the greatest visual tool developed by Microsoft for Visual Studio, and then enable it in DockPanel Suite. I have updated [the new theme creation guide](http://docs.dockpanelsuite.com/themes/creating-new-theme.html) to reflect the changes and hope you like them immediately,
 
@@ -33,9 +33,10 @@ The result of all such efforts is that now the following themes are shipped,
 Totally you get 8 themes for the first time. You can now grab them [via NuGet](https://www.nuget.org/packages/DockPanelSuite/2.11.0-beta1). The upcoming Beta 2 will add VS2015 Blue/Dark/Light to the list.
 
 ## Interesting Facts
+
 You might think that well we shipped VS2012 Light and VS2013 Blue themes already, so what's the big deal. Well, even they receive significant updates in many aspects,
 
-1. By using the .vstheme files from Microsoft, a few incorrect colors are now fixed.
+1. By using the `.vstheme` files from Microsoft, a few incorrect colors are now fixed.
 1. By using the image generation algorithms based on mask images, the final assembly size is smaller.
 1. The missing borders of dock panes in VS2013 theme are added.
 1. The missing borders in dock outline windows are added.

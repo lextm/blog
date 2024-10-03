@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "How to Port #SNMP Library to .NET Core"
-description: "This post is about how I port #SNMP Library to .NET Core."
-tags: SNMP .NET
-permalink: /how-to-port-snmp-library-to-net-core-878d29074f9c
+description: 'This post is about how I port #SNMP Library to .NET Core.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-port-snmp-library-to-net-core-878d29074f9c
+tags: .net snmp
+title: 'How to Port #SNMP Library to .NET Core'
 ---
 .NET Core is still a moving target, so don't jump on it unless you are kind of crazy at this stage…
 Preparation

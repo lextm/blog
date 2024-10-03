@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Update on reStructuredText and Visual Studio Code"
-description: "This post is about the update on reStructuredText and Visual Studio Code."
-tags: reStructuredText
-permalink: /update-on-restructuredtext-and-visual-studio-code-1b23916c4c0f
+description: This post is about the update on reStructuredText and Visual Studio Code.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /update-on-restructuredtext-and-visual-studio-code-1b23916c4c0f
+tags: restructuredtext sphinx visual-studio-code python
+title: Update on reStructuredText and Visual Studio Code
 ---
 When I started the reStructuredText extension for Visual Studio Code in Nov 2015, I wasn't expect it to be a hot extension in the gallery. But even without an ambition, now it serves >1,700 users, so time to make it better.
 <!--more-->
@@ -20,7 +20,7 @@ As all of them provides preview, below I make a comparison,
 
 So why rst2mdown might give unpredictable result? reStructuredText has a far richer syntax than Markdown. Therefore, when you convert to Markdown, information lost happens, and the final preview result can be completely different.
 
-Why cannot docutil achieve the best result? Because it only processes a single file, that included files and other features related to a complete sphinx project cannot be properly rendered.
+Why cannot docutils achieve the best result? Because it only processes a single file, that included files and other features related to a complete sphinx project cannot be properly rendered.
 
 As a result, only a true sphinx based solution like vscode-restructuredtext can offer the most accurate preview with full theme support.
 
