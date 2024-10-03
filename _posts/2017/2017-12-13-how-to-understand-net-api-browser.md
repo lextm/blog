@@ -1,15 +1,15 @@
 ---
-layout: post
-title: How to Understand .NET API Browser (Dec 2017)
 description: A post about how to understand the information presented in .NET API Browser (Dec 2017).
-tags: Visual-Studio .NET
-permalink: /how-to-understand-net-api-browser-dec-2017-16fe068ab072
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-understand-net-api-browser-dec-2017-16fe068ab072
+tags: .net visual-studio
+title: How to Understand .NET API Browser (Dec 2017)
 ---
 Microsoft tries to use new tools to build .NET documentation, which is good. The benefits for the community are,
 
-* The documentation tool is open source, aka DocFX (https://github.com/dotnet/docfx).
-* Everyone can now submit their ideas and comments via GitHub pull requests (https://github.com/dotnet/docs).
+* The documentation tool is open source, aka [DocFX](https://github.com/dotnet/docfx).
+* Everyone can now submit their ideas and comments via [GitHub pull requests](https://github.com/dotnet/docs).
 
 However, the tooling and its results right now (Dec 2017) are far from perfect, and can be even misleading in certain cases. While we can accept the current state and look for the future, I am sharing below how to interpret certain things in the right way.
 <!--more-->

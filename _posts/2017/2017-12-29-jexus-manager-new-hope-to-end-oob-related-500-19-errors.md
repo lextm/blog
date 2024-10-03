@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Jexus Manager, New Hope to End OOB Related 500.19 Errors
 description: A post about the new OOB diagnostics in Jexus Manager.
-tags: Visual-Studio .NET IIS
-permalink: /jexus-manager-new-hope-to-end-oob-related-500-19-errors-193854de0d4d
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-manager-new-hope-to-end-oob-related-500-19-errors-193854de0d4d
+tags: .net iis jexus-manager
+title: Jexus Manager, New Hope to End OOB Related 500.19 Errors
 ---
-
 When Microsoft designed IIS 7.0, those guys must be quite proud of their achievement. That release is so significant that the later releases 7.5/8.0/8.5/10.0 almost require no big changes. The architecture is quite flexible, and makes extending IIS a fun.
 
 <!--more-->

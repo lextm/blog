@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "News! No more WalkPace versions. NixNewNer is coming soon"
 description: This post is about the progress of LeXDK and new features in NixNewNer.
-tags: Code-Beautifier-Collection Delphi
-permalink: /news-no-more-walkpace-versions-nixnewner-is-coming-soon-db7d47ba4d1a
 excerpt_separator: <!--more-->
+layout: post
+permalink: /news-no-more-walkpace-versions-nixnewner-is-coming-soon-db7d47ba4d1a
+tags: code-beautifier-collection delphi
+title: News! No more WalkPace versions. NixNewNer is coming soon
 ---
 (CSDN June 05, 2006)
 
@@ -17,7 +17,7 @@ NixNewNer stage starts at LeXDK version 5.1. Soon a RC 1 will be on homepage for
 
 Some features added to this version NixNewNer RC 1 are
 
-1. Plus Manager GUI is updated. Use TreeView instead of ListView.
+1. Plus Manager GUI is updated. Use `TreeView` instead of `ListView`.
 1. AutoCompletion is tuned again and adds some XML tag support in C#.
 
 Stay tuned.

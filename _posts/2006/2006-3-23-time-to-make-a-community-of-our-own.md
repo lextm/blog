@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Time to Make a Community of Our Own!"
 description: This post is about the status of CBC and the future of CBC community.
-tags: Code-Beautifier-Collection Delphi
-permalink: /time-to-make-a-community-of-our-own-4ef02a287965
 excerpt_separator: <!--more-->
+layout: post
+permalink: /time-to-make-a-community-of-our-own-4ef02a287965
+tags: code-beautifier-collection delphi
+title: Time to Make a Community of Our Own!
 ---
 (CSDN March 23, 2006)
 

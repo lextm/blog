@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "The Merge of .NET and Mono: Phase One"
-description: "This post is about the first phase of the merge of .NET and Mono."
-tags: .NET Mono
-permalink: /the-merge-of-net-and-mono-phase-one-c157e68ce371
+description: This post is about the first phase of the merge of .NET and Mono.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-merge-of-net-and-mono-phase-one-c157e68ce371
+tags: .net mono
+title: 'The Merge of .NET and Mono: Phase One'
 ---
-
 > I was about to write a phase two post, but suddenly realized that I did not even have a phase one post. Thus, this is it.
 
 When we look back at [the history of .NET and Mono](https://corefx.lextudio.com), we can see the first collaboration was around Silverlight/Moonlight (2008–2009). Microsoft only provides testing suites to Novell (who owned Mono at that time), so we could not say that gives Mono a chance to "merge" with .NET Framework. But at least, Moonlight has better compatibility to Silverlight, compared to Mono and .NET Framework.

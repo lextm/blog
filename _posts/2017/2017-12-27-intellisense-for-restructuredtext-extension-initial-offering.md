@@ -1,15 +1,16 @@
 ---
-layout: post
-title: IntelliSense for reStructuredText Extension, Initial Offering
 description: A post about the initial offering of IntelliSense for reStructuredText extension.
-tags: Visual-Studio-Code
-permalink: /intellisense-for-restructuredtext-extension-initial-offering-6886b17d874b
 excerpt_separator: <!--more-->
+layout: post
+permalink: /intellisense-for-restructuredtext-extension-initial-offering-6886b17d874b
+tags: restructuredtext visual-studio-code
+title: IntelliSense for reStructuredText Extension, Initial Offering
 ---
 IntelliSense (or autocomplete in general) is one of the key features we prefer to use a tool to write code (instead of raw editors like Notepad).
 <!--more-->
 
 ## Code Snippets
+
 This extension already provides some basic autocompletion functionality, which is the code snippets,
 
 ![img-description](/images/code-snippets.png)
@@ -20,6 +21,7 @@ Once triggered when you input a keyword (even partially), Visual Studio Code wou
 But code snippets can only implement certain kinds of logic. So they are not smart enough.
 
 ## Smart File Path Insertion
+
 With the reStructuredText parser and Language Server, now I can start to add context-aware IntelliSense features in the extension, and the first offering is something I personally call "Smart File Path Insertion".
 
 Take a look at the screen shot above, you will see that to link to other articles in the same sphinx project, I need to use `:doc:` (cross-referencing documents).

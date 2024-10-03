@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "#SNMP Pro Goes to .NET Core"
-description: "This post is about how we are going to make #SNMP Pro .NET Core ready."
-tags: IIS
-permalink: /snmp-pro-goes-to-net-core-d3b3ebdc2750
+description: 'This post is about how we are going to make #SNMP Pro .NET Core ready.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-pro-goes-to-net-core-d3b3ebdc2750
+tags: .net snmp
+title: '#SNMP Pro Goes to .NET Core'
 ---
-
 I blogged once about [how I moved #SNMP Library to .NET Core]({% post_url 2016/2016-12-26-porting-snmp-library-to-net-core-once-again %}). It was a wonderful journey though painful initially, but now Visual Studio 2017 and .NET Core Tooling 1.0 RTM are finally available, so my team have a better tool to work on #SNMP Pro and make it .NET Core ready.
 
 <!--more-->

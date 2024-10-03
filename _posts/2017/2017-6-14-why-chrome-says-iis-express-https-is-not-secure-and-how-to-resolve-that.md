@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Why Chrome Says IIS Express HTTPS Is Not Secure And How to Resolve That
-description: "This post would show you how to resolve the issue that Chrome says HTTPS is not secure for web apps hosted on IIS Express."
-tags: Visual-Studio IIS
-permalink: /why-chrome-says-iis-express-https-is-not-secure-and-how-to-resolve-that-d906a183f0
+description: This post would show you how to resolve the issue that Chrome says HTTPS is not secure for web apps hosted on IIS Express.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /why-chrome-says-iis-express-https-is-not-secure-and-how-to-resolve-that-d906a183f0
+tags: iis jexus-manager google
+title: Why Chrome Says IIS Express HTTPS Is Not Secure And How to Resolve That
 ---
-
 > Jexus Manager can be downloaded from https://www.jexusmanager.com
 
 Recently Google updates Chrome to warn on certificates, who only contains CN (Common Name) but no corresponding SAN (Service Alternative Name). This leads to the following error message if you try to test out HTTPS pages on IIS Express by using the default certificate,

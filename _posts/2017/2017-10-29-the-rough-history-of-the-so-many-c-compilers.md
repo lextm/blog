@@ -1,13 +1,12 @@
 ---
-layout: post
-title: The Rough History of The So Many C# Compilers
-description: A post that summarizes the rough history of the so many C# compilers and interesting stores behind them.
-tags: Visual-Studio .NET
 categories: [History, .NET]
-permalink: /the-rough-history-of-the-so-many-c-compilers-f3a85500707c
+description: A post that summarizes the rough history of the so many C# compilers and interesting stores behind them.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-rough-history-of-the-so-many-c-compilers-f3a85500707c
+tags: .net visual-studio csharp mono
+title: The Rough History of The So Many C# Compilers
 ---
-
 > Again, this post came from [a Stack Overflow answer](https://stackoverflow.com/questions/22814922/difference-between-c-sharp-compiler-version-and-language-version/46995130#46995130) I gave.
 
 Microsoft made C# open standard in early 21 century, so everyone can implement their own C# compilers. But most people use Microsoft's, from a team led by Anders Hejlsberg. Thus, at the very beginning let's see how Microsoft versioned its own compiler.

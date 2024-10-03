@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "The Stupid Story of Installing MonoDevelop 7"
-description: "This post is about how to install MonoDevelop 7 on Linux and all remaining issues."
-tags: Mono
-permalink: /the-stupid-story-of-installing-monodevelop-7-223c1420915b
+description: This post is about how to install MonoDevelop 7 on Linux and all remaining issues.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-stupid-story-of-installing-monodevelop-7-223c1420915b
+tags: mono linux
+title: The Stupid Story of Installing MonoDevelop 7
 ---
-
 Finally Parallels decided to make its Mac product a Lite edition and freely available if you do only run non-Windows guest OS. I accepted this offer and install CentOS for the very second time in my lifetime. Visual Studio Code worked fine on it, but soon I found that I could not run MonoDevelop, as there is no FlatPak for CentOS!
 <!--more-->
 

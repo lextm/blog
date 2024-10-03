@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Who Should Be Contacted for PHP on IIS Issues
-description: This post would show you how PHP integrates into IIS and who to contact if you meet issues.
-tags: IIS
-permalink: /who-should-be-contacted-for-php-on-iis-issues-c80b90bd365
+description: This post would show you how PHP integrates into IIS and who to contact
+  if you meet issues.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /who-should-be-contacted-for-php-on-iis-issues-c80b90bd365
+tags: iis php windows
+title: Who Should Be Contacted for PHP on IIS Issues
 ---
 It is very important to know how many processes participate in request handling of PHP on IIS.
 <!--more-->
