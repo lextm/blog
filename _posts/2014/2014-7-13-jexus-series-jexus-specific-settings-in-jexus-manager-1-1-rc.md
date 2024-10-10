@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Jexus Series: Jexus Specific Settings in Jexus Manager 1.1 RC"
-description: "This post talks about Jexus specific settings in Jexus Manager 1.1 RC."
-tags: Jexus-Manager
-permalink: /jexus-series-jexus-specific-settings-in-jexus-manager-1-1-rc-d5a10f06cc9
+description: This post talks about Jexus specific settings in Jexus Manager 1.1 RC.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-series-jexus-specific-settings-in-jexus-manager-1-1-rc-d5a10f06cc9
+tags: .net jexus-manager
+title: 'Jexus Series: Jexus Specific Settings in Jexus Manager 1.1 RC'
 ---
-The RC bits of Jexus Manager 1.1 is now available. It adds a new page so that you can configure Jexus specific settings (which do not have corresponding pages in IIS Manager). 
+The RC bits of Jexus Manager 1.1 is now available. It adds a new page so that you can configure Jexus specific settings (which do not have corresponding pages in IIS Manager).
 
 > Currently an ugly icon is in use, which should be changed in final release.
 <!--more-->
