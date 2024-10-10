@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "TritonMate Words: #SNMP 9.0 Plan"
-description: "This post is to announce the plan of #SNMP Library 9.0."
-tags: SNMP
+description: 'This post is to announce the plan of #SNMP Library 9.0.'
 excerpt_separator: <!--more-->
+layout: post
+tags: .net snmp
+title: 'TritonMate Words: #SNMP 9.0 Plan'
 ---
-#SNMP Library 8.5 has been published for a while (Feb 22, 2015).
+\#SNMP Library 8.5 has been published for a while (Feb 22, 2015).
 
 If you did not yet try it out, it can be easily acquired from NuGet. The focus was primarily set on repackaging, so most of the APIs are not touched. However, you should notice that both .NET 3.5 and Compact Framework are now no longer in supported platform list. .NET 4.0 + KB2468871 becomes the new minimal.
 <!--more-->

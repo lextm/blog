@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jexus 网站服务器和 ASP.NET 跨平台开发"
-description: "这片文章分享了关于 Jexus 和 ASP.NET 跨平台开发的一些个人看法，供有兴趣的朋友们参考。"
-tags: Jexus-Manager IIS .NET
-permalink: /jexus-网站服务器和-asp-net-跨平台开发-e4cac4316352
+description: 这片文章分享了关于 Jexus 和 ASP.NET 跨平台开发的一些个人看法，供有兴趣的朋友们参考。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-网站服务器和-asp-net-跨平台开发-e4cac4316352
+tags: .net iis jexus-manager linux windows
+title: Jexus 网站服务器和 ASP.NET 跨平台开发
 ---
 一周前受衣明志大哥邀请在烟台市他主办的首届胶东开发者大会上与大家分享了关于 Jexus 和 ASP.NET 跨平台开发的一些个人看法。本文内容基本和当日的演讲一致，局部可能补充了一些额外信息，供有兴趣的朋友们参考。
 <!--more-->
@@ -41,9 +41,9 @@ excerpt_separator: <!--more-->
 
 一个明显的变化是很多我们熟悉的 .NET Framework 类型被删除了，例如 System.Security.Cryptography 下面的一些类型，System.Net 下面的 UdpClient 类型和 Socket 类型的同步方法。
 
-在 VS 2015 中新建一个 .NET Core 函数库工程的时候，也有很大变化。首先就是工程类型变成了 .xproj，依赖项管理方式改为通过 project.json 文件指定，而编译结果也换成了 NuGet 包。
+在 VS 2015 中新建一个 .NET Core 函数库工程的时候，也有很大变化。首先就是工程类型变成了`.xproj`，依赖项管理方式改为通过`project.json`文件指定，而编译结果也换成了 NuGet 包。
 
-ASP.NET 5 方面同样如此，完全开源之外也带来了很大的变化。System.Web 这个古老的部分和 WebForms 一并被删除。今后我们就不再通过 HttpContext 类型访问运行时的各种信息，也不再通过 web.config 文件中的 <system.web> 标签来管理配置项目了。MVC/Web API/SignalR 三个原本独立的框架得以统一为一个开发模型（例如Web API 中的 ApiController 类型现在就和 MVC 的 Controller 类型合二为一）。
+ASP.NET 5 方面同样如此，完全开源之外也带来了很大的变化。System.Web 这个古老的部分和 WebForms 一并被删除。今后我们就不再通过 HttpContext 类型访问运行时的各种信息，也不再通过 web.config 文件中的`<system.web>`标签来管理配置项目了。MVC/Web API/SignalR 三个原本独立的框架得以统一为一个开发模型（例如Web API 中的 ApiController 类型现在就和 MVC 的 Controller 类型合二为一）。
 
 在最终应用的部署上，假如 ASP.NET 应用部署在 IIS 和 Windows 上，那么需要额外安装 HttpPlatformHandler。在 Linux 平台上，则首推 nginx 和 Kestrel 搭配的部署方式。
 

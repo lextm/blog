@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jexus Manager: The Secret Behind IIS HTTPS Bindings"
-description: "This post is about how Jexus Manager finds the proper certificate for an HTTPS binding."
-tags: Jexus-Manager IIS
-permalink: /jexus-manager-the-secret-behind-iis-https-bindings-5ad3466a6db5
+description: This post is about how Jexus Manager finds the proper certificate for an HTTPS binding.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-manager-the-secret-behind-iis-https-bindings-5ad3466a6db5
+tags: iis windows jexus-manager
+title: 'Jexus Manager: The Secret Behind IIS HTTPS Bindings'
 ---
 If you have ever opened IIS 7+ configuration file (aka applicationHost.config), you probably know that an HTTPS binding of a site looks like below,
 
