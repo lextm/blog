@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Something needed to be done"
 description: 本文描述了 CBC GrapeVine 的一些情况
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-report-something-needed-to-be-done-19fe776c41b
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-report-something-needed-to-be-done-19fe776c41b
+tags: delphi code-beautifier-collection
+title: 'GrapeVine Voice: Something needed to be done'
 ---
 (CSDN Sept 25, 2006)
 

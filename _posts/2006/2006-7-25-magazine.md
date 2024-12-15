@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "暑假：不敢奢求的东西"
-description: "本文描述了自己暑假的计划。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /暑假-不敢奢求的东西-b171469fbcbe
+description: 本文描述了自己暑假的计划。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /暑假-不敢奢求的东西-b171469fbcbe
+tags: others
+title: 暑假：不敢奢求的东西
 ---
 (CSDN July 25, 2006)
 

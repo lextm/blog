@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Roadmap for Next Stage"
-description: "This post describes the roadmap for CBC next stage."
-tags: Code-Beautifier-Collection Delphi
-permalink: /roadmap-for-next-stage-e36218e454ec
+description: This post describes the roadmap for CBC next stage.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /roadmap-for-next-stage-e36218e454ec
+tags: code-beautifier-collection delphi
+title: Roadmap for Next Stage
 ---
 (CSDN Sept 04, 2006)
 

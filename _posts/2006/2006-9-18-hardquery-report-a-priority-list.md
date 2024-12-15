@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: A Priority List"
-description: "This post describes how different features are prioritized in HardQuery."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-a-priority-list-3cc5649c8265
+description: This post describes how different features are prioritized in HardQuery.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-a-priority-list-3cc5649c8265
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: A Priority List'
 ---
 (CSDN Sept 18, 2006)
 

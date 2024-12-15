@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Release 2 takes place of Update 1"
 description: This post reports the progress of HardQuery and possibly a second release.
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-release-2-takes-place-of-update-1-1c26ab8a9617
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-release-2-takes-place-of-update-1-1c26ab8a9617
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Release 2 takes place of Update 1'
 ---
 (CSDN Oct 16, 2006)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Live Help feature"
-description: "This post talks about the Live Help feature in HardQuery."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-live-help-feature-1a4f715bb324
+description: This post talks about the Live Help feature in HardQuery.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-live-help-feature-1a4f715bb324
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Live Help feature'
 ---
 (CSDN July 13, 2006)
 

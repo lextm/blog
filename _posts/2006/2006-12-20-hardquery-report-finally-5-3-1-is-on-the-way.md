@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Finally 5.3.1 is on the way"
-description: "This post reports the progress of HardQuery 5.3.1."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-finally-5-3-1-is-on-the-way-3d92d36f015b
+description: This post reports the progress of HardQuery 5.3.1.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-finally-5-3-1-is-on-the-way-3d92d36f015b
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Finally 5.3.1 is on the way'
 ---
 (CSDN Dec 20, 2006)
 

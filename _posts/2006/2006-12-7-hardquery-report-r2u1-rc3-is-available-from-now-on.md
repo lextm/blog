@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: R2U1 RC3 is available from now on"
-description: "This post announces the third release candidate of HardQuery Report R2U1."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-r2u1-rc3-is-available-from-now-on-bba730f33250
+description: This post announces the third release candidate of HardQuery Report R2U1.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-r2u1-rc3-is-available-from-now-on-bba730f33250
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: R2U1 RC3 is available from now on'
 ---
 (CSDN Dec 07, 2006)
 

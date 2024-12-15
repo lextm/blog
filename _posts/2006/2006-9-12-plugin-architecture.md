@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "插件架构"
-description: "这篇文章讲述了设计实现插件架构的一些事情。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /插件架构-a1ac28444cfe
+description: 这篇文章讲述了设计实现插件架构的一些事情。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /插件架构-a1ac28444cfe
+tags: delphi code-beautifier-collection
+title: 插件架构
 ---
 (CSDN Sept 12, 2006)
 

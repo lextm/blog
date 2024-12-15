@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "为BDN做的一些工作"
-description: "这篇文章讲述了我为 BDN 做的一些工作。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /为bdn做的一些工作-87f1070da08b
+description: 这篇文章讲述了我为 BDN 做的一些工作。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /为bdn做的一些工作-87f1070da08b
+tags: delphi
+title: 为BDN做的一些工作
 ---
 (CSDN Sept 21, 2006)
 

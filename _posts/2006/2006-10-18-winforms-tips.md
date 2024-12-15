@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "WinForms Tips: 两个很简单但是不容易想到的点子"
-description: "这篇文章讲述了两个很简单但是不容易想到的 WinForms 技巧。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /winforms-tips-两个很简单但是不容易想到的点子-889fdc0ac00
+description: 这篇文章讲述了两个很简单但是不容易想到的 WinForms 技巧。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /winforms-tips-两个很简单但是不容易想到的点子-889fdc0ac00
+tags: .net
+title: 'WinForms Tips: 两个很简单但是不容易想到的点子'
 ---
 (CSDN Oct 18, 2006)
 
@@ -14,5 +14,5 @@ excerpt_separator: <!--more-->
 
 2. 如何嵌入IE？
 
-在 .NET 2.0 上，使用 WebBrowser 类就好了。不过在 1.x 需要导入一个 ActiveX 控件。
+在 .NET Framework 2.0 上，使用 WebBrowser 类就好了。不过在.NET Framework 1.x 需要导入一个 ActiveX 控件。
 <!--more-->
