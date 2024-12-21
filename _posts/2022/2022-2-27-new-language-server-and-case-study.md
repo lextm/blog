@@ -1,11 +1,10 @@
 ---
-layout: post
-title: New Language Server and Case Study
 description: A post about the new Esbonio language server and how to troubleshoot issues with it
-tags: Visual-Studio-Code
 excerpt_separator: <!--more-->
+layout: post
+tags: python sphinx visual-studio-code open-source
+title: New Language Server and Case Study
 ---
-
 It was around the year end of 2020 that I noticed the existence of the Snooty language server from MongoDB and [integrated it with the reStructuredText extension for VSCode]({% post_url 2020/2020-12-18-integration-with-snooty-language-server %}). After about a year, it's time to move to another language server in this field.
 
 <!--more-->

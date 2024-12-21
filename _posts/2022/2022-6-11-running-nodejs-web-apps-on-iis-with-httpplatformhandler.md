@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Running Node.js Web Apps on IIS with HttpPlatformHandler"
 description: A post about how to create a simple Node.js web app and host it on IIS with HttpPlatformHandler
-tags: IIS Windows JavaScript Node.js HttpPlatformHandler
 excerpt_separator: <!--more-->
+layout: post
+tags: httpplatformhandler iis javascript node.js windows
+title: Running Node.js Web Apps on IIS with HttpPlatformHandler
 ---
-
 When Microsoft developed HttpPlatformHandler more than a decade ago to enable non-Microsoft web technologies on Windows/IIS, they didn't know that one day
 
 - Microsoft can embrace Linux in Azure

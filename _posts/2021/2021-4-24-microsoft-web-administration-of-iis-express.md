@@ -1,11 +1,10 @@
 ---
-layout: post
-title: Microsoft.Web.Administration of IIS Express
 description: A post about how to use Microsoft.Web.Administration to manage IIS Express
-tags: IIS .NET
 excerpt_separator: <!--more-->
+layout: post
+tags: .net iis
+title: Microsoft.Web.Administration of IIS Express
 ---
-
 [I blogged]({% post_url 2015/2015-5-29-whats-microsoft-web-administration-and-the-horrible-facts-you-should-know %}) about `Microsoft.Web.Administration` a long while ago, but intentionally I left a small topic aside. However, it remains a misery sometimes painful to developers, so here comes a dedicated post.
 
 <!--more-->

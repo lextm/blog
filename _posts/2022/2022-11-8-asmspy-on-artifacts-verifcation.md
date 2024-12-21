@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "AsmSpy on Artifacts Verification"
 description: A post about how to use the tool AsmSpy to verify dependent assembly versions to avoid runtime issues
-tags: Visual-Studio .NET
 excerpt_separator: <!--more-->
+layout: post
+tags: .net iis php visual-studio
+title: AsmSpy on Artifacts Verification
 ---
-
 We often perform artifacts verification via test suites, so for .NET projects NUnit/xUnit.net/MSTest might be quite helpful. However, there is a kind of issues that cannot be easily caught by test suites, and I found AsmSpy a perfect tool in this field. In this post, I will give an example.
 
 <!--more-->

@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "The Rough History of IIS HttpPlatformHandler"
-description: "This post talks about the rough history of IIS HttpPlatformHandler and the miseries around it."
-tags: .NET Visual-Studio Windows IIS HttpPlatformHandler
 categories: [History, IIS]
+description: This post talks about the rough history of IIS HttpPlatformHandler and the miseries around it.
 excerpt_separator: <!--more-->
+layout: post
+tags: .net httpplatformhandler iis visual-studio windows
+title: The Rough History of IIS HttpPlatformHandler
 ---
-
 Due to various misinformation around this IIS out-of-band component, I think it's worth the while to write about its history so you know what others are talking about and how some of them made mistakes.
 
 <!--more-->
