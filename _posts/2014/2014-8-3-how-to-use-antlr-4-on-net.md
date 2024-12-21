@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Use ANTLR 4 on .NET"
-description: "This post talks about how to use ANTLR 4 on .NET."
+description: "Learn how to effectively use ANTLR 4 on .NET and optimize your parsing experience."
 tags: .NET ANTLR
 permalink: /how-to-use-antlr-4-on-net-4361915b670f
 excerpt_separator: <!--more-->
