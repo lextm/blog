@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Unpleasant Facts about Hangfire
 description: A post about common issues of Hangfire and why it won't work very well with IIS.
-tags: IIS ASP.NET
-permalink: /unpleasant-facts-about-hangfire-632a3228ff8a
 excerpt_separator: <!--more-->
 image:
-  path: /images/py1-pyramid.jpg
   alt: Copyright © Lex Li. PY1 Pyramid show at Montreal.
+  path: /images/py1-pyramid.jpg
+layout: post
+permalink: /unpleasant-facts-about-hangfire-632a3228ff8a
+tags: asp.net iis .net
+title: Unpleasant Facts about Hangfire
 ---
-
 When people choose to use a framework, they are not only enjoying the benefits it brings, but also take ownership of the evil associated. Hangfire is one of such frameworks, so be caution.
 <!--more-->
 

@@ -1,20 +1,20 @@
 ---
-layout: post
-title: Important Update on reStructuredText for VSCode
-description: A post about the latest update on reStructuredText for VSCode and the new features introduced.
-tags: Visual-Studio-Code reStructuredText
-permalink: /important-update-on-restructuredtext-for-vscode-efa0d412422f
+description: A post about the latest update on reStructuredText for VS Code and the new features introduced.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /important-update-on-restructuredtext-for-vscode-efa0d412422f
+tags: restructuredtext visual-studio-code
+title: Important Update on reStructuredText for VS Code
 ---
 ![img-description](/images/rst-vscode.png)
-_Figure 1: reStructuredText for VSCode._
+_Figure 1: reStructuredText for VS Code._
 
 An image should save me a thousand words, but I rather write a blog post to reveal the biggest changes introduced in the latest releases (67.0.0 and above), so that you, the dearest users, have a chance to know the stories behind.
 <!--more-->
 
 ## Long Time Pains
 
-You can see from the left side of the image above that I was using the Workspace feature of Visual Studio Code. Workspace was added in VSCode 1.14, and allows users to group multiple folders in a workspace. The design of this extension always assumes you work on a single folder, so [Workspace was not supported](https://github.com/vscode-restructuredtext/vscode-restructuredtext/issues/52).
+You can see from the left side of the image above that I was using the Workspace feature of Visual Studio Code. Workspace was added in VS Code 1.14, and allows users to group multiple folders in a workspace. The design of this extension always assumes you work on a single folder, so [Workspace was not supported](https://github.com/vscode-restructuredtext/vscode-restructuredtext/issues/52).
 
 Even for a single folder, you might have multiple `conf.py` to work on, and switching the preview setting between them was painful. Manual editing `.vscode/settings.json` was not fun, and as one of the users I felt the same. However, to make a systematic change on the code base was not an easy task.
 

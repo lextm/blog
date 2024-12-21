@@ -1,15 +1,14 @@
 ---
-layout: post
-title: How I Set Up Visual Studio Code Remote with Multipass on macOS
 description: A post about how I set up Visual Studio Code Remote with Multipass on macOS to get a WSL-like experience.
-tags: Visual-Studio-Code macOS Linux Multipass
-permalink: /how-i-set-up-visual-studio-code-remote-with-multipass-on-macos-674ce00956d1
 excerpt_separator: <!--more-->
 image:
-  path: /images/competitiveness-prosperity.jpg
   alt: Copyright © Lex Li. Institute for Competitiveness And Prosperity.
+  path: /images/competitiveness-prosperity.jpg
+layout: post
+permalink: /how-i-set-up-visual-studio-code-remote-with-multipass-on-macos-674ce00956d1
+tags: linux macos multipass visual-studio-code
+title: How I Set Up Visual Studio Code Remote with Multipass on macOS
 ---
-
 [Visual Studio Code Remote Development Extension](https://code.visualstudio.com/blogs/2019/07/25/remote-ssh) is an excellent idea with easy-to-use user experience. You can easily configure if your target machine is an SSH enabled Linux machine, either physical or virtual, in the cloud or on premise.
 
 It works pretty good on Windows 10, as WSL delivers solid Linux experience.
@@ -47,7 +46,7 @@ If you don't have much Linux/macOS experience, then you definitely find it hard 
 * A default user named ubuntu.
 * (This is hidden from you) A private key to log in at `/var/root/Library/Application\ Support/multipassd/ssh-keys/id_rsa`.
 
-Therefore, to make it easy to configure in VSCode on macOS, I simply copy that private key to my own macOS account,
+Therefore, to make it easy to configure in VS Code on macOS, I simply copy that private key to my own macOS account,
 
 ``` bash
 sudo cp /var/root/Library/Application\ Support/multipassd/ssh-keys/id_rsa ~/.ssh/
@@ -61,7 +60,7 @@ Launch a terminal to test out the connection,
 ssh ubuntu@192.168.64.5
 ```
 
-If succeeded, then time to move on to VSCode (with Remote Development Extension installed).
+If succeeded, then time to move on to VS Code (with Remote Development Extension installed).
 
 1. Choose `View | Command Palettes …` menu item.
 1. Choose `Remote-SSH: Connect to Host…` from the palette.
@@ -69,11 +68,11 @@ If succeeded, then time to move on to VSCode (with Remote Development Extension 
 1. Enter `ssh ubuntu@192.168.64.5`.
 1. Select `/Users/lextm/.ssh/config` as lextm is my macOS account.
 
-VSCode informs that the host is added,
+VS Code informs that the host is added,
 
 ![img-description](/images/host-added.png)
 _Figure 3: SSH host added._
 
 You can click `Connect now` to open SSH connection, or click `Open Config` if you want to change the host setting (such as its name).
 
-At this moment, your adventure on VSCode/Multipass can start.
+At this moment, your adventure on VS Code/Multipass can start.

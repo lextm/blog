@@ -1,15 +1,14 @@
 ---
-layout: post
-title: "#SNMP Library, 11.0 and Above"
-description: "A post about #SNMP Library 11.0 and the plan ahead on this project."
-tags: Visual-Studio .NET SNMP
-permalink: /snmp-library-11-0-and-above-96c31e9d11b8
+description: 'A post about #SNMP Library 11.0 and the plan ahead on this project.'
 excerpt_separator: <!--more-->
 image:
-  path: /images/winter-branches.jpg
   alt: Copyright © Lex Li. Tree branches in a winter night, Montreal.
+  path: /images/winter-branches.jpg
+layout: post
+permalink: /snmp-library-11-0-and-above-96c31e9d11b8
+tags: .net snmp
+title: '#SNMP Library, 11.0 and Above'
 ---
-
 I just revised and published [release notes](https://github.com/lextudio/sharpsnmplib/releases) for #SNMP Library 11.0 and 11.1.
 <!--more-->
 

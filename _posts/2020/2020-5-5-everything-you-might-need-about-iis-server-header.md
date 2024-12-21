@@ -1,19 +1,19 @@
 ---
-layout: post
-title: Everything You Might Need About IIS Server Header
 description: A post about IIS Server header and how to get rid of it with proper steps.
-tags: Windows IIS nginx Microsoft
-permalink: /everything-you-might-need-about-iis-server-header-58ca268547be
 excerpt_separator: <!--more-->
 image:
-  path: /images/vancouver-convention-center.jpg
   alt: Copyright © Lex Li. Vancouver Convention Center.
+  path: /images/vancouver-convention-center.jpg
+layout: post
+permalink: /everything-you-might-need-about-iis-server-header-58ca268547be
+tags: iis microsoft windows
+title: Everything You Might Need About IIS Server Header
 ---
-
 When testing some requests/responses on IIS with a good utility such as Telerik Fiddler, you might discover much more information than using a browser.
 <!--more-->
 
 ## Most Common Server Header in Responses
+
 So you can see from Figure 1 that IIS returns several HTTP headers in the response and `Server: Microsoft-IIS/10.0` indicates that it comes from an IIS 10 machine.
 
 ![img-description](/images/normal-iis-200-response.png)
