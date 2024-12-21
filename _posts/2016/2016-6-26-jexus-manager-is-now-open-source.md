@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Jexus Manager Is Now Open Source
 description: This post announces that Jexus Manager becomes open source.
-tags: IIS
-permalink: /jexus-manager-is-now-open-source-a48fef80a6e7
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-manager-is-now-open-source-a48fef80a6e7
+tags: iis jexus-manager windows open-source
+title: Jexus Manager Is Now Open Source
 ---
 After several months of cleaning up, yesterday I published the source code of Jexus Manager at [GitHub](https://github.com/jexuswebserver/JexusManager).
 
@@ -14,12 +14,15 @@ Note that there are several things you should pay attention to.
 <!--more-->
 
 ## Jexus Manager's `Microsoft.Web.Administration`
+
 This library is a clone of Microsoft's version. As previously documented, it has been open sourced a few months ago. You might stick to Microsoft's version if you like, as this clone is aiming to bring itself to Linux and OS X for Jexus web server. But it does show you how the configuration files work together, so still something useful (Microsoft's version is not open source and is mainly unmanaged).
 
 ## Jexus Manager's `Microsoft.Web.Management`
+
 Instead of releasing it as a separate repo, this library is shipped with Jexus Manager. Compared to Microsoft's version, the clone is not mature (50% done), but does support many scenarios (wizards and so on). If someone can fully implement it, then more ugly code can be removed from Jexus Manager itself.
 
 ## Jexus Manager and Its Extensions
+
 You can see from the code base, that this tool consists of a core shared library (`JexusManager.Shared.dll`), a core application (`JexusManager.exe`), and a few extensions (`JexusManager.Features.*.dll`). This is slightly different from Microsoft's IIS Manager, since
 
 * IIS Manager does not have a shared library.

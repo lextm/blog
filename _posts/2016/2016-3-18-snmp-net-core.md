@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "如何迁移#SNMP到.NET Core平台的一些体会"
 description: "本文介绍了如何迁移#SNMP到.NET Core平台的一些体会"
-tags: SNMP .NET
-permalink: /如何迁移-snmp到-net-core平台的一些体会-b5e8b56f69da
 excerpt_separator: <!--more-->
+layout: post
+permalink: /如何迁移-snmp到-net-core平台的一些体会-b5e8b56f69da
+tags: .net snmp
+title: "如何迁移#SNMP到.NET Core平台的一些体会"
 ---
 > .NET Core 依然在飞速进化中，所以如果不是非常喜欢折腾的性格，建议各位还是暂时忍耐。
 
