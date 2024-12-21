@@ -6,7 +6,7 @@ tags: Mono .NET Microsoft Xamarin
 excerpt_separator: <!--more-->
 ---
 
-> "You must have all heard the stories about him. Some say he helped the monk retrieve the sacred texts and was named the Victorious Fighting Buddha, staying in the Spirit Mountain ever since. Others say the one who became a Buddha wasn't him at all, and the real one died on the journey west. There are even those who claim the journey to the west never happened; it was just a tale spun by storytellers about a monkey. But the story I'm about to tell you, I guarantee you've never heard." — *Black Myth: Wukong*
+> "You must have heard stories about him. Some say he helped Tang Seng fetch the Buddhist scriptures becoming the "Victorious Fighting Buddha". From then on, he stayed in Lingshan. Some say it wasn't him who was granted Buddhahood. The real him was already dead on the journey to the West. Some say there is no such journey. He's just a storyteller's fictional monkey. But you must have not heard the story I'm going to tell." — *Black Myth: Wukong*
 
 Recently, *Black Myth: Wukong* has created a buzz worldwide. However, this article doesn't focus on this Chinese mythical hero, nor the Destined Ones, but on another "monkey" that once made waves in the tech world, the Mono Project.
 
