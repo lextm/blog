@@ -1,14 +1,14 @@
 ---
-layout: post
-title: "Jexus Series: URL Rewrite"
-description: "This post talks about Jexus URL Rewrite."
-tags: Jexus-Manager
-permalink: /jexus-series-url-rewrite-408e97900999
+description: This post talks about Jexus URL Rewrite.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-series-url-rewrite-408e97900999
+tags: iis jexus-manager
+title: 'Jexus Series: URL Rewrite'
 ---
 Jexus does not support outbound rules (unlike IIS URL Rewrite module), but it supports simple inbound rules.
 
-> For more information on Jexus/IIS comparison you can go to https://github.com/jexuswebserver/jexus-contrib/blob/master/comparison.en.md
+> For more information on Jexus/IIS comparison you can go to [this article](https://github.com/jexuswebserver/jexus-contrib/blob/master/comparison.en.md).
 
 To configure IIS URL Rewrite, you might follow [this article](http://www.iis.net/learn/extensions/url-rewrite-module/creating-rewrite-rules-for-the-url-rewrite-module).
 <!--more-->

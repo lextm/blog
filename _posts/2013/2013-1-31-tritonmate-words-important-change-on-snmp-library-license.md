@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: Important Change on #SNMP Library License"
-description: "This post talks about the license change of #SNMP Library."
-tags: SNMP
-permalink: /tritonmate-words-important-change-on-snmp-library-license-724c3c25e237
+description: 'This post talks about the license change of #SNMP Library.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-important-change-on-snmp-library-license-724c3c25e237
+tags: .net snmp
+title: 'TritonMate Words: Important Change on #SNMP Library License'
 ---
 For years, #SNMP Library has been covered by Lesser GPL. This was the license that I were most comfortable with in 2008. However, things have changed so rapidly that makes this license less useful, or even troublesome.
 <!--more-->

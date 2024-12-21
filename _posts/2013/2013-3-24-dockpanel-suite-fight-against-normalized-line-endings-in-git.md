@@ -1,17 +1,16 @@
 ---
-layout: post
-title: "DockPanel Suite: Fight Against Normalized Line Endings in Git"
-description: "This post talks about how to fight against normalized line endings in Git."
-tags: DockPanel-Suite
-permalink: /dockpanel-suite-fight-against-normalized-line-endings-in-git-b5d897e17a07
+description: This post talks about how to fight against normalized line endings in
+  Git.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-fight-against-normalized-line-endings-in-git-b5d897e17a07
+tags: dockpanel-suite linux
+title: 'DockPanel Suite: Fight Against Normalized Line Endings in Git'
 ---
 Git is a nice cross platform source control system. Therefore, it needs to fight against the different line endings of various operating systems (well, because of the death of Mac OS, we only have two dialects right now, CR LF and LF).
 <!--more-->
 
-If your Git repository comes from an import of another SCM, you might pay attention to the line ending issues by following this post,
-
-https://help.github.com/articles/dealing-with-line-endings
+If your Git repository comes from an import of another SCM, you might pay attention to the line ending issues by following [this post](https://help.github.com/articles/dealing-with-line-endings).
 
 We should have done such cleanup a long time ago for DockPanel Suite, but Ryan did it just a few days ago. So here is the trouble,
 
@@ -32,9 +31,7 @@ My solution is as below,
 
 Without step 2–4, the merge effort will be much more.
 
-You can easily check out the check-in diagram from here,
-
-https://github.com/dockpanelsuite/dockpanelsuite/network
+You can easily check out the check-in diagram from [here](https://github.com/dockpanelsuite/dockpanelsuite/network).
 
 Well, it seems that now we have many contributors working on their forks. Nice. We might review a few of them and merge to the main repository in the near future.
 

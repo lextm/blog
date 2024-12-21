@@ -1,24 +1,25 @@
 ---
-layout: post
-title: "#SNMP Pro: Syntax Validation in SharpSnmpPro.Mib"
-description: "This post talks about the syntax validation support in SharpSnmpPro.Mib assembly."
-tags: SNMP
-permalink: /snmp-pro-syntax-validation-in-sharpsnmppro-mib-aef7a40c9af4
+description: This post talks about the syntax validation support in SharpSnmpPro.Mib
+  assembly.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-pro-syntax-validation-in-sharpsnmppro-mib-aef7a40c9af4
+tags: snmp .net
+title: '#SNMP Pro: Syntax Validation in SharpSnmpPro.Mib'
 ---
 SMI defines the syntax of MIB documents. One of the most important part of SMI is the syntax that governs the value of an object. For example,
 
 ``` text
 testEntity13 OBJECT-TYPE
-SYNTAX INTEGER (30000000..31000000 | 13750000..14500000 | 5850000..6425000 | 7900000..8400000)
-MAX-ACCESS read-only
-STATUS current
-DESCRIPTION
-"A textual description of the entity. This value should
-include the full name and version identification of
-the system's hardware type, software operating-system,
-and networking software."
-::= { test 13 }
+  SYNTAX INTEGER (30000000..31000000 | 13750000..14500000 | 5850000..6425000 | 7900000..8400000)
+  MAX-ACCESS read-only
+  STATUS current
+  DESCRIPTION
+    "A textual description of the entity. This value should
+    include the full name and version identification of
+    the system's hardware type, software operating-system,
+    and networking software."
+  ::= { test 13 }
 ```
 
 The above OBJECT-TYPE definition uses a syntax that requires an INTEGER value which falls into the four intervals defined.

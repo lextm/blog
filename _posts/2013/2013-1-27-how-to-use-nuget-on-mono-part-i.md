@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "How to Use NuGet on Mono, Part I"
 description: This post shows how to use NuGet on Mono.
-tags: .NET Mono
-permalink: /how-to-use-nuget-on-mono-part-i-8d2cd63bd1e0
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-use-nuget-on-mono-part-i-8d2cd63bd1e0
+tags: .net linux mono
+title: How to Use NuGet on Mono, Part I
 ---
-[Update: Microsoft starts to officially support Mono, so please simply use latest NuGet executable such as 3.5]
+> Update: Microsoft starts to officially support Mono, so please simply use latest NuGet executable such as 3.5.
 
 > There have been articles on how to use NuGet command line tool on Mono, but none of them contains all information you need to learn. Therefore, I am now writing down what I learned so far, and hope it is helpful.
 
@@ -38,4 +38,5 @@ NuGet will try to update itself, and after that you get the latest executable (2
 In part II, I talked about how to let package restore work on Linux/Mono.
 
 ## More Information on Microsoft.Build.dll
+
 xbuild and related files are packaged in mono-devel. However, this rpm package for Mono 2.10.* does not contain Microsoft.Build.dll. That's why you have to perform step 4 above. Luckily Mono 3.0 does fix this issue.

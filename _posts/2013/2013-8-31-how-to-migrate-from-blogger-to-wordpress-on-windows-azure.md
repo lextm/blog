@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "How to Migrate from Blogger to WordPress on Windows Azure"
-description: "This post talks about how I migrated from Blogger to WordPress on Windows Azure."
-tags: Azure
-permalink: /how-to-migrate-from-blogger-to-wordpress-on-windows-azure-bcd9322df84a
+description: This post talks about how I migrated from Blogger to WordPress on Windows
+  Azure.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-migrate-from-blogger-to-wordpress-on-windows-azure-bcd9322df84a
+tags: azure
+title: How to Migrate from Blogger to WordPress on Windows Azure
 ---
 I used to use a Chinese blogging service called CSDN. As it is a closed system which has no open API I experienced difficulties migrating my posts from it to Blogger.
 
@@ -130,7 +131,7 @@ You can also install WordPress plugins to monitor 404 errors which can help you 
 
 ## Redirection from Blogger to WordPress
 
-There is no built-in way to redirect traffic from http://lextm.blogspot.com to http://www.lextm.com after the migration. But it is rather simple to utilize a piece of JavaScript,
+There is no built-in way to redirect traffic from `http://lextm.blogspot.com` to `http://www.lextm.com` after the migration. But it is rather simple to utilize a piece of JavaScript,
 
 1. Log in to Blogger and go to Layout of that blog.
 1. Click Add a Gadget button and choose HTML/JavaScript gadget type.

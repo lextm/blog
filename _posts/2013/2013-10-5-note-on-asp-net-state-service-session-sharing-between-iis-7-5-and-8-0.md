@@ -1,14 +1,13 @@
 ---
-layout: post
-title: "Note on ASP.NET State Service Session Sharing Between IIS 7.5 and 8.0"
-description: "This post talks about how to configure ASP.NET state service session sharing between IIS 7.5 and 8.0."
-tags: .NET IIS
-permalink: /note-on-asp-net-state-service-session-sharing-between-iis-7-5-and-8-0-bfdd9d003395
+description: This post talks about how to configure ASP.NET state service session
+  sharing between IIS 7.5 and 8.0.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /note-on-asp-net-state-service-session-sharing-between-iis-7-5-and-8-0-bfdd9d003395
+tags: .net asp.net iis windows
+title: Note on ASP.NET State Service Session Sharing Between IIS 7.5 and 8.0
 ---
-Microsoft has many articles to document how to configure ASP.NET state service session sharing, such as
-
-http://msdn.microsoft.com/en-us/library/ms178586.aspx and http://support.microsoft.com/kb/313091
+Microsoft has many articles to document how to configure ASP.NET state service session sharing, such as [this one](http://msdn.microsoft.com/en-us/library/ms178586.aspx) and [this one](http://support.microsoft.com/kb/313091).
 <!--more-->
 
 However, you might need to perform actual steps. For example, if you get the following two front end servers in your web farm,

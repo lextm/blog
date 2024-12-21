@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "#SNMP Pro: DateAndTime Syntax Support"
-description: "This post talks about DateAndTime syntax support in #SNMP Pro."
-tags: SNMP
-permalink: /snmp-pro-dateandtime-syntax-support-e99abc51bc2f
+description: 'This post talks about DateAndTime syntax support in #SNMP Pro.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-pro-dateandtime-syntax-support-e99abc51bc2f
+tags: .net snmp
+title: '#SNMP Pro: DateAndTime Syntax Support'
 ---
-
 Well, I blogged about syntax validation [in a previous post]({% post_url 2013/2013-8-18-snmp-pro-syntax-validation-in-sharpsnmppro-mib %}), which should be one of the coolest features for SharpSnmpPro.Mib assembly. But there is an interesting story about that untold.
 
 <!--more-->
@@ -25,15 +24,15 @@ Assume we have such an entity defined in MIB document,
 
 ```text
 testEntity5 OBJECT-TYPE
-SYNTAX DateAndTime
-MAX-ACCESS read-only
-STATUS current
-DESCRIPTION
-"A textual description of the entity. This value should
-include the full name and version identification of
-the system's hardware type, software operating-system,
-and networking software."
-::= { test 5 }
+  SYNTAX DateAndTime
+  MAX-ACCESS read-only
+  STATUS current
+  DESCRIPTION
+    "A textual description of the entity. This value should
+    include the full name and version identification of
+    the system's hardware type, software operating-system,
+    and networking software."
+  ::= { test 5 }
 ```
 
 We expect it can be properly understood by #SNMP Pro, so the following test case is prepared,
