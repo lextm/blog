@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sphinx Documentation: Hosting Multiple Versions for Your Project"
-description: ""
+description: "Learn how to host multiple versions of Sphinx documentation for your project using `sphinx-polyversion`. This guide covers the limitations of ReadTheDocs, the benefits of `sphinx-polyversion`, and detailed steps for integrating it into your project. Discover how to configure version tags, set up a reverse proxy with nginx, and maintain seamless documentation across different environments. Perfect for teams needing efficient and scalable versioned documentation management."
 tags: Sphinx Python
 excerpt_separator: <!--more-->
 ---
@@ -12,7 +12,13 @@ If you are maintaining a project, the best practice is to stick to a single vers
 
 ## Why Not ReadTheDocs?
 
-ReadTheDocs is a popular platform for hosting documentation. It supports multiple versions of documentation, and it's free for open-source projects. While it might work for some, my team encountered limitations that led us to move all our documentation to self-hosting a few years ago. We've found Cloudflare Pages to be a great fit for our needs, but any other static site hosting service ([Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/)) could work just as well.
+ReadTheDocs is a popular platform for hosting documentation. It supports multiple versions of documentation, and it's free for open-source projects. While it might work for some, my team encountered limitations that led us to move all our documentation to self-hosting a few years ago:
+
+1. **Build Time Experience**: The build time can be slow, especially for large projects with complex dependencies, and not easy to troubleshoot when things go wrong.
+2. **Limited Customization**: It inserts its own ads in our documentation, unless we pay for a premium plan.
+3. **Custom Domain**: We wanted to host our documentation on our own domain, which is possible but lack of flexibility with ReadTheDocs.
+
+These limitations led us to explore self-hosting options for greater control, and we've found Cloudflare Pages to be a great fit, but any other static site hosting service ([Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/)) could work just as well.
 
 ## What Is the Best Option?
 
@@ -66,6 +72,13 @@ location /pysnmp/ {
 ```
 
 This configuration ensures that users visiting non-versioned URLs are automatically redirected to the latest stable version (v7.1 in this case), while versioned URLs are correctly proxied.
+
+### Manual Work Required
+
+While `sphinx-polyversion` automates most of the process, there are still some manual steps required:
+
+1. **Tags**: Version tags need to be maintained manually. Since sometimes we patched documentation, we had to delete the old tag and recreate it with another commit.
+1. **New Releases**: When a new release is made, the version tag must be created or moved, and the reverse proxy configuration might need to be updated.
 
 ## Conclusion
 
