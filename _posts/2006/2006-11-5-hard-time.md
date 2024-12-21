@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "难念的经"
-description: "这篇文章讲述了我找工作的困苦。"
-tags: Others
-permalink: /难念的经-f920f449ebe0
+description: 这篇文章讲述了我找工作的困苦。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /难念的经-f920f449ebe0
+tags: others
+title: 难念的经
 ---
 (CSDN Nov 05, 2006)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Milestone 12 and two bugs"
-description: "This post reports the progress of HardQuery."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-milestone-12-and-two-bugs-fee61c5c5c4a
+description: This post reports the progress of HardQuery.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-milestone-12-and-two-bugs-fee61c5c5c4a
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Milestone 12 and two bugs'
 ---
 (CSDN Sept 13, 2006)
 

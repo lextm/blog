@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Milestone 8"
-description: "This post describes the progress of HardQuery."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-milestone-8-e089de32a80a
+description: This post describes the progress of HardQuery.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-milestone-8-e089de32a80a
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Milestone 8'
 ---
 (CSDN Sept 04, 2006)
 

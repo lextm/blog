@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "SharpDevelop的AStyle插件"
-description: "这篇文章介绍了 SharpDevelop 的 AStyle 插件。"
-tags: .NET SharpDevelop
-permalink: /sharpdevelop的astyle插件-6f3b56044526
+description: 这篇文章介绍了 SharpDevelop 的 AStyle 插件。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /sharpdevelop的astyle插件-6f3b56044526
+tags: .net sharpdevelop
+title: SharpDevelop的AStyle插件
 ---
 (CSDN Sept 15, 2006)
 

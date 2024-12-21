@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "News! Code Beautifier Collection 5.3.1 is available"
-description: "This post announces the availability of Code Beautifier Collection 5.3.1."
-tags: Code-Beautifier-Collection Delphi
-permalink: /news-code-beautifier-collection-5-3-1-is-available-c285e5e71511
+description: This post announces the availability of Code Beautifier Collection 5.3.1.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /news-code-beautifier-collection-5-3-1-is-available-c285e5e71511
+tags: code-beautifier-collection delphi
+title: News! Code Beautifier Collection 5.3.1 is available
 ---
 (CSDN Dec 25, 2006)
 

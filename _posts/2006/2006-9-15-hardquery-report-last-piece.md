@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Last piece?"
-description: "This post reports the progress of HardQuery."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-last-piece-946fb572bfd6
+description: This post reports the progress of HardQuery.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-last-piece-946fb572bfd6
+tags: code-beautifier-collection delphi
+title: 'HardQuery Report: Last piece?'
 ---
 (CSDN Sept 15. 2006)
 

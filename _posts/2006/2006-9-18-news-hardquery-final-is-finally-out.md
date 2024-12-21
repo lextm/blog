@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "News! HardQuery Final is finally out."
-description: "This post describes the final version of HardQuery."
-tags: Code-Beautifier-Collection Delphi
-permalink: /news-hardquery-final-is-finally-out-18730d02c929
+description: This post describes the final version of HardQuery.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /news-hardquery-final-is-finally-out-18730d02c929
+tags: code-beautifier-collection delphi
+title: News! HardQuery Final is finally out.
 ---
 (CSDN Sept 18, 2006)
 

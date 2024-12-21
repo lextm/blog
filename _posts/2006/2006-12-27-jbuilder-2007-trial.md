@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "JBuilder 2007试用版：地震的后遗症"
-description: "这篇文章讲述了 JBuilder 2007试用版的一些新特性。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /jbuilder-2007试用版-地震的后遗症-11766f415904
+description: 这篇文章讲述了 JBuilder 2007试用版的一些新特性。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jbuilder-2007试用版-地震的后遗症-11766f415904
+tags: java
+title: JBuilder 2007试用版：地震的后遗症
 ---
 (CSDN Dec 27, 2006)
 

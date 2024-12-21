@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Threading in InDate"
 description: This post is about .NET multi-threading used in InDate feature.
-tags: Code-Beautifier-Collection Delphi
-permalink: /threading-in-indate-28d940bc7503
 excerpt_separator: <!--more-->
+layout: post
+permalink: /threading-in-indate-28d940bc7503
+tags: delphi code-beautifier-collection
+title: Threading in InDate
 ---
 (June 14, 2006)
 

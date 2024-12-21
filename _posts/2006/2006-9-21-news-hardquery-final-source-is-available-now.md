@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "News! HardQuery Final source is available now"
-description: "This post describes that the source code of HardQuery is available now."
-tags: Code-Beautifier-Collection Delphi
-permalink: /news-hardquery-final-source-is-available-now-b8bdcdc11e5
+description: This post describes that the source code of HardQuery is available now.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /news-hardquery-final-source-is-available-now-b8bdcdc11e5
+tags: delphi code-beautifier-collection
+title: News! HardQuery Final source is available now
 ---
 (CSDN Sept 21, 2006)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Designed for Delphi"
 description: 本文描述了 Delphi 那边 Designed for Delphi 这个项目的情况
-tags: Code-Beautifier-Collection Delphi
-permalink: /designed-for-delphi-5907552db4fc
 excerpt_separator: <!--more-->
+layout: post
+permalink: /designed-for-delphi-5907552db4fc
+tags: delphi
+title: Designed for Delphi
 ---
 (CSDN Sept 25, 2006)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Using log4net now"
-description: "This post describes that I have changed the logging framework to log4net."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-using-log4net-now-dfb6b817a46a
+description: This post describes that I have changed the logging framework to log4net.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-using-log4net-now-dfb6b817a46a
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Using log4net now'
 ---
 (CSDN Dec 04, 2006)
 
