@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "LordGate Notes: Multithreading Performance"
 description: This post is about how to analyze the performance of multithreading scenarios.
-tags: SNMP
-permalink: /lordgate-notes-multithreading-performance-2a816da2af6d
 excerpt_separator: <!--more-->
+layout: post
+permalink: /lordgate-notes-multithreading-performance-2a816da2af6d
+tags: snmp .net
+title: 'LordGate Notes: Multithreading Performance'
 ---
 A few performance testing scenarios have been executed recently and the results are quite surprising. Before locating the culprits, this post only shows what the testing reveals.
 <!--more-->

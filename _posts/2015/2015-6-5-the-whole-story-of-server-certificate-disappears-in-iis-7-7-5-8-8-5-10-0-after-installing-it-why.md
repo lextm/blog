@@ -1,12 +1,11 @@
 ---
-layout: post
-title: The Whole Story of "Server Certificate Disappears in IIS 7/7.5/8/8.5/10.0 After Installing It! Why!"
 description: Gain a deeper understanding of the issue of server certificate disappearance in IIS Manager and discover a comprehensive solution. Learn why this problem occurs and how to resolve it, ensuring the integrity of your certificates. Enhance your IIS management skills and avoid common pitfalls by following a step-by-step process to request and install certificates in IIS, including insights into the role of OpenSSL.
-tags: IIS
-permalink: /the-whole-story-of-server-certificate-disappears-in-iis-7-7-5-8-8-5-10-0-after-installing-it-why-b66e802baa38
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-whole-story-of-server-certificate-disappears-in-iis-7-7-5-8-8-5-10-0-after-installing-it-why-b66e802baa38
+tags:  windows iis
+title: The Whole Story of "Server Certificate Disappears in IIS 7/7.5/8/8.5/10.0 After Installing It! Why!"
 ---
-
 Interestingly this issue started to be reported since the introduction of IIS 7 in Windows Vista, but I never found any good enough materials to tell the whole story. Even popular ones like [this](http://blogs.msdn.com/b/vijaysk/archive/2009/05/22/disappearing-ssl-certificates-from-iis-7-0-manager.aspx) and [this](http://nickstips.wordpress.com/2010/09/08/iis-disappearing-ssl-certificate-problem-resolved/) only cover a little bit truth for you to know why in hell such issues happen.
 
 This post tries to show you the whole image behind the scene, so that you get both the solution and the rationale.

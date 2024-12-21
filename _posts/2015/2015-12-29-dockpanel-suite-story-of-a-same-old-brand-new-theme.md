@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "DockPanel Suite: Story of A Same Old Brand New Theme"
-description: "This post is about how I created a new theme for DockPanel Suite."
-tags: Code-Beautifier-Collection Delphi
+description: This post is about how I created a new theme for DockPanel Suite.
 excerpt_separator: <!--more-->
+layout: post
+tags: dockpanel-suite visual-studio .net
+title: 'DockPanel Suite: Story of A Same Old Brand New Theme'
 ---
 You probably know already that we are now publishing DockPanel Suite themes separately in many NuGet packages. Only the VS 2005 theme is built-in, as many DPS elements hook to it too tightly.
 

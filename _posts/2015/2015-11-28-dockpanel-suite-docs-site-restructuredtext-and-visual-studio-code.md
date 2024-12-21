@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "DockPanel Suite: Docs Site, reStructuredText, and Visual Studio Code"
-description: "This post is about the new docs site for DockPanel Suite, which is built with reStructuredText and Visual Studio Code."
-tags: reStructuredText DockPanel-Suite Visual-Studio-Code
-permalink: /dockpanel-suite-docs-site-restructuredtext-and-visual-studio-code-d9d5a6b37a0d
+description: This post is about the new docs site for DockPanel Suite, which is built with reStructuredText and Visual Studio Code.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-docs-site-restructuredtext-and-visual-studio-code-d9d5a6b37a0d
+tags: dockpanel-suite restructuredtext visual-studio-code python
+title: 'DockPanel Suite: Docs Site, reStructuredText, and Visual Studio Code'
 ---
 > Well, such a long title should match a long post. You've been warned!
 

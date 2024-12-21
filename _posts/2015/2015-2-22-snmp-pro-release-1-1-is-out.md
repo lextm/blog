@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Pro: Release 1.1 is Out"
-description: "This post is to announce the release of #SNMP Pro 1.1."
-tags: SNMP
-permalink: /snmp-pro-release-1-1-is-out-11ddf223eaa7
+description: 'This post is to announce the release of #SNMP Pro 1.1.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-pro-release-1-1-is-out-11ddf223eaa7
+tags: snmp
+title: '#SNMP Pro: Release 1.1 is Out'
 ---
 You probably noticed that #SNMP Library has just been updated to 8.5 and released finally at NuGet.org.
 

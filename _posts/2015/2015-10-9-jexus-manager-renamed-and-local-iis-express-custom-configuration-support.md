@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jexus Manager: Renamed and Local IIS Express Custom Configuration Support"
-description: "This post is about why Jexus Manager is renamed and how it supports IIS Express custom configuration."
-tags: Jexus-Manager IIS
-permalink: /jexus-manager-renamed-and-local-iis-express-custom-configuration-support-8cff599d012b
+description: This post is about why Jexus Manager is renamed and how it supports IIS Express custom configuration.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-manager-renamed-and-local-iis-express-custom-configuration-support-8cff599d012b
+tags: iis jexus-manager windows
+title: 'Jexus Manager: Renamed and Local IIS Express Custom Configuration Support'
 ---
 I just renamed the first build of Beta 3 back to Jexus Manager 2.0. The removal of "for IIS Express" does not mean IIS Express support is cut (but significantly enhanced if you read further). This change is intentioned, because now in fact this tool supports much more than IIS Express.
 <!--more-->

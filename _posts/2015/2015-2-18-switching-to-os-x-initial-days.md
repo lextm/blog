@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Switching to OS X: Initial Days"
-description: "This post is about my initial days of switching to OS X."
-tags: macOS
-permalink: /switching-to-os-x-initial-days-54cad828abac
+description: This post is about my initial days of switching to OS X.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /switching-to-os-x-initial-days-54cad828abac
+tags: macos
+title: 'Switching to OS X: Initial Days'
 ---
 It was last week that I finally decided to buy a Macbook Pro as my new laptop. So it worked fine then when I was away from home at Hong Kong, before today I had some time to hook my previous PC extras to it. OK, getting started can always be painful, but if you do have the necessary searching skills, you won't be disappointed after a while.
 <!--more-->
