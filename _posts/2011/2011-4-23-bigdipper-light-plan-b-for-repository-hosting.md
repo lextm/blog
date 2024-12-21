@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: Plan B for Repository Hosting"
-description: "This post is about the new repository hosting plan for #SNMP."
-tags: SNMP
-permalink: /bigdipper-light-plan-b-for-repository-hosting-495c9abe4e27
+description: 'This post is about the new repository hosting plan for #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-plan-b-for-repository-hosting-495c9abe4e27
+tags: snmp google
+title: 'BigDipper Light: Plan B for Repository Hosting'
 ---
 We just started to enjoy some of the benefits of switching to Mercurial,
 

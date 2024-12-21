@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BETA: WalkPace first beta version is here"
 description: A post about first beta version of WalkPace
-tags: Code-Beautifier-Collection Delphi
-permalink: /beta-walkpace-first-beta-version-is-here-5f9eed0a5633
 excerpt_separator: <!--more-->
+layout: post
+permalink: /beta-walkpace-first-beta-version-is-here-5f9eed0a5633
+tags: delphi code-beautifier-collection
+title: 'BETA: WalkPace first beta version is here'
 ---
 (Originally posted to CSDN on March 09, 2006)
 
