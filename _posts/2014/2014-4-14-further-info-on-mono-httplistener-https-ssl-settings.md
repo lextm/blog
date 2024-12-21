@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Further Info on Mono HttpListener HTTPS/SSL Settings"
-description: "This post talks about how to configure Mono HttpListener HTTPS/SSL settings."
-tags: Mono
-permalink: /further-info-on-mono-httplistener-https-ssl-settings-d4cf0bfc4211
+description: This post talks about how to configure Mono HttpListener HTTPS/SSL settings.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /further-info-on-mono-httplistener-https-ssl-settings-d4cf0bfc4211
+tags: .net mono linux
+title: Further Info on Mono HttpListener HTTPS/SSL Settings
 ---
 I think this blog post has already covered the key things you need to know, http://joshua.perina.com/geo/post/using-ssl-https-with-mono-httplistener
 <!--more-->
