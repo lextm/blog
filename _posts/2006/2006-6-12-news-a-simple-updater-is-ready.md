@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "News: A Simple Updater is ready"
 description: This post is about the new feature that can update CBC automatically.
-tags: Code-Beautifier-Collection Delphi
-permalink: /news-a-simple-updater-is-ready-567efd6d9ef0
 excerpt_separator: <!--more-->
+layout: post
+permalink: /news-a-simple-updater-is-ready-567efd6d9ef0
+tags: delphi code-beautifier-collection
+title: 'News: A Simple Updater is ready'
 ---
 (CSDN June 12, 2006)
 

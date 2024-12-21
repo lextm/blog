@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Status of IIS Out-Of-Band Modules
 description: This post is about the status of IIS out-of-band modules, such as ARR, URL Rewrite, HttpPlatformHandler, IIS CORS, and ASP.NET Core.
-tags: IIS
-permalink: /status-of-iis-out-of-band-modules-80a3af57c489
 excerpt_separator: <!--more-->
+layout: post
+permalink: /status-of-iis-out-of-band-modules-80a3af57c489
+tags: asp.net iis windows
+title: Status of IIS Out-Of-Band Modules
 ---
 When Microsoft designed and shipped IIS 7, they decided to provide a few more extensions to IIS users for free. And those were called out-of-band modules.
 <!--more-->

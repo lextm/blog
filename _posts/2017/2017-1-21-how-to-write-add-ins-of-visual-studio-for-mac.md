@@ -1,10 +1,10 @@
 ---
-layout: post
-title: How to Write Add-ins to Extend Visual Studio for Mac
 description: This post is about how to write add-ins to extend Visual Studio for Mac.
-tags: Visual-Studio
-permalink: /how-to-write-add-ins-of-visual-studio-for-mac-ee6113db5ddf
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-write-add-ins-of-visual-studio-for-mac-ee6113db5ddf
+tags: visual-studio xamarin macos mono
+title: How to Write Add-ins to Extend Visual Studio for Mac
 ---
 I just shipped [a test build](https://github.com/xunit/xamarinstudio.xunit/releases/tag/v0.7.0) of xUnit.net add-in at GitHub, which enables Visual Studio for Mac to run xUnit unit test cases.
 

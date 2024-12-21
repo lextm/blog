@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "What are they? New Rules for installer distributions (Rule 1)"
-description: "This post is about the new rules for CBC installer."
-tags: Code-Beautifier-Collection Delphi
-permalink: /what-are-they-new-rules-for-installer-distributions-rule-1-df7b0ac42df9
+description: This post is about the new rules for CBC installer.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /what-are-they-new-rules-for-installer-distributions-rule-1-df7b0ac42df9
+tags: delphi sharpdevelop .net code-beautifier-collection
+title: What are they? New Rules for installer distributions (Rule 1)
 ---
 (CSDN May 25, 2006)
 

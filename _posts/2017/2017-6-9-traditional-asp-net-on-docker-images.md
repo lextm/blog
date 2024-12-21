@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Traditional ASP.NET on Docker: Images"
-description: "This post is about how to analyze the layers of a Docker image, and use ASP.NET container images as example."
-tags: IIS .NET
-permalink: /traditional-asp-net-on-docker-images-1af3b72eeaaf
+description: This post is about how to analyze the layers of a Docker image, and use
+  ASP.NET container images as example.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /traditional-asp-net-on-docker-images-1af3b72eeaaf
+tags: .net asp.net iis windows docker
+title: 'Traditional ASP.NET on Docker: Images'
 ---
-
 > Update: due to the recent changes by Microsoft, the actual images can be different, but the way of analyzing the layers should remain the same. You are welcome to write a new blog post to replace this.
 
 When you add Docker support to a traditional ASP.NET project (like WebForms), you probably notice a Dockerfile is added,

@@ -1,13 +1,12 @@
 ---
-layout: post
-title: The Rough History of ASP.NET on IIS
-description: This post is about the rough history of ASP.NET on IIS.
-tags: Visual-Studio .NET
 categories: [History, .NET]
-permalink: /the-rough-history-of-asp-net-on-iis-8f49e2bcefcd
+description: This post is about the rough history of ASP.NET on IIS.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-rough-history-of-asp-net-on-iis-8f49e2bcefcd
+tags: .net asp.net iis windows
+title: The Rough History of ASP.NET on IIS
 ---
-
 > It all happened when I tried to answer [this Stack Overflow question](https://stackoverflow.com/questions/35639205/what-is-kestrel-vs-iis-express/46878663#46878663).
 >
 > The version below is last updated on Apr 10, 2023.

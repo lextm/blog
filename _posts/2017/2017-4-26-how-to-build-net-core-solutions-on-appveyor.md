@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "How to Build .NET Core Solutions on AppVeyor"
-description: "This post would show you how to build .NET Core solutions on AppVeyor, and a complete example."
-tags: .NET
-permalink: /how-to-build-net-core-solutions-on-appveyor-95cda0b15724
+description: This post would show you how to build .NET Core solutions on AppVeyor, and a complete example.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-build-net-core-solutions-on-appveyor-95cda0b15724
+tags: .net xunit
+title: How to Build .NET Core Solutions on AppVeyor
 ---
-
 I have recently upgraded #SNMP Library to .NET Core. And to the extreme, I get rid of the classic class library projects, and use a single .NET Standard 1.3 class library instead. Then it becomes a challenge to build the code base on AppVeyor, so I think it is worth the while to document what I have changed.
 <!--more-->
 

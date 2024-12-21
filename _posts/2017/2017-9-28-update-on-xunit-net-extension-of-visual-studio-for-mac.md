@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Update on xUnit.net Extension of Visual Studio for Mac
 description: This post is about the latest progress of xUnit.net extension of Visual Studio for Mac and a tough bug.
-tags: .NET Visual-Studio macOS xUnit
-permalink: /update-on-xunit-net-extension-of-visual-studio-for-mac-af69457e3441
 excerpt_separator: <!--more-->
+layout: post
+permalink: /update-on-xunit-net-extension-of-visual-studio-for-mac-af69457e3441
+tags: .net macos mono visual-studio xamarin xunit
+title: Update on xUnit.net Extension of Visual Studio for Mac
 ---
-
 > It is a long story, but I believe I enjoy the overall progress. So, let's get started.
 
 A few days ago, I was notified by a user that [xUnit.net extension did not work quite well for him](https://github.com/xunit/xamarinstudio.xunit/issues/71). So he needs the extension to be able to kick off the runner as 64 bit on Mac, which I achieved and reported my research result in [a previous post]({% post_url 2017/2017-9-21-how-to-choose-xunit-net-runner-bitness-x86-and-x64 %}). However, that only addressed part of the puzzle, and made F# test cases of Miguel de Icaza's TensorFlowSharp project working. The C# test cases still [failed miserably](https://github.com/xunit/xamarinstudio.xunit/issues/72).

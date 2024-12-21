@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Receipt of Visual Studio Code Extension
 description: This post is about what a Visual Studio Code extension should contain.
-tags: Visual-Studio-Code
-permalink: /receipt-of-visual-studio-code-extension-f4fb832fd956
 excerpt_separator: <!--more-->
+layout: post
+permalink: /receipt-of-visual-studio-code-extension-f4fb832fd956
+tags: visual-studio-code javascript
+title: Receipt of Visual Studio Code Extension
 ---
-
 ![img-description](/images/rst.png){: width="512" }
 _reStructuredText in Visual Studio Code_
 
@@ -16,6 +15,7 @@ This example is the extension to add reStructuredText language support, and we w
 <!--more-->
 
 ## Manifest File
+
 Everything begins with a manifest file, and here we use [project.json](https://github.com/vscode-restructuredtext/vscode-restructuredtext/blob/28.0.0/package.json).
 
 Besides important attributes on the extension itself, such as "name" and "version", this file also allows me to specify what are the NPM modules needed for development, such as "devDependencies", "dependencies", and "scripts". I don't fully understand how every bits work behind the scene, so the best resources are,
@@ -48,6 +48,7 @@ It is critical to set up GitHub integration for your extension,
 * "bugs". Usually it should point to the issue list of the GitHub repo.
 
 ## The Code
+
 This extension uses TypeScript, so its extension.ts file contains all the logic.
 
 ``` typescript
