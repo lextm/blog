@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "至CnPack项目组的公开信――草稿"
-description: "对于 CnWizards 项目未来发展的一些看法。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /至cnpack项目组的公开信-草稿-40064c875807
+description: 对于 CnWizards 项目未来发展的一些看法。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /至cnpack项目组的公开信-草稿-40064c875807
+tags: code-beautifier-collection delphi
+title: 至CnPack项目组的公开信――草稿
 ---
 (Originally posted to CSDN on Nov 30, 2005)
 
