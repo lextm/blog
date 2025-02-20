@@ -92,10 +92,36 @@ Third, I needed to add my one-line patch on `LoadLibrary` to ASP.NET Core module
 
 Finally, I opened [a new issue on GitHub](https://github.com/dotnet/aspnetcore/issues/47115) and attach [a pull request](https://github.com/dotnet/aspnetcore/pull/47290) to it.
 
-## The Not-So-Happy Ending
+## The Not-So-Happy Ending in 2023
 
 The pull request was reviewed but closed because the team currently didn't see Windows 11 ARM64 a strategical platform that they put more resources into.
 
 Instead of leaving any future brave Windows ARM64 explorers like me in the same situation, I decided to create simple PowerShell scripts to patch the flawed ASP.NET Core installation by reusing the existing binaries and you can visit this [new GitHub repo](https://github.com/lextm/ancm-arm64) to learn more.
 
-Thanks for reading this far, as it is such a long post and I rarely write in this way for a very long time. Hope now you understand more about Windows 11 ARM64 and ASP.NET Core.
+> Thanks for reading this far, as it is such a long post and I rarely write in this way for a very long time. Hope now you understand more about Windows 11 ARM64 and ASP.NET Core.
+
+## Turnaround in 2025
+
+People continued to use the workaround I proposed in `ancm-arm64` to patch their ASP.NET Core module installation on Windows ARM64, but this approach came with many pains,
+
+* You have to remember to patch often, as ASP.NET Core module might be updated by new Microsoft installers. This won't work very well if you are in a large organization with many machines to patch. Luckily that should still be rare right now.
+* Some Microsoft installers changed the versioning rules of the out-of-process module folder. I had to revise the patching script to adapt to those changes.
+
+Of course, those pains are much less if compared to users stuck with Microsoft installers, who can only run ASP.NET Core web apps on IIS with pure ARM64 mode, which excludes all IIS out-of-band components (URL Rewrite module, ARR, etc.) which are currently only available in x86/x64 bitness. Thanks to those users who keep reporting the issues to Microsoft, and by the end of 2024 ASP.NET Core team decided to work on my proposed changes again.
+
+This work was first brought back by Stephen Halter in [this pull request](https://github.com/dotnet/aspnetcore/pull/59481) on Dec 13, 2024 but we had to abandon it, simply because I moved all patches (including IIS Express related patches) to HttpPlatformHandler v2 repo. So, I created [a new pull request](https://github.com/dotnet/aspnetcore/pull/59483). The review process was much smoother than expected, because many minor issues were found and resolved during my work of HttpPlatformHandler v2.
+
+However, we happened to find an important change probably made by the Windows team, who changed the behaviors of `LoadLibrary` call when it tries to load a pure forwarder. So, on certain old versions of Windows ARM64, when `LoadLibrary` sees `aspnetcorev2_outofprocess.dll` in the out-of-process folder, it won't check if the platform specific files are in the same folder. That was why I had to switch from `LoadLibrary` to `LoadLibraryEx`. On the latest Windows ARM64 release, `LoadLibrary` alone works as desired. I guess they had to patch the behavior as many people might experience the same frustration and you could ask everyone to revise their code to use `LoadLibraryEx`.
+
+So today is Feb 19, 2025 and the pull request has been merged to the main branch. Let's hope the patched installers for .NET 8/9/10 will come out soon and you don't need any workaround applied any more.
+
+## Remaining Work for IIS OOB
+
+I recently moved my focus to help IIS out-of-band component users on Windows ARM64,
+
+* HttpPlatformHandler v2 (derived from ASP.NET Core module) was my latest achievement that fully supports Windows ARM64.
+* [I created a workaround](https://github.com/lextm/rewrite-arm64) for you to use URL Rewrite module on Windows ARM64.
+
+But clearly I might be able to drive inside Microsoft the necessary resources to ship official Windows ARM64 compatible installers for URL Rewrite module, ARR, etc. Let's see how soon I might get things rolling.
+
+Stay tuned.
