@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Ready for Highlander"
-description: "This post reports the status of HardQuery."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-ready-for-highlander-2d08b71b33d4
+description: This post reports the status of HardQuery.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-ready-for-highlander-2d08b71b33d4
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Ready for Highlander'
 ---
 (CSDN Jan 30, 2007)
 

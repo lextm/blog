@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Subversion Or CVS"
-description: 
-tags: Visual-Studio
-permalink: /subversion-or-cvs-685692774b1c
+description: null
 excerpt_separator: <!--more-->
+layout: post
+permalink: /subversion-or-cvs-685692774b1c
+tags: sharpdevelop visual-studio
+title: Subversion Or CVS
 ---
 In a latest blog I talked about using CVS with Visual Studio 2005. However, I soon changed my mind and turned to Subversion (SVN). Why?
 <!--more-->

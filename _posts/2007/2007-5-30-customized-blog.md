@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Customized Blog"
-description: "This post describes the customized blog."
-tags: Others
-permalink: /customized-blog-5261951e5dc6
+description: This post describes the customized blog.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /customized-blog-5261951e5dc6
+tags: others
+title: Customized Blog
 ---
 I have been customizing this blog for long. Wish the changes are positive.
 

@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Refactoring Tools: Dangerous"
-description: "This post describes why manual refactoring is much safer than using refactoring tools."
-tags: JetBrains
-permalink: /refactoring-tools-dangerous-c4ce872a5425
+description: This post describes why manual refactoring is much safer than using refactoring
+  tools.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /refactoring-tools-dangerous-c4ce872a5425
+tags: delphi visual-studio
+title: 'Refactoring Tools: Dangerous'
 ---
-
 The book Refactoring (Martin Fowler) is my favorite. I read it for the first time about four years ago. Since then, I have been refactoring for a long time in different projects with different programming languages (C#, C++, and Delphi).
 
 Yesterday I tried to refactor code with ReSharper 3 RC, but Visual Studio froze suddenly. Why? This might be caused by bugs in ReSharper or something else. In this very case (and most cases), manual refactoring is much safer because our minds is much smarter.

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Localization Helpers"
-description: "This post describes some tools to help on .NET localization."
-tags: Code-Beautifier-Collection Delphi
-permalink: /localization-helpers-8510baf738e1
+description: This post describes some tools to help on .NET localization.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /localization-helpers-8510baf738e1
+tags: visual-studio .net
+title: Localization Helpers
 ---
 After you decide to take the adventure of localizing a WinForms application, you should at first search for helpers, especially the free ones.
 <!--more-->

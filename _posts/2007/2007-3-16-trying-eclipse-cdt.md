@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Trying Eclipse CDT"
-description: "This post is about my experience with Eclipse CDT."
-tags: Java
-permalink: /trying-eclipse-cdt-43d754f617e1
+description: This post is about my experience with Eclipse CDT.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /trying-eclipse-cdt-43d754f617e1
+tags: java
+title: Trying Eclipse CDT
 ---
 I have been reading this article from IBM community, "Migrate Visual Studio C and C++ projects to Eclipse CDT".
 <!--more-->

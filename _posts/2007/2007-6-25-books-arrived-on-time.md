@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Books Arrived On Time"
-description: "This post describes that I bought some books from China-Pub.com."
-tags: Others
-permalink: /books-arrived-on-time-916acb1acad6
+description: This post describes that I bought some books from China-Pub.com.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /books-arrived-on-time-916acb1acad6
+tags: others
+title: Books Arrived On Time
 ---
-
 I booked several books from China-Pub.com about two weeks ago. And luckily it arrived today. That means finally I can read some books at night, not watch the TV plays.
 
 I'd like to say that buying books online is much more convenient than in a book store. In fact, no book stores nearby have a storage as large as China-Pub.com. Many books cannot be found on the shelves only because the store keeper thinks nobody loves them.

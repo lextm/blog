@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Life at SA"
-description: "This post is about my new job."
-tags: Code-Beautifier-Collection Delphi
-permalink: /life-at-sa-9ab7492a7797
+description: This post is about my new job.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /life-at-sa-9ab7492a7797
+tags: others
+title: Life at SA
 ---
 I am now blogging to say that I become a member of the Scientific Atlanta. I am working as a Software Engineer.
 

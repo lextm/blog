@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Latest BCB Broadcast from CodeGear"
-description: "This post describes the latest news from CodeGear on using C++ libraries with C++Builder."
-tags: Delphi
-permalink: /latest-bcb-broadcast-from-codegear-c9b9403a56e4
+description: This post describes the latest news from CodeGear on using C++ libraries
+  with C++Builder.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /latest-bcb-broadcast-from-codegear-c9b9403a56e4
+tags: delphi
+title: Latest BCB Broadcast from CodeGear
 ---
 If you are using Borland C++Builder 2006, or any older versions, you will see that it is not easy to use certain C++ libraries. However, there are tips you should know about the efforts CodeGear has made. The following is a recent broadcast on this subject:
 

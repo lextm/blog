@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "AssemblyInfoTask Tips"
-description: "This post describes some tips for AssemblyInfoTask."
-tags: Code-Beautifier-Collection Delphi
-permalink: /assemblyinfotask-tips-5db57caa1c66
+description: This post describes some tips for AssemblyInfoTask.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /assemblyinfotask-tips-5db57caa1c66
+tags: .net visual-studio
+title: AssemblyInfoTask Tips
 ---
 AssemblyInfoTask is a MSBuild custom task published on GotDotNet.com. In fact, it is written by a MSBuild team member.
 

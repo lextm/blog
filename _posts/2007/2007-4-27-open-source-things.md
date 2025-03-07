@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "上班以来使用的开源东西"
-description: "这篇文章讲述了上班以来使用的开源产品。"
-tags: Windows SharpDevelop Firefox Java .NET
-permalink: /上班以来使用的开源东西-c30fde3baa04
+description: 这篇文章讲述了上班以来使用的开源产品。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /上班以来使用的开源东西-c30fde3baa04
+tags: .net java sharpdevelop windows
+title: 上班以来使用的开源东西
 ---
 (CSDN April 27, 2007)
 
