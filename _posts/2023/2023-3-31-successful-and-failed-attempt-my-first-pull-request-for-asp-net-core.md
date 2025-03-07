@@ -115,6 +115,98 @@ However, we happened to find an important change probably made by the Windows te
 
 So today is Feb 19, 2025 and the pull request has been merged to the main branch. Let's hope the patched installers for .NET 8/9/10 will come out soon and you don't need any workaround applied any more.
 
+## Hints on Windows Installer Upgrade
+A few days ago some .NET 10.0 Preview testers reported that the changes I made broke IIS/IIS Express when upgrading from a previous release (like .NET 8/9), as `aspnetcorev2.dll` was missing. I was able to reproduce the issue after building two versions of ASP.NET Core module installers for IIS Express before and after my changes, so that detailed Windows Installer logs can be acquired.
+
+``` text
+install.log:815:MSI (s) (B4:90) [22:49:42:783]: PROPERTY CHANGE: Adding CA_ADD_MODULE property. Its value is 
+'"C:\Program Files\IIS Express\appcmd.exe" install module /name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net Core 
+Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program Files\IIS Express\AppServer\applicationhost.config"'.
+install.log:915:MSI (s) (B4:90) [22:49:42:889]: PROPERTY CHANGE: Adding CA_ADD_MODULE_TMP property. Its value is 
+'"C:\Program Files\IIS Express\appcmd.exe" install module /name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net Core 
+Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program Files\IIS 
+Express\config\templates\PersonalWebServer\applicationhost.config"'.
+install.log:965:MSI (s) (B4:90) [22:49:42:927]: PROPERTY CHANGE: Adding CA_ADD_MODULE32 property. Its value is 
+'"C:\Program Files (x86)\IIS Express\appcmd.exe" install module /name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net 
+Core Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program Files (x86)\IIS Express\AppServer\applicationhost.config"'.
+install.log:1065:MSI (s) (B4:90) [22:49:43:046]: PROPERTY CHANGE: Adding CA_ADD_MODULE_TMP32 property. Its value is 
+'"C:\Program Files (x86)\IIS Express\appcmd.exe" install module /name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net 
+Core Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program Files (x86)\IIS 
+Express\config\templates\PersonalWebServer\applicationhost.config"'.
+install.log:1127:MSI (s) (B4:90) [22:49:43:133]: Executing op: 
+ComponentRegister(ComponentId={08968573-05C1-4BF1-8879-7B818AC9525B},KeyPath=C:\Program Files\IIS Express\Asp.Net Core 
+Module\V2\aspnetcorev2.dll,State=3,,Disk=1,SharedDllRefCount=2,BinaryType=1)
+install.log:1128:1: {730F296E-5C7F-4381-BA86-28EDC4FEFCC0} 2: {08968573-05C1-4BF1-8879-7B818AC9525B} 3: C:\Program 
+Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll 
+install.log:1141:MSI (s) (B4:90) [22:49:43:141]: Executing op: 
+ComponentRegister(ComponentId={45BA5011-A619-4D06-8A8D-155B1F9732B3},KeyPath=C:\Program Files (x86)\IIS 
+Express\Asp.Net Core Module\V2\aspnetcorev2.dll,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=0)
+install.log:1142:1: {730F296E-5C7F-4381-BA86-28EDC4FEFCC0} 2: {45BA5011-A619-4D06-8A8D-155B1F9732B3} 3: C:\Program 
+Files (x86)\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll 
+install.log:1143:MSI (s) (B4:90) [22:49:43:141]: WIN64DUALFOLDERS: Substitution in 'C:\Program Files (x86)\IIS 
+Express\Asp.Net Core Module\V2\aspnetcorev2.dll' folder had been blocked by the 1 mask argument (the folder pair's 
+iSwapAttrib member = 0).
+install.log:1159:MSI (s) (B4:90) [22:49:43:157]: Executing op: CacheRTMFile(SourceFilePath=C:\Program Files (x86)\IIS 
+Express\Asp.Net Core Module\V2\aspnetcorev2.dll,FileKey=AspNetCoreModuleDll.wow,,ProductCode={676B4A87-1027-45E1-88A1-4
+11816838808},ProductVersion=110.0.25063,Attributes=512,,,,CopierFlags=0,,,,,,)
+install.log:1162:MSI (s) (B4:90) [22:49:43:167]: Executing op: FileCopy(SourceName=3ajklagw.dll|aspnetcorev2.dll,Source
+CabKey=AspNetCoreModuleDll.wow,DestName=aspnetcorev2.dll,Attributes=512,FileSize=351232,PerTick=65536,,VerifyMedia=1,,,
+,,CheckCRC=0,Version=20.0.25064.0,Language=1033,InstallMode=58982400,,,,,,,)
+install.log:1163:MSI (s) (B4:90) [22:49:43:167]: File: C:\Program Files (x86)\IIS Express\Asp.Net Core 
+Module\V2\aspnetcorev2.dll;	Overwrite;	Won't patch;	Existing file is a lower version
+install.log:1165:InstallFiles: File: aspnetcorev2.dll, Directory: C:\Program Files (x86)\IIS Express\Asp.Net Core 
+Module\V2\, Size: 351232
+install.log:1167:MSI (s) (B4:90) [22:49:43:175]: Verifying accessibility of file: aspnetcorev2.dll
+install.log:1235:MSI (s) (B4:90) [22:49:44:451]: Executing op: CustomActionSchedule(Action=CA_ADD_MODULE,ActionType=313
+7,Source=BinaryData,Target=CAQuietExec,CustomActionData="C:\Program Files\IIS Express\appcmd.exe" install module 
+/name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net Core Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program 
+Files\IIS Express\AppServer\applicationhost.config")
+install.log:1307:MSI (s) (B4:90) [22:49:46:722]: Executing op: CustomActionSchedule(Action=CA_ADD_MODULE_TMP,ActionType
+=3137,Source=BinaryData,Target=CAQuietExec,CustomActionData="C:\Program Files\IIS Express\appcmd.exe" install module 
+/name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net Core Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program 
+Files\IIS Express\config\templates\PersonalWebServer\applicationhost.config")
+install.log:1332:MSI (s) (B4:90) [22:49:48:029]: Executing op: CustomActionSchedule(Action=CA_ADD_MODULE32,ActionType=3
+137,Source=BinaryData,Target=CAQuietExec,CustomActionData="C:\Program Files (x86)\IIS Express\appcmd.exe" install 
+module /name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net Core Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program 
+Files (x86)\IIS Express\AppServer\applicationhost.config")
+install.log:1398:MSI (s) (B4:90) [22:49:50:604]: Executing op: CustomActionSchedule(Action=CA_ADD_MODULE_TMP32,ActionTy
+pe=3137,Source=BinaryData,Target=CAQuietExec,CustomActionData="C:\Program Files (x86)\IIS Express\appcmd.exe" install 
+module /name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net Core Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program 
+Files (x86)\IIS Express\config\templates\PersonalWebServer\applicationhost.config")
+install.log:1418:MSI (s) (B4:90) [22:49:51:320]: Executing op: RegAddValue(Name=EventMessageFile,Value=#%C:\Program 
+Files (x86)\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll,)
+install.log:1419:WriteRegistryValues: Key: \SYSTEM\CurrentControlSet\Services\EventLog\Application\IIS Express 
+AspNetCore Module V2, Name: EventMessageFile, Value: #%C:\Program Files (x86)\IIS Express\Asp.Net Core 
+Module\V2\aspnetcorev2.dll
+install.log:2043:MSI (s) (B4:30) [22:49:51:867]: Executing op: 
+FileRemove(,FileName=aspnetcorev2.dll,,ComponentId={84ED6CE6-C8A3-4FA8-A872-C98A1D15DD4F})
+install.log:2044:RemoveFiles: File: aspnetcorev2.dll, Directory: C:\Program Files\IIS Express\Asp.Net Core Module\V2\
+install.log:2045:MSI (s) (B4:30) [22:49:51:867]: Verifying accessibility of file: aspnetcorev2.dll
+install.log:2248:Property(S): CA_ADD_MODULE = "C:\Program Files\IIS Express\appcmd.exe" install module 
+/name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net Core Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program 
+Files\IIS Express\AppServer\applicationhost.config"
+install.log:2253:Property(S): CA_ADD_MODULE_TMP = "C:\Program Files\IIS Express\appcmd.exe" install module 
+/name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net Core Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program 
+Files\IIS Express\config\templates\PersonalWebServer\applicationhost.config"
+install.log:2263:Property(S): CA_ADD_MODULE32 = "C:\Program Files (x86)\IIS Express\appcmd.exe" install module 
+/name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net Core Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program Files 
+(x86)\IIS Express\AppServer\applicationhost.config"
+install.log:2268:Property(S): CA_ADD_MODULE_TMP32 = "C:\Program Files (x86)\IIS Express\appcmd.exe" install module 
+/name:AspNetCoreModuleV2 /image:"%IIS_BIN%\Asp.Net Core Module\V2\aspnetcorev2.dll" /apphostconfig:"C:\Program Files 
+(x86)\IIS Express\config\templates\PersonalWebServer\applicationhost.config"
+```
+
+If digging further into the lines and [the actual changes I made to `ancm_iis_expressv2.wxs`](https://github.com/dotnet/aspnetcore/pull/59483/files), I can see that,
+
+* `[22:49:43:167]: File: C:\Program Files (x86)\IIS Express\Asp.Net Core 
+Module\V2\aspnetcorev2.dll;	Overwrite;	Won't patch;	Existing file is a lower version` indicates that the pure forwarder was compiled without proper version information.
+* `[22:49:51:867]: Executing op: 
+FileRemove(,FileName=aspnetcorev2.dll,,ComponentId={84ED6CE6-C8A3-4FA8-A872-C98A1D15DD4F})` indicates that since I gave the pure forwarder different component and file name, Windows Installer didn't consider it was an upgrade bit and then mistakenly removed the file in the end.
+
+Luckily the fixes were not hard to find and [I sent a second pull request](https://github.com/dotnet/aspnetcore/pull/60769).
+
+So, if you are building MSI packages for your own software, make sure you plan and maintain your installers properly so they don't just work for clean installs but also for upgrades.
+
 ## Remaining Work for IIS OOB
 
 I recently moved my focus to help IIS out-of-band component users on Windows ARM64,
