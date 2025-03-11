@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "GIMP and Paint.NET"
-description: "This post describes the comparison between GIMP and Paint.NET."
-tags: Windows .NET
-permalink: /gimp-and-paint-net-dd78adad0bda
+description: This post describes the comparison between GIMP and Paint.NET.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /gimp-and-paint-net-dd78adad0bda
+tags: others
+title: GIMP and Paint.NET
 ---
-
 I have been using GIMP for a long time. From my point of view, it is great. I've known Paint.NET(PDN) for a long time, but never try it.
 
 And just in May, I tried PDN at last. The feeling is that GIMP will be replaced. It is not because GIMP is not as powerful as PDN, but it is harder to use.

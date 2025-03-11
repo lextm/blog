@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Alex Problems with SharpDevelop 3.0"
-description: "This post is about the problems of Alex with SharpDevelop 3.0."
-tags: .NET SharpDevelop
-permalink: /alex-problems-with-sharpdevelop-3-0-23660f73fb7a
+description: This post is about the problems of Alex with SharpDevelop 3.0.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /alex-problems-with-sharpdevelop-3-0-23660f73fb7a
+tags: sharpdevelop .net
+title: Alex Problems with SharpDevelop 3.0
 ---
 Because Alex feature is not that necessary for a SharpDevelop user, I think there is no need to make it part of the official SD. That is why it is now in trouble with SD 3.0.
 

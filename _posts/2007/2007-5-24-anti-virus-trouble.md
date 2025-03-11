@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Anti-Virus Trouble"
-description: "This post describes my anti-virus choice."
-tags: Windows
-permalink: /anti-virus-trouble-d22c83ae2334
+description: This post describes my anti-virus choice.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /anti-virus-trouble-d22c83ae2334
+tags: others
+title: Anti-Virus Trouble
 ---
 I have just bought a Dell notebook. As a result, I will soon start to use an anti-virus product. Which one I will buy?
 

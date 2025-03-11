@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Localization in .NET Framework 2.0"
-description: "This article talks about localization in .NET Framework 2.0."
-tags: .NET Visual-Studio
-permalink: /localization-in-net-2-0-fdb682f7f996
+description: This article talks about localization in .NET Framework 2.0.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /localization-in-net-2-0-fdb682f7f996
+tags: .net visual-studio
+title: Localization in .NET Framework 2.0
 ---
 It is easy to localize a .NET WinForms project in Visual Studio. However, something you should be careful with. An article should be your guide when you need to do some localization. That is Walkthrough: Localizing Windows Forms inside MSDN.
 <!--more-->

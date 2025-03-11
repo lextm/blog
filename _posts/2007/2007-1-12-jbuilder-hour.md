@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "JBuilder Hour"
-description: "这篇文章讲述了 JBuilder Hour 的一些资源。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /jbuilder-hour-30e478922477
+description: 这篇文章讲述了 JBuilder Hour 的一些资源。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jbuilder-hour-30e478922477
+tags: delphi java
+title: JBuilder Hour
 ---
 (CSDN Jan 12, 2007)
 

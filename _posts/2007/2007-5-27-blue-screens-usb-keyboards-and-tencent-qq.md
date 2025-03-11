@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Blue Screens: USB Keyboards and Tencent QQ"
-description: "This post describes the problem of Blue Screens on Windows XP and Vista."
-tags: Windows
-permalink: /blue-screens-usb-keyboards-and-tencent-qq-94a83ab2dbd5
+description: This post describes the problem of Blue Screens on Windows XP and Vista.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /blue-screens-usb-keyboards-and-tencent-qq-94a83ab2dbd5
+tags: windows
+title: 'Blue Screens: USB Keyboards and Tencent QQ'
 ---
 For our Chinese guys, using QQ is a daily action. However, since I began to work at SA I have met a lot of Blue Screens on Windows XP. And TSW met them even on Windows Vista.
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CBC Code Templates"
-description: "This post describes how to use CBC Code Templates."
-tags: Code-Beautifier-Collection Delphi
-permalink: /cbc-code-templates-760c67c006c8
+description: This post describes how to use CBC Code Templates.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /cbc-code-templates-760c67c006c8
+tags: delphi code-beautifier-collection
+title: CBC Code Templates
 ---
 (CSDN Jan 31, 2007)
 

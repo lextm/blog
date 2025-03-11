@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "ReSharper 3.0 EAP"
-description: "This post describes my experience with ReSharper 3.0 EAP."
-tags: .NET
-permalink: /resharper-3-0-eap-bdd5386368eb
+description: This post describes my experience with ReSharper 3.0 EAP.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /resharper-3-0-eap-bdd5386368eb
+tags: .net visual-studio
+title: ReSharper 3.0 EAP
 ---
-
 I knew IntelliJ IDEA a long time ago. However, I did not notice it was created by JetBrains until I tried ReSharper.
 
 I have to confess both the products are wonderful although IntelliJ IDEA has been caught up by SUN's NetBeans.

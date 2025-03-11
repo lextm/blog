@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: New RC and File Aid"
-description: "This post reports the new RC and File Aid feature of HardQuery."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-new-rc-and-file-aid-7508fb61ee7c
+description: This post reports the new RC and File Aid feature of HardQuery.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-new-rc-and-file-aid-7508fb61ee7c
+tags: code-beautifier-collection delphi
+title: 'HardQuery Report: New RC and File Aid'
 ---
 (CSDN Jan 15, 2007)
 
