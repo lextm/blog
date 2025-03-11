@@ -32,7 +32,7 @@ So, we decided to fork PySNMP ourselves and started to work on it.
 
 In the last few weeks of 2022, our goal was just to ship our own packages based on existing patches. We didn't want to introduce any breaking changes, so we just cherry-picked some patches from existing forks and shipped our own PySNMP 5.0 releases.
 
-I think it was a good start, especially after we launched the new homepage at https://pysnmp.com. Not only we were able to help a few clients to get their projects back on track, but we knew that the community was watching.
+I think it was a good start, especially after we launched [the new PySNMP.com homepage](https://pysnmp.com). Not only we were able to help a few clients to get their projects back on track, but we knew that the community were watching.
 
 One year ago in Sep 2023, we were funded to improve PySNMP test coverage, so new test cases were added from time to time. Switching to the local test agent/manager in Feb 2024 was a big step forward, and we were able to catch a few bugs that were missed before.
 
@@ -73,6 +73,8 @@ We were in a rush to work on 6.x releases, so we left quite a few things to 7.x 
 * v1arch/v3arch API change
 
 To surprise you a bit, those changes were actually done by Ilya a few years ago for his unfinished 5.0 release. Though it might look like simple tasks that we just cherry-picked them and shipped in PySNMP 7.0, in fact we had to be very careful to make sure they didn't break anything. Thanks to all test cases created along the way, we were confident during the development cycle.
+
+One thing you might notice is that we didn't take al changes Ilya made on SMI/MIB API. That's because he chose a wrong path to implement asynchronous MIB API, which heavily depended on recursive calls. With our small but reliable unit test cases, we were able to quickly identify/analyze the issues and decided to take a different path.
 
 We believed the above are enough changes in 7.0 releases, so a few other changes were introduced in 7.1 releases,
 
