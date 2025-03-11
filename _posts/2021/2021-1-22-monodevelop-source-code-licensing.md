@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Summary about MonoDevelop Source Code Licensing
-description: "Learn about the licensing issues surrounding the MonoDevelop source code and the efforts of passionate developers to revive the project. Gain insights into the historical context and clarifications provided in this informative post. Explore the impact of relicensing on commercial distributions and the contributions made to MonoDevelop. Understand the requirements of LGPL/X11 dual licensing and the copyright ownership of Microsoft. Discover the roadmap of Visual Studio for Mac and its implications for the future of MonoDevelop. Stay informed about the latest developments in this dynamic software ecosystem."
-tags: Mono Microsoft Linux Xamarin .NET
 categories: [History, .NET]
+description: Learn about the licensing issues surrounding the MonoDevelop source code and the efforts of passionate developers to revive the project. Gain insights into the historical context and clarifications provided in this informative post. Explore the impact of relicensing on commercial distributions and the contributions made to MonoDevelop. Understand the requirements of LGPL/X11 dual licensing and the copyright ownership of Microsoft. Discover the roadmap of Visual Studio for Mac and its implications for the future of MonoDevelop. Stay informed about the latest developments in this dynamic software ecosystem.
 excerpt_separator: <!--more-->
+layout: post
+tags: .net linux microsoft mono xamarin
+title: Summary about MonoDevelop Source Code Licensing
 ---
-
 A group of passionate developers want to revive MonoDevelop, so they [discussed about the source code licensing issues here](https://github.com/dotdevelop/dotdevelop/issues/51).
 
 I think some historical context wasn't properly captured, so I wrote a post there and hoped to help clarify the situation.

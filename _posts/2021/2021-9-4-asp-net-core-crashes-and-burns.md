@@ -1,11 +1,10 @@
 ---
-layout: post
-title: ASP.NET Core Crashes and Burns
 description: A post about ASP.NET Core common issues that you should be aware of
-tags: Windows .NET Visual-Studio
 excerpt_separator: <!--more-->
+layout: post
+tags: .net asp.net windows
+title: ASP.NET Core Crashes and Burns
 ---
-
 Getting start with ASP.NET Core is in fact easy, if you let it crash and burn. Every errors help you get better understanding of different aspects.
 
 Don't believe it? Let's give it a try.
@@ -27,6 +26,7 @@ dotnet --info
 ```
 
 ## .NET Core SDK
+
 I expect something to break here, as you might not have .NET Core SDK installed.
 
 So if you see the output,

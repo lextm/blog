@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "History of This Blog"
 description: A post about the history of this blog and how it migrated from CSDN to Blogger to Medium to GitHub Pages and to Cloudflare Pages
-tags: Others
 excerpt_separator: <!--more-->
+layout: post
+tags: others
+title: History of This Blog
 ---
 It took me several days to finish a major upgrade of this blog, so worth the while to write down something for record.
 <!--more-->
