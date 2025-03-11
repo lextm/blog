@@ -75,7 +75,18 @@ That's simply because [IIS anonymous authentication](https://docs.microsoft.com/
 
 > The logic behind anonymous authentication is that everyone that accesses your site is considered to be using the same account.
 
+## Exercising Your Knowledge
+
 So what happens if we disable all IIS authentication methods and enable digest authentication? I think you've already known the answer, haven't you?
+
+## Advanced Topic - IIS 7+ Integrated Pipeline and More
+
+In certain cases, you need to access the Windows user information outside of pages and controllers,
+
+* Events in `Global.asax` (e.g., `Application_AuthenticateRequest`).
+* Custom HTTP modules.
+
+In such cases, options like `HttpContext.Current.User` might be your friend, but you need to be aware of the [IIS integrated pipeline](https://learn.microsoft.com/iis/application-frameworks/building-and-running-aspnet-applications/aspnet-20-breaking-changes-on-iis) and how it affects the user information. In short, since ASP.NET pipeline is now integrated with IIS pipeline, you might see `HttpContext.Current.User` is not set as expected in some early events, as IIS does not yet authenticate the user credentials and the user identity object is not yet initialized or passed on.
 
 ## Site Notes
 
