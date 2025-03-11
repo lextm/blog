@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summary about MonoDevelop Source Code Licensing
-description: A look back on the Mono history can easily tell that it can be a risky platform to use in 2021 and beyond.
+description: "Learn about the licensing issues surrounding the MonoDevelop source code and the efforts of passionate developers to revive the project. Gain insights into the historical context and clarifications provided in this informative post. Explore the impact of relicensing on commercial distributions and the contributions made to MonoDevelop. Understand the requirements of LGPL/X11 dual licensing and the copyright ownership of Microsoft. Discover the roadmap of Visual Studio for Mac and its implications for the future of MonoDevelop. Stay informed about the latest developments in this dynamic software ecosystem."
 tags: Mono Microsoft Linux Xamarin .NET
 categories: [History, .NET]
 excerpt_separator: <!--more-->
