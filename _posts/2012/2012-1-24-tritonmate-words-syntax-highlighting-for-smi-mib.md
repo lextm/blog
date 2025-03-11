@@ -2,7 +2,7 @@
 layout: post
 title: "TritonMate Words: Syntax Highlighting for SMI/MIB"
 description: "This post is about syntax highlighting for SMI/MIB."
-tags: Code-Beautifier-Collection Delphi
+tags: snmp sharpdevelop .net
 permalink: /tritonmate-words-syntax-highlighting-for-smi-mib-efe99ad93af2
 excerpt_separator: <!--more-->
 ---
