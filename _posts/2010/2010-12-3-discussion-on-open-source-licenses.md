@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Discussion on Open Source Licenses"
-description: "This post is about the discussion on open source licenses."
-tags: Others
-permalink: /discussion-on-open-source-licenses-fdc1f1829c3d
+description: This post is about the discussion on open source licenses.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /discussion-on-open-source-licenses-fdc1f1829c3d
+tags: work-life
+title: Discussion on Open Source Licenses
 ---
 On Twitter, I have been discussing with @walshmichael on GPL. Well, Twitter is really a bad place to discuss such advanced topics.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Chinese New Year Present"
 description: This post talks about the Chinese New Year present.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-chinese-new-year-present-65b2ae9fdfc8
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-chinese-new-year-present-65b2ae9fdfc8
+tags: work-life
+title: 'GrapeVine Voice: Chinese New Year Present'
 ---
 I was planning to release 6.0 Final as a X'mas present. And then I delayed it as a new year present. However, even now I am not sure whether I can be on time to deliver it as a Chinese new year present because I am still not confident of the quality.
 

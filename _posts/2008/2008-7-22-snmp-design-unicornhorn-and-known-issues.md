@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: UnicornHorn and Known Issues"
-description: "This post talks about the 1.0 release of #SNMP and known issues."
-tags: SNMP
-permalink: /snmp-design-unicornhorn-and-known-issues-d5950576ac36
+description: 'This post talks about the 1.0 release of #SNMP and known issues.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-unicornhorn-and-known-issues-d5950576ac36
+tags: linux snmp
+title: '#SNMP Design: UnicornHorn and Known Issues'
 ---
 Finally the 1.0 release is here.
 

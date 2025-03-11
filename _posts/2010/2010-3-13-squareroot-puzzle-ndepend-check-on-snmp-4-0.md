@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "SquareRoot Puzzle: NDepend Check on #SNMP 4.0"
-description: "This post is about #SNMP 4.0 and NDepend."
-tags: SNMP
+description: 'This post is about #SNMP 4.0 and NDepend.'
 excerpt_separator: <!--more-->
+layout: post
+tags: snmp
+title: 'SquareRoot Puzzle: NDepend Check on #SNMP 4.0'
 ---
-
 Recently I got a license for NDepend Pro. I am going to make good use of this amazing tool.
 
 The first thing I did is a quick analysis on what we did from 3.1 to 4.0 (4 and a half months passed except Jan at which time I was not able to code). I followed [Patrick's post here](http://codebetter.com/blogs/patricksmacchia/archive/2009/05/21/a-quick-analyze-of-the-net-fx-v4-0-beta1.aspx).

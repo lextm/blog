@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: Doc-O-Matic Express"
 description: This post is about Doc-O-Matic Express.
-tags: Code-Beautifier-Collection Delphi
-permalink: /product-review-doc-o-matic-express-a951211347f5
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-doc-o-matic-express-a951211347f5
+tags: delphi
+title: 'Product Review: Doc-O-Matic Express'
 ---
 NDoc was used to build Code Beautifier Collection references file until it became obsolete. From then on Sandcastle has been a good helper even though it is far from perfect.
 <!--more-->

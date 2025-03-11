@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Reflector Disassembly"
-description: "This post describes how to disassemble a .NET dll with Reflector."
-tags: .NET
+title: Reflector Disassembly
+description: This post describes how to disassemble a .NET dll with Reflector.
+tags: .net
 permalink: /reflector-disassembly-3c45a0be461
 excerpt_separator: <!--more-->
 ---

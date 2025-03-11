@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Clear Visual Studio 2005 Vault Error State"
 description: This post talks about how to clear Visual Studio 2005 Vault error state.
-tags: Visual-Studio
-permalink: /clear-visual-studio-2005-vault-error-state-63a024005060
 excerpt_separator: <!--more-->
+layout: post
+permalink: /clear-visual-studio-2005-vault-error-state-63a024005060
+tags: visual-studio visual-studio-code windows
+title: Clear Visual Studio 2005 Vault Error State
 ---
 I was just checking in a lot of files to Vault. I thought it was dead so I killed Visual Studio 2005 in Task Manager. OK, from then on it complains that some files are exclusively checked out by a user so I cannot check them in until he checks in. And the serious problem comes, that user is me. Oh, who will save me???
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Inno Setup Preprocessor Tip for .NET Developers"
-description: "This post talks about how to use ISPP for .NET developers."
-tags: Inno-Setup .NET
-permalink: /inno-setup-preprocessor-tip-for-net-developers-a4bece8d7349
+description: This post talks about how to use ISPP for .NET developers.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /inno-setup-preprocessor-tip-for-net-developers-a4bece8d7349
+tags: .net
+title: Inno Setup Preprocessor Tip for .NET Developers
 ---
 I love ISPP because it really makes things easier. But .NET sometimes brings differences. For example,
 

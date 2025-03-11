@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: Sad News on Linux Support"
-description: "This post is about the sad news on Linux support."
-tags: SNMP
-permalink: /tritonmate-words-sad-news-on-linux-support-afe1d22c041a
+description: This post is about the sad news on Linux support.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-sad-news-on-linux-support-afe1d22c041a
+tags: linux mono snmp
+title: 'TritonMate Words: Sad News on Linux Support'
 ---
 Just started to dig on Linux/Mono side, as the changes we made on the 8.0 way are so huge. In a few minutes, a serious problem was found,
 

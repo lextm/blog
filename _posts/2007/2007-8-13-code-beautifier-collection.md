@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Code Beautifier Collection 动态"
-description: "这篇文章讲一下 CBC 的最新进展。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /code-beautifier-collection-动态-6d7f83ee125a
+description: 这篇文章讲一下 CBC 的最新进展。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /code-beautifier-collection-动态-6d7f83ee125a
+tags: code-beautifier-collection delphi
+title: Code Beautifier Collection 动态
 ---
 (CSDN August 13, 2007)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: Karvonite"
-description: "This post talks about Karvonite, a .NET object persistence library."
-tags: Delphi Windows
-permalink: /product-review-karvonite-de33d25e6212
+description: This post talks about Karvonite, a .NET object persistence library.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-karvonite-de33d25e6212
+tags: .net delphi windows
+title: 'Product Review: Karvonite'
 ---
 NHibernate and ECO are huge library for enterprise usage. However, even if you are running a small application, object model persistence technique can save a lot of development time.
 

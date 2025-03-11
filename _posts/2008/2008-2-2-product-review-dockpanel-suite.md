@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: DockPanel Suite"
 description: This post is a product review of DockPanel Suite.
-tags: DockPanel-Suite
-permalink: /product-review-dockpanel-suite-b6a6a0f24750
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-dockpanel-suite-b6a6a0f24750
+tags: .net dockpanel-suite visual-studio
+title: 'Product Review: DockPanel Suite'
 ---
 Weifen Luo creates this free and open source DockPanel Suite. With it, it is possible to develop flexible user interface like Visual Studio .NET.
 <!--more-->

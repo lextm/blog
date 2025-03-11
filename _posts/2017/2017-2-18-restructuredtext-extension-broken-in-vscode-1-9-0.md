@@ -3,7 +3,7 @@ description: This post is about why the reStructuredText extension was broken in
 excerpt_separator: <!--more-->
 layout: post
 permalink: /restructuredtext-extension-broken-in-vscode-1-9-0-3e01952ad155
-tags: sphinx visual-studio-code python
+tags: visual-studio-code python restructuredtext
 title: 'reStructuredText Extension: Broken in VS Code 1.9.0'
 ---
 A user reported this issue a few days ago that the extension no longer works after VS Code 1.9.0 release, while I was packing up things before my departure from Shanghai to Montreal. I could not even debug VS Code at that time.

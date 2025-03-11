@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Windows Live: Out of Beta"
 description: This post talks about that Windows Live products are out of beta.
-tags: Windows
-permalink: /windows-live-out-of-beta-56ad354f1962
 excerpt_separator: <!--more-->
+layout: post
+permalink: /windows-live-out-of-beta-56ad354f1962
+tags: microsoft windows
+title: 'Windows Live: Out of Beta'
 ---
 Today Windows Live Team in MSFT releases a bunch of Live products, so the beta stage has passed. Nice to see the changes.
 

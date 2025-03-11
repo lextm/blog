@@ -2,7 +2,7 @@
 description: A post about how to create a simple Django web app and host it on IIS with HttpPlatformHandler
 excerpt_separator: <!--more-->
 layout: post
-tags: django httpplatformhandler python windows iis
+tags: httpplatformhandler python windows iis
 title: Running Django Web Apps on IIS with HttpPlatformHandler
 ---
 HttpPlatformHandler can help IIS host Java/Python/Node.js/Go applications, so in this post we wil see how to configure a Python/Django web app on IIS and troubleshoot the common issue.

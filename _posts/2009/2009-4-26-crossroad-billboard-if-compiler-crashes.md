@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CrossRoad Billboard: If Compiler Crashes"
-description: "This post is about a bug in the latest CrossRoad release."
-tags: SNMP
-permalink: /crossroad-billboard-if-compiler-crashes-8bb2321dbb4b
+description: This post is about a bug in the latest CrossRoad release.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /crossroad-billboard-if-compiler-crashes-8bb2321dbb4b
+tags: powershell snmp windows
+title: 'CrossRoad Billboard: If Compiler Crashes'
 ---
 Hi all,
 

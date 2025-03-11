@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CatPaw Rumors: The Solution Files"
-description: "This post is about the solution files in #SNMP 5 codebase"
-tags: SNMP
-permalink: /catpaw-rumors-the-solution-files-3cf989f268fe
+description: 'This post is about the solution files in #SNMP 5 codebase'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /catpaw-rumors-the-solution-files-3cf989f268fe
+tags: snmp visual-studio
+title: 'CatPaw Rumors: The Solution Files'
 ---
 (Updated to latest for our release 5.0 development)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Trident Sign: Release Notes"
-description: "This post is about the release notes of 3.0."
-tags: SNMP
-permalink: /trident-sign-release-notes-b55aac776781
+description: This post is about the release notes of 3.0.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /trident-sign-release-notes-b55aac776781
+tags: work-life snmp
+title: 'Trident Sign: Release Notes'
 ---
 Finally we start to ship Trident 3.0 of #SNMP Suite. In this release the changes are,
 

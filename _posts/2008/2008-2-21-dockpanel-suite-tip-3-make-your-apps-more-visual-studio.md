@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "DockPanel Suite Tip #3: Make Your Apps More Visual Studio"
 description: This post talks about how to make DockPanel Suite more like Visual Studio.
-tags: DockPanel-Suite
-permalink: /dockpanel-suite-tip-3-make-your-apps-more-visual-studio-da921c4f92cb
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-tip-3-make-your-apps-more-visual-studio-da921c4f92cb
+tags: dockpanel-suite visual-studio
+title: 'DockPanel Suite Tip #3: Make Your Apps More Visual Studio'
 ---
 I know Visual Studio is not an adjective, but I find it much easier to understand. Default DockPanel Suite is not all that you need to clone Visual Studio. There are two elements missing, the tool strips and the middle mouse click action. Because [I talked about the tool strips here]({% post_url 2008/2008-2-18-tool-strips-vs-fluent-ribbon-ui %}), this post focuses on the latter.
 

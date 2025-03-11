@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Pex: Test What?"
-description: "This post talks about Pex, a new test framework from Microsoft Research."
-tags: .NET
-permalink: /pex-test-what-bb2186df5203
+description: This post talks about Pex, a new test framework from Microsoft Research.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /pex-test-what-bb2186df5203
+tags: .net microsoft
+title: 'Pex: Test What?'
 ---
-
 Microsoft Research has a project named Pex. Yep, when I tried to build QuickGraph, a CodePlex project I found a reference named Microsoft.Pex.Framework.
 
 According to GuickGraph's author's blog, features of this new test framework is very amazing. Wish it could be made public soon.

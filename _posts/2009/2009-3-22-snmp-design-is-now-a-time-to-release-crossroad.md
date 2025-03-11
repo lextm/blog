@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Is Now A Time to Release CrossRoad?"
-description: "This post is about the status of CrossRoad."
-tags: SNMP
-permalink: /snmp-design-is-now-a-time-to-release-crossroad-be2ddbb0b59b
+description: This post is about the status of CrossRoad.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-is-now-a-time-to-release-crossroad-be2ddbb0b59b
+tags: work-life
+title: '#SNMP Design: Is Now A Time to Release CrossRoad?'
 ---
 Well, it is pretty busy spring time. After joining Microsoft, I find that I have less and less time to work on this small project. What about the other members? If they do have blogs for me to subscribe I may have a chance to know their status.
 

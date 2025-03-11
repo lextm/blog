@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Unhandled Exceptions Revisited, Part II"
 description: This post talks about how to handle unhandled exceptions.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-unhandled-exceptions-revisited-part-ii-c9972b3f8478
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-unhandled-exceptions-revisited-part-ii-c9972b3f8478
+tags: delphi
+title: 'GrapeVine Voice: Unhandled Exceptions Revisited, Part II'
 ---
 This is a customized exception dialogue I wrote based on Vitaly Zayko's UnhandledExDlgForm. I did not replace UnhandledExceptionManager.dll because Vitaly's implementation cannot work well on Windows Vista (the exception is caught by Vista instead of Vitaly's class).
 

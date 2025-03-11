@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "GrapeVine Voice: Installation Experience Changes (Part I)"
-description: "This post talks about the installation experience changes in Code Beautifier Collection."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-installation-experience-changes-part-i-8928cd2e56a3
+description: This post talks about the installation experience changes in Code Beautifier
+  Collection.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-installation-experience-changes-part-i-8928cd2e56a3
+tags: code-beautifier-collection delphi
+title: 'GrapeVine Voice: Installation Experience Changes (Part I)'
 ---
 I'd like to review some historical phases at first, (details can be found in docs/Readme.pdf)
 <!--more-->

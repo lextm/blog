@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Custom Domain: Problem of Blogger? Picasa? Or Windows Live Writer?"
-description: This post talks about the problem of using custom domain with Blogger, Picasa and Windows Live Writer.
-tags: Windows
-permalink: /custom-domain-problem-of-blogger-picasa-or-windows-live-writer-36b21acfaf01
+description: This post talks about the problem of using custom domain with Blogger,
+  Picasa and Windows Live Writer.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /custom-domain-problem-of-blogger-picasa-or-windows-live-writer-36b21acfaf01
+tags: work-life windows
+title: 'Custom Domain: Problem of Blogger? Picasa? Or Windows Live Writer?'
 ---
 I have been using Windows Live Writer with Blogger. Therefore, all images are uploaded to my Picasa Web Albums.
 

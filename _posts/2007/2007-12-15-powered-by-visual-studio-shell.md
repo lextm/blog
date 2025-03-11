@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Powered By Visual Studio Shell"
 description: This post is about Visual Studio Shell.
-tags: Visual-Studio
-permalink: /powered-by-visual-studio-shell-709b5c7ea7da
 excerpt_separator: <!--more-->
+layout: post
+permalink: /powered-by-visual-studio-shell-709b5c7ea7da
+tags: .net visual-studio visual-studio-code
+title: Powered By Visual Studio Shell
 ---
 Finally Microsoft releases something like Eclipse RCP and several projects soon pop up.
 

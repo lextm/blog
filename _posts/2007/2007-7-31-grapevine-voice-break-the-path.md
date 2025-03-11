@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "GrapeVine Voice: Break The Path"
-description: "This post talks about how to break down the PathTree class into smaller classes."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-break-the-path-da7842731d27
+description: This post talks about how to break down the PathTree class into smaller
+  classes.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-break-the-path-da7842731d27
+tags: delphi windows
+title: 'GrapeVine Voice: Break The Path'
 ---
 A PathTree class was used in HardQuery builds to organize all files deployed with CBC assemblies. However, because some of the files are going to be modified in order to store user settings, they cannot be placed in Program Files any more on Windows Vista.
 <!--more-->

@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Another Gear: SourceGear DiffMerge"
-description: "This post talks about DiffMerge, another great product from SourceGear."
-tags: Windows
-permalink: /another-gear-sourcegear-diffmerge-5d3475e4a736
+description: This post talks about DiffMerge, another great product from SourceGear.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /another-gear-sourcegear-diffmerge-5d3475e4a736
+tags: windows
+title: 'Another Gear: SourceGear DiffMerge'
 ---
-
 I have been using WinMerge for a long time and it serves me quite well. And now, after reviewing SourceGear's Vault, I meet DiffMerge. Wish I can see some differences within.
 
 Talking about SourceGear, yep it is another "Gear" that provides amazing products. For example, Vault, a great SCM tool, is built completely on .NET platform.

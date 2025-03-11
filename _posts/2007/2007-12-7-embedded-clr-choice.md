@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Embedded CLR Choice"
 description: This post talks about the choice of embedded CLR.
-tags: .NET Mono
-permalink: /embedded-clr-choice-448cdc55137c
 excerpt_separator: <!--more-->
+layout: post
+permalink: /embedded-clr-choice-448cdc55137c
+tags: .net linux mono
+title: Embedded CLR Choice
 ---
 I know a lot of Chinese companies choose Windows CE and .NET CF. It is OK, but just not that convenient, isn't it? You must compile the source code differently from the desktop .NET (even the source code should be modified somewhere which is boring).
 <!--more-->

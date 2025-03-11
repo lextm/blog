@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Switched to AkelPad, a Powerful Notepad Replacement"
-description: "This post is about my switch to AkelPad, a powerful Notepad replacement."
-tags: Windows
-permalink: /switched-to-akelpad-a-powerful-notepad-replacement-5ab9896f70
+description: This post is about my switch to AkelPad, a powerful Notepad replacement.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /switched-to-akelpad-a-powerful-notepad-replacement-5ab9896f70
+tags: windows
+title: Switched to AkelPad, a Powerful Notepad Replacement
 ---
 I was using Notepad 2 along with Notepad++. Notepad++ is feature richer but it lacks of an x64 build, while Notepad 2 obviously lacks of lots of features.
 

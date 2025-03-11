@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Vista Hell: UAC Blocks"
-description: "This post describes why Vista blocks CBC from saving settings."
-tags: Code-Beautifier-Collection Delphi
-permalink: /vista-hell-uac-blocks-f293a5fbc3a7
+description: This post describes why Vista blocks CBC from saving settings.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /vista-hell-uac-blocks-f293a5fbc3a7
+tags: code-beautifier-collection linux
+title: 'Vista Hell: UAC Blocks'
 ---
 I have been using Ubuntu for a long time. Yep, I know it prompts me every time I try to make a big change. UAC is just a copy of that on Windows.
 

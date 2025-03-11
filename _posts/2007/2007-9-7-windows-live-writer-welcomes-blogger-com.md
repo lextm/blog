@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Windows Live Writer Welcomes Blogger.com"
-description: "This post talks about Windows Live Writer's support for Blogger.com."
-tags: Windows
-permalink: /windows-live-writer-welcomes-blogger-com-25a634d35435
+description: This post talks about Windows Live Writer's support for Blogger.com.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /windows-live-writer-welcomes-blogger-com-25a634d35435
+tags: work-life windows
+title: Windows Live Writer Welcomes Blogger.com
 ---
 I have said in an old post that *.blogspot.com domain is blocked here in Shanghai. The only workaround is that I can log into *.blogger.com to publish posts. It is really inconvenient to copy content from WLW to Blogger.com. But WLW Beta 2 cannot log into my Blogger account because it is not designed for Blogger.
 

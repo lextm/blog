@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Solving the Zero Puzzle"
-description: "This post talks about the solution to SNMP zero puzzle."
-tags: SNMP
-permalink: /snmp-design-solving-the-zero-puzzle-ad094d078cfd
+description: This post talks about the solution to SNMP zero puzzle.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-solving-the-zero-puzzle-ad094d078cfd
+tags: work-life snmp
+title: '#SNMP Design: Solving the Zero Puzzle'
 ---
 It is happy that now I have "Understanding SNMP MIBs" at hand. The solution to the zero puzzle can be found on page 394 and 395 (Appendix A). I don't want to bother you with the details which most of you may not be interested in, but a small hint can be provided that the encoding (ToBytes) algorithm in #SNMP needs to be updated ASAP(Malcolm's code works fine for iso subtree, but not correct for both ccitt and joint-iso-ccitt subtrees).
 

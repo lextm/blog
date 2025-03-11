@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HoneyCell Drops: Final Comes This Weekend"
-description: "This post is about the final release of #SNMP 6.0."
-tags: SNMP
-permalink: /honeycell-drops-final-comes-this-weekend-346ee3dfbcc3
+description: 'This post is about the final release of #SNMP 6.0.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /honeycell-drops-final-comes-this-weekend-346ee3dfbcc3
+tags: work-life snmp
+title: 'HoneyCell Drops: Final Comes This Weekend'
 ---
 Probably you heard from my tweets that we are going to release #SNMP 6.0 final this weekend, so beta 5 is the last beta.
 

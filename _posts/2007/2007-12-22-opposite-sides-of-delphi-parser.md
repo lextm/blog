@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Opposite Sides of Delphi Parser"
 description: This post is about Delphi parsers.
-tags: Code-Beautifier-Collection Delphi
-permalink: /opposite-sides-of-delphi-parser-c9599d515ff7
 excerpt_separator: <!--more-->
+layout: post
+permalink: /opposite-sides-of-delphi-parser-c9599d515ff7
+tags: .net delphi
+title: Opposite Sides of Delphi Parser
 ---
 If you read [this post](http://www.delphifeeds.com/go/f/30375/) you know that Daniel is searching for a native Delphi parser written in Delphi. And definitely, the comment there provides the best solution right now, [an open source parser](http://code.google.com/p/castaliadelphiparser/) contributed by Castalia author, Jacob.
 

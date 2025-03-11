@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Touch Mouse Mate: 1.5 Beta"
-description: "This post is about the latest news of Touch Mouse Mate."
-tags: Windows
-permalink: /touch-mouse-mate-1-5-beta-8dc67d90970c
+description: This post is about the latest news of Touch Mouse Mate.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /touch-mouse-mate-1-5-beta-8dc67d90970c
+tags: windows
+title: 'Touch Mouse Mate: 1.5 Beta'
 ---
 Hi guys,
 

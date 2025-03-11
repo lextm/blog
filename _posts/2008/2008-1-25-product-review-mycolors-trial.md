@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: MyColors Trial"
 description: This post is a product review of MyColors.
-tags: Windows
-permalink: /product-review-mycolors-trial-7e56ff9891c1
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-mycolors-trial-7e56ff9891c1
+tags: windows
+title: 'Product Review: MyColors Trial'
 ---
 Stardock Object Desktop is a collection of applications that beautifies your Windows experience. But not every bit of OD is a must. For example, a free set consisting of ObjectDock, CursorFX makes me happy enough.
 

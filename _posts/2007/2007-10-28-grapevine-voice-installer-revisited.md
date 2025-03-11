@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "GrapeVine Voice: Installer Revisited"
-description: This post talks about CodeGear's installer and Code Beautifier Collection's installation experience.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-installer-revisited-183ac61b6026
+description: This post talks about CodeGear's installer and Code Beautifier Collection's
+  installation experience.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-installer-revisited-183ac61b6026
+tags: code-beautifier-collection delphi
+title: 'GrapeVine Voice: Installer Revisited'
 ---
 CodeGear has a tough issue to resolve now. That is RAD Studio 2007 installation experience (someone claims it is nightmare, but I don't agree). That MSI based installer powered by InstallAware technology can satisfy all those critical and complicated requirements (multilingual and multi-SKU and multi-personality in one installer; Web Deploy ) except one key point, speed. Personally speaking I prefer stability to speed, but others may hold a completely different idea. Let's wish Tiburon has a much better installer.
 <!--more-->

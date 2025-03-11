@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Halfbaked Update"
-description: This post talks about the delay of #SNMP 0.5 (Halfbaked) release.
-tags: SNMP
-permalink: /snmp-design-halfbaked-update-361038bda1cb
+description: This post talks about the delay of
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-halfbaked-update-361038bda1cb
+tags: linux snmp windows
+title: '#SNMP Design: Halfbaked Update'
 ---
 I was out of luck. Last weekend I joined an offsite meeting and had my left elbow badly hurt. And last night I got a fever.
 

@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Innovations Behind Blackfish SQL"
-description: "This post talks about the innovations behind Blackfish SQL that compiles Java source code to C#."
-tags: Java .NET
-permalink: /innovations-behind-blackfish-sql-718909bb010c
+description: This post talks about the innovations behind Blackfish SQL that compiles
+  Java source code to C#.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /innovations-behind-blackfish-sql-718909bb010c
+tags: .net java
+title: Innovations Behind Blackfish SQL
 ---
 If you are now reading this post like me, scroll to the third paragraph, and you can see why it is version 8 here.
 

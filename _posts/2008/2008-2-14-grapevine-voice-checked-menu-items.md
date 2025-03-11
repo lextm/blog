@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Checked Menu Items"
 description: This post talks about how to create checked menu items.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-checked-menu-items-a33bb0aa51c4
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-checked-menu-items-a33bb0aa51c4
+tags: code-beautifier-collection delphi
+title: 'GrapeVine Voice: Checked Menu Items'
 ---
 In David's legacy project SharpBuilderTools there is no such kind of checked menu items so I thought it was impossible. Then I started to wonder how the RemObjects guys creates checked menu items in their BDS expert named Everwood.
 

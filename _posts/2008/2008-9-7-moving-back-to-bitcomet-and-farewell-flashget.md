@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Moving Back to BitComet, and Farewell FlashGet"
-description: "This post talks about the move back to BitComet."
-tags: Windows
-permalink: /moving-back-to-bitcomet-and-farewell-flashget-e2e854518e29
+description: This post talks about the move back to BitComet.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /moving-back-to-bitcomet-and-farewell-flashget-e2e854518e29
+tags: windows
+title: Moving Back to BitComet, and Farewell FlashGet
 ---
 I have to uninstall FlashGet from my Windows Vista, after so many frustrations. It seems the rumors are right that without its original author, a good product like FlashGet can be ruined. First, FlashGet pops up UAC dialogs every time I launch it. Then it refuses to download BitTorrent tasks completely for me. At last, it eats up all my bandwidth.
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "M8主题大师2.5的进展"
-description: "这篇文章是关于 M8主题大师2.5的进展"
-tags: Meizu
-permalink: /m8主题大师2-5的进展-d34f6ea4abbd
+description: 这篇文章是关于 M8主题大师2.5的进展
 excerpt_separator: <!--more-->
+layout: post
+permalink: /m8主题大师2-5的进展-d34f6ea4abbd
+tags: android meizu
+title: M8主题大师2.5的进展
 ---
 不知不觉中十二月快到了。似乎Meizu并没有能够在新UI之类上面做出特别值得关注的改进。但是新版本固件的发布多少曾经让我有些高兴。只是这种高兴不可能恢复我对于M8的一丝好感。对了，既九月屏幕罢工之后，我手里这台公测版也频繁出现睡死问题了。因为这两个问题算是M8公测版的顽疾，而且硬件因素比较大，我也就不多装行家来评论了。
 

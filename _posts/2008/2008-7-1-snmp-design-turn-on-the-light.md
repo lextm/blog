@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Turn On The Light"
-description: "This post talks about MIB browser improvement and other bug fixes."
-tags: SNMP
-permalink: /snmp-design-turn-on-the-light-dd9ad54c79bf
+description: This post talks about MIB browser improvement and other bug fixes.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-turn-on-the-light-dd9ad54c79bf
+tags: linux snmp
+title: '#SNMP Design: Turn On The Light'
 ---
 To develop a MIB browser was my ultimate goal on #SNMP. However, at this moment, I find that the hardest thing in fact is the MIB compiler. Why? If you notice, a #SNMP MIB Browser is already on its way to hit you.
 

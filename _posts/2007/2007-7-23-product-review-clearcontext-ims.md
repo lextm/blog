@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Product Review: ClearContext IMS"
-description: "This post talks about ClearContext, an Outlook extension that improves productivity."
-tags: Windows
-permalink: /product-review-clearcontext-ims-4f5ce4dcb4f
+description: This post talks about ClearContext, an Outlook extension that improves
+  productivity.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-clearcontext-ims-4f5ce4dcb4f
+tags: .net windows
+title: 'Product Review: ClearContext IMS'
 ---
 From a C# guru's blog I read about CC IMS. And soon I installed and tested it today. And the value it provided was attractive.
 

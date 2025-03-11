@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Oh, Dear Compiler"
 description: This post is about the latest progress of the MIB compiler.
-tags: SNMP
-permalink: /snmp-design-oh-dear-compiler-44369d113f58
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-oh-dear-compiler-44369d113f58
+tags: snmp
+title: '#SNMP Design: Oh, Dear Compiler'
 ---
 I cannot believe that a prototype of the proposed MIB compiler is now working on my computer. And during the process of developing it, I merely added a few new classes and methods, but no API change was made since Change Set. Nice, I think Steve is happy to hear this.
 <!--more-->

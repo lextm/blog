@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Shipping the Package of CrossRoad"
-description: "This post is about the binaries and documentation of CrossRoad release."
-tags: SNMP
-permalink: /snmp-design-shipping-the-package-of-crossroad-30354b65e2b6
+description: This post is about the binaries and documentation of CrossRoad release.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-shipping-the-package-of-crossroad-30354b65e2b6
+tags: mono snmp windows
+title: '#SNMP Design: Shipping the Package of CrossRoad'
 ---
 Well, for the first time I want to spend more time on packaging the binaries. Here are the list,
 

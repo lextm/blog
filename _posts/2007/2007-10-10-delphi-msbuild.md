@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Delphi 的用户们，早点开始享受 MSBuild 吧"
 description: 这篇文章介绍了 Delphi 2007 中 MSBuild 的引入对于 Delphi 程序员带来的好处。
-tags: Delphi .NET
-permalink: /delphi-的用户们-早点开始享受-msbuild-吧-c7ad9f01c446
 excerpt_separator: <!--more-->
+layout: post
+permalink: /delphi-的用户们-早点开始享受-msbuild-吧-c7ad9f01c446
+tags: .net delphi
+title: Delphi 的用户们，早点开始享受 MSBuild 吧
 ---
 (CSDN Oct 10, 2007)
 

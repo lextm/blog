@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Two Network Adapters Issues Resolution"
-description: This post is about how to resolve issues when you have two network adapters installed.
-tags: SNMP Windows
-permalink: /two-network-adapters-issues-resolution-7d9e80034b59
+description: This post is about how to resolve issues when you have two network adapters
+  installed.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /two-network-adapters-issues-resolution-7d9e80034b59
+tags: windows
+title: Two Network Adapters Issues Resolution
 ---
 If you have two network adapters (NICs) installed, there should be a few issues. At this moment, I have two installed. One of them connects me to the corporate intranet and the other connects to an internal router connected to a few SNMP enabled devices.
 <!--more-->

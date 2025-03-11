@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "#SNMP Design: Push Me Hard, Chris"
-description: "This post is dedicated to Chris, who pushed me really hard this week to implement a few new features."
-tags: SNMP
-permalink: /snmp-design-push-me-hard-chris-bddd86e2dc4
+description: This post is dedicated to Chris, who pushed me really hard this week
+  to implement a few new features.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-push-me-hard-chris-bddd86e2dc4
+tags: microsoft snmp
+title: '#SNMP Design: Push Me Hard, Chris'
 ---
 > This post is dedicated to Chris, who pushed me really hard this week.
 

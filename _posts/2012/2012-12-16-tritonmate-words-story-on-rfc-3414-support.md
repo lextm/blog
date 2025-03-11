@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: Story on RFC 3414 Support"
-description: "This post is about the story of adding RFC 3414 support in #SNMP."
-tags: SNMP
-permalink: /tritonmate-words-story-on-rfc-3414-support-5a7ff6448e7b
+description: 'This post is about the story of adding RFC 3414 support in #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-story-on-rfc-3414-support-5a7ff6448e7b
+tags: snmp
+title: 'TritonMate Words: Story on RFC 3414 Support'
 ---
 Back in May 2009 when I was working on initial SNMP v3 support, I think the discovery process was rather simple. Since then that piece of code have been working well. It seems to me that choosing Net-SNMP agent/utilities as reference is a good idea. However, observing discovery process by capturing message dumps was in fact a stupid idea, because the observation could be incomplete and corner cases could be neglected.
 

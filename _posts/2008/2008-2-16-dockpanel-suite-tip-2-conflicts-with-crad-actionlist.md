@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "DockPanel Suite Tip #2: Conflicts with Crad Action List"
 description: This post talks about how to use DockPanel with Crad Action List.
-tags: DockPanel-Suite
-permalink: /dockpanel-suite-tip-2-conflicts-with-crad-action-list-baf8cc207d14
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-tip-2-conflicts-with-crad-action-list-baf8cc207d14
+tags: dockpanel-suite
+title: 'DockPanel Suite Tip #2: Conflicts with Crad Action List'
 ---
 I love Crad Action List control. And in every form I create I use this control to provide menu items and tool strip items.
 However, once I place an ActionList item in a DockContent, this content cannot be closed without an exception. So I know DockContent is not the same as Form.

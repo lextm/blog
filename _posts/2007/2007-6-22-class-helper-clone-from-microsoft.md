@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Class Helper Clone From Microsoft"
-description: "This post describes that Microsoft cloned the Class Helper language feature from Borland/CodeGear as extension methods in C#."
-tags: .NET Delphi
+title: Class Helper Clone From Microsoft
+description: This post describes that Microsoft cloned the Class Helper language feature
+  from Borland/CodeGear as extension methods in C#.
+tags: .net delphi
 permalink: /class-helper-clone-from-microsoft-64d3cc07474a
 excerpt_separator: <!--more-->
 ---

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "InstallAware Update for .NET 3.5 RTM"
 description: This post announces the release of InstallAware Update for .NET 3.5 RTM.
-tags: .NET Windows
-permalink: /installaware-update-for-net-3-5-rtm-e24d9b90a99b
 excerpt_separator: <!--more-->
+layout: post
+permalink: /installaware-update-for-net-3-5-rtm-e24d9b90a99b
+tags: .net visual-studio windows
+title: InstallAware Update for .NET 3.5 RTM
 ---
 I have just installed Visual Studio 2008 Express at home last Wednesday, and this morning I received a notification from InstallAware that its update for .NET 3.5 is ready. It is so fast that I suddenly remember that Microsoft launches .NET 3.5 RTM with Visual Studio 2008 RTM last week.
 <!--more-->

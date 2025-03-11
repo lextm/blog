@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "CatPaw Rumors: Visual Studio 2005 and .NET Framework 2.0 Mainstream Support Ends in April 2011"
-description: This post is about the end of Visual Studio 2005 and .NET Framework 2.0 mainstream support.
-tags: SNMP Visual-Studio .NET
-permalink: /catpaw-rumors-visual-studio-2005-and-net-framework-2-0-mainstream-support-ends-in-april-2011-7a1a0fe70549
+description: This post is about the end of Visual Studio 2005 and .NET Framework 2.0
+  mainstream support.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /catpaw-rumors-visual-studio-2005-and-net-framework-2-0-mainstream-support-ends-in-april-2011-7a1a0fe70549
+tags: .net asp.net snmp visual-studio
+title: 'CatPaw Rumors: Visual Studio 2005 and .NET Framework 2.0 Mainstream Support
+  Ends in April 2011'
 ---
 http://support.microsoft.com/lifecycle/search/?sort=PN&alpha=Visual+Studio\
 

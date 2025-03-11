@@ -7,7 +7,7 @@ image:
   path: /images/doves-sunset.jpg
 layout: post
 permalink: /vscode-restructuredtext-extension-synchronized-preview-support-3f54ebdd3416
-tags: restructuredtext visual-studio-code sphinx javascript
+tags: restructuredtext visual-studio-code
 title: VS Code reStructuredText Extension, Synchronized Preview Support
 ---
 I just shipped the 81.0.0 release of this extension. As it is worth a blog post, you can see how big the changes are there.

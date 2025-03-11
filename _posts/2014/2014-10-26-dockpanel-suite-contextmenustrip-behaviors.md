@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "DockPanel Suite: ContextMenuStrip Behaviors"
-description: This post shows how I fixed a bug of DockPanel Suite related to context menu strip.
-tags: .NET
+title: 'DockPanel Suite: ContextMenuStrip Behaviors'
+description: This post shows how I fixed a bug of DockPanel Suite related to context
+  menu strip.
+tags: .net
 permalink: /dockpanel-suite-contextmenustrip-behaviors-bef808f00342
 excerpt_separator: <!--more-->
 ---

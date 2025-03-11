@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "CatPaw Rumors: Post Release Summary, Part II"
+title: 'CatPaw Rumors: Post Release Summary, Part II'
 description: This post is about the command line utilities.
-tags: SNMP
+tags: snmp
 permalink: /catpaw-rumors-post-release-summary-part-ii-40534cb5326e
 excerpt_separator: <!--more-->
 ---

@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "CatPaw Rumor: Time To Say Farewell to Visual Studio 2005"
-description: "This post is about the fact that CatPaw will drop Visual Studio 2005 support."
-tags: SNMP Visual-Studio
-permalink: /catpaw-rumor-time-to-say-farewell-to-visual-studio-2005-2a0313501950
+description: This post is about the fact that CatPaw will drop Visual Studio 2005
+  support.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /catpaw-rumor-time-to-say-farewell-to-visual-studio-2005-2a0313501950
+tags: .net visual-studio visual-studio-code
+title: 'CatPaw Rumor: Time To Say Farewell to Visual Studio 2005'
 ---
 This weekend, I started to use Visual Studio 2010 as primary IDE instead of Visual Studio 2008.
 <!--more-->

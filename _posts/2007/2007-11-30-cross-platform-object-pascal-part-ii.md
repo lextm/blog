@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Cross Platform Object Pascal (Part II)"
 description: This post compares Delphi and Chrome.
-tags: Delphi
-permalink: /cross-platform-object-pascal-part-ii-6d3ac47874e7
 excerpt_separator: <!--more-->
+layout: post
+permalink: /cross-platform-object-pascal-part-ii-6d3ac47874e7
+tags: .net delphi visual-studio
+title: Cross Platform Object Pascal (Part II)
 ---
 In this part, I am going to do comparison between Delphi and Chrome. I try to illustrate why Delphi goes this way and Chrome approaches another. Correct me if anything is wrong.
 <!--more-->

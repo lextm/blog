@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Visual Studio Clones RAD Studio?"
 description: This post is about features Visual Studio clones from RAD Studio.
-tags: Code-Beautifier-Collection Delphi
-permalink: /visual-studio-clones-rad-studio-c8aba372adc3
 excerpt_separator: <!--more-->
+layout: post
+permalink: /visual-studio-clones-rad-studio-c8aba372adc3
+tags: .net visual-studio
+title: Visual Studio Clones RAD Studio?
 ---
 After releasing Visual Studio 2008, MSBuild team asks its users what should be implemented in next version of Visual Studio. It is funny to see the following items are highlighted,
 

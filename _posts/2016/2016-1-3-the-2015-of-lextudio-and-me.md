@@ -3,7 +3,7 @@ description: This post is about what I have done in 2015.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-2015-of-lextudio-and-me-9a920c3ef836
-tags: others
+tags: work-life
 title: The 2015 of LeXtudio and Me
 ---
 2015 was a fantastic year for LeXtudio and me. So below is a summary on what were the achievements.

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Book About Crystal Reports for .NET"
-description: "This post talks about a book on Crystal Reports for .NET."
-tags: .NET
-permalink: /book-about-crystal-reports-for-net-5580101a3dfb
+description: This post talks about a book on Crystal Reports for .NET.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /book-about-crystal-reports-for-net-5580101a3dfb
+tags: .net
+title: Book About Crystal Reports for .NET
 ---
 I love to use RAVE Report, but it does not support Windows Forms. So I switch to Crystal Reports for .NET. Have to say it is hard to find good materials to learn Crystal Reports until I found [this book](http://www.amazon.com/Crystal-Reports-Programming-Brian-Bischof/dp/0974953652) in the morning.
 <!--more-->

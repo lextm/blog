@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: CrossRoad Release Notes"
-description: "This post is the release notes of CrossRoad release."
-tags: SNMP
-permalink: /snmp-design-crossroad-release-notes-2deb83b7318f
+description: This post is the release notes of CrossRoad release.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-crossroad-release-notes-2deb83b7318f
+tags: sharpdevelop snmp
+title: '#SNMP Design: CrossRoad Release Notes'
 ---
 > Last release is TwinTower 1.5 on Jan 17.
 

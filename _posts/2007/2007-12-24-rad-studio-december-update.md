@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "RAD Studio December Update"
 description: This post is about my experience of installing December Update.
-tags: Code-Beautifier-Collection Delphi
-permalink: /rad-studio-december-update-22b7202e444e
 excerpt_separator: <!--more-->
+layout: post
+permalink: /rad-studio-december-update-22b7202e444e
+tags: delphi
+title: RAD Studio December Update
 ---
 InstallAware and CodeGear has been blamed because RAD Studio installation is really slow. But I am still believing that Microsoft holds the key.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "The Same Old Brand New Danny"
 description: This post talks about Danny Thorpe's new job.
-tags: Delphi
-permalink: /the-same-old-brand-new-danny-1ef5b561ab5b
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-same-old-brand-new-danny-1ef5b561ab5b
+tags: delphi
+title: The Same Old Brand New Danny
 ---
 Danny Thorpe left Microsoft (Windows Live Team) last month and joined CoolIris, the company who gives birth to PicLens.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: Higher Test Coverage Worths the While"
-description: "This post is about the value of high test coverage."
-tags: SNMP
-permalink: /bigdipper-light-higher-test-coverage-worths-the-while-267c5d979e44
+description: This post is about the value of high test coverage.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-higher-test-coverage-worths-the-while-267c5d979e44
+tags: snmp
+title: 'BigDipper Light: Higher Test Coverage Worths the While'
 ---
 The first time I read about high test coverage, I was curious about two points,
 

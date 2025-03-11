@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Infinite Loops Best Practice (Not a real best practice)"
-description: "This post talks about how to write an infinite loop in .NET."
-tags: .NET
-permalink: /infinite-loops-best-practice-not-a-real-best-practice-e47b8922f445
+description: This post talks about how to write an infinite loop in .NET.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /infinite-loops-best-practice-not-a-real-best-practice-e47b8922f445
+tags: .net snmp
+title: Infinite Loops Best Practice (Not a real best practice)
 ---
 [Updated: This post is too old to be correct. Even #SNMP starts to use a completely different way to handle incoming packets http://code.google.com/p/sharpsnmplib/source/browse/SharpSnmpLib/Messaging/ListenerBinding.cs. So please read it carefully.]
 

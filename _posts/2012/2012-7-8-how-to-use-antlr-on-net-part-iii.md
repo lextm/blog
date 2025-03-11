@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "How to Use ANTLR on .NET, Part III"
-description: "This post is about how to use ANTLR on .NET."
-tags: .NET ANTLR
-permalink: /how-to-use-antlr-on-net-part-iii-18a2457eee84
+description: This post is about how to use ANTLR on .NET.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-use-antlr-on-net-part-iii-18a2457eee84
+tags: .net antlr
+title: How to Use ANTLR on .NET, Part III
 ---
 C# Project Settings for ANTLR 3
 <!--more-->

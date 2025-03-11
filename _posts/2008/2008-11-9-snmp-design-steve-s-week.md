@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Steve's Week"
-description: "This post is about Steve's work in the past week."
-tags: SNMP
-permalink: /snmp-design-steves-week-f052a50ac4f
+description: This post is about Steve's work in the past week.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-steves-week-f052a50ac4f
+tags: snmp visual-studio
+title: '#SNMP Design: Steve''s Week'
 ---
 This week Steve provided a new Change Set , which makes the Browser nearly complete. Therefore, I think it is time to release a new RC for TwinTower in November so a final 1.5 release by the end of 2008. This is really overdue to my original plan but I am the one you should blame. So leave Steve alone :)
 <!--more-->

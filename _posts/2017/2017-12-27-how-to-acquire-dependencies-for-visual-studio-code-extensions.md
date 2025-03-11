@@ -3,7 +3,7 @@ description: A post about how to acquire dependencies for Visual Studio Code ext
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-acquire-dependencies-for-visual-studio-code-extensions-9ca828cb168d
-tags: visual-studio-code javascript
+tags: visual-studio-code
 title: How to Acquire Dependencies for Visual Studio Code Extensions
 ---
 The open source community is so large today, that you don't need to create all the wheels once again, unless really necessary.

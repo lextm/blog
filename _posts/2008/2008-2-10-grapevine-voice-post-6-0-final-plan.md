@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Post 6.0 Final Plan"
 description: This post talks about the plan after 6.0 final.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-post-6-0-final-plan-40567d5846c6
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-post-6-0-final-plan-40567d5846c6
+tags: .net delphi
+title: 'GrapeVine Voice: Post 6.0 Final Plan'
 ---
 CodeGear gave up C#Builder so I could no longer maintain Code Beautifier Collection in it. That was why I moved to SharpDevelop a few months ago. It is OK as now Delphi native becomes the only core again, and most developers are pleased to see this shift.
 <!--more-->

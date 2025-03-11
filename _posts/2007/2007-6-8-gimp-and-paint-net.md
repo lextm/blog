@@ -3,7 +3,7 @@ description: This post describes the comparison between GIMP and Paint.NET.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /gimp-and-paint-net-dd78adad0bda
-tags: others
+tags: work-life
 title: GIMP and Paint.NET
 ---
 I have been using GIMP for a long time. From my point of view, it is great. I've known Paint.NET(PDN) for a long time, but never try it.

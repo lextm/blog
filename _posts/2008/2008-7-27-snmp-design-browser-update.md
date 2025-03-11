@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Browser Update"
-description: "This post talks about the update of the MIB browser."
-tags: SNMP
-permalink: /snmp-design-browser-update-9bd1942b53b7
+description: This post talks about the update of the MIB browser.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-browser-update-9bd1942b53b7
+tags: microsoft snmp
+title: '#SNMP Design: Browser Update'
 ---
 Since TwinTower release (1.5) is going to have a basic MIB browser, I started to finish the task step by step last week just after releasing UnicornHorn (1.0).
 <!--more-->

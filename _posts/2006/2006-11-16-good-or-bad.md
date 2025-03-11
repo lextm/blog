@@ -3,7 +3,7 @@ description: 这篇文章讲述了我找工作的困苦。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /潦倒还是快乐-499579b24255
-tags: others
+tags: work-life
 title: 潦倒还是快乐？
 ---
 (CSDN Nov 16, 2006)

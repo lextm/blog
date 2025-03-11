@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Simple Public/Private Key Signing Sample Code
-description: "This post is about a simple sample for public/private key signing."
-tags: IIS
+description: This post is about a simple sample for public/private key signing.
+tags: iis
 permalink: /simple-public-private-key-signing-sample-code-6f95d19fdbc
 excerpt_separator: <!--more-->
 ---

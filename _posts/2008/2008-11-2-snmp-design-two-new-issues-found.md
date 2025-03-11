@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Two New Issues Found"
-description: "This post is about two new issues found in #SNMP."
-tags: SNMP
-permalink: /snmp-design-two-new-issues-found-f4f0081a76de
+description: 'This post is about two new issues found in #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-two-new-issues-found-f4f0081a76de
+tags: snmp windows
+title: '#SNMP Design: Two New Issues Found'
 ---
 Two more #SNMP issues were reported this week. And luckily both of them have workarounds.
 <!--more-->

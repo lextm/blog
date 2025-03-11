@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "How to Step into .NET Core Source Code in VS Code"
-description: A post about how to configure vsdbg debugger and step into .NET Core source code in Visual Studio Code
-tags: .NET Visual-Studio-Code
+title: How to Step into .NET Core Source Code in VS Code
+description: A post about how to configure vsdbg debugger and step into .NET Core
+  source code in Visual Studio Code
+tags: .net visual-studio-code
 excerpt_separator: <!--more-->
 ---
 

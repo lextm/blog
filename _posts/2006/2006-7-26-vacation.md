@@ -3,7 +3,7 @@ description: 这篇文章讲述了假期开始的一些事情。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /假期开始-迷惘和兴奋交织-964503e8ac4d
-tags: others
+tags: work-life
 title: 假期开始：迷惘和兴奋交织
 ---
 (CSDN July 26, 2006)

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: The Puzzle of Zero"
-description: "This post talks about the zeroes in SNMP protocol."
-tags: SNMP
-permalink: /snmp-design-the-puzzle-of-zero-d26d9979f6
+description: This post talks about the zeroes in SNMP protocol.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-the-puzzle-of-zero-d26d9979f6
+tags: snmp
+title: '#SNMP Design: The Puzzle of Zero'
 ---
 It is hard to translate .0.0 and .0 into bytes, isn't it? According to AdventNet's implementation, both of them should be translated to {0x06, 0x01, 0x00}. So is this the correct answer? If it is, now I have a good explanation for a long existing bug here (maybe it is resolved as .0 simply because .0 and .0.0 share the same bytes).
 

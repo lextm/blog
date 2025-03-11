@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Doing USB In .NET Easily"
+title: Doing USB In .NET Easily
 description: This post talks about how to do USB in .NET easily.
-tags: .NET
+tags: .net
 permalink: /doing-usb-in-net-easily-93c79c888f01
 excerpt_separator: <!--more-->
 ---

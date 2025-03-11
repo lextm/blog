@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Parser Update"
-description: "This post talks about the update of the MIB parser."
-tags: SNMP
-permalink: /snmp-design-parser-update-51fa55793986
+description: This post talks about the update of the MIB parser.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-parser-update-51fa55793986
+tags: linux snmp
+title: '#SNMP Design: Parser Update'
 ---
 I know that it is impossible to write a perfect MIB parser in a few months, but I am still satisfied about the simple parser I wrote for #SNMP library in May and June as it successfully parses 70 Net-SNMP bundled MIB documents without an exception.
 <!--more-->

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: ".NET Core Installation with Visual Studio 2017 RC"
-description: "This post is about what .NET Core bits are installed with Visual Studio 2017 RC."
-tags: .NET Visual-Studio
+title: .NET Core Installation with Visual Studio 2017 RC
+description: This post is about what .NET Core bits are installed with Visual Studio
+  2017 RC.
+tags: .net visual-studio
 permalink: /net-core-installation-with-visual-studio-2017-rc-e4fc1b4c5905
 excerpt_separator: <!--more-->
 ---

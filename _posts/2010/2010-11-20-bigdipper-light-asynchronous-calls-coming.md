@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: Asynchronous Calls Coming"
-description: "This post is about the asynchronous calls in #SNMP 7."
-tags: SNMP
-permalink: /bigdipper-light-asynchronous-calls-coming-30eaee7f4b88
+description: 'This post is about the asynchronous calls in #SNMP 7.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-asynchronous-calls-coming-30eaee7f4b88
+tags: .net snmp
+title: 'BigDipper Light: Asynchronous Calls Coming'
 ---
 It was at the very beginning that users call for asynchronous GetResponse. Well, I did not provide them as I was not happy to provide the same copy of code several times in several places. Besides, .NET Framework offers so many approaches to make synchronous calls in asynchronous way.
 

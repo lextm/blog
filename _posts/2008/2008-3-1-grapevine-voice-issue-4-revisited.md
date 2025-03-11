@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Issue 4 Revisited"
 description: This post talks about the changes in 6.0 Update 1.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-issue-4-revisited-17f7247ca063
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-issue-4-revisited-17f7247ca063
+tags: .net
+title: 'GrapeVine Voice: Issue 4 Revisited'
 ---
 I reopened issue 4 earlier today, and luckily I fixed it again in an hour. The real problem behind the scene is how to determine a DLL is .NET.
 

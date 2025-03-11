@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CodeGear Is Hiring, But…"
-description: "This post talks about the CodeGear job openings."
-tags: Delphi
-permalink: /codegear-is-hiring-but-8432cc437d1a
+description: This post talks about the CodeGear job openings.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /codegear-is-hiring-but-8432cc437d1a
+tags: delphi
+title: CodeGear Is Hiring, But…
 ---
 For a long time, the Jobs section has been quiet and now you can see something new there. But what's wrong with it? Is there only one opening?
 

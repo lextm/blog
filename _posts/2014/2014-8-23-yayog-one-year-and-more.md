@@ -3,7 +3,7 @@ description: This post talks about my one year experience of following YAYOG.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /yayog-one-year-and-more-90792dd42f0b
-tags: others
+tags: work-life
 title: YAYOG, One Year and More
 ---
 开始遵照YAYOG健身已经一年多了。与其说是遵照，不如说是参考。自认为开头的时候体质太过单薄，所以各种练习的强度都尽量小，以求恢复快点，避免受伤。没有想到反而是这样懒散的态度和简化的方案，使得坚持如此的生活方式变得非常容易，于是便在100天之后得到了第一份自信。

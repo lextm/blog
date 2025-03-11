@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: UnicornHorn Refresh"
-description: "This post talks about the refresh release of UnicornHorn."
-tags: SNMP
-permalink: /snmp-design-unicornhorn-refresh-3e277b405804
+description: This post talks about the refresh release of UnicornHorn.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-unicornhorn-refresh-3e277b405804
+tags: snmp
+title: '#SNMP Design: UnicornHorn Refresh'
 ---
 There are two significant bugs inside UnicornHorn release that are fixed lately. Thus, I plan to release an refresh release this weekend. The version number should be 1.1.
 

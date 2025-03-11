@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Manual Installation of Firefox Extensions"
 description: This post talks about the manual installation of Firefox extensions.
-tags: Firefox
-permalink: /manual-installation-of-firefox-extensions-9ba8b416ce8a
 excerpt_separator: <!--more-->
+layout: post
+permalink: /manual-installation-of-firefox-extensions-9ba8b416ce8a
+tags: open-source
+title: Manual Installation of Firefox Extensions
 ---
 I tried the NASA Night Launch theme this morning at office and fell in love with it immediately. You may have a try, too. The only issue I met is that the default contrast is not as clear as Microsoft Expression Studio, so you could not easily recognize the grayed-out text.
 

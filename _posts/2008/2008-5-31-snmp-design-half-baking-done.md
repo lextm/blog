@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Half Baking Done"
-description: "This post talks about the release of #SNMP 0.5 (Halfbaked)."
-tags: SNMP
-permalink: /snmp-design-half-baking-done-b0ffcc9bc34d
+description: 'This post talks about the release of #SNMP 0.5 (Halfbaked).'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-half-baking-done-b0ffcc9bc34d
+tags: snmp
+title: '#SNMP Design: Half Baking Done'
 ---
 After a month, it is time to publish a release of #SNMP to public. So you can now find the Halfbaked (0.5) release here.
 

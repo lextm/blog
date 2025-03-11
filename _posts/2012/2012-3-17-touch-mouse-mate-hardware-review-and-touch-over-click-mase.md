@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Touch Mouse Mate: Hardware Review and Touch-over-click Mase"
-description: "This post is about the background information about Touch Mouse."
-tags: Windows
-permalink: /touch-mouse-mate-hardware-review-and-touch-over-click-mase-32f39db01a4c
+description: This post is about the background information about Touch Mouse.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /touch-mouse-mate-hardware-review-and-touch-over-click-mase-32f39db01a4c
+tags: microsoft windows
+title: 'Touch Mouse Mate: Hardware Review and Touch-over-click Mase'
 ---
-
 There are already tons of articles on the Internet talking about Microsoft Touch Mouse, its hardware specification, SDK, and so on. Then in this article I won't try to say something old, but reveal a few tips that I discovered.
 
 <!--more-->

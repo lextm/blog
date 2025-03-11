@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Promoting Open Source Projects"
-description: "This post talks about how to promote open source projects."
-tags: Others
-permalink: /promoting-open-source-projects-863ad2f838dc
+description: This post talks about how to promote open source projects.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /promoting-open-source-projects-863ad2f838dc
+tags: snmp
+title: Promoting Open Source Projects
 ---
 It is quite hard to make an open source project popular if you don't push it really hard. Sometimes people cannot find your project easily, or another project takes them away. So a little bit advertising won't hurt. But how to advertise depends heavily on the project characteristics.
 <!--more-->

@@ -6,7 +6,7 @@ image:
   path: /images/downtown-montreal.jpg
 layout: post
 permalink: /migrating-files-uwp-to-uno-part-i-ee20c4b0084a
-tags: macos uno-platform windows xamarin
+tags: macos windows .net
 title: Migrating Files UWP to Uno, Part I
 ---
 WinUI was developed as part of UWP and has been the foundation of many Windows 10 apps. [Uno Platform](https://platform.uno/docs/articles/intro.html) implements the same API surface on non-Windows platforms, so some applications can be migrated to iOS/Android/macOS (and even the Web via WebAssembly). But how difficult can such a migration be? In this series of posts, I will try to cover the story to migrate Files UWP, a medium size open source file explorer, to macOS.

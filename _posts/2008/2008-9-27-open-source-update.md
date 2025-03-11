@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "“对于开源的种种误读”的更新"
-description: "这篇文章讨论了微软公司的一些开源策略。"
-tags: Others
-permalink: /对于开源的种种误读-的更新-9d83150b8e35
+description: 这篇文章讨论了微软公司的一些开源策略。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /对于开源的种种误读-的更新-9d83150b8e35
+tags: work-life microsoft
+title: “对于开源的种种误读”的更新
 ---
 (CSDN Sept 27, 2008)
 

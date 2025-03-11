@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: FxCop and Gendarme"
 description: This post talks about the tools I use to keep the code clean.
-tags: SNMP
-permalink: /snmp-design-fxcop-and-gendarme-8bca59a85563
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-fxcop-and-gendarme-8bca59a85563
+tags: mono snmp
+title: '#SNMP Design: FxCop and Gendarme'
 ---
 It is really hard to keep rules in mind when drown in the developer passion. I am a human so I can help drowning, too. Therefore, I always asks for help.
 <!--more-->

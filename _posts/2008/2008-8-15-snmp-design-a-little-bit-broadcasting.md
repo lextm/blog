@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: A Little Bit Broadcasting"
-description: "This post talks about UDP broadcasting feature of #SNMP library."
-tags: SNMP
-permalink: /snmp-design-a-little-bit-broadcasting-954d2b48c1c6
+description: 'This post talks about UDP broadcasting feature of #SNMP library.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-a-little-bit-broadcasting-954d2b48c1c6
+tags: snmp windows
+title: '#SNMP Design: A Little Bit Broadcasting'
 ---
 Maybe you have this question just like me. If I already know there is a lot of SNMP enabled devices in my network, how can I add them easily? Yes, when I am not the administrator, I cannot have a list of IP addresses at hand. So, there is no hope, isn't it?
 <!--more-->

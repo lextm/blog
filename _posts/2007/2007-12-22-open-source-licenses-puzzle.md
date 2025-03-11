@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Open Source Licenses Puzzle"
 description: This post is about open source licenses puzzle.
-tags: Code-Beautifier-Collection Delphi
-permalink: /open-source-licenses-puzzle-d40590fbe2ad
 excerpt_separator: <!--more-->
+layout: post
+permalink: /open-source-licenses-puzzle-d40590fbe2ad
+tags: code-beautifier-collection
+title: Open Source Licenses Puzzle
 ---
 I am not a law school student, so I cannot understand those words. So today when I suddenly came across this link, I found that Code Beautifier Collection may break some rules somewhere.
 <!--more-->

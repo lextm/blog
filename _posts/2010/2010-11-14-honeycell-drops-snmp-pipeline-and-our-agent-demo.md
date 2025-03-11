@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "HoneyCell Drops: SNMP Pipeline And Our Agent Demo"
-description: "This post is about #SNMP's agent side technical details."
-tags: SNMP
-permalink: /honeycell-drops-snmp-pipeline-and-our-agent-demo-89986da1a5da
+description: 'This post is about #SNMP''s agent side technical details.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /honeycell-drops-snmp-pipeline-and-our-agent-demo-89986da1a5da
+tags: snmp
+title: 'HoneyCell Drops: SNMP Pipeline And Our Agent Demo'
 ---
-
 > A long time ago I wrote an agent demo for #SNMP. It is interesting to know how far we were away from a complete demo. You can still find [the post here]({% post_url 2008/2008-10-18-snmp-design-incomplete-agent-demo %}).
 >
 > More than two years passed and now we have 6.0 release out. How about a new post on our agent technical details? This one is for snmpd.

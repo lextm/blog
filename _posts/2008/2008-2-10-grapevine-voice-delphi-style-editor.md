@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Delphi Style Editor"
 description: This post talks about the Delphi style editor in CBC 6.0.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-delphi-style-editor-7e99f5a0de60
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-delphi-style-editor-7e99f5a0de60
+tags: code-beautifier-collection delphi
+title: 'GrapeVine Voice: Delphi Style Editor'
 ---
 > This is a post in the 6.0 New Features series, to promote my open source project.
 

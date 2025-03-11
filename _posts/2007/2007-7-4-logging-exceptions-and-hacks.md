@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Logging, Exceptions, and Hacks"
-description: "This post describes how to log exceptions."
-tags: Others
-permalink: /logging-exceptions-and-hacks-83bec1bf4075
+description: This post describes how to log exceptions.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /logging-exceptions-and-hacks-83bec1bf4075
+tags: work-life
+title: Logging, Exceptions, and Hacks
 ---
-
 In the development of my project, I have to connect to a device through sockets. The problem is that this device driver has a bug that prevents a PC to create a second socket with it. This means I have to take care of the socket I create every time. If a socket is not closed, I will never be able to connect to the device again. I do not want to reboot the device. However, there seems to be necessary.
 
 Since I am not the only one on this project, I ask for help. There is no positive reply. The one who is responsible to the socket part does not want to share the source with me. So what I can do is disassemble his part and modify it directly. Luckily I know how to use log4net, so I can insert some code to generate logs about socket creations and deletions. After reading the logs I can find out where is the leakage.

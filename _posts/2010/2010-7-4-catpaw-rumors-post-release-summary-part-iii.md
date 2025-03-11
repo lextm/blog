@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CatPaw Rumors: Post Release Summary Part III"
 description: This post is about the CF assembly.
-tags: SNMP
-permalink: /catpaw-rumors-post-release-summary-part-iii-d38b80d60ab1
 excerpt_separator: <!--more-->
+layout: post
+permalink: /catpaw-rumors-post-release-summary-part-iii-d38b80d60ab1
+tags: .net mono snmp
+title: 'CatPaw Rumors: Post Release Summary Part III'
 ---
 It is unexpected that CatPaw needs two refresh releases (5.1 and 5.2). But it shows a few bugs need to be addressed as soon as possible.
 

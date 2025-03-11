@@ -2,7 +2,7 @@
 layout: post
 title: .NET Framework Lifecycle Changes
 description: A post about .NET Framework lifecycle changes and what you should do
-tags: Windows .NET
+tags: windows .net
 excerpt_separator: <!--more-->
 ---
 

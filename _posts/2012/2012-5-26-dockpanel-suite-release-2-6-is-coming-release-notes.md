@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "DockPanel Suite: Release 2.6 is Coming (Release Notes)"
-description: "This post is about DockPanel Suite 2.6 release."
-tags: DockPanel-Suite
-permalink: /dockpanel-suite-release-2-6-is-coming-release-notes-bf7810a6b66b
+description: This post is about DockPanel Suite 2.6 release.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-release-2-6-is-coming-release-notes-bf7810a6b66b
+tags: dockpanel-suite
+title: 'DockPanel Suite: Release 2.6 is Coming (Release Notes)'
 ---
 Dear readers and C# WinForms developers,
 

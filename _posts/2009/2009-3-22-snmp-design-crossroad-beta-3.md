@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: CrossRoad Beta 3"
-description: "This post is about the new beta of #SNMP MIB Browser and Compiler."
-tags: SNMP
-permalink: /snmp-design-crossroad-beta-3-ce39689c01f9
+description: 'This post is about the new beta of #SNMP MIB Browser and Compiler.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-crossroad-beta-3-ce39689c01f9
+tags: snmp windows
+title: '#SNMP Design: CrossRoad Beta 3'
 ---
 I started to publish beta packages for 2.0 a few weeks ago and today Beta 3 is available. What's the drive of this new package? Well, I will share with you my story.
 <!--more-->

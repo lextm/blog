@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Installation Experience (Part II)"
-description: "This post talks about the installation experience of GrapeVine build."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-installation-experience-part-ii-b2899f34a18d
+description: This post talks about the installation experience of GrapeVine build.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-installation-experience-part-ii-b2899f34a18d
+tags: delphi inno-setup
+title: 'GrapeVine Voice: Installation Experience (Part II)'
 ---
 For MSI installers, it seems easier to install for all users. I do not have time to study MSI, so I try to make something similar with Inno Setup.
 <!--more-->

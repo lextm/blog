@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Framework Design Guidelines"
-description: "This post talks about the book Framework Design Guidelines."
-tags: .NET
-permalink: /framework-design-guidelines-b2d3f0efd53a
+description: This post talks about the book Framework Design Guidelines.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /framework-design-guidelines-b2d3f0efd53a
+tags: .net snmp
+title: Framework Design Guidelines
 ---
 Although Gendarme and FxCop may help to detect design flaws, they are not perfect. Thus, sometimes resorting to a great book like this is unavoidable.
 

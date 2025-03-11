@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "No More Comments on This Blog"
 description: This post is about the issue with Blogger.
-tags: Others
-permalink: /no-more-comments-on-this-blog-67c513e2f419
 excerpt_separator: <!--more-->
+layout: post
+permalink: /no-more-comments-on-this-blog-67c513e2f419
+tags: work-life
+title: No More Comments on This Blog
 ---
 I lost access to Blogger console due to the great firewall of China Mainland, so the net effect is no more comments can be approved by me.
 

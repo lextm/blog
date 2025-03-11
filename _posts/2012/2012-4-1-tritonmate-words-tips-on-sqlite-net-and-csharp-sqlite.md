@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: Tips on sqlite-net and csharp-sqlite"
-description: "This post is about tips on sqlite-net and csharp-sqlite."
-tags: SNMP .NET
-permalink: /tritonmate-words-tips-on-sqlite-net-and-csharp-sqlite-36ae8b1a3c89
+description: This post is about tips on sqlite-net and csharp-sqlite.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-tips-on-sqlite-net-and-csharp-sqlite-36ae8b1a3c89
+tags: .net snmp
+title: 'TritonMate Words: Tips on sqlite-net and csharp-sqlite'
 ---
 If you followed the recently changes in #SNMP, you know we have a new MIB compiler implementation based on ANTLR in the bottom layers, which exposes various new opportunities to explore.
 

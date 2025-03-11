@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Pass FxCop And NDepend"
 description: This posts talks about FxCop and NDepend generated reports.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-pass-fxcop-and-ndepend-ad7cbe830db2
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-pass-fxcop-and-ndepend-ad7cbe830db2
+tags: delphi
+title: 'GrapeVine Voice: Pass FxCop And NDepend'
 ---
 Why I did not release GrapeVine 6.0 yet? I thought I'd better review the source code carefully so FxCop and NDepend were used to analyse the code base.
 

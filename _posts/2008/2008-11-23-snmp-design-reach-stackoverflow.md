@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Reach StackOverflow"
-description: "This post is about questions about #SNMP on Stack Overflow site."
-tags: SNMP
-permalink: /snmp-design-reach-stackoverflow-b6b3177e3dcb
+description: 'This post is about questions about #SNMP on Stack Overflow site.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-reach-stackoverflow-b6b3177e3dcb
+tags: work-life snmp
+title: '#SNMP Design: Reach StackOverflow'
 ---
 I love StackOverflow a lot because it is a good place to share experience. But I did not realize it is also a good place to advertise #SNMP until I came across this link today (I found this link on CodePlex Stats page for #SNMP). I am so happy that #SNMP was recommended by my users. I must be doing something right, isn't it? :)
 

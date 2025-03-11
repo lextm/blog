@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "M8 Theme Builder（主题大师）用户手册: 教你简单制作魅族Meizu M8手机主题
-description: “这篇文章是关于 M8 Theme Builder 的用户手册"
-tags: Meizu
-permalink: /m8-theme-builder-主题大师-用户手册-教你简单制作魅族meizu-m8手机主题-d5d70027efe3
 excerpt_separator: <!--more-->
+layout: post
+permalink: /m8-theme-builder-主题大师-用户手册-教你简单制作魅族meizu-m8手机主题-d5d70027efe3
+tags: .net windows
+title: 'M8 Theme Builder（主题大师）用户手册: 教你简单制作魅族Meizu M8手机主题 description: “这篇文章是关于 M8
+  Theme Builder 的用户手册'
 ---
 (CSDN Oct 11, 2009)
 

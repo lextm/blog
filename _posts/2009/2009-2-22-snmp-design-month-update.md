@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Month Update"
-description: "This post is a monthly update from the team."
-tags: SNMP
-permalink: /snmp-design-month-update-7a8e5b675645
+description: This post is a monthly update from the team.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-month-update-7a8e5b675645
+tags: work-life snmp
+title: '#SNMP Design: Month Update'
 ---
 TwinTower was released about a month ago, so here is a month update from the team.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Tool Strips vs. Fluent/Ribbon UI"
 description: This post talks about the difference between tool strips and Ribbon UI.
-tags: Windows
-permalink: /tool-strips-vs-fluent-ribbon-ui-fac98821c7bd
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tool-strips-vs-fluent-ribbon-ui-fac98821c7bd
+tags: visual-studio windows
+title: Tool Strips vs. Fluent/Ribbon UI
 ---
 Ribbon UI is cool. If you have tried Office 2007, InstallAware 7, or NDepend, you know why it is cool. Although there are negative comments, I really find Ribbon UI a good way to organize so many commands in a rational manner (don't know why Microsoft decides to call it Fluent UI at last).
 <!--more-->

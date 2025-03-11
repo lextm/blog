@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Trident Sign: SNMP v3 Packet Format"
-description: "This post is about the packet format of SNMP v3."
-tags: SNMP
+title: 'Trident Sign: SNMP v3 Packet Format'
+description: This post is about the packet format of SNMP v3.
+tags: snmp
 permalink: /trident-sign-snmp-v3-packet-format-636565d73d8d
 excerpt_separator: <!--more-->
 ---

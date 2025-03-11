@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Windows Live Writer Special Tip"
-description: "This post talks about a special tip for Windows Live Writer."
-tags: Windows
-permalink: /windows-live-writer-special-tip-13fbf9ddfdb4
+description: This post talks about a special tip for Windows Live Writer.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /windows-live-writer-special-tip-13fbf9ddfdb4
+tags: work-life windows
+title: Windows Live Writer Special Tip
 ---
 I cannot access my blogspot account at home. Yes, I cannot see my homepage, while I was about to log in and edit posts.
 <!--more-->

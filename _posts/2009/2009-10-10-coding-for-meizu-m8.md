@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Coding For Meizu M8"
-description: "这篇文章是关于我为 Meizu M8做的一个美化工具"
-tags: Meizu
-permalink: /coding-for-meizu-m8-9dd629fe2604
+description: 这篇文章是关于我为 Meizu M8做的一个美化工具
 excerpt_separator: <!--more-->
+layout: post
+permalink: /coding-for-meizu-m8-9dd629fe2604
+tags: windows
+title: Coding For Meizu M8
 ---
 使用小八也有一段时间了，总是感觉做美化的时候工具太少。虽然市面上已经有了M8 Theme Editor，而且这个工具也凑合着够用了，但是和手工制作相比，这个工具还有一些缺陷，同时能够提供美化的内容也并不多。作为一个程序员，面对着如此困境总该有些特别的解决方式了。既然人家只是免费，而不提供源代码，那只能自己亲力亲为来做做开发M8 Theme Builder了。
 

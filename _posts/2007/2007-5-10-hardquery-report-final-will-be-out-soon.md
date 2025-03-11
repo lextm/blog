@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "HardQuery Report: Final Will Be Out Soon"
+title: 'HardQuery Report: Final Will Be Out Soon'
 description: This post is about the progress of HardQuery.
-tags: Code-Beautifier-Collection Delphi
+tags: code-beautifier-collection delphi
 permalink: /hardquery-report-final-will-be-out-soon-c2eea5c16540
 excerpt_separator: <!--more-->
 ---

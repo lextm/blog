@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "The Power Of Advertisements"
-description: "This post talks about the power of advertisements."
-tags: Code-Beautifier-Collection Delphi
-permalink: /the-power-of-ad-dc0d4c5ac7c9
+description: This post talks about the power of advertisements.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-power-of-ad-dc0d4c5ac7c9
+tags: code-beautifier-collection delphi
+title: The Power Of Advertisements
 ---
 Sometimes it is hard to convince myself to do some AD for Code Beautifier Collection, and I have so little knowledge on how to publish AD. But this time, with the help of Google Analytics I see the power of AD. Surprising!
 <!--more-->

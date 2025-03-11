@@ -3,7 +3,7 @@ description: 这篇文章讲述了我在十二月的感受。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /unsigned-long-december-e4e58e957e88
-tags: others
+tags: work-life
 title: Unsigned long December
 ---
 (CSDN Dec 26, 2006)

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Installer Hack"
 description: This post talks about a GrapeVine hack during installation.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-installer-hack-840558857a23
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-installer-hack-840558857a23
+tags: asp.net delphi
+title: 'GrapeVine Voice: Installer Hack'
 ---
 Install CBC for all users is not easy. I decide to hack bds.exe so as to make it easy. If every time bds.exe is launched, CBC registry key is checked, I can ensure CBC installed for all users (in fact if CodeGear does this for me and other developers it would be appreciated).
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: InstallAware Advantages Over Inno Setup"
 description: This post is about InstallAware and why it is better than Inno Setup.
-tags: Windows
-permalink: /product-review-installaware-advantages-over-inno-setup-f39f8d9c9f2
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-installaware-advantages-over-inno-setup-f39f8d9c9f2
+tags: delphi inno-setup
+title: 'Product Review: InstallAware Advantages Over Inno Setup'
 ---
 I do not like to do this kind of comparison because IMHO a commercial software should be better than the open source one or it is going to die. But [this post](http://www.hadihariri.com/Blogs/Atozed/20071218A.aspx) makes me speechless so I guess I can at least put down my opinions here.
 

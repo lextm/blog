@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Who Should Support Mono?"
-description: "This post talks about who should support Mono development."
-tags: Mono
-permalink: /who-should-support-mono-e5384b9d94d8
+description: This post talks about who should support Mono development.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /who-should-support-mono-e5384b9d94d8
+tags: .net linux mono
+title: Who Should Support Mono?
 ---
 In fact, Microsoft should support Mono. And it does something now! Mono project now has something called Moonlight runtime which enables Silverlight on Mac OS and Linux. Also there is a Lunar Eclipse project to replace Expression Blend.
 

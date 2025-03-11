@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Indirect Visit to My Blog Front Page"
 description: This post talks about a way to indirectly visit my blog front page.
-tags: Google
-permalink: /indirect-visit-to-my-blog-front-page-fa3dfbd4aded
 excerpt_separator: <!--more-->
+layout: post
+permalink: /indirect-visit-to-my-blog-front-page-fa3dfbd4aded
+tags: work-life
+title: Indirect Visit to My Blog Front Page
 ---
 Because of the Great Wall I cannot visit my blog at home (fortunately from this month on I can do it at office as IP address there is acquired from a San Jose server. It seems that in that way the Great Wall fails). However, last month I found out a way to indirectly visit the front page somehow. Since I suddenly forgot the link I did not post that earlier.
 <!--more-->

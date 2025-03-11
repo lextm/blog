@@ -7,7 +7,7 @@ image:
   path: /images/pavillion-e-ets.jpg
 layout: post
 permalink: /the-rough-history-of-net-core-debuggers-b9fb206dc4aa
-tags: .net microsoft visual-studio samsung
+tags: .net microsoft visual-studio
 title: The Rough History of .NET Core Debuggers
 ---
 There are several .NET Core debuggers out there from different vendors, and this post covers the major ones and their stories.

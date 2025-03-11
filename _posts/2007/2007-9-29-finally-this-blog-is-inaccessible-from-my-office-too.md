@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Finally This Blog Is Inaccessible From My Office Too"
 description: This post is to reveal that my blog is inaccessible even from my office.
-tags: Google
-permalink: /finally-this-blog-is-inaccessible-from-my-office-too-4f4df4f2e7b
 excerpt_separator: <!--more-->
+layout: post
+permalink: /finally-this-blog-is-inaccessible-from-my-office-too-4f4df4f2e7b
+tags: work-life
+title: Finally This Blog Is Inaccessible From My Office Too
 ---
 I know my blog cannot be accessed at home. I also know a lot of my friend cannot access it from other cities in China. And now I find out at last I cannot access it at office.
 

@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "CodeGear Merged into Embarcadero"
+categories:
+- History
+- Delphi
 description: This post talks about the merger of CodeGear into Embarcadero.
-tags: Delphi
-categories: [History, Delphi]
-permalink: /codegear-merged-into-embarcadero-a4d6531a1b88
 excerpt_separator: <!--more-->
+layout: post
+permalink: /codegear-merged-into-embarcadero-a4d6531a1b88
+tags: work-life delphi
+title: CodeGear Merged into Embarcadero
 ---
 Farewell Borland, though I am wearing a Borland T-Shirt today. It feels rather complicated and I guess many people feel the same.
 

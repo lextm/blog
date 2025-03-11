@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Trident Sign: Another Open Source SNMP Library via C#"
-description: "This post is about another open source SNMP library for .NET, snmp#net."
-tags: SNMP
-permalink: /trident-sign-another-open-source-snmp-library-via-c-4f2b904252
+description: This post is about another open source SNMP library for .NET, snmp#net.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /trident-sign-another-open-source-snmp-library-via-c-4f2b904252
+tags: .net snmp
+title: 'Trident Sign: Another Open Source SNMP Library via C#'
 ---
 I just came across another open source SNMP library for .NET, named SnmpSharpNet. Although this project is still a one-man show, and it started around November last year (well, younger than #SNMP), it did implement something missing in our project.
 <!--more-->

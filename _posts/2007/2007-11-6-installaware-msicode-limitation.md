@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "InstallAware MSIcode Limitation"
 description: This post talks about a limitation of InstallAware MSIcode.
-tags: Windows
-permalink: /installaware-msicode-limitation-e2e6c6aedeb
 excerpt_separator: <!--more-->
+layout: post
+permalink: /installaware-msicode-limitation-e2e6c6aedeb
+tags: windows
+title: InstallAware MSIcode Limitation
 ---
 You cannot write a loop in MSIcode, which sometimes makes things a bit bitter. For example, my uninstaller should wait to start uninstallation until the application exits. Generally speaking, it requires a loop to implement this wait behaviour.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HoneyCell Drops: Ubuntu Support"
-description: "This post is about #SNMP's support of Ubuntu 10.10."
-tags: SNMP Linux
-permalink: /honeycell-drops-ubuntu-support-74bade4942cb
+description: 'This post is about #SNMP''s support of Ubuntu 10.10.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /honeycell-drops-ubuntu-support-74bade4942cb
+tags: linux mono snmp
+title: 'HoneyCell Drops: Ubuntu Support'
 ---
 Last time we tested #SNMP 5 on openSUSE, but this time I use Ubuntu 10.10 Beta to test out #SNMP 6.
 

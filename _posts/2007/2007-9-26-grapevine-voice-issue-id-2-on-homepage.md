@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Issue ID 2 On Homepage"
-description: "This post is about a bug in M5."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-issue-id-2-on-homepage-6aec30a98f5
+description: This post is about a bug in M5.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-issue-id-2-on-homepage-6aec30a98f5
+tags: code-beautifier-collection delphi
+title: 'GrapeVine Voice: Issue ID 2 On Homepage'
 ---
 This is an urgent notice to my dear users of Code Beautifier Collection 6.0 M5. It seems that there is something changed in ToolsAPI so a new bug is found in M5. The details are described in this report.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Soaring"
-description: "This post talks about the progress of #SNMP library."
-tags: SNMP
-permalink: /snmp-design-soaring-e000d37de4c5
+description: 'This post talks about the progress of #SNMP library.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-soaring-e000d37de4c5
+tags: linux snmp
+title: '#SNMP Design: Soaring'
 ---
 It is really hard to focus on the browser design because it is a complex task. I got a lot of pains last weekend on the agent profile section, and had to stop to do other stuffs.
 

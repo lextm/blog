@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CatPaw Rumors: Repository Access, Good Mixture Or Bad?"
-description: "This post is about repository access issues on MonoDevelop on openSUSE"
-tags: SNMP
-permalink: /catpaw-rumors-repository-access-good-mixture-or-bad-e2aaebc1d686
+description: This post is about repository access issues on MonoDevelop on openSUSE
 excerpt_separator: <!--more-->
+layout: post
+permalink: /catpaw-rumors-repository-access-good-mixture-or-bad-e2aaebc1d686
+tags: mono sharpdevelop snmp
+title: 'CatPaw Rumors: Repository Access, Good Mixture Or Bad?'
 ---
 In order to test out #SNMP on Mono/openSUSE, I start to use MonoDevelop on openSUSE and it works fine in many aspects. But well soon issues arise.
 <!--more-->

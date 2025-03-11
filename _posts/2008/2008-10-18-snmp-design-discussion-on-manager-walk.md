@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Discussion on Manager.Walk"
-description: "This post is about a discussion on Manager.Walk design and implementation."
-tags: SNMP
-permalink: /snmp-design-discussion-on-manager-walk-e6c3c359ff9b
+description: This post is about a discussion on Manager.Walk design and implementation.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-discussion-on-manager-walk-e6c3c359ff9b
+tags: python snmp
+title: '#SNMP Design: Discussion on Manager.Walk'
 ---
 OK, according to Producing Open Source Software, there should be no private conversation under the surface, so I am going to publish a few conversations between me and Steve so you can be updated.
 <!--more-->

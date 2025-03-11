@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "#SNMP Design: Backport Flaw Or Best Practice"
-description: "This post is about the technical challenges back porting #SNMP to C# 2.0 and Visual Studio 2005."
-tags: SNMP
-permalink: /snmp-design-backport-flaw-or-best-practice-2bbe343b98f6
+description: 'This post is about the technical challenges back porting #SNMP to C#
+  2.0 and Visual Studio 2005.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-backport-flaw-or-best-practice-2bbe343b98f6
+tags: snmp visual-studio
+title: '#SNMP Design: Backport Flaw Or Best Practice'
 ---
-
 When Steve [finished the backport]({% post_url 2008/2008-12-6-snmp-design-backport-to-c-2-0-visual-studio-2005 %}) and discussed with me, both of us were aware that maintaining both VS2005 and VS2008 solution and project files are hard. Therefore, I began to research on that topic.
 
 <!--more-->

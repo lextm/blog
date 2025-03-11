@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "LeXtudio Fund: Initial Thoughts"
-description: This post is about LeXtudio Fund, my plan with the income of my personal studio.
-tags: Others
-permalink: /lextudio-fund-initial-thoughts-60d2e096ba55
+description: This post is about LeXtudio Fund, my plan with the income of my personal
+  studio.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /lextudio-fund-initial-thoughts-60d2e096ba55
+tags: work-life microsoft
+title: 'LeXtudio Fund: Initial Thoughts'
 ---
 I run a few open source projects under the title of LeXtudio. In the first few years all of them did not bring me any money. But my job at Fortune 500 companies (Cisco Systems/Microsoft in the past, and Morgan Stanley now) gives me enough to afford living in the most expensive (Shanghai) city in China, and now I even want to buy a small apartment this year.
 <!--more-->

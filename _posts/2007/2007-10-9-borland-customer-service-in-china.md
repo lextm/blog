@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Borland Customer Service In China"
-description: "This post talks about my experience with Borland Customer Service."
-tags: Delphi
-permalink: /borland-customer-service-in-china-f1e4f4e2583f
+description: This post talks about my experience with Borland Customer Service.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /borland-customer-service-in-china-f1e4f4e2583f
+tags: visual-studio windows
+title: Borland Customer Service In China
 ---
 My boss bought a Together 2006 for Visual Studio for the team. So my superviser who is a Senior gets the license. The license is bought in USA while we are here in Shanghai installing it so there were a few issues delaying our installation.
 <!--more-->

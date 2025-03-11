@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "#SNMP Design: Change Sets From Steve"
-description: "This post talks about the change sets from Steve."
-tags: SNMP
-permalink: /snmp-design-change-sets-from-steve-d413e1e0956a
+description: This post talks about the change sets from Steve.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-change-sets-from-steve-d413e1e0956a
+tags: work-life
+title: '#SNMP Design: Change Sets From Steve'
 ---
-
 Steve checked in twice this morning. I must confess that he adapts to Team Foundation Server much faster than me (cannot recall how many experimental check-ins I have done in the past). So, I am looking forward to seeing nice changes and bug fixes for the browser in the next few days or weeks (take your time, Steve, BTW).
 
 One thing that makes me astonished is that Steve and I have similar coding styles. And it is so hard to tell what changes (or mistakes possibly) are made by me or him. :-)

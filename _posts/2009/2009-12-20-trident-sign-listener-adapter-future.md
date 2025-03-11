@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Trident Sign: Listener Adapter Future"
-description: "This post is about the future of Listener Adapter"
-tags: SNMP
-permalink: /trident-sign-listener-adapter-future-e61bee9d07c1
+description: This post is about the future of Listener Adapter
 excerpt_separator: <!--more-->
+layout: post
+permalink: /trident-sign-listener-adapter-future-e61bee9d07c1
+tags: iis snmp
+title: 'Trident Sign: Listener Adapter Future'
 ---
 In the past, I have a lot of plans for the agent. Listener component is one of the most important pieces. So I must pay special attention to it.
 

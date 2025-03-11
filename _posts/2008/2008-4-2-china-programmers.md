@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "学习编程：中国程序员入门的怪现象之一――中文的困惑"
 description: 这篇文章讨论了中国程序员入门时的一个怪现象。
-tags: Others
-permalink: /学习编程-中国程序员入门的怪现象之一-中文的困惑-817c168c1ce7
 excerpt_separator: <!--more-->
+layout: post
+permalink: /学习编程-中国程序员入门的怪现象之一-中文的困惑-817c168c1ce7
+tags: work-life
+title: 学习编程：中国程序员入门的怪现象之一――中文的困惑
 ---
 (CSDN April 02, 2008)
 

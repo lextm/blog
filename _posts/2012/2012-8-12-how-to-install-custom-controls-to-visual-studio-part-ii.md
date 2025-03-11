@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "How to Install Custom Controls to Visual Studio, Part II"
-description: "This post is about how to install custom controls to Visual Studio."
-tags: .NET Visual-Studio
-permalink: /how-to-install-custom-controls-to-visual-studio-part-ii-cff4b3227ed3
+description: This post is about how to install custom controls to Visual Studio.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-install-custom-controls-to-visual-studio-part-ii-cff4b3227ed3
+tags: .net sharpdevelop visual-studio
+title: How to Install Custom Controls to Visual Studio, Part II
 ---
-
 > [Part I is here]({% post_url 2012/2012-8-11-how-to-install-custom-controls-to-visual-studio-part-i %})
 
 In part I I mentioned all you need to install your custom WinForms controls to Visual Studio 2008.

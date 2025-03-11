@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "GrapeVine Voice: Unhandled Exceptions Revisited, Part I"
 description: This post talks about how to handle unhandled exceptions.
-tags: Code-Beautifier-Collection Delphi
 excerpt_separator: <!--more-->
+layout: post
+tags: .net delphi
+title: 'GrapeVine Voice: Unhandled Exceptions Revisited, Part I'
 ---
 I have used Mauro's library to handle unhandled exceptions for years. However, lately I decided to improve my usage and added some advanced features such as sending exception logs to my mail box so that I can collect and analyse them.
 

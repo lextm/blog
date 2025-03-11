@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "SquareRoot Puzzle: IObjectTree, Find or Search?"
-description: "This post is about the design of IObjectTree.Find method"
-tags: SNMP
-permalink: /squareroot-puzzle-iobjecttree-find-or-search-eed6e2060504
+description: This post is about the design of IObjectTree.Find method
 excerpt_separator: <!--more-->
+layout: post
+permalink: /squareroot-puzzle-iobjecttree-find-or-search-eed6e2060504
+tags: .net snmp
+title: 'SquareRoot Puzzle: IObjectTree, Find or Search?'
 ---
 It is not easy to design a library, especially if the author tries to provide easy to use API. Therefore, only after so many revisions I finally have a chance to revisit a few annoying interfaces recently.
 <!--more-->

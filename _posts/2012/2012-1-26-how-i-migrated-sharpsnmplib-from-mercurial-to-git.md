@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "How I Migrated SharpSnmpLib From Mercurial to Git"
-description: "This post is about how I migrated #SNMP repo from Mercurial to Git."
-tags: Others
-permalink: /how-i-migrated-sharpsnmplib-from-mercurial-to-git-54a19d4419a5
+description: 'This post is about how I migrated #SNMP repo from Mercurial to Git.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-i-migrated-sharpsnmplib-from-mercurial-to-git-54a19d4419a5
+tags: snmp
+title: How I Migrated SharpSnmpLib From Mercurial to Git
 ---
 There are tons of articles on this topic. Here I just summarized what I have done.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Who Meets MSI Hell"
 description: This post is about Visual Studio installation issues.
-tags: Code-Beautifier-Collection Delphi
-permalink: /who-meets-msi-hell-8a16aa535afb
 excerpt_separator: <!--more-->
+layout: post
+permalink: /who-meets-msi-hell-8a16aa535afb
+tags: .net code-beautifier-collection delphi msbuild
+title: Who Meets MSI Hell
 ---
 I have installed and uninstalled Visual Studio 2005/2008 several times without tough problems until suddenly I cannot install Microsoft SQL Server 2005 any more. That installation seems crushed and cannot be easily restored.
 <!--more-->

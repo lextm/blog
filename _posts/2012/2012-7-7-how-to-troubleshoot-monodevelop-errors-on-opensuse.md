@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "How to Troubleshoot MonoDevelop Errors on openSUSE"
-description: "This post is about how to troubleshoot MonoDevelop errors on openSUSE."
-tags: Mono Linux
-permalink: /how-to-troubleshoot-monodevelop-errors-on-opensuse-93498e626335
+description: This post is about how to troubleshoot MonoDevelop errors on openSUSE.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-troubleshoot-monodevelop-errors-on-opensuse-93498e626335
+tags: linux mono
+title: How to Troubleshoot MonoDevelop Errors on openSUSE
 ---
 I am using openSUSE 12.1 and MonoDevelop (2.* and 3.*) displays an exception dialog at startup saying /MonoDevelop/Core/PlatformService experienced a problem. In fact, if you launch MonoDevelop from the Terminal (execute monodevelop at prompt), more information will be displayed.
 

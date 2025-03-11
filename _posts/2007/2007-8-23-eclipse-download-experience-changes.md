@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Eclipse Download Experience Changes"
-description: "This post talks about the changes in Eclipse download experience."
-tags: Java
-permalink: /eclipse-download-experience-changes-547b60438263
+description: This post talks about the changes in Eclipse download experience.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /eclipse-download-experience-changes-547b60438263
+tags: work-life
+title: Eclipse Download Experience Changes
 ---
 Maybe third party distributions finally hurt Eclipse Foundation a bit. Now when I try to download latest Eclipse, I find Europa, a bunch of official distribution packages.
 

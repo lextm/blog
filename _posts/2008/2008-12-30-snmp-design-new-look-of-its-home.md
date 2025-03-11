@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: New Look of Its Home"
-description: "This post is about the new look of #SNMP homepage on CodePlex."
-tags: SNMP
-permalink: /snmp-design-new-look-of-its-home-f300092084cc
+description: 'This post is about the new look of #SNMP homepage on CodePlex.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-new-look-of-its-home-f300092084cc
+tags: sharpdevelop snmp
+title: '#SNMP Design: New Look of Its Home'
 ---
 Well, after so many months I finally figured out how to create new Wiki pages on CodePlex.com. Therefore, now the homepage is no more crowded. The most important thing is that a unified FAQ page. Please feel free to comment on the organization so that I can adjust it later.
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Summer of Code: Google's Plan"
-description: "This post talks about Google's Summer of Code."
-tags: Google
-permalink: /summer-of-code-googles-plan-533c901a066e
+description: This post talks about Google's Summer of Code.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /summer-of-code-googles-plan-533c901a066e
+tags: microsoft mono
+title: 'Summer of Code: Google''s Plan'
 ---
 It is so wonderful that Google holds Summer of Code every year. After subscribing to Monologue, I can see how SoC helps Project Mono.
 

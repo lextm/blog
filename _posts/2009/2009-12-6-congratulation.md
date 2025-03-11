@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "给哥们的祝福"
-description: "这篇文章是关于给一个哥们的祝福"
-tags: Others
-permalink: /给哥们的祝福-4c6ffd68ed8
+description: 这篇文章是关于给一个哥们的祝福
 excerpt_separator: <!--more-->
+layout: post
+permalink: /给哥们的祝福-4c6ffd68ed8
+tags: work-life
+title: 给哥们的祝福
 ---
 哥们和我同桌已经是10年前的事情了。对，正好十年了。我还记得哥们那时候出众的风采，保留着哥们那时候的宝贵录音资料。唉，时光NND过得真快。
 

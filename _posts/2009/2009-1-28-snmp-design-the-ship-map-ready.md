@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: The Ship Map Ready"
-description: "This post is about the product roadmap for CrossRoad."
-tags: SNMP
-permalink: /snmp-design-the-ship-map-ready-76d33b946beb
+description: This post is about the product roadmap for CrossRoad.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-the-ship-map-ready-76d33b946beb
+tags: snmp
+title: '#SNMP Design: The Ship Map Ready'
 ---
 Like I said in the previous post, Steve and I had a long discussion this morning and worked out a small list of items for CrossRoad. (Note that we don't count bugs, as we want to fix them all as soon as possible always.)
 <!--more-->

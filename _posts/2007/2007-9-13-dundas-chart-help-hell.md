@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Dundas Chart Help Hell"
-description: "This post talks about the low quality help materials of Dundas Chart."
-tags: .NET
-permalink: /dundas-chart-help-hell-9cebbb2c5621
+description: This post talks about the low quality help materials of Dundas Chart.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dundas-chart-help-hell-9cebbb2c5621
+tags: .net sharpdevelop
+title: Dundas Chart Help Hell
 ---
 I thought Dundas Chart was great, so I recommended my company bought it. However, when I installed and used it, I found the help in fact helpless sometimes.
 

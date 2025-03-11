@@ -6,7 +6,7 @@ image:
   path: /images/columbia-university.jpg
 layout: post
 permalink: /secrets-behind-jetbrains-rider-and-iis-express-d2ad006301e1
-tags: .net iis jetbrains
+tags: .net iis
 title: Secrets Behind JetBrains Rider and IIS Express
 ---
 I did not realize JetBrains was working on IIS/IIS Express integration, as I uninstalled Rider from my Windows machine, and only use it on Mac. However, it was [a Stack Overflow thread](https://stackoverflow.com/questions/45560884/jetbrain-rider-access-denied-when-using-iis-express-with-windows-authenticatio) that drew my attention a few days ago.

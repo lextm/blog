@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "New Inno Setup Installer Script Samples (Version Compare, Running Processes)"
-description: "This post is about two new Inno Setup installer script samples."
-tags: Inno-Setup
-permalink: /new-inno-setup-installer-script-samples-version-compare-running-processes-112b407de77e
+description: This post is about two new Inno Setup installer script samples.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /new-inno-setup-installer-script-samples-version-compare-running-processes-112b407de77e
+tags: delphi inno-setup
+title: New Inno Setup Installer Script Samples (Version Compare, Running Processes)
 ---
-
 A long time ago, I used Inno Setup extensively on open source projects, such as Code Beautifier Collection (https://github.com/lextudio/codebeautifiercollection). At that time I was able to share a few tips,
 
 - [Initial post]({% post_url 2007/2007-8-28-inno-setup-script-sample-for-version-comparison %})
