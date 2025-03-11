@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Roadmap of Stage 2.4"
 description: A post about product roadmap for release 2.4
-tags: Code-Beautifier-Collection Delphi
-permalink: /roadmap-of-stage-2-4-ef26e79bebfb
 excerpt_separator: <!--more-->
+layout: post
+permalink: /roadmap-of-stage-2-4-ef26e79bebfb
+tags: code-beautifier-collection delphi
+title: Roadmap of Stage 2.4
 ---
-
 (Originally posted to CSDN on Feb 21, 2006)
 <!--more-->
 

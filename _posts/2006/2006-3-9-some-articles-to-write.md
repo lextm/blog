@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Some articles to write"
 description: A post about some articles I am going to write
-tags: Code-Beautifier-Collection Delphi
-permalink: /some-articles-to-write-7045892bc3af
 excerpt_separator: <!--more-->
+layout: post
+permalink: /some-articles-to-write-7045892bc3af
+tags: delphi code-beautifier-collection
+title: Some articles to write
 ---
 (Originally posted to CSDN on March 09, 2006)
 

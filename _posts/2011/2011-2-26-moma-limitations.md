@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "MoMA Limitations"
-description: "This post is about MoMA tool limitations."
-tags: Mono
-permalink: /moma-limitations-e5438c2c1187
+description: This post is about MoMA tool limitations.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /moma-limitations-e5438c2c1187
+tags: mono
+title: MoMA Limitations
 ---
 To port a Windows/.NET application to Linux/Mono, you must have too many skills and a lot of patience. Though Mono team invent MoMA and keep improving it, there are still some areas MoMA cannot cover. These are the limitations you should pay special attention to. I found them during porting #SNMP to openSUSE/Mono.
 <!--more-->

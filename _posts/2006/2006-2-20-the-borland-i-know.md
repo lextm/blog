@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "The Borland I Know"
 description: 介绍了自己对 Borland 的很多看法
-tags: Code-Beautifier-Collection Delphi
-permalink: /the-borland-i-know-141062ba985a
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-borland-i-know-141062ba985a
+tags: code-beautifier-collection delphi
+title: The Borland I Know
 ---
 (Originally posted to CSDN on Feb 20, 2006)
 

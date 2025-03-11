@@ -1,13 +1,13 @@
 ---
-layout: post
-title: "Somewhere Called Home"
-description: "This post is about my new home."
-tags: Others
-permalink: /somewhere-called-home-93e321b37a25
+description: This post is about my new home.
 excerpt_separator: <!--more-->
 image:
-  path: /images/home-2011.jpg
   alt: New Home.
+  path: /images/home-2011.jpg
+layout: post
+permalink: /somewhere-called-home-93e321b37a25
+tags: others
+title: Somewhere Called Home
 ---
 Wish I can move in sooner. Yes, a place called home.
 <!--more-->

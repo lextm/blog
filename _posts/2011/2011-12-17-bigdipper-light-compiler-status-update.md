@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: Compiler Status Update"
-description: "This post is about the status of the new compiler for #SNMP."
-tags: SNMP
-permalink: /bigdipper-light-compiler-status-update-f5d2b2f6103d
+description: 'This post is about the status of the new compiler for #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-compiler-status-update-f5d2b2f6103d
+tags: antlr snmp
+title: 'BigDipper Light: Compiler Status Update'
 ---
 A long time ago I announced that we will use ANTLR or other compiler framework to build a new MIB compiler. However, that approach did not work out as soon as I expected. It takes time to learn ANTLR and the tricks to play with them.
 <!--more-->

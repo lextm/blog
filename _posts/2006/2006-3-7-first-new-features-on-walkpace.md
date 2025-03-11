@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "First new features on WalkPace"
 description: A post about first new features on WalkPace, Doc Preview
-tags: Code-Beautifier-Collection Delphi
-permalink: /first-new-features-on-walkpace-78da92f304b
 excerpt_separator: <!--more-->
+layout: post
+permalink: /first-new-features-on-walkpace-78da92f304b
+tags: delphi sharpdevelop code-beautifier-collection
+title: First new features on WalkPace
 ---
 (Originally posted to CSDN on March 07, 2006)
 

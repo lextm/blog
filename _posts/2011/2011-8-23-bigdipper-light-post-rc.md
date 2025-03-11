@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: Post RC"
-description: "This post is about the latest RC build of #SNMP 7."
-tags: SNMP
-permalink: /bigdipper-light-post-rc-fc68076fa85c
+description: 'This post is about the latest RC build of #SNMP 7.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-post-rc-fc68076fa85c
+tags: .net snmp
+title: 'BigDipper Light: Post RC'
 ---
 Long time not see, my friends. Now the 7.0 release of #SNMP is coming.
 

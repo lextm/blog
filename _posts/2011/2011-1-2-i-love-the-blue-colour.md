@@ -1,13 +1,13 @@
 ---
-layout: post
-title: "I Love The Blue Colour"
-description: "This post is about my previous employer."
-tags: Microsoft
-permalink: /i-love-the-blue-colour-d4b2948cf9d
+description: This post is about my previous employer.
 excerpt_separator: <!--more-->
 image:
-  path: /images/blue-2011.jpg
   alt: Microsoft Zizhu Campus.
+  path: /images/blue-2011.jpg
+layout: post
+permalink: /i-love-the-blue-colour-d4b2948cf9d
+tags: others microsoft
+title: I Love The Blue Colour
 ---
 Someone contacted me a few days ago about my previous employer. That makes me feel bit of "miss you". So today when I find this old photo on the hard disk, it is time to publish it.
 
