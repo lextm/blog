@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jexus Manager: UAC Shield Icon and WinForms Buttons"
-description: "This post is about how Jexus Manager shows UAC shield icon with WinForms buttons."
-tags: Jexus-Manager
-permalink: /jexus-manager-uac-shield-icon-and-winforms-buttons-db702ed73e13
+description: This post is about how Jexus Manager shows UAC shield icon with WinForms buttons.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-manager-uac-shield-icon-and-winforms-buttons-db702ed73e13
+tags: .net jexus-manager
+title: 'Jexus Manager: UAC Shield Icon and WinForms Buttons'
 ---
 You might notice that in recent builds of Jexus Manager that the UAC shield icon starts to appear sometimes. This is because some operations require administrator permissions, and such permissions should be required on demand, instead of forcing you to run Jexus Manager entirely as administrator.
 <!--more-->

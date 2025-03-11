@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jexus Manager: SNI Support in HTTP API Wrapper for C#/.NET"
-description: "This post is about how to access SNI information in C# code."
-tags: Jexus-Manager IIS .NET
-permalink: /jexus-manager-sni-support-in-http-api-wrapper-for-c-net-3c56d620b2b2
+description: This post is about how to access SNI information in C# code.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-manager-sni-support-in-http-api-wrapper-for-c-net-3c56d620b2b2
+tags: .net iis jexus-manager
+title: 'Jexus Manager: SNI Support in HTTP API Wrapper for C#/.NET'
 ---
 You probably know already that [IIS 8 and above start to support SNI](https://www.iis.net/learn/get-started/whats-new-in-iis-8/iis-80-server-name-indication-sni-ssl-scalability), and also know that such information is stored in HTTP API (http.sys related).
 <!--more-->
