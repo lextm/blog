@@ -14,7 +14,7 @@ SNMP#NET is a .NET library developed to simplify the creation of SNMP-based appl
 
 ## Early Days
 
-The SNMP#NET library was introduced around 2008, targeting the .NET Framework for network management and monitoring applications. At that time, SNMP libraries were limited, especially for the .NET ecosystem, with [#SNMP](https://sharpsnmp.com) as the only other open-source option. Unlike #SNMP, SNMP#NET initially offered more features, including early support for SNMP v3 and robust documentation. This motivated developers and provided a competitive alternative, inspiring projects like #SNMP to keep up and improve.
+The SNMP#NET library was introduced around 2008 by Milan Sinadinovic, targeting the .NET Framework for network management and monitoring applications. At that time, SNMP libraries were limited, especially for the .NET ecosystem, with [#SNMP](https://sharpsnmp.com) as the only other open-source option. Unlike #SNMP, SNMP#NET initially offered more features, including early support for SNMP v3 and robust documentation. This motivated developers and provided a competitive alternative, inspiring projects like #SNMP to keep up and improve.
 
 ## Development and Key Features
 
@@ -37,5 +37,6 @@ You are welcome to migrate to [#SNMP](https://sharpsnmp.com) for your SNMP needs
 ## References
 
 - [Old SNMP#NET SourceForge Site](https://sourceforge.net/projects/snmpsharpnet/files/snmpsharpnet/)
+- [Milan Sinadinovic on LinkedIn](https://www.linkedin.com/in/milansinadinovic/)
 - [SNMP#NET on GitHub](https://github.com/rqx110/SnmpSharpNet)
 - [SNMP#NET NuGet Package](https://www.nuget.org/packages/SnmpSharpNet)
