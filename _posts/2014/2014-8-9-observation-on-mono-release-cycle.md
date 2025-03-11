@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Observation on Mono Release Cycle"
-description: "This post is about the recent release cycles of Mono."
-tags: Mono
-permalink: /observation-on-mono-release-cycle-ad4ef995cd19
+description: This post is about the recent release cycles of Mono.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /observation-on-mono-release-cycle-ad4ef995cd19
+tags: linux mono
+title: Observation on Mono Release Cycle
 ---
 In recently months (I personally think starting from the Xamarin phase), it has been a misery to know which Mono release is stable. This project goes a little in the way of Android, that
 

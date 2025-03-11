@@ -1,12 +1,11 @@
 ---
-layout: post
-title: ".NET 开放源代码和Mono相关的常见问题（持续更新中）"
-description: "本文是对.NET 开放源代码和 Mono 相关的常见问题的总结。"
-tags: .NET Mono
-permalink: /net-开放源代码和mono相关的常见问题-持续更新中-2e74e039945d
+description: 本文是对.NET 开放源代码和 Mono 相关的常见问题的总结。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /net-开放源代码和mono相关的常见问题-持续更新中-2e74e039945d
+tags: .net mono xamarin open-source
+title: .NET 开放源代码和Mono相关的常见问题（持续更新中）
 ---
-
 ## Q1: Mono 已死
 
 我：Mono 历经十余年发展，已经成长为一个庞大的生态系统。.NET Framework 和 Mono 的交集仅限于 CLR/编译器/BCL 底层以及 Web 栈。.NET Framework 的上层为 Windows 和 Azure 设计。Mono 上层针对 Linux, OS X 等多平台设计，其中不可替代的东西很多(虽然很多被 Xamarin 拿去做了商业化产品，如Xamarin.Mac)。

@@ -1,13 +1,12 @@
 ---
-layout: post
-title: "DockPanel Suite: Skins, Schemas, and Themes"
-description: "This post talks about the history of skins, schemas, and themes in DockPanel Suite."
-tags: .NET DockPanel-Suite
 categories: [History, .NET]
-permalink: /dockpanel-suite-skins-schemas-and-themes-a080747aa1c8
+description: This post talks about the history of skins, schemas, and themes in DockPanel Suite.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-skins-schemas-and-themes-a080747aa1c8
+tags: .net dockpanel-suite visual-studio
+title: 'DockPanel Suite: Skins, Schemas, and Themes'
 ---
-
 In the adventure of VS2012 Light theme support, I have gained further knowledge on how DPS works internally. Thus, I summarized what I learnt [in this blog post]({% post_url 2013/2013-5-4-dockpanel-suite-a-summary-on-visual-studio-2012-light-theme %}). What I missed was a detailed explanation on the confusing terms used throughout the code base. Hope this post is not too late for anyone who would like to customize DPS look and feel.
 
 <!--more-->

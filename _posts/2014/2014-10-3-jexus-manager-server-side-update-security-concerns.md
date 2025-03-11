@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jexus Manager Server Side Update: Security Concerns"
-description: "This post is about how Jexus Manager server side is updated to address security concerns."
-tags: Jexus-Manager Linux Mono
-permalink: /jexus-manager-server-side-update-security-concerns-4ecb6dd3ff1d
+description: This post is about how Jexus Manager server side is updated to address security concerns.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-manager-server-side-update-security-concerns-4ecb6dd3ff1d
+tags: jexus-manager linux
+title: 'Jexus Manager Server Side Update: Security Concerns'
 ---
 Before the 1.0 release of Jexus Manager, several security protection were added gradually.
 <!--more-->

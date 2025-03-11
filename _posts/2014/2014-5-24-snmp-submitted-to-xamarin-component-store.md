@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Submitted to Xamarin Component Store"
 description: This post covers the steps I did to make the store submission and hope to show other developers how to properly make their components ready for Xamarin platforms.
-tags: SNMP Mono
-permalink: /snmp-submitted-to-xamarin-component-store-9a22d7d1e9f8
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-submitted-to-xamarin-component-store-9a22d7d1e9f8
+tags: xamarin snmp .net
+title: '#SNMP Submitted to Xamarin Component Store'
 ---
 You probably noticed that #SNMP repository has been quiet for a while, except a new folder named xamarin_support added in January. Yes, I have been working on official Xamarin support for a few weeks now, though the progress is really slow. This post is going to cover the steps I did to make the store submission and hope to show other developers how to properly make their components ready for Xamarin platforms.
 <!--more-->
