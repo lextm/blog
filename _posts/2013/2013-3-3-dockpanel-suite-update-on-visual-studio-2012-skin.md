@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "DockPanel Suite: Update on Visual Studio 2012 Skin"
-description: "This post talks about the update on Visual Studio 2012 skin for DockPanel Suite."
-tags: DockPanel-Suite
-permalink: /dockpanel-suite-update-on-visual-studio-2012-skin-1dcb4e32fe67
+description: This post talks about the update on Visual Studio 2012 skin for DockPanel
+  Suite.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-update-on-visual-studio-2012-skin-1dcb4e32fe67
+tags: dockpanel-suite visual-studio
+title: 'DockPanel Suite: Update on Visual Studio 2012 Skin'
 ---
 We have received patches from @han6man as he/she has attempted to create a new skin for DockPanel Suite that simulates Visual Studio 2012 Light theme. This is really a lot of work though the changes are merely a few lines of new code. So I would like to thank him/her for this great contribution to the community.
 <!--more-->
@@ -18,6 +19,6 @@ However, several problems occur before we can fully make use of the patches,
 
 Not sure if we can finish this work in the next few weeks. If the introduction of this new skin will lead to significant refactoring, we might have to defer it to a breaking release such as 3.0.
 
-Anyway you are welcome to check out the patches (originally on https://github.com/dockpanelsuite/dockpanelsuite/issues/59, or under my feature branch https://github.com/dockpanelsuite/dockpanelsuite/commit/7d430b7e0188067e5826529ab2c5b7a034e38e76).
+Anyway you are welcome to check out the patches, originally in [this issue](https://github.com/dockpanelsuite/dockpanelsuite/issues/59), or under [my feature branch](https://github.com/dockpanelsuite/dockpanelsuite/commit/7d430b7e0188067e5826529ab2c5b7a034e38e76).
 
 Comments are also welcome.

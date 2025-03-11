@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Jexus Series: How to Install Jexus Web Server 5.3.1 on Ubuntu 13.04"
-description: "This post talks about how to install Jexus Web Server 5.3.1 on Ubuntu 13.04."
-tags: Jexus-Manager Linux
-permalink: /jexus-series-how-to-install-jexus-web-server-5-3-1-on-ubuntu-13-04-fb344997faa0
+description: This post talks about how to install Jexus Web Server 5.3.1 on Ubuntu
+  13.04.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-series-how-to-install-jexus-web-server-5-3-1-on-ubuntu-13-04-fb344997faa0
+tags: asp.net jexus-manager linux
+title: 'Jexus Series: How to Install Jexus Web Server 5.3.1 on Ubuntu 13.04'
 ---
 This is a series of posts regarding the free Linux web server called Jexus.
 
@@ -12,7 +13,7 @@ This is a series of posts regarding the free Linux web server called Jexus.
 
 Jexus Web Server is a free web server for Linux (it is free, but not open source). It is powered by Mono and aims to provide best support for ASP.NET applications (while it also provides excellent PHP support out of the box).
 
-Its homepage is at http://www.linuxdot.net/ (in Simplified Chinese).
+Its homepage is [here](http://www.linuxdot.net/) in Simplified Chinese.
 <!--more-->
 
 ## Install Steps
@@ -55,13 +56,14 @@ Its homepage is at http://www.linuxdot.net/ (in Simplified Chinese).
 
    Here we put Jexus binary to /usr/jexus folder, grant the jws shell script file execution permission, and then use it to register Jexus modules in Mono GAC and launch the HTTP service. If you want to install Jexus to another location, please change the commands accordingly.
 
-Now if we open Firefox and navigate to http://localhost, the test page we created is displayed correctly,
+Now if we open Firefox and navigate to `http://localhost`, the test page we created is displayed correctly,
 
 In the next post in this series, we will see how to upgrade from an older Jexus release to a new release. Stay tuned.
 
-If you are interested in Jexus, but do not understand Chinese well, you can post your questions to https://github.com/jexuswebserver/jexus-contrib/issues.
+If you are interested in Jexus, but do not understand Chinese well, you can post your questions to [here](https://github.com/jexuswebserver/jexus-contrib/issues).
 
-## Updated:
+## Updated
+
 Below is the alternative way in step 3 to create the test page using vi,)
 
 1. `sudo vi /var/www/default/index.html`

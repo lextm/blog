@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jexus Series: Management Script and Commands"
-description: "This post talks about Jexus management script and commands."
-tags: Jexus-Manager Linux
-permalink: /jexus-series-management-script-and-commands-2d0b8eaf673e
+description: This post talks about Jexus management script and commands.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-series-management-script-and-commands-2d0b8eaf673e
+tags: jexus-manager linux
+title: 'Jexus Series: Management Script and Commands'
 ---
 Starting Jexus 5.3 the commands are merged into one Shell script, /usr/jexus/jws.
 <!--more-->

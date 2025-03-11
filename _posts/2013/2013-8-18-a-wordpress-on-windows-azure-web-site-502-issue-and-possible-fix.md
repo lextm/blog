@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "A WordPress on Windows Azure Web Site 502 Issue and Possible Fix"
-description: "This post talks about a 502 issue I met on my WordPress blog hosted on Windows Azure."
-tags: Azure
-permalink: /a-wordpress-on-windows-azure-web-site-502-issue-and-possible-fix-e9c8bf77e360
+description: This post talks about a 502 issue I met on my WordPress blog hosted on
+  Windows Azure.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /a-wordpress-on-windows-azure-web-site-502-issue-and-possible-fix-e9c8bf77e360
+tags: azure iis
+title: A WordPress on Windows Azure Web Site 502 Issue and Possible Fix
 ---
 > First I claim that this fixed the 502 issue for my own blog (this page you visit). Due to the complexity of WordPress/PHP/IIS/Windows Azure, you might hit another 502 issue caused by another cause and that won't be resolved by following this post.
 

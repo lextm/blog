@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jexus Series: How to Upgrade Jexus on Ubuntu"
-description: "This post talks about how to upgrade Jexus on Ubuntu."
-tags: Jexus-Manager Linux
-permalink: /jexus-series-how-to-upgrade-jexus-on-ubuntu-167ae3a1b6ef
+description: This post talks about how to upgrade Jexus on Ubuntu.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-series-how-to-upgrade-jexus-on-ubuntu-167ae3a1b6ef
+tags: asp.net jexus-manager linux mono
+title: 'Jexus Series: How to Upgrade Jexus on Ubuntu'
 ---
 > In last post we discussed how to install Jexus on a clean Ubuntu 13.04 machine. Here we discuss how to upgrade from Jexus 5.2 to 5.3.1.
 
@@ -12,10 +12,11 @@ excerpt_separator: <!--more-->
 
 Jexus Web Server is a free web server for Linux (it is free, but not open source). It is powered by Mono and aims to provide best support for ASP.NET applications (while it also provides excellent PHP support out of the box).
 
-Its homepage is at http://www.linuxdot.net/ (in Simplified Chinese).
+Its homepage is [here](http://www.linuxdot.net/) in Simplified Chinese.
 <!--more-->
 
 ## Upgrade Steps
+
 1. Download and unpack Jexus
 
    ``` bash

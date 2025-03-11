@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "What You Should Say About Performance Issues Instead of 'I Feel It Slow'"
-description: "This post talks about how to discuss performance issues with others with clear descriptions."
-tags: IIS
-permalink: /what-you-should-say-about-performance-issues-instead-of-i-feel-it-slow-313b0e871aad
+description: This post talks about how to discuss performance issues with others with
+  clear descriptions.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /what-you-should-say-about-performance-issues-instead-of-i-feel-it-slow-313b0e871aad
+tags: asp.net iis
+title: What You Should Say About Performance Issues Instead of 'I Feel It Slow'
 ---
 It is very often that we see people describe performance issues they meet with similar phrases such as "I feel it slow". Well, this is rather a bad way to discuss with others about web site performance. Then what should we do when a performance issue occurs? At least you should do the following.
 <!--more-->

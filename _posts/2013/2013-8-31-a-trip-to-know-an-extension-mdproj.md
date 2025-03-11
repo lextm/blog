@@ -1,9 +1,10 @@
 ---
+description: This post talks about how I find out the relationship between Rational
+  XDE and mdproj extension.
 layout: post
-title: "A Trip to Know an Extension, mdproj"
-description: "This post talks about how I find out the relationship between Rational XDE and mdproj extension."
-tags: Java
 permalink: /a-trip-to-know-an-extension-mdproj-ccefe199864a
+tags: visual-studio
+title: A Trip to Know an Extension, mdproj
 ---
 Assume that you just come across a file that ends with mdproj extension. How do you know which software generated it?
 <!--more-->
@@ -26,4 +27,4 @@ Aha, clearly mdx extension is for UML models. So soon we can confirm from previo
 
 So this is the story about how I find out the relationship between Rational XDE and mdproj extension, while personally I have never used Rational XDE in the past.
 
-For your reference, this post comes from a StackOverflow question, http://stackoverflow.com/questions/17732870/open-mdproj-file-in-vs2010/17800480#17800480
+For your reference, this post comes from [a StackOverflow question](http://stackoverflow.com/questions/17732870/open-mdproj-file-in-vs2010/17800480#17800480).

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "How to Use NuGet on Mono, Part II"
-description: "In this part, we document how to get NuGet package restore working."
-tags: .NET Mono
-permalink: /how-to-use-nuget-on-mono-part-ii-1e71e55757bd
+description: In this part, we document how to get NuGet package restore working.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-use-nuget-on-mono-part-ii-1e71e55757bd
+tags: .net mono linux
+title: How to Use NuGet on Mono, Part II
 ---
-[Update: Microsoft starts to officially support Mono, so please simply use latest NuGet executable such as 3.5]
+
+> Update: Microsoft starts to officially support Mono, so please simply use latest NuGet executable such as 3.5.
 
 > In part I we see how to get the command line tool running. In this part, we document how to get NuGet package restore working.
 
