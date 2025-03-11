@@ -1,21 +1,16 @@
 ---
-layout: post
-title: "SharpSnmp vs. SnmpSharpNet"
-description: "This post is about the similarity and difference between #SNMP and SnmpSharpNet."
-tags: SNMP
-permalink: /sharpsnmp-vs-snmpsharpnet-5fdce55232e7
+description: 'This post is about the similarity and difference between #SNMP and SnmpSharpNet.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /sharpsnmp-vs-snmpsharpnet-5fdce55232e7
+tags: .net snmp open-source
+title: SharpSnmp vs. SnmpSharpNet
 ---
-
 This post was based on my original answer to this Stack Overflow question,
 
 http://stackoverflow.com/questions/10841613/sharpsnmp-vs-snmpsharpnet/10845234#10845234
 
 I try to provide a few updates and also provide more details.
-
-#SNMP homepage is at https://sharpsnmp.com.
-
-SNMP#NET homepage is at http://snmpsharpnet.com.
 
 <!--more-->
 
@@ -41,9 +36,7 @@ The final API design was inspired by Dart's PowerSNMP for .NET, but of course I 
 
 Therefore, if you have a chance to review all releases of #SNMP, you will see that it always tries to maintain simplicity on API side. Even if you plan to perform SNMP v3 operations or write an SNMP agent, you can just use a few lines of code once you understand how #SNMP works.
 
-SNMP#NET seems to be heavily influenced by snmp4j,
-
-http://snmpsharpnet.com/node/1
+SNMP#NET seems to be heavily influenced by snmp4j, based on its code structure and naming conventions. Milan mentioned this in the documentation.
 
 Personally I dislike that, though it may help a few Java developers to migrate their projects to C#/.NET, it does not make very good use of C# language and .NET platform. As I am kind of familiar with SNMP#NET's weakness, [I wrote some tip]({% post_url 2011/2011-2-2-a-tip-for-snmpsharpnet-users %}) about how to properly use it.
 
@@ -55,9 +48,7 @@ milans and I have different backgrounds, so we chose different approaches to man
 
 I also tried to put down my ideas on the development on my blog. The long term benefits I get from that is joyful. Every now and then I find it fun to refactor the code, to add new features, and perform reviews on the change sets, because of the good records I have kept. If you can track the evolution of your project, you will find the same.
 
-However, SNMP#NET is on another extreme. From SNMP#NET I could not see any unit test suite. I don't know how it was tested. It just magically works, and is stable. And this project only releases source code snapshots with binaries. There is no public repository for it. Milan used to blog here,
-
-http://www.snmpsharpnet.com/blog/3
+However, SNMP#NET is on another extreme. From SNMP#NET I could not see any unit test suite. I don't know how it was tested. It just magically works, and is stable. And this project only releases source code snapshots with binaries. There is no public repository for it. Milan used to blog about SNMP#NET, but that domain name was lost.
 
 But he haven't written a new post in the past two years.
 
