@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Esbonio VS Code Reviewers' Guide"
-description: "A comprehensive guide for reviewers to test Esbonio VS Code extension, covering environment setup, preparation, testing, typical errors, and more. Learn how to configure virtual environments with pyenv/pipenv, Esbonio settings, and test live preview and auto-completion features."
-tags: Sphinx Python Visual-Studio-Code Esbonio
+description: A comprehensive guide for reviewers to test Esbonio VS Code extension, covering environment setup, preparation, testing, typical errors, and more. Learn how to configure virtual environments with pyenv/pipenv, Esbonio settings, and test live preview and auto-completion features.
 excerpt_separator: <!--more-->
+layout: post
+tags: esbonio python sphinx visual-studio-code
+title: "Esbonio VS Code Reviewers' Guide"
 ---
-
 I have been using the Esbonio extension 0.11 releases for a long while, and finally the 0.95 releases reached a stage where it is ready for reviewers to test out. This guide will be updated from time to time to serve as a comprehensive guide to ensure that reviewers can provide valuable feedback to the development team.
 <!--more-->
 

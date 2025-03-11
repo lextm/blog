@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CBC TechNote: How I Test This Plug-in Easier Later"
 description: A post about why I chose C#Builder 1.0 as the debugging host for CBC.
-tags: Code-Beautifier-Collection Delphi
-permalink: /cbc-technote-how-i-test-this-plug-in-easier-later-96cd9dafd9da
 excerpt_separator: <!--more-->
+layout: post
+permalink: /cbc-technote-how-i-test-this-plug-in-easier-later-96cd9dafd9da
+tags: .net delphi code-beautifier-collection
+title: 'CBC TechNote: How I Test This Plug-in Easier Later'
 ---
 (Originally published to CSDN on Nov 03, 2005)
 

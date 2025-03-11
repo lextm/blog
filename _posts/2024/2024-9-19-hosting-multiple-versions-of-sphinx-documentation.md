@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Sphinx Documentation: Hosting Multiple Versions for Your Project"
-description: "Learn how to host multiple versions of Sphinx documentation for your project using `sphinx-polyversion`. This guide covers the limitations of ReadTheDocs, the benefits of `sphinx-polyversion`, and detailed steps for integrating it into your project. Discover how to configure version tags, set up a reverse proxy with nginx, and maintain seamless documentation across different environments. Perfect for teams needing efficient and scalable versioned documentation management."
-tags: Sphinx Python
+description: Learn how to host multiple versions of Sphinx documentation for your project using `sphinx-polyversion`. This guide covers the limitations of ReadTheDocs, the benefits of `sphinx-polyversion`, and detailed steps for integrating it into your project. Discover how to configure version tags, set up a reverse proxy with nginx, and maintain seamless documentation across different environments. Perfect for teams needing efficient and scalable versioned documentation management.
 excerpt_separator: <!--more-->
+layout: post
+tags: python sphinx
+title: 'Sphinx Documentation: Hosting Multiple Versions for Your Project'
 ---
-
 If you are maintaining a project, the best practice is to stick to a single version. It simplifies coding, testing, and hosting documentation. However, in reality, you may need to maintain multiple versions of your project, including the documentation. This post will guide you through how to host multiple versions of Sphinx documentation for your project using `sphinx-polyversion`.
 
 <!--more-->

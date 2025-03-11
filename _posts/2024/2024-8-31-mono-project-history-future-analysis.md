@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Another Monkey: Analysis of the Mono Project's History and Future Based on Microsoft's Announcement"
-description: "A deep dive into Microsoft's latest announcement on the Mono Project, exploring the project's historical background, technological evolution, and possible future directions. Understand Mono's significance within the .NET ecosystem and the reasons for its gradual marginalization."
-tags: Mono .NET Microsoft Xamarin
+description: A deep dive into Microsoft's latest announcement on the Mono Project, exploring the project's historical background, technological evolution, and possible future directions. Understand Mono's significance within the .NET ecosystem and the reasons for its gradual marginalization.
 excerpt_separator: <!--more-->
+layout: post
+tags: .net microsoft mono xamarin
+title: "Another Monkey: Analysis of the Mono Project History and Future Based on Microsoft Announcement"
 ---
-
 > "You must have heard tales about him. Some say he helped Tang Monk fetch the Scriptures, was granted Buddhahood, and stayed on Mount Lingshan thereafter. Some say it was not him who was granted Buddhahood. The real him was already dead on the journey to the West. Some say the journey never happened. He's nothing but a monkey who lives in some storyteller's tall tale. But now, you will hear a tale which no one has ever known." — *Black Myth: Wukong*
 
 Recently, *Black Myth: Wukong* has created a buzz worldwide. However, this article doesn't focus on this Chinese mythical hero, nor the Destined Ones, but on another "monkey" that once made waves in the tech world, the Mono Project.
