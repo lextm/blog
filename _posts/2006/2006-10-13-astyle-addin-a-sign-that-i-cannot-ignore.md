@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "AStyle AddIn: A sign that I cannot ignore"
