@@ -1,15 +1,14 @@
 ---
-layout: post
-title: How to Install Microsoft CORS Module for IIS Express
 description: A post about how to install Microsoft IIS CORS module for IIS Express to fill the gap.
-tags: Windows IIS Microsoft
-permalink: /how-to-install-microsoft-cors-module-for-iis-express-7ac24e4c3bc4
 excerpt_separator: <!--more-->
 image:
-  path: /images/iced-canal.jpg
   alt: Copyright © Lex Li. Iced canal in Montreal.
+  path: /images/iced-canal.jpg
+layout: post
+permalink: /how-to-install-microsoft-cors-module-for-iis-express-7ac24e4c3bc4
+tags: iis microsoft powershell windows
+title: How to Install Microsoft CORS Module for IIS Express
 ---
-
 Microsoft released an IIS extension called [CORS module](https://blogs.iis.net/iisteam/introducing-iis-cors-1-0) a while ago, as to better help its customers.
 
 Of course, this is their traditional way to shop out-of-band feature for IIS 7 and above. However, they didn't release the same bits to IIS Express users, and those developers have to resort to various hacks to resolve CORS issues there or switch to full IIS to enjoy the ease of this IIS CORS module.

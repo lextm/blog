@@ -1,15 +1,14 @@
 ---
-layout: post
-title: What Should You Check When Visual Studio Cannot Debug ASP.NET Core Projects
 description: A post about what you should check when Visual Studio cannot debug ASP.NET Core projects.
-tags: Visual-Studio .NET IIS
-permalink: /what-should-you-check-when-visual-studio-cannot-debug-asp-net-core-projects-4b5db8c5e129
 excerpt_separator: <!--more-->
 image:
-  path: /images/st-lawrence-river.jpg
   alt: Copyright © Lex Li. St Lawrence River in Quebec City.
+  path: /images/st-lawrence-river.jpg
+layout: post
+permalink: /what-should-you-check-when-visual-studio-cannot-debug-asp-net-core-projects-4b5db8c5e129
+tags: .net asp.net iis visual-studio
+title: What Should You Check When Visual Studio Cannot Debug ASP.NET Core Projects
 ---
-
 Debugging is very important a process for developers to learn more about the development environment and the code base. So frustration can be a lot if suddenly your development tool fails to debug.
 
 I [documented a few typical Visual Studio and IIS Express related issues]({% post_url 2015/2015-11-5-jexus-manager-secrets-behind-visual-studio-iis-express-integration %}) that can prevent debugging from working. But you already noticed that they were about ASP.NET 4.x projects, and do not apply to ASP.NET Core projects.

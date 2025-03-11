@@ -1,15 +1,14 @@
 ---
-layout: post
-title: The Horrible Facts on Visual Studio Setup Projects
 description: A post about the stories about Visual Studio Setup Projects and why you should avoid this project type.
-tags: Microsoft Visual-Studio Windows-Installer
-permalink: /the-horrible-facts-on-visual-studio-setup-projects-45e66fe86d8d
 excerpt_separator: <!--more-->
 image:
-  path: /images/seattle-public-library.jpg
   alt: Copyright © Lex Li. Seattle Public Library.
+  path: /images/seattle-public-library.jpg
+layout: post
+permalink: /the-horrible-facts-on-visual-studio-setup-projects-45e66fe86d8d
+tags: .net microsoft visual-studio windows-installer
+title: The Horrible Facts on Visual Studio Setup Projects
 ---
-
 Microsoft Windows requires software to be packed as installers so as to install easily for end users. The evolution of Windows leads to various installer technologies to be invented along the way, and around year 2000 [MSI](https://en.wikipedia.org/wiki/Windows_Installer) became the standard approach.
 <!--more-->
 

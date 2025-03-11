@@ -1,15 +1,14 @@
 ---
-layout: post
-title: The Horrible Story of Publishing .NET Core Web Apps For Beginners
 description: A post about the horrible experience of publishing ASP.NET Core apps for beginners.
-tags: Visual-Studio .NET IIS
-permalink: /the-horrible-story-of-publishing-net-core-web-apps-for-beginners-6121662dd8c4
 excerpt_separator: <!--more-->
 image:
-  path: /images/snow-ladder.jpg
   alt: Copyright © Lex Li. Snow covered ladder in Quebec City.
+  path: /images/snow-ladder.jpg
+layout: post
+permalink: /the-horrible-story-of-publishing-net-core-web-apps-for-beginners-6121662dd8c4
+tags: .net asp.net iis visual-studio
+title: The Horrible Story of Publishing .NET Core Web Apps For Beginners
 ---
-
 Generally speaking, ASP.NET Core is cool, and the recent 2.1 release is even cooler with all kinds of new goodies. However, this post is not aiming to praise Microsoft on what they do the best, but the worst currently for ASP.NET Core/IIS beginners.
 <!--more-->
 
@@ -46,8 +45,8 @@ Again, Microsoft makes [very clear documentation](https://docs.microsoft.com/dot
 
 But it is still not easy for beginners to hit this page and fully understand the concepts. Thus, when they ship binaries from one machine to another, there is still possibility that the apps can break, if
 
- * FDD is used.
- * The runtime is not installed on the target machine.
+* FDD is used.
+* The runtime is not installed on the target machine.
 
 Clearly, the developer must know that the runtime ought to be installed separately for FDD.
 

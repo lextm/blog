@@ -1,21 +1,21 @@
 ---
-layout: post
-title: VSCode reStructuredText Extension, Synchronized Preview Support
-description: A post about the latest release of the VSCode reStructuredText extension, which added synchronized preview support.
-tags: Visual-Studio-Code reStructuredText
-permalink: /vscode-restructuredtext-extension-synchronized-preview-support-3f54ebdd3416
+description: A post about the latest release of the VS Code reStructuredText extension,
+  which added synchronized preview support.
 excerpt_separator: <!--more-->
 image:
-  path: /images/doves-sunset.jpg
   alt: Copyright © Lex Li. Doves in the sunset, Montreal.
+  path: /images/doves-sunset.jpg
+layout: post
+permalink: /vscode-restructuredtext-extension-synchronized-preview-support-3f54ebdd3416
+tags: restructuredtext visual-studio-code sphinx javascript
+title: VS Code reStructuredText Extension, Synchronized Preview Support
 ---
-
 I just shipped the 81.0.0 release of this extension. As it is worth a blog post, you can see how big the changes are there.
 <!--more-->
 
 ## Summary on Improvements
 
-First, a Microsoft guy approached me and informed kindly that due to recent changes in VSCode, I should try to switch to [Webview API](https://code.visualstudio.com/docs/extensions/webview) instead.
+First, a Microsoft guy approached me and informed kindly that due to recent changes in VS Code, I should try to switch to [Webview API](https://code.visualstudio.com/docs/extensions/webview) instead.
 
 > Appreciate it :) Microsoft.
 
@@ -26,9 +26,10 @@ Second, [synchronized preview](https://github.com/vscode-restructuredtext/vscode
 Third, the status bar element (which indicates the active preview engine) does not show at the desired time, and [that has been fixed](https://github.com/vscode-restructuredtext/vscode-restructuredtext/issues/98).
 
 ## Stories Behind The Scene
+
 This release is bigger than it seems to be. In fact, it demonstrated another time that open source collaboration is great.
 
-OK, let's turn back time to February 2017, and Microsoft released [VSCode 1.9](https://code.visualstudio.com/updates/v1_9#_markdown-preview-and-editor-integration) with synchronized Markdown preview support.
+OK, let's turn back time to February 2017, and Microsoft released [VS Code 1.9](https://code.visualstudio.com/updates/v1_9#_markdown-preview-and-editor-integration) with synchronized Markdown preview support.
 
 I did check their code base but it was a lot to change if I were about to implement it on my own. Clearly I did have other priorities to take care of.
 
@@ -48,7 +49,7 @@ It gave me a very nice chance to clean up the current code base (due to the chan
 
 81.0.0 ships with all such, while the upcoming 82.0.0 implements more,
 
-* Support preview page revival when VSCode is restarted.
+* Support preview page revival when VS Code is restarted.
 * Fixed all test cases.
 
 ## Secrets on Synchronized Preview

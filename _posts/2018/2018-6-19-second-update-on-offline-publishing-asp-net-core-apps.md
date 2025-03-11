@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Second Update on Offline Publishing ASP.NET Core Apps
 description: A third post about offline publishing ASP.NET Core apps.
-tags: Visual-Studio .NET
-permalink: /second-update-on-offline-publishing-asp-net-core-apps-e79c682fd287
 excerpt_separator: <!--more-->
 image:
-  path: /images/place-des-canotiers.jpg
   alt: Copyright © Lex Li. Place des Canotiers, Quebec City
+  path: /images/place-des-canotiers.jpg
+layout: post
+permalink: /second-update-on-offline-publishing-asp-net-core-apps-e79c682fd287
+tags: .net asp.net visual-studio
+title: Second Update on Offline Publishing ASP.NET Core Apps
 ---
-
 I [posted about offline publishing ASP.NET Core web apps]({% post_url 2018/2018-3-21-update-on-offline-publishing-asp-net-core-apps %}) earlier. It was a migration from 2.0.5 to 2.0.6. And now we need a new post, to upgrade from 2.0.6 to 2.1.0.
 
 <!--more-->
@@ -58,4 +57,4 @@ You should notice that even if the ASP.NET Core MVC sample was created in 2.0 ti
 >
 > To trust the certificate run `dotnet dev-certs https --trust` (Windows and macOS only). For establishing trust on other platforms refer to the platform specific documentation.
 >
-> For more information on configuring HTTPS see https://go.microsoft.com/fwlink/?linkid=848054.
+> For more information on configuring HTTPS see [this article](https://go.microsoft.com/fwlink/?linkid=848054).

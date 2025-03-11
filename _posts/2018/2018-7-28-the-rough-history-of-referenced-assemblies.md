@@ -1,16 +1,15 @@
 ---
-layout: post
-title: The Rough History of Referenced Assemblies
-description: A post about the rough history of referenced assemblies and interesting stories behind them.
-tags: Visual-Studio MSBuild .NET Mono
 categories: [History, .NET]
-permalink: /the-rough-history-of-referenced-assemblies-7d752d92c18c
+description: A post about the rough history of referenced assemblies and interesting stories behind them.
 excerpt_separator: <!--more-->
 image:
-  path: /images/clouds-canal.jpg
   alt: Copyright © Lex Li. Clouds reflected in the canal, Montreal.
+  path: /images/clouds-canal.jpg
+layout: post
+permalink: /the-rough-history-of-referenced-assemblies-7d752d92c18c
+tags: .net mono msbuild visual-studio
+title: The Rough History of Referenced Assemblies
 ---
-
 This post tries to fill the gaps left in the compiler history post. You can find all other posts I wrote in [the index page]({% post_url 2017/2017-11-2-all-in-one-for-the-legends-of-net-materials %}).
 
 <!--more-->

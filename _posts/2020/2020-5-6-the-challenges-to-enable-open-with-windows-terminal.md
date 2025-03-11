@@ -1,15 +1,14 @@
 ---
-layout: post
-title: The Challenges to Enable 'Open With Windows Terminal'"
 description: A post about the challenges I encountered when I created a project to enable Windows Explorer context menu for Windows Terminal.
-tags: Windows PowerShell
-permalink: /the-challenges-to-enable-open-with-windows-terminal-8090b2d92d5a
 excerpt_separator: <!--more-->
 image:
-  path: /images/canadiens-montreal.jpg
   alt: Copyright © Lex Li. Tour des Canadiens Condos in Montreal.
+  path: /images/canadiens-montreal.jpg
+layout: post
+permalink: /the-challenges-to-enable-open-with-windows-terminal-8090b2d92d5a
+tags: powershell windows
+title: The Challenges to Enable 'Open With Windows Terminal'"
 ---
-
 Microsoft have created several interesting open source projects in the past few years, and [Windows Terminal](https://github.com/microsoft/terminal) is surely one of the most wanted.
 
 If you haven't played yet with it on Windows 10, you must try it out :) Gurus like Scott Hanselman already wrote tons of great articles showing various tips and tricks on how to unleash the powers of this tool.
@@ -20,7 +19,7 @@ However, ever since the initial preview, Windows Terminal does not have Windows 
 
 You can see most of the options found by the users require you to import registry keys from a file. Even if some suggested PowerShell scripts, they no longer work as expected today as Windows Terminal internals have changed. [Scott Hanselman has a GitHub repo for his INF file](https://github.com/shanselman/WindowsTerminalHere), but that repo is not quite active either.
 
-My Solution
+## My Solution
 
 That's why I started my own adventure in this land yesterday and [created a brand new project](https://github.com/lextm/windowsterminal-shell).
 

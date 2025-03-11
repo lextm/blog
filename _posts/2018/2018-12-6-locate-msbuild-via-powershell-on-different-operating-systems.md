@@ -1,19 +1,19 @@
 ---
-layout: post
-title: Locate MSBuild via PowerShell on Different Operating Systems
 description: A post about how to locate MSBuild via PowerShell on different operating systems
-tags: Visual-Studio MSBuild PowerShell Windows Linux macOS Mono
-permalink: /locate-msbuild-via-powershell-on-different-operating-systems-140757bb8e18
 excerpt_separator: <!--more-->
 image:
-  path: /images/crossroad-wellington.jpg
   alt: Copyright © Lex Li. Crossroad on rue Wellington, Montreal.
+  path: /images/crossroad-wellington.jpg
+layout: post
+permalink: /locate-msbuild-via-powershell-on-different-operating-systems-140757bb8e18
+tags: linux macos mono msbuild powershell visual-studio windows
+title: Locate MSBuild via PowerShell on Different Operating Systems
 ---
-
 Today, PowerShell is a cross platform scripting engine, while MSBuild is also a cross platform build engine. Then how can we use PowerShell to locate MSBuild and compile the source code? You might think it is easy, but it turns out to be bit of difficult.
 <!--more-->
 
 ## MSBuild on macOS/Linux/Windows
+
 Rather interesting that MSBuild can be called directly once you install Mono, as the installation registers MSBuild in the system paths.
 
 However, it is much more difficult to do the same on Windows, as starting from Visual Studio 2017 MSBuild is no longer installed globally but as part of Visual Studio itself. You might use the command line tool `vswhere.exe` to locate VS installation folder, and then find MSBuild path. But in PowerShell it is recommended to use the `VSSetup` module.

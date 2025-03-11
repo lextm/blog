@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Shifting to Azure App Service on Linux
 description: A post about why you should consider shifting to Azure App Service on Linux.
-tags: Azure Windows Linux PHP Python
-permalink: /shifting-to-azure-app-service-on-linux-b216f4584b03
 excerpt_separator: <!--more-->
 image:
-  path: /images/autumn-tree.jpg
   alt: Copyright © Lex Li. Autumn tree near Costco, Montreal.
+  path: /images/autumn-tree.jpg
+layout: post
+permalink: /shifting-to-azure-app-service-on-linux-b216f4584b03
+tags: azure iis linux python windows
+title: Shifting to Azure App Service on Linux
 ---
-
 Microsoft Azure was built upon Windows and IIS in its early days, which is not surprising. At that time, IIS 7 was shipped with PHP support, and had the capabilities to enable ASP.NET/PHP apps. Later [Microsoft added HttpPlatformHandler](https://azure.microsoft.com/blog/announcing-the-release-of-the-httpplatformhandler-module-for-iis-8/) in 2015, which enabled other languages (Java, Node.JS, Go, Ruby, and Python) on IIS and Windows.
 
 All look good, but we do know Windows is not equivalent to Linux, and Microsoft released [Azure App Service on Linux](https://azure.microsoft.com/blog/general-availability-of-app-service-on-linux-and-web-app-for-containers/) last year.
