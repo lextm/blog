@@ -6,18 +6,18 @@ tags: .NET Visual-Studio Windows IIS HttpPlatformHandler
 excerpt_separator: <!--more-->
 ---
 
-LeXtudio Inc. just released a new product, HttpPlatformHandler v2, which is a new version of Microsoft HttpPlatformHandler. This post talks about why we build it and how we build it.
+LeXtudio Inc. just released a new product, HttpPlatformHandler v2, which can be considered a new release to replace Microsoft's HttpPlatformHandler v1.x. This post talks about why we build it and how we build it.
 <!--more-->
 
 ## How to Get HttpPlatformHandler v2?
 
-All changes we make are released under MIT, and you can check out the source code and installers on [our GitHub repository](https://github.com/lextudio/httpplatformhandlerv2/releases).
+If you want to skip a lengthy post, you can check out the source code and installers on [our GitHub repository](https://github.com/lextudio/httpplatformhandlerv2/releases). All changes we make are released under MIT.
 
-> The current release is marked as v2.0 RC, as we are still testing it in various scenarios. But the module is already able to handle all the test cases my team have at hand, so we believe it's time that you try it out.
+> The current release is marked as v2.0 RC, as we are still testing it in various scenarios and we know a few minor issues might be there. But the module is already stable to handle all the test cases my team have at hand, so we believe it's time that you try it out.
 
-You are welcome to report any issues you find on [GitHub](https://github.com/lextudio/httpplatformhandlerv2/issues).
+You are welcome to report any issues you find on [GitHub](https://github.com/lextudio/httpplatformhandlerv2/issues) so that we can work on fixing them quickly.
 
-## Why HttpPlatformHandler v2?
+## Why We Build HttpPlatformHandler v2?
 
 > The history of HttpPlatformHandler can be found in [this post]({% post_url 2023/2023-4-7-the-rough-history-of-iis-httpplatformhandler %}).
 
