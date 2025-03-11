@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "#SNMP Pro: Recent Releases"
-description: "This post would show you the recent releases of #SNMP Pro."
-tags: SNMP
-permalink: /snmp-pro-recent-releases-5e72c7973ba0
+description: 'This post would show you the recent releases of #SNMP Pro.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-pro-recent-releases-5e72c7973ba0
+tags: .net snmp
+title: '#SNMP Pro: Recent Releases'
 ---
 You should notice that #SNMP Library is now releasing more frequent with minor releases in just a few months, such as 9.0.0, 9.0.1, 9.0.2, and today 9.0.3. To match such a new strategy, the Pro edition is also releasing more changes in the past few weeks, such as 1.1.2 and 1.1.3. Such a change we make is to increase transparency and deliver urgent bug fixes in a quicker way.
 <!--more-->
 
 ## More About 1.1.2 Release
+
 [Two annoying issues](https://github.com/lextm/sharpsnmppro-sample/milestone/1?closed=1) were addressed in 1.1.2 release.
 
 First, we chose to utilize assistant OID names during OID extraction process, as the previous extraction code was not smart enough to handle out of order OID definitions.
@@ -43,6 +44,6 @@ While 1.1.2 introduces some improvements, it also adds [an annoying bug](https:/
 
 As registered users, you should have already received the instructions on how to get the binaries.
 
-If you do not yet see the mail, please write to our support team at support@lextudio.com.
+If you do not yet see the mail, please write to [our support team](mailto:support@lextudio.com).
 
 Stay tuned as we are working hard on the next release 1.2.0.

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Port #SNMP from .NET Core RC2 to RTM"
-description: "This post is about how I port #SNMP Library from .NET Core RC2 to RTM."
-tags: SNMP .NET
-permalink: /port-snmp-from-net-core-rc2-to-rtm-76234f61be98
+description: 'This post is about how I port #SNMP Library from .NET Core RC2 to RTM.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /port-snmp-from-net-core-rc2-to-rtm-76234f61be98
+tags: .net snmp
+title: 'Port #SNMP from .NET Core RC2 to RTM'
 ---
 Well, I thought this might be a long post, but in fact it would be pretty short.
 
