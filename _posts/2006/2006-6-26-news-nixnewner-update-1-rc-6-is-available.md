@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "News! NixNewNer Update 1 RC 6 is available"
 description: This post is about NixNewNer Update 1 RC 6.
-tags: Code-Beautifier-Collection Delphi
-permalink: /news-nixnewner-update-1-rc-6-is-available-40b9904c3c8b
 excerpt_separator: <!--more-->
+layout: post
+permalink: /news-nixnewner-update-1-rc-6-is-available-40b9904c3c8b
+tags: code-beautifier-collection delphi
+title: News! NixNewNer Update 1 RC 6 is available
 ---
 (CSDN June 26, 2006)
 

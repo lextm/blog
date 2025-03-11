@@ -1,16 +1,16 @@
 ---
-layout: post
-title: "HardQuery Report: Using LoggingService class"
-description: "This article describes how to use LoggingService class in HardQuery."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-using-loggingservice-class-64c6cacc48e4
+description: This article describes how to use LoggingService class in HardQuery.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-using-loggingservice-class-64c6cacc48e4
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Using LoggingService class'
 ---
 CSDN Dec 20, 2006)
 
 ## What is LoggingService
 
-LoggingService is a new unit I create lately to replace Marc Clifton's wonderful Debug/Dbg unit used in early versions of CBC. This new unit is a wrapper on log4net, an amazing logging library. But it is more than a wrapper, and makes thing even easier in certain aspects. As a result, I use it across CBC now. You can find it in the source package under src/lextm/diagnostics/loggingservice.cs. It is covered by LGPL.
+LoggingService is a new unit I create lately to replace Marc Clifton's wonderful Debug/Dbg unit used in early versions of CBC. This new unit is a wrapper on log4net, an amazing logging library. But it is more than a wrapper, and makes thing even easier in certain aspects. As a result, I use it across CBC now. You can find it in the source package under `src/lextm/diagnostics/loggingservice.cs`. It is covered by LGPL.
 <!--more-->
 
 ## Configuration

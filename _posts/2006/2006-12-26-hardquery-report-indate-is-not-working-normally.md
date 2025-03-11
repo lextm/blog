@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Hardquery Report: InDate is not working normally"
-description: "This post describes why InDate is not working normally."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-in-date-is-not-working-normally-eea0eef14c14
+description: This post describes why InDate is not working normally.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-in-date-is-not-working-normally-eea0eef14c14
+tags: code-beautifier-collection delphi
+title: 'Hardquery Report: InDate is not working normally'
 ---
 (CSDN Dec 26, 2006)
 

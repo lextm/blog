@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "LaTeX things Can Now Be Done by Using Eclipse"
 description: This post is about how to use Eclipse to make LaTeX documents.
-tags: Code-Beautifier-Collection Delphi
-permalink: /latex-things-can-now-be-done-by-using-eclipse-9633f07255ef
 excerpt_separator: <!--more-->
+layout: post
+permalink: /latex-things-can-now-be-done-by-using-eclipse-9633f07255ef
+tags: java
+title: LaTeX things Can Now Be Done by Using Eclipse
 ---
 (CSDN July 03, 2006)
 

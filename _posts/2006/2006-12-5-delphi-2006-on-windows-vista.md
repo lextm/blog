@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "在 Windows Vista 上面安装 Delphi 2006"
-description: "这篇文章讲述了在 Windows Vista 上面安装 Delphi 2006的一些问题。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /在windows-vista上面安装delphi-2006-af18f79f0ac0
+description: 这篇文章讲述了在 Windows Vista 上面安装 Delphi 2006的一些问题。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /在windows-vista上面安装delphi-2006-af18f79f0ac0
+tags: delphi microsoft
+title: 在 Windows Vista 上面安装 Delphi 2006
 ---
 (CSDN Dec 05, 2006)
 

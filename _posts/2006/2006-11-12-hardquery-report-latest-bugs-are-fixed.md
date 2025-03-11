@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Latest Bugs Are Fixed"
 description: This post reports the latest bugs fixed.
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-latest-bugs-are-fixed-38dbbf43179c
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-latest-bugs-are-fixed-38dbbf43179c
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Latest Bugs Are Fixed'
 ---
 (CSDN Nov 12, 2006)
 

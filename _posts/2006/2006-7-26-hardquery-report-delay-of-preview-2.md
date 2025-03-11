@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Delay of Preview 2"
-description: "This post talks about why HardQuery Preview 2 is delayed."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-delay-of-preview-2-9aed3ac94f1f
+description: This post talks about why HardQuery Preview 2 is delayed.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-delay-of-preview-2-9aed3ac94f1f
+tags: code-beautifier-collection delphi
+title: 'HardQuery Report: Delay of Preview 2'
 ---
 (CSDN July 26, 2006)
 

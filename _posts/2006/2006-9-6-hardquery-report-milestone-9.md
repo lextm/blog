@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Milestone 9"
-description: "This post describes the changes in HardQuery M9."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-milestone-9-916b92b0796a
+description: This post describes the changes in HardQuery M9.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-milestone-9-916b92b0796a
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Milestone 9'
 ---
 (CSDN Sept 06, 2006)
 

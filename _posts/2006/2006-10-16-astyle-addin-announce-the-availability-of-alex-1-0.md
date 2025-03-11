@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "AStyle AddIn: Announce the availability of Alex, 1.0"
-description: "This post announces the availability of Alex, 1.0, a AStyle AddIn for SharpDevelop version 1.0."
-tags: Code-Beautifier-Collection Delphi
-permalink: /astyle-addin-announce-the-availabilty-of-alex-1-0-43ff00cb916f
+description: This post announces the availability of Alex, 1.0, a AStyle AddIn for
+  SharpDevelop version 1.0.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /astyle-addin-announce-the-availability-of-alex-1-0-43ff00cb916f
+tags: sharpdevelop .net
+title: 'AStyle AddIn: Announce the availability of Alex, 1.0'
 ---
 (CSDN Oct 16, 2006)
 

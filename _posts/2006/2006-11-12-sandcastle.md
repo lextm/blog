@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Sandcastle：NDoc的继承人"
-description: "这篇文章讲述了 Sandcastle 项目的一些信息。"
-tags: .NET
-permalink: /sandcastle-ndoc的继承人-fd544ecc3f17
+description: 这篇文章讲述了 Sandcastle 项目的一些信息。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /sandcastle-ndoc的继承人-fd544ecc3f17
+tags: .net
+title: Sandcastle：NDoc的继承人
 ---
 (CSDN Nov 12, 2006)
 
