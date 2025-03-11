@@ -1,13 +1,12 @@
 ---
-layout: post
-title: All-In-One for The Legends of .NET Materials
-description: A post that summarizes all The Legends of .NET materials.
-tags: Visual-Studio .NET
 categories: [History, .NET]
-permalink: /all-in-one-for-the-legends-of-net-materials-43c374a01433
+description: A post that summarizes all The Legends of .NET materials.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /all-in-one-for-the-legends-of-net-materials-43c374a01433
+tags: .net asp.net msbuild visual-studio
+title: All-In-One for The Legends of .NET Materials
 ---
-
 I am going to give [a talk on The Legends of .NET](https://mvpdaysv-conference2017-1.busyconf.com/activities/59ebb3464ee06baeb80001c9) on Jan 17, 2018.
 
 Not quite sure if I can finish translating [my Chinese book .NET Legend](https://nianbiao.lextudio.com/) to English by then, but I would try to finish a few more stories in English.

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "WalkPace brings Sharp Builder Tools and C#Builder Goodies to any BDS version!"
 description: A post about how to bring Sharp Builder Tools and C#Builder Goodies to any BDS version as part of CBC
-tags: Code-Beautifier-Collection Delphi
-permalink: /walkpace-brings-sharp-builder-tools-and-c-builder-goodies-to-any-bds-version-935f0c0f21a4
 excerpt_separator: <!--more-->
+layout: post
+permalink: /walkpace-brings-sharp-builder-tools-and-c-builder-goodies-to-any-bds-version-935f0c0f21a4
+tags: .net delphi code-beautifier-collection
+title: WalkPace brings Sharp Builder Tools and C#Builder Goodies to any BDS version!
 ---
 (Originally posted to CSDN on March 14, 2006)
 
@@ -24,14 +24,14 @@ From now on, I will release a Plus Pack for CBC 2 Basic (the terms will be expla
 However, SBT is a huge project to port in. Before my success at last, now I provide you a method to make a SBT for BDS 3/4.
 
 1. Get SBT source.
-1. Get LeXDK. Assemblies named Lextm.LeXDK.Core.dll, Lextm.Common and BeWise.Common.
+1. Get LeXDK. Assemblies named `Lextm.LeXDK.Core`, `Lextm.Common` and `BeWise.Common`.
 
-   > You may need to correct the Borland.Studio.ToolsAPI reference.
+   > You may need to correct the  Borland.Studio.ToolsAPI  reference.
 
-1. Remove the reference of SharpBuilderTools.Common.dll in SharpBuilderTools.bdsproj.
-1. Remove HelpConsts.cs from the project.
+1. Remove the reference of `SharpBuilderTools.Common.dll` in `SharpBuilderTools.bdsproj`.
+1. Remove `HelpConsts.cs` from the project.
 1. Add three assembly references in step 2. They should all be copied locally. Compile and see all the errors.
-1. Rename all calls (about five places) for GetCsIndentationFromOptions in this project to GetCSIndentationFromOptions. Compile.
+1. Rename all calls (about five places) for `GetCsIndentationFromOptions` in this project to `GetCSIndentationFromOptions`. Compile.
 1. Build and install.
 
 Then SharpBuilderTools.dll should be able to run on any BDS version (not in BDS 3 currently).

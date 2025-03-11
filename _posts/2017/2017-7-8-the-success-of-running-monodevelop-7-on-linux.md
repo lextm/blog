@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "The Success of Running MonoDevelop 7 on Linux"
-description: "This post is about how to run MonoDevelop 7 on Linux."
-tags: Mono Linux
-permalink: /the-success-of-running-monodevelop-7-on-linux-a55f1469b1d1
+description: This post is about how to run MonoDevelop 7 on Linux.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-success-of-running-monodevelop-7-on-linux-a55f1469b1d1
+tags: linux mono
+title: The Success of Running MonoDevelop 7 on Linux
 ---
 I still remembered the pain of running MonoDevelop 7 on FlatPak on Linux, but today finally decided to give the alternative way a go, and indeed it worked. So here is the story.
 <!--more-->

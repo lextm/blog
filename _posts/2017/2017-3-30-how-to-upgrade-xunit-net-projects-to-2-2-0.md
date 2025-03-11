@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "How to Upgrade xUnit.net Projects to 2.2.0"
-description: "This post is about how to upgrade xUnit.net projects to 2.2.0."
-tags: .NET Visual-Studio
-permalink: /how-to-upgrade-xunit-net-projects-to-2-2-0-f8fb943b725d
+description: This post is about how to upgrade xUnit.net projects to 2.2.0.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-upgrade-xunit-net-projects-to-2-2-0-f8fb943b725d
+tags: .net visual-studio xunit
+title: How to Upgrade xUnit.net Projects to 2.2.0
 ---
-
 You already know Obfuscar uses xUnit.net for unit testing. It was [a .NET Framework 4.5 Class Library project](https://github.com/lextm/obfuscar/blob/2.2.2/Tests/ObfuscarTests.csproj). So now I simply upgraded its xUnit.net dependencies to latest 2.2.0 release, and wow Visual Studio 2017 refuses to show the test cases in Test Explorer.
 <!--more-->
 

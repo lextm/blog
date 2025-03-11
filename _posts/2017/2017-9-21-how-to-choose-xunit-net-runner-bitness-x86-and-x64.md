@@ -1,10 +1,11 @@
 ---
-layout: post
-title: How to Choose xUnit.net Runner Bitness (x86 and x64)
-description: This post is about how to choose xUnit.net runner bitness (x86 and x64) in console or Visual Studio.
-tags: .NET Visual-Studio macOS xUnit
-permalink: /how-to-choose-xunit-net-runner-bitness-x86-and-x64-11f1fb540478
+description: This post is about how to choose xUnit.net runner bitness (x86 and x64)
+  in console or Visual Studio.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-choose-xunit-net-runner-bitness-x86-and-x64-11f1fb540478
+tags: .net macos visual-studio xunit mono
+title: How to Choose xUnit.net Runner Bitness (x86 and x64)
 ---
 You clearly know that xUnit.net has many runners,
 
@@ -16,12 +17,14 @@ But if your unit test cases require certain bitness (x86 or x64), what should yo
 <!--more-->
 
 ## Console Runners
+
 It cannot be any easier for console runners, as xUnit.net ships a console tool for x86 (xunit.console.x86.exe) and the other for x64 (xunit.console.exe).
 Here I show how I use them in [Obfuscar CI script](https://github.com/obfuscar/obfuscar/blob/2.2.33/test.bat)
 
 If you are using .NET Core, then you probably know the command `dotnet test` you should use `-a x64` or `-a x86`.
 
 ## Visual Studio Runner
+
 You would be surprised to notice that xUnit.net configuration does not cover bitness at all from its documentation. But that's perfectly normal as Visual Studio has its builtin support, [as documented in this article](https://docs.microsoft.com/en-us/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file).
 
 So by serving a `.runsettings` file, you can easily switch between x86 and x64,

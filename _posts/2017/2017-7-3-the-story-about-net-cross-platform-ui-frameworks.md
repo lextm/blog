@@ -1,13 +1,12 @@
 ---
-layout: post
-title: The Story About .NET Cross Platform UI Frameworks
-description: Discover the best .NET cross-platform UI frameworks for your projects. This comprehensive analysis explores the pros and cons of each framework, empowering developers to make informed decisions. Choose the right framework and unlock the potential of cross-platform development.
-tags: Visual-Studio .NET
 categories: [History, .NET]
-permalink: /the-story-about-net-cross-platform-ui-frameworks-dd4a9433d0ea
+description: Discover the best .NET cross-platform UI frameworks for your projects. This comprehensive analysis explores the pros and cons of each framework, empowering developers to make informed decisions. Choose the right framework and unlock the potential of cross-platform development.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-story-about-net-cross-platform-ui-frameworks-dd4a9433d0ea
+tags: .net visual-studio open-source linux windows macos xamarin microsoft jetbrains
+title: The Story About .NET Cross Platform UI Frameworks
 ---
-
 > Disclaimer: All contents are based on my personal observation. Please leave a comment if you find anything incorrect, and I will revise it often.
 
 > Current version was written on Dec 9, 2023.

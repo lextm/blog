@@ -1,13 +1,12 @@
 ---
-layout: post
-title: Status of MonoDevelop/Xamarin Studio
-description: This post is about the status of MonoDevelop and Xamarin Studio.
-tags: Mono
 categories: [History, .NET]
-permalink: /status-of-monodevelop-xamarin-studio-253da80d022c
+description: This post is about the status of MonoDevelop and Xamarin Studio.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /status-of-monodevelop-xamarin-studio-253da80d022c
+tags: mono visual-studio linux macos windows
+title: Status of MonoDevelop/Xamarin Studio
 ---
-
 > Disclaimer: I don't work for Microsoft/Xamarin, so this post is just based on my personal observation.
 
 It is rather interesting that even after the acquisition of Xamarin by Microsoft, there is no official statement on Xamarin product lifecycle. This is not something convenient, if you are used to the facts that most [Microsoft products' lifecycle](https://support.microsoft.com/en-ca/lifecycle/search) is well governed.
