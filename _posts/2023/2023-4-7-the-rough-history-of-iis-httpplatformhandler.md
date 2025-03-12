@@ -6,7 +6,7 @@ layout: post
 tags: .net httpplatformhandler iis visual-studio windows microsoft
 title: The Rough History of IIS HttpPlatformHandler
 ---
-Due to various misinformation around this IIS out-of-band component, I think it's worth the while to write about its history so you know what others are talking about and how some of them made mistakes.
+Due to various misinformation around this IIS out-of-band component, I think it's worth the while to write about its history so you know what others are talking about and how some of them made mistakes. This post aims to clarify the purpose, evolution, and current status of HttpPlatformHandler, an often misunderstood but critical component for web hosting on Windows Server.
 
 <!--more-->
 
@@ -42,6 +42,16 @@ Once configuration is done, this module spins out the application server on dema
 
 > The port number in use can be either passed as one of the arguments or via an environment variable, so that your application server knows which port it should hook to.
 
+### Technical Implementation Details
+
+Under the hood, HttpPlatformHandler works by:
+
+1. Listening for HTTP requests coming to IIS
+2. Starting your configured application server process on-demand
+3. Dynamically allocating a port for your application server
+4. Setting up a reverse proxy connection between IIS and your application server
+5. Managing the lifecycle of the application process according to IIS application pool settings
+
 The simplicity of this design makes the module a great success, as you no longer need any language specific FastCGI bits or ISAPI modules. HttpPlatformHandler configuration is rather simple and it works for almost all modern web stacks.
 
 This was first used by Microsoft Azure Websites to host Java web apps, and soon released as a separate download for all IIS users in 2015.
@@ -51,6 +61,8 @@ This was first used by Microsoft Azure Websites to host Java web apps, and soon 
 When Microsoft designed ASP.NET Core, HttpPlatformHandler was naturally chosen to be the integration point. However, the more features ported from ASP.NET 4.x, the more gaps identified that HttpPlatformHandler cannot fulfill all the needs.
 
 ASP.NET 4.x has so tight integration with IIS (if you read about the integrated pipeline) that a dedicated IIS module must be developed to replace HttpPlatformHandler in order to support most of the unique features and enable a smooth migration path. Now you know this new module as ASP.NET Core module for IIS.
+
+### Key Differences Between HttpPlatformHandler and ANCM
 
 Almost all misinformation today can be traced back to [this announcement made by the ASP.NET Core team on GitHub](https://github.com/aspnet/IISIntegration/issues/105). Readers without knowing the entire story or reading the announcement carefully can easily assume that they shouldn't use HttpPlatformHandler in all cases but switch to ASP.NET Core module. You can see how wrong that assumption is. Author of the original announcement later clarified that the announcement was not meant to discourage overall HttpPlatformHandler usage, but to inform just the ASP.NET Core community about the new ASP.NET Core module in [this comment](https://github.com/aspnet/IISIntegration/issues/1454#issuecomment-425472537),
 
@@ -84,6 +96,17 @@ HttpPlatformHandler is also enabled on Azure App Service (Windows) by default, s
 This special requirement is now for the first time covered by the [new open source HttpPlatformHandler v2.0 from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
 
 > If you do prefer Microsoft HttpPlatformHandler v1.2, I also created the necessary PowerShell scripts to help enable that on IIS Express. You can find them on [my GitHub repository](https://github.com/lextm/iisexpress-httpplatformhandler).
+
+## Conclusion
+
+HttpPlatformHandler represents a significant innovation in how IIS can host non-Microsoft web technologies. Despite its age (the last official Microsoft release was in 2015), it remains a reliable and efficient solution for hosting a wide variety of web applications on Windows Server. The confusion about its status primarily stems from misunderstandings about its relationship with ASP.NET Core Module.
+
+When deciding between HttpPlatformHandler and ASP.NET Core Module:
+
+- Use HttpPlatformHandler for non-ASP.NET Core applications (Python, Node.js, Ruby, Go, Java, etc.)
+- Use ASP.NET Core Module specifically for ASP.NET Core applications
+
+With LeXtudio's HttpPlatformHandler v2.0 now available, the future of this technology looks promising, ensuring Windows Server remains a viable hosting platform for diverse web technologies.
 
 ## References
 
