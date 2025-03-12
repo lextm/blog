@@ -1,5 +1,5 @@
 ---
-description: A post about creating a simple Nest web app and deploy it on IIS with HttpPlatformHandler
+description: "A comprehensive guide to deploying Nest.js applications on IIS using HttpPlatformHandler, with step-by-step instructions for configuration, environment setup, and troubleshooting common issues for Windows server environments."
 excerpt_separator: <!--more-->
 layout: post
 tags: iis windows httpplatformhandler

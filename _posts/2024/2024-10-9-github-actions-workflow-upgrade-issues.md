@@ -1,5 +1,5 @@
 ---
-description: In this blog post, we explore a streamlined method to upgrade actions used in GitHub Actions workflows. As GitHub Actions evolves, keeping workflows up-to-date can be a tedious task, especially with the deprecation of older Node.js runtimes. This guide introduces a Python script that automates the process of checking and updating action versions, saving developers time and effort. By leveraging the GitHub API, the script identifies outdated actions and suggests the latest versions, ensuring your workflows remain functional and efficient. Follow along to learn how to implement and use this script to maintain your GitHub Actions workflows effortlessly.
+description: "Learn how to efficiently update GitHub Actions in your workflows with a Python script that automatically checks for newer versions, helping you maintain compatibility with current Node.js runtimes and keep your CI/CD processes running smoothly."
 excerpt_separator: <!--more-->
 layout: post
 tags: github python

@@ -1,8 +1,8 @@
 ---
-description: 
+description: "Discover the history behind the misleading 'WebSockets is unsupported' error in ASP.NET applications and learn how to properly configure your web.config file to enable WebSocket functionality, even in newer .NET Framework versions."
 excerpt_separator: <!--more-->
 layout: post
-tags: asp.net iis windows visual-studio
+tags: asp.net iis windows
 title: "The History Behind 'WebSockets is Unsupported' Error in ASP.NET"
 ---
 Two weeks ago [I was answering a question on Stack Overflow](https://stackoverflow.com/questions/79030952/asp-net-4-8-exception-message-websockets-is-unsupported-in-the-current-applica/79041024#79041024) and noticed that the question was not the first time someone encountered the error message "WebSockets is unsupported in the current application configuration." Even [when this was reported to Microsoft developers via GitHub in 2016](https://github.com/SignalR/SignalR/issues/3699), no one investigated it further. So, I decided to dig deeper, and figured out some interesting history behind this error message.

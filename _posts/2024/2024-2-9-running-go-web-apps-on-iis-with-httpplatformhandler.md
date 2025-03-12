@@ -1,5 +1,5 @@
 ---
-description: A post about how to create a simple Go web app and host it on IIS with HttpPlatformHandler
+description: "A practical guide for deploying Go web applications on IIS using HttpPlatformHandler, covering Go/Echo setup, proper application configuration, and troubleshooting common permission and path issues in Windows environments."
 excerpt_separator: <!--more-->
 layout: post
 tags: httpplatformhandler iis windows
