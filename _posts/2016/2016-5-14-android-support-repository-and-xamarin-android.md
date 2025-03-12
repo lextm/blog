@@ -1,5 +1,5 @@
 ---
-description: This post is about how Android Support Repository works with Xamarin.Android.
+description: Troubleshooting guide for Android Support Repository issues with Xamarin.Android, including solutions for common error messages and understanding how cache folders are constructed during compilation.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /android-support-repository-and-xamarin-android-4d7de680bcf2

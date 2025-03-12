@@ -1,9 +1,9 @@
 ---
-description: This post is about some update for DockPanel Suite in 2016.
+description: A comprehensive update on DockPanel Suite developments in 2016, including the 2.10 RTM release, new themes, and the introduction of the patch controller mechanism in 2.11 Alpha builds.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-some-update-for-2016-f04dd830106d
-tags: dockpanel-suite .net
+tags: dockpanel-suite .net open-source
 title: 'DockPanel Suite: Some Update for 2016'
 ---
 It is August, and my last post on DockPanel Suite was in December. So I have to admit that too little has happened there, but if you do monitor this project, you should notice significant changes.

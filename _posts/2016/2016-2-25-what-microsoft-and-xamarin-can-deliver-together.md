@@ -1,9 +1,9 @@
 ---
-description: This post is about what new technologies Microsoft and Xamarin can deliver together.
+description: Analysis of potential technological innovations following Microsoft's acquisition of Xamarin, including cross-platform development tools, unified frameworks, improved tooling, and expanded language support across multiple operating systems.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /what-microsoft-and-xamarin-can-deliver-together-221f668884a7
-tags: .net mono visual-studio xamarin microsoft
+tags: .net mono visual-studio xamarin microsoft open-source
 title: What Microsoft and Xamarin Can Deliver Together
 ---
 I am more than happy to see Microsoft acquired Xamarin a few hours ago, as I have been observed both for a very long time and currently working on a presentation on March 12 to talk about the history behind .NET and Mono in the past 16 years. This merge gives the talk more fun.

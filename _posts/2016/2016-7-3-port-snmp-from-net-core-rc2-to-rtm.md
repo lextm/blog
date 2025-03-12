@@ -1,9 +1,9 @@
 ---
-description: 'This post is about how I port #SNMP Library from .NET Core RC2 to RTM.'
+description: 'A brief guide on migrating the #SNMP Library from .NET Core RC2 to RTM, focusing on project.json modifications and NETStandard.Library reference considerations.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /port-snmp-from-net-core-rc2-to-rtm-76234f61be98
-tags: .net snmp
+tags: .net snmp open-source
 title: 'Port #SNMP from .NET Core RC2 to RTM'
 ---
 Well, I thought this might be a long post, but in fact it would be pretty short.

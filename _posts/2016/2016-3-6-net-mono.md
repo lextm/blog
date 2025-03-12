@@ -1,10 +1,10 @@
 ---
 categories: [History, .NET]
-description: 这篇文章是关于 .NET 和 Mono 的历史故事。
+description: 全面梳理.NET Framework和Mono平台的发展历程，从1995年Java诞生到2016年微软收购Xamarin，记录这两大技术生态系统如何互相影响并最终走向融合的关键历史节点。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /net-和-mono-的一点历史-772aebf42e24
-tags: .net mono microsoft xamarin visual-studio
+tags: .net mono microsoft xamarin visual-studio open-source
 title: .NET 和 Mono 的一点历史
 ---
 提到微软公司研发 .NET Framework 的初衷，难免要提到 SUN 公司1995年推出的 Java 语言。由于 Java 在业界得到了广泛的支持而且迅速建立了庞大的生态系统，微软也不得不考虑如何加以应对，毕竟自己手里的 Visual Basic 和 Visual C++ 和 Java 一比都有不小的差距。这也就导致了1996年3月12日发生了让业界吃惊的一幕，微软居然从 SUN 取得了 Java 的相关授权，可以开发 Java 平台的 IDE 产品[1]。微软当时预计大约1996年年中便可以推出相关的开发工具。跳票许久，10月15日，微软正式发布 SDK for Java，两个月内下载次数超过50,000。11月，Anders Hejlsberg 离开 Borland 公司，加入微软。
