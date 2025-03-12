@@ -1,5 +1,5 @@
 ---
-description: A post about creating a simple Nuxt 3 web app and deploy it on IIS with HttpPlatformHandler
+description: Step-by-step guide for deploying Nuxt 3 web applications on Windows IIS using HttpPlatformHandler, including sample project setup, configuration, and troubleshooting tips for Node.js applications on Microsoft's web server.
 excerpt_separator: <!--more-->
 layout: post
 tags: azure iis windows httpplatformhandler
@@ -25,6 +25,7 @@ npm run build
 ```
 
 > Note that
+>
 > * I chose `npx` and `npm` steps, while you can use `pnpm` or `yarn`.
 > * I used `C:\` as the start point, so `C:\test-nuxt` contains the source code, and `C:\test-nuxt\.output` contains the generated artifacts for deployment.
 
@@ -56,6 +57,7 @@ If you are not familiar with the contents and hit any IIS error, please read [my
 ## Side Notes
 
 ### Nuxt 3 on Azure App Service
+
 Clearly you can easily move this web app to Azure App Service (Windows) with minimal changes.
 
 ### Nuxt 3 on IIS Express

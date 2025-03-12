@@ -1,5 +1,5 @@
 ---
-description: A post about public sessions/programs I worked on in the past few years.
+description: A comprehensive chronological overview of my public speaking engagements, conference talks, and program contributions from 2015 to 2022, including topics on .NET, Xamarin, Visual Studio Code extensions, and documentation tools.
 excerpt_separator: <!--more-->
 layout: post
 tags: work-life

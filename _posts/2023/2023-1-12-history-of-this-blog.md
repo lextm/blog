@@ -1,5 +1,5 @@
 ---
-description: A post about the history of this blog and how it migrated from CSDN to Blogger to Medium to GitHub Pages and to Cloudflare Pages
+description: The evolution of my technical blog from 2005 to present, chronicling its journey from CSDN to Blogger, WordPress, Medium, and finally to Jekyll on GitHub Pages and Cloudflare Pages, with reflections on blogging milestones.
 excerpt_separator: <!--more-->
 layout: post
 tags: work-life
@@ -20,7 +20,7 @@ Managing my own WordPress server was still a pain, so after landing on Canada in
 
 I chose Jekyll in the summer of 2020, and migrated most hot posts from Medium to this new Jekyll based site. Many old posts had to be left on Medium at https://medium.com/lextm, simply because
 
-* I wrote too many, >1000, and to migrate all I need a lot of time. 
+* I wrote too many, >1000, and to migrate all I need a lot of time.
 * [the Jekyll theme](https://github.com/barryclark/jekyll-now) I chose wasn't well maintained. I need to find a better one.
 
 But anyway, I kept this blog alive. And another noticeable change was that I changed the URL to https://halfblood.pro, which I think matching the blog name very well.
