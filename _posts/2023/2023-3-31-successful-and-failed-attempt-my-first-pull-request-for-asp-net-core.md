@@ -17,13 +17,15 @@ I decided to take a further look when participating in [a thread](https://learn.
 
 ## Windows ARM64 Installation and Configuration
 
-There are tons of tutorials you can find over the internet, so I won't duplicate the contents. One critical thing I learned is to disconnect the VM fro the internet during the installation (otherwise, you cannot bypass the initial setup screens). Make sure to open the soft keyboard so that I can type the necessary key combination and launch the command prompt.
+There are tons of tutorials you can find over the internet, so I won't duplicate the contents. One critical thing I learned is to disconnect the VM from the internet during the installation (otherwise, you cannot bypass the initial setup screens). Make sure to open the soft keyboard so that you can type the necessary key combination and launch the command prompt.
 
-Once I was able to see your desktop, things became familiar and I could easily turn on IIS features (except ASP.NET 3.5 and anything related). .NET Framework 4.8 has been ported to ARM64, so as expected ASP.NET 4.x works flawlessly there. .NET Framework 3.5 is just too old to be ported over, but Microsoft didn't yet remove its legacy things from various places.
+Once I was able to see my Windows desktop, things became familiar and I could easily turn on IIS features (except ASP.NET 3.5 and anything related). .NET Framework 4.8 has been ported to ARM64, so as expected ASP.NET 4.x works flawlessly there. .NET Framework 3.5 is just too old to be ported over, but Microsoft didn't yet remove its legacy things from various places.
 
 ## ASP.NET Core on Windows ARM64, Tough Start
 
-Next, I could install .NET 6/7/8 SDK on this virtual machine and played out .NET apps. Note that .NET 6 does not have native ARM64 support, so from SDK bits to apps, everything is either x86 or x64 and runs in emulation mode. .NET 7 and 8 ship with native ARM64 support, so that I can build apps that run natively on ARM64.
+Next, I could install .NET 6/7/8 SDK on this virtual machine and played with .NET apps. Note that .NET 6 does not have native ARM64 support, so from SDK bits to apps, everything is either x86 or x64 and runs in emulation mode. .NET 7 and 8 ship with native ARM64 support, so I could build apps that run natively on ARM64.
+
+### The Initial 500 Error
 
 The most challenging part is to run ASP.NET Core apps on IIS, because when I chose all the default settings on IIS to create a site and mapped it to a published `win-arm64` self contained ASP.NET Core 7 app, IIS failed to start it surprisingly.
 
@@ -34,6 +36,8 @@ As I am familiar with ASP.NET Core troubleshooting, the actual error was recorde
 
 ![ASP.NET Core 7 500 Error in Event Viewer](/images/aspnetcore7-iis-500-2.png)
 _Figure 2: ASP.NET Core module log entry in Windows event log_
+
+### Discovering the New Application Pool Setting
 
 If I published the artifacts as `win-arm64`, then the culprit can only be that IIS worker process (`w3wp.exe`) was running in non-ARM64 mode. To learn more about this, I opened up IIS Manager and checked the application pool settings.
 
@@ -48,21 +52,27 @@ By changing the new setting to `False`, IIS could then start the worker process 
 
 ## More Bitness Issues Ahead
 
-To play further with the application pool settings, I also published the same web app as `win-x86` and `win-x64` self contained apps and hosted them on IIS with x86 and x64 application pools respectively. Naturally I assumed that they work fine, but I was totally wrong.
+To play further with the application pool settings, I also published the same web app as `win-x86` and `win-x64` self contained apps and hosted them on IIS with x86 and x64 application pools respectively. Naturally I assumed that they would work fine, but I was totally wrong.
+
+### The x86 Application Pool Problem
 
 The x86 application pool crashed, and which again indicated something was wrong with the bitness of the worker process. Further investigation showed that the Windows Server hosting bundle mistakenly installed the ARM64 build of `aspnetcorev2.dll` and related to the x86 Program Files folder. This is clearly a bug and I decided to include it in the bug report later.
 
-The x64 application pool also crashed, which raises a bigger question that where should the x64 build of `aspnetcorev2.dll` go during installation. So, it is a huge surprise to me that Windows 11 does not have a x64 Program Files folder like the x86 one. How can that be possible?
+### The x64 Application Pool Mystery
+
+The x64 application pool also crashed, which raises a bigger question of where should the x64 build of `aspnetcorev2.dll` go during installation. So, it is a huge surprise to me that Windows 11 does not have a x64 Program Files folder similar to the x86 one. How can that be possible?
 
 ## The Magic of Windows 11 ARM64, Arm64X
 
 By reading further through Microsoft Docs, I finally learned that instead of extending the old WOW64 emulation layer (the trick around x86 Program Files and so on), Microsoft engineers developed [a new approach called Arm64X](https://learn.microsoft.com/windows/arm/arm64x-pe) so that binaries can be built by merging x64 (ARM64EC) and ARM64 bits together in the same Portable Executable (PE) file. This is a very good idea (similar to Universal Binary used by Apple), so I could then understand why there is no x64 Program Files folder on Windows 11 ARM64.
 
+### Building an Arm64X Solution
+
 Therefore, to fix the x64 application pool crash, I thought I needed to produce an Arm64X build of `aspnetcorev2.dll` and put it in the right place. I cloned the code base and started to dig further. However, I couldn't move much further even after fixing many common challenges in the C++ project files, because the compilation seems to need Arm64X build of ASP.NET Core runtime itself, which isn't available.
 
 > I felt lucky that for one of my previous employers there was a project based on ASP.NET Core module source code, so I used to dig into the code base and understood roughly how it works. Otherwise, I wouldn't have dared to build it as Arm64X.
 
-A hint called ["Arm64X pure forwarder DLL"](https://learn.microsoft.com/windows/arm/arm64x-build) was then the only option on the table, and I decided to try it out. Luckily after producing my own pure forwarders and reorganizing the ASP.NET Core bits in the Program Files folder, I can get the x64 application pool running properly.
+A hint called ["Arm64X pure forwarder DLL"](https://learn.microsoft.com/windows/arm/arm64x-build) was then the only option on the table, and I decided to try it out. After producing my own pure forwarders and reorganizing the ASP.NET Core bits in the Program Files folder, I was able to get both the x64 and ARM64 application pools running properly.
 
 > This article had some mistakes in it, so I sent a pull request to fix the contents separately, which was merged and published. You are now reading the fixed version.
 
@@ -70,23 +80,31 @@ A hint called ["Arm64X pure forwarder DLL"](https://learn.microsoft.com/windows/
 
 With ASP.NET Core in-process mode test cases passed, I expected out-of-process mode to work as well. However, I was wrong again. The out-of-process mode was still not working for x64 and ARM64, and I wonder why pure forwarder approach can work for in-process mode but not out-of-process mode.
 
+### Debugging with Process Monitor
+
 Even though Visual Studio 2022 can be installed on Windows 11 ARM64 to assist me debugging further, I was trying to use a simple tool like [Process Monitor](https://docs.microsoft.com/sysinternals/downloads/procmon) to see what's going on.
 
 Without much effort I found that in out-of-process mode ASP.NET Core module was trying to load `aspnetcorev2_outofprocess.dll` from the wrong location and failed. It did load the pure forwarder DLL from the Program Files folder but didn't scan the same folder for the out-of-process module dependencies, the actual ARM64 and x64 binaries.
 
 > Note that you must use the native ARM64 build of Process Monitor to capture the events.
 
+### The LoadLibrary Issue
+
 By reviewing the C++ code, I found that the call to `LoadLibrary` indeed does not ask Windows to load dependencies from the right folder. I added this finding to my bug report.
 
 I patched ASP.NET Core module to load dependencies via `LoadLibraryEx` and set the `LOAD_LIBRARY_SEARCH_DLL_LOAD_DIR` flag, and my patched module was then working properly in out-of-process mode.
 
+> Luckily this was later determined to be a Windows ARM64 bug, and the fix was to be made in the Windows team. I did roll back the change of `LoadLibraryEx` to `LoadLibrary` in my pull request.
+
 ## The One Pull Request to Rule Them All
 
-After finishing the investigation, time to put everything together and conclude with a pull request.
+After finishing the investigation, it was time to put everything together and conclude with a pull request.
 
 First, I needed to revise the WiX installer to install the correct x86 bits, and that was very simple.
 
-Second, I needed to upgrade the WiX installer to install the x64 and ARM64 bits along with Arm64X pure forwarders. This was a bit more challenging because the build process must then add extra steps to product the pure forwarder DLLs. Visual C++ does not yet have a project template to produce such binaries, so I had to write a custom build script to do the job, which took me quite a while as I needed to figure out all the details like how to locate the installed VC++ toolchain in my script.
+Second, I needed to upgrade the WiX installer to install the x64 and ARM64 bits along with Arm64X pure forwarders. This was a bit more challenging because the build process must then add extra steps to produce the pure forwarder DLLs. Visual C++ does not yet have a project template to produce such binaries, so I had to write a custom build script to do the job, which took me quite a while as I needed to figure out all the details like how to locate the installed VC++ toolchain in my script.
+
+> The pull request review did help me find a better way to locate the VC++ toolchain.
 
 Third, I needed to add my one-line patch on `LoadLibrary` to ASP.NET Core module itself.
 
@@ -100,7 +118,7 @@ Instead of leaving any future brave Windows ARM64 explorers like me in the same 
 
 > Thanks for reading this far, as it is such a long post and I rarely write in this way for a very long time. Hope now you understand more about Windows 11 ARM64 and ASP.NET Core.
 
-## Turnaround in 2025
+## Turnaround in Dec 2024
 
 People continued to use the workaround I proposed in `ancm-arm64` to patch their ASP.NET Core module installation on Windows ARM64, but this approach came with many pains,
 
@@ -109,14 +127,15 @@ People continued to use the workaround I proposed in `ancm-arm64` to patch their
 
 Of course, those pains are much less if compared to users stuck with Microsoft installers, who can only run ASP.NET Core web apps on IIS with pure ARM64 mode, which excludes all IIS out-of-band components (URL Rewrite module, ARR, etc.) which are currently only available in x86/x64 bitness. Thanks to those users who keep reporting the issues to Microsoft, and by the end of 2024 ASP.NET Core team decided to work on my proposed changes again.
 
-This work was first brought back by Stephen Halter in [this pull request](https://github.com/dotnet/aspnetcore/pull/59481) on Dec 13, 2024 but we had to abandon it, simply because I moved all patches (including IIS Express related patches) to HttpPlatformHandler v2 repo. So, I created [a new pull request](https://github.com/dotnet/aspnetcore/pull/59483). The review process was much smoother than expected, because many minor issues were found and resolved during my work of HttpPlatformHandler v2.
+This work was first brought back by Stephen Halter in [this pull request](https://github.com/dotnet/aspnetcore/pull/59481) on Dec 13, 2024 but we had to abandon it, simply because I moved all patches (including IIS Express related patches) to the HttpPlatformHandler v2 repo. So, I created [a new pull request](https://github.com/dotnet/aspnetcore/pull/59483). The review process was much smoother than expected, because many minor issues were found and resolved during my work on HttpPlatformHandler v2.
 
 However, we happened to find an important change probably made by the Windows team, who changed the behaviors of `LoadLibrary` call when it tries to load a pure forwarder. So, on certain old versions of Windows ARM64, when `LoadLibrary` sees `aspnetcorev2_outofprocess.dll` in the out-of-process folder, it won't check if the platform specific files are in the same folder. That was why I had to switch from `LoadLibrary` to `LoadLibraryEx`. On the latest Windows ARM64 release, `LoadLibrary` alone works as desired. I guess they just had to fix `LoadLibrary`, because it makes more sense than forcing everyone to switch to `LoadLibraryEx`.
 
 So today is Feb 19, 2025 and the pull request has been merged to the main branch. Let's hope the patched installers for .NET 8/9/10 will come out soon and you don't need any workaround applied any more.
 
-## Hints on Windows Installer Upgrade
-A few days ago some .NET 10.0 Preview testers reported that the changes I made broke IIS/IIS Express when upgrading from a previous release (like .NET 8/9), as `aspnetcorev2.dll` was missing. I was able to reproduce the issue after building two versions of ASP.NET Core module installers for IIS Express before and after my changes, so that detailed Windows Installer logs can be acquired.
+## Hints on Windows Installer Upgrade in Feb 2025
+
+A few days ago some .NET 10.0 Preview testers reported that the changes I made broke IIS/IIS Express when upgrading from a previous release (like .NET 8/9), as `aspnetcorev2.dll` was missing. I was able to reproduce the issue after building two versions of ASP.NET Core module installers for IIS Express before and after my changes, which allowed me to acquire detailed Windows Installer logs.
 
 ``` text
 install.log:815:MSI (s) (B4:90) [22:49:42:783]: PROPERTY CHANGE: Adding CA_ADD_MODULE property. Its value is 
@@ -214,6 +233,6 @@ I recently moved my focus to help IIS out-of-band component users on Windows ARM
 * HttpPlatformHandler v2 (derived from ASP.NET Core module) was my latest achievement that fully supports Windows ARM64.
 * [I created a workaround](https://github.com/lextm/rewrite-arm64) for you to use URL Rewrite module on Windows ARM64.
 
-But clearly I might be able to drive inside Microsoft the necessary resources to ship official Windows ARM64 compatible installers for URL Rewrite module, ARR, etc. Let's see how soon I might get things rolling.
+But Microsoft might ship official Windows ARM64 compatible installers for URL Rewrite module, ARR, etc. in the future. Let's see how soon these improvements might become available.
 
 Stay tuned.
