@@ -1,12 +1,12 @@
 ---
-description: A post about the challenges I encountered when I created a project to enable Windows Explorer context menu for Windows Terminal.
+description: Detailed walkthrough of creating Windows Explorer context menu integration for Windows Terminal, addressing technical challenges like icon handling and command elevation.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Tour des Canadiens Condos in Montreal.
   path: /images/canadiens-montreal.jpg
 layout: post
 permalink: /the-challenges-to-enable-open-with-windows-terminal-8090b2d92d5a
-tags: powershell windows
+tags: powershell windows microsoft
 title: The Challenges to Enable 'Open With Windows Terminal'"
 ---
 Microsoft have created several interesting open source projects in the past few years, and [Windows Terminal](https://github.com/microsoft/terminal) is surely one of the most wanted.

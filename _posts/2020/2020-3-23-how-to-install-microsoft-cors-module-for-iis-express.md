@@ -1,5 +1,5 @@
 ---
-description: A post about how to install Microsoft IIS CORS module for IIS Express to fill the gap.
+description: Solution for installing and configuring Microsoft's CORS module for IIS Express, with automated PowerShell scripts to simplify the setup process for developers.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Iced canal in Montreal.

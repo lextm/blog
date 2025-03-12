@@ -1,12 +1,12 @@
 ---
-description: A post about ASP.NET Windows authentication setup and what typical issues you might encounter.
+description: Comprehensive guide to ASP.NET Windows authentication setup, explaining common issues, IIS configuration details, and advanced topics for proper implementation.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. TELUS Garden Offices in Vancouver.
   path: /images/telus-garden.jpg
 layout: post
 permalink: /miseries-around-asp-net-windows-authentication-setup-14e2e8522ad2
-tags: asp.net iis windows
+tags: asp.net iis windows microsoft
 title: Miseries Around ASP.NET Windows Authentication Setup
 ---
 ASP.NET developers should have some IIS knowledge. But how much can be enough to fully understand the concepts of Windows authentication? Well, based on the questions from Stack Overflow, I bet the answer is quite lot. A complex topic like this requires extensive knowledge beyond ASP.NET/IIS, and if you don't fully understand some Windows/AD processes behind the scene puzzles are everywhere. This post might not be able to cover everything, but can leave you hints on what to explore further.

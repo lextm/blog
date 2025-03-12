@@ -1,13 +1,13 @@
 ---
 categories: [History, .NET]
-description: A post about the end of MonoDevelop and why you should now abandon it.
+description: Discover why Microsoft abandoned MonoDevelop, the implications for cross-platform .NET development, and what alternatives developers should consider using instead.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. River side, Montreal.
   path: /images/riverside.jpg
 layout: post
 permalink: /the-end-of-monodevelop-80b383dab34b
-tags: .net linux microsoft mono visual-studio xamarin visual-studio-code
+tags: .net linux microsoft mono visual-studio xamarin visual-studio-code open-source
 title: The End of MonoDevelop
 ---
 Microsoft abandoned [MonoDevelop GitHub repository](https://github.com/mono/monodevelop/graphs/contributors) earlier this year, and we can see no commit was pushed since February. However, there is no official announcement from any Microsoft channel on why that happened.
