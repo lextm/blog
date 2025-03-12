@@ -1,5 +1,5 @@
 ---
-description: A post about Code Beautifier Collection 2.4 Beta 2.
+description: An update on the development progress of Code Beautifier Collection 2.4 Beta 2, announcing that most planned features have been implemented and the release is scheduled for later that week, with a mention of the "BigFace" code name for the next version.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /code-beautifier-collection-2-4-beta-2-is-nearly-ready-4849800eac1

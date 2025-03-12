@@ -1,5 +1,5 @@
 ---
-description: 介绍了自己学习编程的一些经历
+description: 作者分享了从高中时期学习Turbo C到大学深入C语言和Delphi的编程历程。文章探讨了良好编程风格和习惯的培养过程，以及K&R的编程风格对作者的深远影响，强调了代码美化和清晰结构对于程序开发的重要性。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /a-primrose-path-to-programming-4aeb1f289b2c

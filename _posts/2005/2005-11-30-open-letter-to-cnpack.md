@@ -1,9 +1,9 @@
 ---
-description: 对于 CnWizards 项目未来发展的一些看法。
+description: 这封公开信详细分析了CnPack开源项目的发展历程及未来方向，提出采用更开放的组件架构来推动项目进一步发展的建议，参考Eclipse和CodeRush的成功模式，探讨如何实现从功能集合到平台型架构的转型，以吸引更多开发者参与并创造可持续的生态系统。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /至cnpack项目组的公开信-草稿-40064c875807
-tags: code-beautifier-collection delphi
+tags: code-beautifier-collection delphi open-source
 title: 至CnPack项目组的公开信――草稿
 ---
 (Originally posted to CSDN on Nov 30, 2005)

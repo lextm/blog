@@ -1,5 +1,5 @@
 ---
-description: A post about updated CBC Roadmap Slide
+description: A visual roadmap showing the evolution of Code Beautifier Collection (CBC) series with past milestones, current status, and future development plans as of December 2005.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /updated-cbc-roadmap-slide-ddfd2f550bb8

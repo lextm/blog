@@ -1,5 +1,5 @@
 ---
-description: A post about Code Beautifier Collection 2.4 Beta 1
+description: An update on Code Beautifier Collection 2.4 development for Borland Developer Studio 2006, announcing successful IDE support with extensive testing for Delphi and C# features, ongoing C++ testing, and plans to release a beta version the following week as a "Christmas present" for users.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-2-4-for-bds-2006-is-in-beta-5f5b6fa8416d

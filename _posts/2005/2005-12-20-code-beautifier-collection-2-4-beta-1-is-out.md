@@ -1,9 +1,9 @@
 ---
-description: A post about Code Beautifier Collection 2.4 Beta 1.
+description: Announcing the release of Code Beautifier Collection 2.4 Beta 1 with key improvements including a new Inno Setup 5 installer, source code availability, and redesigned documentation using LaTeX - available for download on both BDN Code Central and 2ccc.com.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /code-beautifier-collection-2-4-beta-1-is-out-51e305ce6f9f
-tags: delphi inno-setup
+tags: delphi inno-setup code-beautifier-collection
 title: Code Beautifier Collection 2.4 Beta 1 is out!
 ---
 (Originally published on Dec 20, 2005)

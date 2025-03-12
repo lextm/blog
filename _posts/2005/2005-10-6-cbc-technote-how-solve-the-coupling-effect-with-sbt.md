@@ -1,5 +1,5 @@
 ---
-description: A post about how I kept my code isolated from David's Sharp Builder Tools.
+description: A technical discussion of how Code Beautifier Collection was restructured to reduce tight coupling with Sharp Builder Tools, detailing the architectural challenges of extending SBT's configuration system and the solution of isolating new code while maintaining compatibility.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-how-to-solve-the-coupling-effect-with-sbt-6fde78543560

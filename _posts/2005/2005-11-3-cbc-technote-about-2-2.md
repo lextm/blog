@@ -1,5 +1,5 @@
 ---
-description: A post about the latest version 2.2 of CBC.
+description: A development log for Code Beautifier Collection 2.2, discussing UI improvements to match the BDS options dialog style, plans for installer creation, testing strategies, and lessons learned from previous release issues to improve quality assurance.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-about-2-2-754f219938dc
