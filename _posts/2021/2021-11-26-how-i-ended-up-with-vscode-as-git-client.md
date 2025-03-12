@@ -1,8 +1,8 @@
 ---
-description: A post about how I ended up using VS Code as my default Git client on all platforms
+description: Discover how VS Code with Git Graph and GitLens extensions can serve as a powerful cross-platform Git client that rivals standalone applications like GitKraken, SmartGit, and TortoiseGit
 excerpt_separator: <!--more-->
 layout: post
-tags: visual-studio-code
+tags: visual-studio-code git github
 title: How I Ended Up with VS Code as Git Client
 ---
 This is a short story on how I gave up all other Git clients and ended up with VS Code as my everyday companion.

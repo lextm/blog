@@ -1,5 +1,5 @@
 ---
-description: A post about different ways to define VS Code extension dependencies and which might work best for your case
+description: Learn about three effective methods to manage VS Code extension dependencies - configuration settings, code recommendations, and extension packs - with detailed code examples and best practices for each approach
 excerpt_separator: <!--more-->
 layout: post
 tags: visual-studio-code

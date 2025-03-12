@@ -1,8 +1,8 @@
 ---
-description: A post about DockPanel Suite 3.1.0 release and my departure from this open source project
+description: Announcing DockPanel Suite 3.1.0 with theme separation, .NET Core 3.1 support, and SDK-style project format - plus important information about the future of this popular WinForms docking library
 excerpt_separator: <!--more-->
 layout: post
-tags: .net dockpanel-suite visual-studio windows
+tags: .net dockpanel-suite visual-studio windows open-source
 title: DockPanel Suite 3.1.0 Release
 ---
 I just published DockPanel Suite 3.1.0 release on NuGet, almost three years after the 3.0.6 release.
