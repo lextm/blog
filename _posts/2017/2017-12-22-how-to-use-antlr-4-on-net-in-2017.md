@@ -1,12 +1,12 @@
 ---
-description: A post about how to use ANTLR 4 on .NET in 2017.
+description: A comprehensive guide on using ANTLR 4 with .NET in 2017, covering .NET Standard support, listener and visitor patterns, and development tips using JetBrains Rider.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. OCT, Pujiang Town, Shanghai.
   path: /images/oct-pujiang.jpg
 layout: post
 permalink: /how-to-use-antlr-4-on-net-in-2017-d8bfe7efa74c
-tags: .net antlr visual-studio
+tags: .net antlr visual-studio csharp open-source
 title: How to Use ANTLR 4 on .NET in 2017
 ---
 I once blogged heavily about how to use ANTLR on .NET, and you can find all related posts in [here]({{ site.baseurl }}/tags/antlr/).

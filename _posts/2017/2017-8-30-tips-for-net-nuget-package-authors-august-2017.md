@@ -1,9 +1,9 @@
 ---
-description: This post is about some tips for .NET NuGet package authors such as how to select target platforms, how to prepare source code, how to generate the package, and how to test out the package.
+description: Essential tips for .NET NuGet package authors as of August 2017, covering target platform selection, source code preparation for multi-targeting, package generation techniques, and testing strategies.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tips-for-net-nuget-package-authors-august-2017-48f07604e4a0
-tags: .net visual-studio
+tags: .net visual-studio open-source microsoft
 title: Tips for .NET NuGet Package Authors (August 2017)
 ---
 > I have to add "August 2017", as time proves that the tips can go easily out-of-date.

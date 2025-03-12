@@ -1,10 +1,10 @@
 ---
 categories: [History, .NET]
-description: This post is about the rough history of ASP.NET on IIS.
+description: The comprehensive evolution of ASP.NET on IIS from its inception through various pipeline models, to ASP.NET Core and Kestrel, explaining the technical architecture changes and hosting options throughout the years.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-rough-history-of-asp-net-on-iis-8f49e2bcefcd
-tags: .net asp.net iis windows
+tags: .net asp.net iis windows microsoft
 title: The Rough History of ASP.NET on IIS
 ---
 > It all happened when I tried to answer [this Stack Overflow question](https://stackoverflow.com/questions/35639205/what-is-kestrel-vs-iis-express/46878663#46878663).

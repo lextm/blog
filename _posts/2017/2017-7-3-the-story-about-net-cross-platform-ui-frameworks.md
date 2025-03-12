@@ -1,6 +1,6 @@
 ---
 categories: [History, .NET]
-description: Discover the best .NET cross-platform UI frameworks for your projects. This comprehensive analysis explores the pros and cons of each framework, empowering developers to make informed decisions. Choose the right framework and unlock the potential of cross-platform development.
+description: A comprehensive analysis of .NET cross-platform UI frameworks, comparing native bindings, custom rendering approaches, and control mapping technologies like Xamarin.Forms, Avalonia, and Uno Platform for desktop and mobile development.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-story-about-net-cross-platform-ui-frameworks-dd4a9433d0ea

@@ -1,9 +1,9 @@
 ---
-description: A post about how to acquire dependencies for Visual Studio Code extensions.
+description: Learn how to effectively acquire and manage runtime dependencies for Visual Studio Code extensions, with examples from the reStructuredText Language Server implementation using OmniSharp's helper classes.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-acquire-dependencies-for-visual-studio-code-extensions-9ca828cb168d
-tags: visual-studio-code
+tags: visual-studio-code open-source
 title: How to Acquire Dependencies for Visual Studio Code Extensions
 ---
 The open source community is so large today, that you don't need to create all the wheels once again, unless really necessary.

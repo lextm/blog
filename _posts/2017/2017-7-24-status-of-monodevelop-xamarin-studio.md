@@ -1,10 +1,10 @@
 ---
 categories: [History, .NET]
-description: This post is about the status of MonoDevelop and Xamarin Studio.
+description: A comprehensive overview of the current status of MonoDevelop and Xamarin Studio after Microsoft's acquisition of Xamarin, explaining the transition to Visual Studio for Mac and best IDE choices for each platform.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /status-of-monodevelop-xamarin-studio-253da80d022c
-tags: mono visual-studio linux macos windows
+tags: mono visual-studio linux macos windows xamarin
 title: Status of MonoDevelop/Xamarin Studio
 ---
 > Disclaimer: I don't work for Microsoft/Xamarin, so this post is just based on my personal observation.

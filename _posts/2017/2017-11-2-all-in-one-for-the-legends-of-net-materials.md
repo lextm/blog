@@ -1,10 +1,10 @@
 ---
 categories: [History, .NET]
-description: A post that summarizes all The Legends of .NET materials.
+description: A comprehensive collection of articles about the history and legends of .NET technologies, including posts about MSBuild, C# compilers, ASP.NET on IIS, and other important .NET ecosystem stories.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /all-in-one-for-the-legends-of-net-materials-43c374a01433
-tags: .net asp.net msbuild visual-studio
+tags: .net asp.net msbuild visual-studio csharp microsoft
 title: All-In-One for The Legends of .NET Materials
 ---
 I am going to give [a talk on The Legends of .NET](https://mvpdaysv-conference2017-1.busyconf.com/activities/59ebb3464ee06baeb80001c9) on Jan 17, 2018.

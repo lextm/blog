@@ -1,9 +1,9 @@
 ---
-description: This post would show you how to install IIS 10 on Windows 10/Windows Server 2016 via PowerShell.
+description: A straightforward guide on how to install IIS 10 on Windows 10 and Windows Server 2016 using PowerShell commands, with explanations of feature names and module identification techniques.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /install-iis-10-on-windows-via-powershell-96baf95efc2e
-tags: iis windows
+tags: iis windows powershell microsoft
 title: Install IIS 10 on Windows via PowerShell
 ---
 Microsoft provides [a way to install IIS 8.5 via PowerShell](https://docs.microsoft.com/iis/install/installing-iis-85/installing-iis-85-on-windows-server-2012-r2#modules-in-iis-85), so can we get steps for IIS 10?

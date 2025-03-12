@@ -1,9 +1,9 @@
 ---
-description: This post is about tips for .NET Core unit testing with xUnit.net.
+description: Essential tips for effective .NET Core unit testing, including how to configure multiple target frameworks, handle xUnit.net versions correctly, and troubleshoot Visual Studio test runner issues.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tips-for-net-core-unit-testing-92a8d123a17a
-tags: .net xunit
+tags: .net xunit open-source visual-studio
 title: Tips for .NET Core Unit Testing
 ---
 If you are managing an open source library for the community like I do, the introduction of .NET Core/.NET Standard is a bless and curse. Special care must be taken so as to make unit testing platform complete and issue free. Here I share some tips I learn from the process.

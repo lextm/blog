@@ -1,12 +1,12 @@
 ---
-description: 'A post about the upcoming 2.0 release of #SNMP Pro.'
+description: 'Learn about the upcoming #SNMP Pro 2.0 release which adds .NET Standard 2.0 support, improved RFC compliance, and better compatibility with various platforms through a single NuGet package.'
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Bund, Xuhui, Shanghai.
   path: /images/bund-xuhui.jpg
 layout: post
 permalink: /snmp-pro-the-upcoming-2-0-release-ca4a64943d01
-tags: .net snmp
+tags: .net snmp open-source windows linux macos
 title: '#SNMP Pro, The Upcoming 2.0 Release'
 ---
 #SNMP Pro was announced in April 2013 and reached its 1.0 release in February 2014. We will celebrate its fifth birthday soon in early 2018. But before that, let's talk about the upcoming 2.0 release.

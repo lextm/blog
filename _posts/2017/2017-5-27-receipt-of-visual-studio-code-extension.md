@@ -1,9 +1,9 @@
 ---
-description: This post is about what a Visual Studio Code extension should contain.
+description: A practical breakdown of Visual Studio Code extension structure using the reStructuredText extension as an example, covering manifest files, contribution points, and TypeScript implementation details.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /receipt-of-visual-studio-code-extension-f4fb832fd956
-tags: visual-studio-code
+tags: visual-studio-code open-source restructuredtext
 title: Receipt of Visual Studio Code Extension
 ---
 ![img-description](/images/rst.png){: width="512" }

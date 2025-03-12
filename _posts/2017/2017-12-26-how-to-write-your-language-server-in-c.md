@@ -1,9 +1,9 @@
 ---
-description: A post about how to write your own language server in C#. I will use reStructuredText as an example.
+description: A comprehensive guide on how to implement a Language Server Protocol (LSP) component in C# for Visual Studio Code extensions, using reStructuredText as an example and exploring available .NET frameworks.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-write-your-language-server-in-c-d9302a44f694
-tags: .net restructuredtext visual-studio-code
+tags: .net restructuredtext visual-studio-code csharp open-source
 title: How to Write Your Language Server in C#
 ---
 I just wrote about [my plan]({% post_url 2017/2017-12-23-a-new-restructuredtext-project %}) to enhance reStructuredText extension for Visual Studio Code by adding a language server.

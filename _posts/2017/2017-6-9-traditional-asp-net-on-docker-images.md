@@ -1,10 +1,9 @@
 ---
-description: This post is about how to analyze the layers of a Docker image, and use
-  ASP.NET container images as example.
+description: An analysis of Docker image layers for traditional ASP.NET applications, explaining how Microsoft's official images are composed from windowsservercore through IIS to ASP.NET and how to customize them for your needs.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /traditional-asp-net-on-docker-images-1af3b72eeaaf
-tags: .net asp.net iis windows
+tags: .net asp.net iis windows microsoft
 title: 'Traditional ASP.NET on Docker: Images'
 ---
 > Update: due to the recent changes by Microsoft, the actual images can be different, but the way of analyzing the layers should remain the same. You are welcome to write a new blog post to replace this.

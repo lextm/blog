@@ -1,9 +1,9 @@
 ---
-description: A post about the most common technologies not supported by Microsoft and how to work around them.
+description: Discover the most common technologies not officially supported by Microsoft, including server-side Office automation, System.Drawing in services, System.Windows.Media in non-WPF apps, and mapped drives in IIS.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-most-common-technologies-not-supported-by-microsoft-8675c409bde2
-tags: .net asp.net iis visual-studio microsoft
+tags: .net asp.net iis visual-studio microsoft windows
 title: The Most Common Technologies Not Supported By Microsoft
 ---
 Microsoft designs its products and technologies for many scenarios, but not for all. Sometimes if you use a certain technology in a wrong way, you won't receive official technical support from Microsoft support team. In such cases, please switch to alternative ways, and that usually saves you tons of hours on the dead end.

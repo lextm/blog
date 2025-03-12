@@ -1,9 +1,9 @@
 ---
-description: This post is about an edge case when IIS Express failed to start ASP.NET Core apps.
+description: Troubleshooting an edge case where IIS Express fails to start ASP.NET Core applications due to port conflicts with an already running instance, with detailed event log analysis and solution.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /iis-express-failed-to-start-for-asp-net-core-apps-edge-case-78efdc18e1c6
-tags: asp.net iis
+tags: asp.net iis windows visual-studio
 title: IIS Express Failed to Start ASP.NET Core Apps Edge Case
 ---
 This time with the new documentation site, Microsoft does [provide better coverage on common issues](https://docs.microsoft.com/aspnet/core/publishing/iis#common-errors). However, they still miss one edge case I just hit today and below is the detail.
