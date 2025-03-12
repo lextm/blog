@@ -1,12 +1,12 @@
 ---
-description: A post about how I used WiX to create the simple MSI installer for Jexus Manager.
+description: A practical guide to creating Windows MSI installers with WiX Toolset, using Jexus Manager as a real-world example with version detection and shortcuts.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. IKEA store, Montreal.
   path: /images/ikea-montreal.jpg
 layout: post
 permalink: /a-wix-installer-example-jexus-manager-640b6586c27c
-tags: visual-studio windows
+tags: visual-studio windows msbuild open-source
 title: A WiX Installer Example, Jexus Manager
 ---
 Jexus Manager has been shipped as a ZIP package for long. Such a shipping method is very popular, as users can unzip the contents and run from a suitable location immediately. Tools like ILSpy also ship their binaries in this way.

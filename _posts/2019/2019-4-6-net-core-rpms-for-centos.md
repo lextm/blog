@@ -1,12 +1,12 @@
 ---
-description: A post about how to install .NET Core RPMs on CentOS.
+description: A comprehensive guide to installing .NET Core on CentOS using RPM packages, covering dependencies, package relationships, and deployment options.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Canada flag in a snowy day, Montreal.
   path: /images/canada-flag.jpg
 layout: post
 permalink: /net-core-rpms-for-centos-1c40862e8166
-tags: .net asp.net linux open-source
+tags: .net asp.net linux open-source microsoft
 title: .NET Core RPMs for CentOS
 ---
 It is very important to learn what to install on a CentOS if you want to deploy a .NET Core application or set up a development environment there. So here we quickly go over the necessary details.

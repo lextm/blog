@@ -1,13 +1,13 @@
 ---
 categories: [History, .NET]
-description: A post about the rough history of MonoDevelop and interesting stories behind it.
+description: Explore the complete history of MonoDevelop IDE - from its SharpDevelop origins to its evolution with Unity, Xamarin, and eventual transformation into Visual Studio for Mac.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Construction site, Montreal.
   path: /images/construction-site.jpg
 layout: post
 permalink: /brief-history-of-monodevelop-93b1d4011978
-tags: linux mono sharpdevelop
+tags: linux mono sharpdevelop microsoft visual-studio open-source
 title: The Rough History of MonoDevelop
 ---
 There is [a Wikipedia article about MonoDevelop](https://en.wikipedia.org/wiki/MonoDevelop). However, I don't think it contains the necessary history events on this product, so here I provide an alternative version.

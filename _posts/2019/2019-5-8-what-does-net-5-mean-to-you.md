@@ -1,12 +1,12 @@
 ---
-description: A post about what .NET 5 means to different groups of people
+description: Understand how Microsoft's .NET 5 announcement impacts different developer groups including .NET Core, .NET Framework, Mono, Xamarin, and Unity developers.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Tree reflection, Montreal.
   path: /images/tree-reflection.jpg
 layout: post
 permalink: /what-does-net-5-mean-to-you-c63d06b63285
-tags: .net asp.net linux mono
+tags: .net asp.net linux mono microsoft xamarin
 title: What Does .NET 5 Mean to You
 ---
 On Monday, [Microsoft announced .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/), the next major release of its popular .NET Core platform.

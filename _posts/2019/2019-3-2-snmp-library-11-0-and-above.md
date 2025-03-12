@@ -1,12 +1,12 @@
 ---
-description: 'A post about #SNMP Library 11.0 and the plan ahead on this project.'
+description: 'An overview of the significant changes in #SNMP Library version 11.0 and 11.1, including architectural changes and support policy updates.'
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Tree branches in a winter night, Montreal.
   path: /images/winter-branches.jpg
 layout: post
 permalink: /snmp-library-11-0-and-above-96c31e9d11b8
-tags: .net snmp
+tags: .net snmp open-source
 title: '#SNMP Library, 11.0 and Above'
 ---
 I just revised and published [release notes](https://github.com/lextudio/sharpsnmplib/releases) for #SNMP Library 11.0 and 11.1.

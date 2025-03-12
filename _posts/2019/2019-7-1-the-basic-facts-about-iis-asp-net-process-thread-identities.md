@@ -1,5 +1,5 @@
 ---
-description: A post about the basic facts about IIS/ASP.NET process/thread identities that can help you understand the root cause of some issues.
+description: Understanding IIS and ASP.NET process and thread identities - learn how they affect security, authentication, and resource access in your web applications.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. A cloudy day in Montreal.
