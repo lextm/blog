@@ -1,5 +1,5 @@
 ---
-description: 'This post is about how I analyzed a memory leak report on a #SNMP Library with JetBrains dotMemory.'
+description: 'Detailed walkthrough of analyzing a memory leak report in #SNMP Library using JetBrains dotMemory Unit for memory snapshot comparisons and heap analysis.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /analysis-on-a-snmp-library-memory-leak-report-with-jetbrains-dotmemory-9199f8a98955

@@ -1,9 +1,9 @@
 ---
-description: This post is to announce that Jexus Manager 2.0 Alpha 6 is shipped and bug reports are welcome.
+description: Announcement of Jexus Manager 2.0 Alpha 6 release with support for authentication, compression, default document, error pages, and many other server/site level settings.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-2-0-alpha-6-shipped-and-bug-reports-welcome-9cf6474ef521
-tags: iis jexus-manager windows
+tags: iis jexus-manager windows web-development
 title: 'Jexus Manager: 2.0 Alpha 6 Shipped and Bug Reports Welcome'
 ---
 After several weeks of hard work, I am glad to announce the immediate availability of Jexus Manager for IIS Express 2.0 Alpha 6.

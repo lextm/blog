@@ -1,5 +1,5 @@
 ---
-description: 'This post is to announce the release of #SNMP Pro 1.1.'
+description: 'Announcement of #SNMP Pro 1.1 release with detailed changes to the SharpSnmpPro.Mib assembly and MIB Compiler Pro, including new interfaces, improved error handling, and performance optimizations.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-release-1-1-is-out-11ddf223eaa7

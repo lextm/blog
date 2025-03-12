@@ -1,5 +1,5 @@
 ---
-description: A post that explains what is Microsoft.Web.Administration and what are the things you must know before using it in your project.
+description: Critical information about Microsoft.Web.Administration API for IIS management, including OS dependencies, dangers of using NuGet packages, and other implementation challenges.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /whats-microsoft-web-administration-and-the-horrible-facts-you-should-know-b82f2c974da6

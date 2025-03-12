@@ -1,5 +1,5 @@
 ---
-description: This post is about how to analyze the performance of multithreading scenarios.
+description: Performance analysis of multithreading scenarios in #SNMP Library, including synchronous vs. asynchronous request handling and identifying thread pool bottlenecks.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /lordgate-notes-multithreading-performance-2a816da2af6d

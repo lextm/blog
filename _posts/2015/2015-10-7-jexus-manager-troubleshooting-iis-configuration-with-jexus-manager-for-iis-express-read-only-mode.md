@@ -1,11 +1,10 @@
 ---
-description: This post is about how Jexus Manager can help you troubleshoot IIS configuration issues.
+description: How Jexus Manager's read-only mode helps troubleshoot IIS configuration issues without requiring administrator permissions and provides better error messages.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-troubleshooting-iis-configuration-with-jexus-manager-for-iis-express-read-only-mode-3aa89c332f79
 tags: iis jexus-manager windows
-title: 'Jexus Manager: Troubleshooting IIS Configuration with Jexus Manager for IIS
-  Express Read Only Mode'
+title: 'Jexus Manager: Troubleshooting IIS Configuration with Jexus Manager for IIS Express Read Only Mode'
 ---
 There are several issues with IIS Manager that you might not be able to use it to troubleshoot IIS configuration issues,
 

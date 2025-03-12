@@ -1,5 +1,5 @@
 ---
-description: This post is about the differences between web applications running in Visual Studio and IIS.
+description: Comprehensive explanation of why ASP.NET applications behave differently when running in Visual Studio versus IIS, covering security contexts, session isolation, and resource access limitations.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /web-application-differences-in-visual-studio-and-iis-60fec7e311b3
@@ -9,6 +9,7 @@ title: Web Application Differences in Visual Studio and IIS
 Beginners of web development often find it strange to see their ASP.NET applications run differently in VS and on IIS. It is reasonable to expect the same code base yields the same results everywhere, but is there anything they take for granted?
 <!--more-->
 ## Web Server Differences
+
 To get started, we need to talk about what web servers are hosting the web apps in both scenarios, so that differences become obvious.
 
 No doubt IIS is a web server in its own scenario.
@@ -18,9 +19,11 @@ Do you know that old versions of Visual Studio uses ASP.NET Development Server? 
 IIS on the other hand, is a completely different web server. It does not only provide more features, but also executes your code in a different way.
 
 ## Code Execution Details
+
 Every line of code runs under an account. This principle applies to desktop applications, as well as web applications.
 
 ### In User Session
+
 So when you use Visual Studio to debug your web application, which account is used to execute your code? Both ASP.NET Development Server and IIS Express use **your account**. Yes, your account! That means in most of the cases,
 
 * All the permissions granted to your account guarantee the program to run in the way you want.
@@ -29,6 +32,7 @@ So when you use Visual Studio to debug your web application, which account is us
 * If certificates are involved, then the web apps read your account's certificates stores.
 
 ### In System Session
+
 What about IIS then?
 
 First, which user account is used? What if IIS uses your account to run the code? Well, that often is horrible (consider the fact that most web developers are local administrators). So the designers of IIS (starting from IIS 6) choose a concept called application pool identities to manage the accounts.
@@ -44,6 +48,7 @@ Third, what resources can be used? Your web application on IIS can only access t
 The security model of IIS (like described above), remediates many common security issues, but impacts a lot on development. With a restricted pool identity, many .NET APIs will give you different results (in many cases, weird exceptions and errors). However, if you embrace the facts above and start to learn about the pool identities, you can easily find out why those differences come and how to fix your code.
 
 ## Crazy Examples
+
 * Pop a dialog (open file dialog and so on) in your web app. That of course works fine with Visual Studio/IIS Express, as the dialog shows in your logon session and you can see it. But once on IIS, the dialog is in session 0 on the server, so it is invisible at browser side or when you log on to the server. The dialog prompt will hang the thread opening it, and you have no magic to click on it.
 
 * Run a command line utility or Notepad. If you attempt to do with Visual Studio/IIS Express, the utility or Notepad runs in your logon session and you can do whatever. But again once on server side, the utility or Notepad would be invisible as it is launched in session 0.
@@ -53,6 +58,7 @@ The security model of IIS (like described above), remediates many common securit
 > Note that even Office server side automation can work flawlessly on IIS Express, but it is not supported at all on IIS.
 
 ## Extra Note
+
 Most of the tips also apply to Windows service applications, which run under a preconfigured service account instead of the developer's account.
 
 Process bitness (32 bit or 64 bit) can be another important factor beginners tend to neglect, but your web app on IIS Express and IIS can run in different bitness, and consequently consume different resources (database drivers, file system, and registry keys). So keep that in mind while you troubleshoot an issue.
