@@ -1,5 +1,5 @@
 ---
-description: A post about how to use the tool AsmSpy to verify dependent assembly versions to avoid runtime issues
+description: How to use AsmSpy to verify assembly dependencies and prevent runtime issues related to version conflicts in .NET applications
 excerpt_separator: <!--more-->
 layout: post
 tags: .net iis php visual-studio
