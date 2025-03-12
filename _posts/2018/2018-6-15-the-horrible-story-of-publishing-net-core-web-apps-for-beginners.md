@@ -1,12 +1,12 @@
 ---
-description: A post about the horrible experience of publishing ASP.NET Core apps for beginners.
+description: Common pitfalls beginners face when publishing ASP.NET Core applications to IIS, including ASP.NET Core Module installation requirements, deployment types, and HTTPS configuration.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Snow covered ladder in Quebec City.
   path: /images/snow-ladder.jpg
 layout: post
 permalink: /the-horrible-story-of-publishing-net-core-web-apps-for-beginners-6121662dd8c4
-tags: .net asp.net iis visual-studio
+tags: .net asp.net iis visual-studio microsoft
 title: The Horrible Story of Publishing .NET Core Web Apps For Beginners
 ---
 Generally speaking, ASP.NET Core is cool, and the recent 2.1 release is even cooler with all kinds of new goodies. However, this post is not aiming to praise Microsoft on what they do the best, but the worst currently for ASP.NET Core/IIS beginners.

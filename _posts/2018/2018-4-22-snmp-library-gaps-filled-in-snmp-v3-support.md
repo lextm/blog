@@ -1,12 +1,12 @@
 ---
-description: 'A post about the new SNMP v3 privacy support in #SNMP Library and why you might need it.'
+description: 'Announcing the release of #SNMP Library 10.0.6 with expanded SNMP v3 privacy protocol support, including AES 192/256 and TripleDES implementations for enhanced security.'
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Four Seasons, Boston
   path: /images/four-seasons-boston.jpg
 layout: post
 permalink: /snmp-library-gaps-filled-in-snmp-v3-support-3d05774d06b0
-tags: .net snmp
+tags: .net snmp open-source
 title: '#SNMP Library, Gaps Filled in SNMP v3 Support'
 ---
 If you have been using #SNMP Library for a while, you should know that our SNMP v3 support has significant gaps, that only DES and AES 128 are supported as privacy protocols.

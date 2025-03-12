@@ -1,12 +1,12 @@
 ---
-description: A post about how to set up CI/CD pipeline with VSTS and Zapier.
+description: Setting up a CI/CD pipeline for Sphinx documentation sites using VSTS and Zapier, with automatic deployment to Azure App Service and multi-repository management.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. The canal in the summer, Montreal.
   path: /images/summer-canal.jpg
 layout: post
 permalink: /ci-cd-pipeline-with-vsts-and-zapier-b81d341088dd
-tags: azure visual-studio
+tags: azure visual-studio git
 title: CI/CD Pipeline with VSTS and Zapier
 ---
 I just [wrote about how I started to self host Sphinx sites on Azure App Service]({% post_url 2018/2018-8-5-self-hosting-sphinx-sites-on-azure-app-service %}). Here I am writing about how to set up CI/CD pipeline to make it perfect.

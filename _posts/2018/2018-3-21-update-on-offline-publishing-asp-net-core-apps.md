@@ -1,12 +1,12 @@
 ---
-description: A second post about offline publishing ASP.NET Core apps.
+description: Step-by-step guide on upgrading ASP.NET Core applications from 2.0.5 to 2.0.6 in offline environments, including necessary NuGet packages and publishing command modifications.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Linus bikes in Boston.
   path: /images/linus-bikes.jpg
 layout: post
 permalink: /update-on-offline-publishing-asp-net-core-apps-e7894a84bd46
-tags: .net asp.net
+tags: .net asp.net microsoft
 title: Update on Offline Publishing ASP.NET Core Apps
 ---
 I [blogged about how to publish an ASP.NET Core app against an internal NuGet server]({% post_url 2018/2018-2-7-offline-publishing-asp-net-core-apps %}).

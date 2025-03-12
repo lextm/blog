@@ -1,5 +1,5 @@
 ---
-description: A post about the very common mistakes when using IIS URL Rewrite Module and how to avoid them.
+description: Identifying and fixing common mistakes made when configuring IIS URL Rewrite module, including incorrect URL matching, rewrite vs. redirect actions, and proxy requirements.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Canada Maltage, Montreal.

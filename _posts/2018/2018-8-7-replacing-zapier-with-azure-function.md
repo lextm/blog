@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Replacing Zapier With Azure Function
-description: A post about how I replaced Zapier with Azure Function.
-tags: .net azure visual-studio
+description: How to replace Zapier with custom Azure Functions to trigger VSTS builds from GitHub webhooks, providing more control over permissions and avoiding free plan limitations.
+tags: .net azure visual-studio git github
 permalink: /replacing-zapier-with-azure-function-23e8c66bd8bc
 excerpt_separator: <!--more-->
 image:

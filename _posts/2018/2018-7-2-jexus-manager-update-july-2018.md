@@ -1,12 +1,12 @@
 ---
-description: A post about the new features of Jexus Manager and the new screenshot.
+description: Technical insights into Jexus Manager's latest improvements, focusing on Microsoft.Web.Administration API compatibility, configuration section inheritance, and override mode calculations.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. The Cathedral Church of St. John the Divine, New York City
   path: /images/st-john.jpg
 layout: post
 permalink: /jexus-manager-update-july-2018-597ff6bc1483
-tags: .net iis jexus-manager visual-studio
+tags: .net iis jexus-manager visual-studio windows
 title: Jexus Manager Update July 2018
 ---
 I know Jexus Manager hasn't been updated for a while. There are many reasons, and the biggest one of them is that I was working on some huge changes but I didn't know how easy/difficult it was.

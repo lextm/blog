@@ -1,12 +1,12 @@
 ---
-description: A post about how to abort a build in VSTS when nothing is changed.
+description: Different techniques to abort or cancel a VSTS build when no changes are detected, including displaying the build as succeeded, failed, or cancelled in the dashboard.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. A sunny day, Montreal.
   path: /images/grass-sun.jpg
 layout: post
 permalink: /how-to-abort-cancel-a-build-in-vsts-7a41fce5a42c
-tags: azure visual-studio
+tags: azure visual-studio git
 title: How to Abort/Cancel A Build In VSTS
 ---
 I wrote about [how to build a pipeline to host multiple Sphinx sites on Azure App Service]({% post_url 2018/2018-8-5-ci-cd-pipeline-with-vsts-and-zapier %}) is changed.

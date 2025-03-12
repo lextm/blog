@@ -1,12 +1,12 @@
 ---
-description: A third post about offline publishing ASP.NET Core apps.
+description: Step-by-step guide on upgrading ASP.NET Core applications from 2.0.6 to 2.1.0 in offline environments, including project file changes and publishing command adjustments.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Place des Canotiers, Quebec City
   path: /images/place-des-canotiers.jpg
 layout: post
 permalink: /second-update-on-offline-publishing-asp-net-core-apps-e79c682fd287
-tags: .net asp.net visual-studio
+tags: .net asp.net visual-studio microsoft
 title: Second Update on Offline Publishing ASP.NET Core Apps
 ---
 I [posted about offline publishing ASP.NET Core web apps]({% post_url 2018/2018-3-21-update-on-offline-publishing-asp-net-core-apps %}) earlier. It was a migration from 2.0.5 to 2.0.6. And now we need a new post, to upgrade from 2.0.6 to 2.1.0.

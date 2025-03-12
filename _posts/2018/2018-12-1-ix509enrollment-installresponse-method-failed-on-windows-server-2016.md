@@ -1,10 +1,9 @@
 ---
-description: A post about a recent issue I met, that the COM API of Certenroll.h failed
-  miserably on Windows Server 2016, with an error code of "0x80071771".
+description: Troubleshooting guide for the IX509Enrollment::InstallResponses method failure with error code 0x80071771 on Windows Server 2016, with an alternative solution using certreq.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /ix509enrollment-installresponse-method-failed-on-windows-server-2016-fd1a7c1a7b33
-tags: .net windows
+tags: .net windows microsoft
 title: IX509Enrollment::InstallResponses Method Failed on Windows Server 2016
 ---
 This is only a quick post on a recent issue I met, that [the COM API of `Certenroll.h`](https://docs.microsoft.com/windows/desktop/api/certenroll/nf-certenroll-ix509enrollment-installresponse) failed miserably on Windows Server 2016, with an error code of "0x80071771" (The specified file could not be encrypted).

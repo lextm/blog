@@ -1,12 +1,12 @@
 ---
-description: A post about the official launch of LeXtudio as a company.
+description: The journey of LeXtudio from a brand name to an official company, showcasing the evolution of various open source projects and software products developed over a decade.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Iced canal, Montreal.
   path: /images/goose-canal.jpg
 layout: post
 permalink: /yet-another-official-launch-of-lextudio-77ca144b7f51
-tags: work-life
+tags: work-life open-source
 title: Yet Another Official Launch of LeXtudio
 ---
 I started to use the brand LeXtudio more than a decade ago, when I worked on Code Beautifier Collection, which was a popular Delphi extension in 2005.

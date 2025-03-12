@@ -1,13 +1,12 @@
 ---
-description: A post about the latest release of the VS Code reStructuredText extension,
-  which added synchronized preview support.
+description: Exploring the VS Code reStructuredText extension's 81.0.0 release with synchronized preview support, Webview API implementation, and the technical details behind these improvements.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Doves in the sunset, Montreal.
   path: /images/doves-sunset.jpg
 layout: post
 permalink: /vscode-restructuredtext-extension-synchronized-preview-support-3f54ebdd3416
-tags: restructuredtext visual-studio-code
+tags: restructuredtext visual-studio-code open-source
 title: VS Code reStructuredText Extension, Synchronized Preview Support
 ---
 I just shipped the 81.0.0 release of this extension. As it is worth a blog post, you can see how big the changes are there.

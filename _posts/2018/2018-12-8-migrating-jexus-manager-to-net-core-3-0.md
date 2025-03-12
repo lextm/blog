@@ -1,5 +1,5 @@
 ---
-description: A post about migrating Jexus Manager to .NET Core 3.0 and what are the goodies.
+description: Learn about the migration process of Jexus Manager to .NET Core 3.0, the challenges faced, and benefits gained from this platform upgrade.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Mont Royal, Montreal.
