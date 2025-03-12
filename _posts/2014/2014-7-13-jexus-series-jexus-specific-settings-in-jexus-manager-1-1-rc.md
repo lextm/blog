@@ -1,5 +1,5 @@
 ---
-description: This post talks about Jexus specific settings in Jexus Manager 1.1 RC.
+description: Introduction to the new Jexus-specific settings editor in Jexus Manager 1.1 RC, allowing direct configuration of key-value pairs with integrated documentation support.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-jexus-specific-settings-in-jexus-manager-1-1-rc-d5a10f06cc9

@@ -1,5 +1,5 @@
 ---
-description: This post talks about my one year experience of following YAYOG.
+description: 分享一年多来遵照YAYOG（You Are Your Own Gym）健身计划的心得体会，包括简化的训练方案、健身进步以及坚持健身带来的生活变化。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /yayog-one-year-and-more-90792dd42f0b

@@ -1,9 +1,9 @@
 ---
-description: This post covers RC 6, which contains accumulated bug fixes and new features.
+description: Overview of new features in Obfuscar 2.0 RC 6, including inclusion rules, simplified configuration options for public/private API management, and fixes for string hiding functionality.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /obfuscar-a-rush-to-2-0-rc-6-c4eb72357d03
-tags: .net
+tags: .net obfuscar open-source
 title: 'Obfuscar: A Rush to 2.0 RC 6'
 ---
 [I blogged about RC 2]({% post_url 2013/2013-8-24-obfuscar-slightly-upgraded-and-2-0-rc-2 %}) a long time ago. This post covers RC 6, which contains accumulated bug fixes and new features.

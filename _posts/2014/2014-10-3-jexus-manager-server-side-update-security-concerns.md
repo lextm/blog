@@ -1,5 +1,5 @@
 ---
-description: This post is about how Jexus Manager server side is updated to address security concerns.
+description: Comprehensive overview of security features implemented in Jexus Manager server side updates, including HTTPS enforcement, authentication methods, and protection against common attack vectors.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-server-side-update-security-concerns-4ecb6dd3ff1d

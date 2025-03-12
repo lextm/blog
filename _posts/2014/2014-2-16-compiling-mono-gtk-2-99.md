@@ -1,9 +1,9 @@
 ---
-description: This post talks about how to compile Gtk# 2.99.
+description: Troubleshooting guide for compiling Mono.Addins with Gtk# 2.99 (pre-3.0), addressing compatibility issues between different versions and breaking API changes.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /compiling-mono-gtk-2-99-a6640cfc8cc
-tags: mono linux
+tags: mono linux open-source
 title: 'Compiling Mono: Gtk# 2.99'
 ---
 I think GTK# 3.0 is coming soon, as Gtk# 2.99 is now in milestone 2. It does introduce some problems if

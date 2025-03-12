@@ -1,5 +1,5 @@
 ---
-description: This post talks about Jexus web server English homepage.
+description: Announcement of the new English documentation website for Jexus Web Server and Jexus Manager, providing centralized up-to-date resources for ASP.NET developers on Linux platforms.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-jexus-web-server-english-homepage-3ce04b9b6c5b

@@ -1,9 +1,9 @@
 ---
-description: This post is about how Jexus Manager can manage IIS Express.
+description: Explore how Jexus Manager extends its capabilities to manage IIS Express through Microsoft.Web.Administration namespace implementation, offering a familiar interface for web server configuration.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-for-iis-express-7620e9e976d0
-tags: iis jexus-manager
+tags: iis jexus-manager windows
 title: Jexus Manager for IIS Express
 ---
 You probably know Jexus Manager has been out for a while. Since I decided to implement Microsoft.Web.Administration namespace on my own and mapped Jexus settings to that model, it is technically possible to develop other mappings, such as the ones for IIS and IIS Express.
