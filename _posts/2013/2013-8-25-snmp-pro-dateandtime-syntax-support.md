@@ -43,7 +43,7 @@ Yes, that passes now with SharpSnmpPro.Mib and we know DateAndTime support is fi
 
 ## IDecoder Interface
 
-Behind the scene, the raw data we passed in is handled by a new class called DataAndTimeDecoder, which is built into to SharpSnmpPro.Mib. Its source code is as below,
+Behind the scene, the raw data we passed in is handled by a new class called DataAndTimeDecoder, which is built into SharpSnmpPro.Mib. Its source code is as below,
 
 {% gist 6333563 %}
 
