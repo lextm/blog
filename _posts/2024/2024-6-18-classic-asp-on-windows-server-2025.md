@@ -27,7 +27,9 @@ Microsoft made a strategic decision with Windows Server 2003: classic ASP remain
 
 There were concerns about classic ASP support being discontinued in future Windows Server versions, especially due to [the recent news of VBScript being deprecated](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301). VBScript is a common scripting language used within classic ASP applications. This deprecation fueled anxieties about the overall future of classic ASP.
 
-However, the latest preview build (version 24H2, OS build 26100.1 right now) for Windows Server 2025 confirms continued full support for classic ASP. This is great news for those who rely on this technology. Since Windows Server 2025 is expected to be released soon, classic ASP applications are likely to continue to run without issues for at least another decade.
+However, the latest preview build (version 24H2, OS build 26100.1 when this post was written) for Windows Server 2025 confirms continued full support for classic ASP. Microsoft has officially announced that Windows Server 2025 will be generally available in the second half of 2024, and classic ASP will remain supported under the standard Windows Server lifecycle policy, typically providing at least five years of mainstream support and an additional five years of extended support. This is great news for those who rely on this technology, as it ensures classic ASP applications can continue to run without issues for at least another decade.
+
+> Windows Server 2025 was official released on Nov 1, 2024, and its lifecycle policy can be found [here](https://learn.microsoft.com/lifecycle/products/windows-server-2025).
 
 ## Time to Consider Modernization
 
