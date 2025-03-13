@@ -1,9 +1,9 @@
 ---
-description: 'This post is about the latest RC build of #SNMP 7.'
+description: 'Overview of the latest RC build of #SNMP 7.0, including breaking changes and future plans for a new MIB compiler.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-post-rc-fc68076fa85c
-tags: .net snmp
+tags: .net snmp open-source
 title: 'BigDipper Light: Post RC'
 ---
 Long time not see, my friends. Now the 7.0 release of #SNMP is coming.

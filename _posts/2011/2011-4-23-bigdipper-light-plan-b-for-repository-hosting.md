@@ -1,9 +1,9 @@
 ---
-description: 'This post is about the new repository hosting plan for #SNMP.'
+description: 'Introducing a temporary repository hosting solution for #SNMP on Google Code due to CodePlex repository issues.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-plan-b-for-repository-hosting-495c9abe4e27
-tags: snmp google
+tags: snmp google open-source
 title: 'BigDipper Light: Plan B for Repository Hosting'
 ---
 We just started to enjoy some of the benefits of switching to Mercurial,
