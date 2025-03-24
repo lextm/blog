@@ -35,13 +35,13 @@ Here’s a side-by-side comparison of retrieving the current user name using bot
 ### Using Koffi
 
 ```javascript
-const { Library } = require('koffi');
+const { load } = require('koffi');
 
-// Load the kernel32.dll library
-const kernel32 = Library('kernel32.dll');
+// Load the advapi32.dll library
+const advapi32 = load('advapi32.dll');
 
 // Define the GetUserNameW function
-const GetUserNameW = kernel32.func('bool GetUserNameW(void*, void*)');
+const GetUserNameW = advapi32.func('bool GetUserNameW(void*, void*)');
 
 // Allocate a buffer for the user name
 const buffer = Buffer.alloc(256 * 2); // 256 WCHARs (2 bytes each)
