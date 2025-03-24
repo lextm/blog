@@ -105,13 +105,106 @@ end
 
 ### Node.js Example
 
-To invoke Win32 API in Node.js apps, the packages need to be installed via npm:
+To invoke Win32 API in Node.js apps, the `libwin32` package need to be installed via npm:
 
 ```bash
-npm install ffi-napi ref-napi ref-struct-napi
+npm install libwin32
 ```
 
-However, they seem to be not working well, so I don't currently have a working sample to show here.
+> Note that you will have to wait for [my pull request](https://github.com/Septh/libwin32/pull/3) to be accepted and merged, or install the package from my fork.
+
+Then Windows authentication information can be accessed by the sample code,
+
+```javascript
+const express = require('express');
+const win32 = require('libwin32');
+
+const app = express();
+const port = process.env.PORT || 3000;
+
+app.get('/', (req, res) => {
+    const tokenHandleStr = req.headers['x-iis-windowsauthtoken'];
+    if (!tokenHandleStr) {
+        console.debug('Missing x-iis-windowsauthtoken header');
+        return res.status(400).send('Missing x-iis-windowsauthtoken header');
+    }
+
+    let tokenHandle;
+    try {
+        tokenHandle = parseInt(tokenHandleStr, 16);
+
+        const TokenUser = 1;
+        const returnLengthPtr = Buffer.alloc(8);
+
+        const result = win32.GetTokenInformation(tokenHandle, TokenUser, null, 0, returnLengthPtr);
+
+        const lastError = win32.GetLastError();
+        if (lastError !== 122) {
+            console.debug('GetTokenInformation failed 1', lastError);
+            return res.status(500).send('GetTokenInformation failed 1');
+        }
+
+        const requiredSize = returnLengthPtr.readUInt32LE(0);
+        console.debug('Required size for token information', requiredSize);
+        if (requiredSize <= 0) {
+            console.debug('Invalid return length', requiredSize);
+            return res.status(500).send('Invalid return length');
+        }
+
+        const tokenInfoBuffer = Buffer.alloc(requiredSize);
+        const actualSizePtr = Buffer.alloc(8);
+        const success = win32.GetTokenInformation(tokenHandle, TokenUser, tokenInfoBuffer, requiredSize, actualSizePtr);
+
+        if (!success) {
+            console.debug('GetTokenInformation failed 2', win32.GetLastError());
+            return res.status(500).send('GetTokenInformation failed 2');
+        }
+
+        const sidPtr = tokenInfoBuffer.readBigUInt64LE(0);
+        if (!sidPtr) {
+            console.debug('Invalid SID pointer', sidPtr);
+            return res.status(500).send('Invalid SID pointer');
+        }
+
+        const nameBuffer = Buffer.alloc(256);
+        const nameLengthPtr = Buffer.alloc(4);
+        const domainBuffer = Buffer.alloc(256);
+        const domainLengthPtr = Buffer.alloc(4);
+        const usePtr = Buffer.alloc(4);
+
+        nameLengthPtr.writeUInt32LE(nameBuffer.length, 0);
+        domainLengthPtr.writeUInt32LE(domainBuffer.length, 0);
+
+        const lookupSuccess = win32.LookupAccountSid(null, sidPtr, nameBuffer, nameLengthPtr, domainBuffer, domainLengthPtr, usePtr);
+        if (!lookupSuccess) {
+            console.debug('LookupAccountSidW failed', win32.GetLastError());
+            return res.status(500).send('LookupAccountSidW failed');
+        }
+
+        const nameLength = nameLengthPtr.readUInt32LE(0) * 2;
+        const domainLength = domainLengthPtr.readUInt32LE(0) * 2;
+
+        const userName = nameBuffer.toString('utf16le', 0, nameLength).replace(/\0+$/, '');
+        const domainName = domainBuffer.toString('utf16le', 0, domainLength).replace(/\0+$/, '');
+
+        console.log(`User: ${userName}, Domain: ${domainName}`);
+        res.send(`User: ${userName}, Domain: ${domainName}`);
+    }
+    catch (error) {
+        console.error('Error processing request', error);
+        res.status(500).send('Internal Server Error');
+    }
+    finally {
+        if (tokenHandle) {
+            win32.CloseHandle(tokenHandle);
+        }
+    }
+});
+
+app.listen(port, () => {
+    console.log(`Server is running on http://localhost:${port}`);
+});
+```
 
 ### Go Example
 
