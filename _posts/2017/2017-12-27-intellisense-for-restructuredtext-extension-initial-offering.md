@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /intellisense-for-restructuredtext-extension-initial-offering-6886b17d874b
 tags: restructuredtext visual-studio-code open-source
+categories: [Programming Languages]
 title: IntelliSense for reStructuredText Extension, Initial Offering
 ---
 IntelliSense (or autocomplete in general) is one of the key features we prefer to use a tool to write code (instead of raw editors like Notepad).

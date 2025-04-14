@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpdevelop-2-0-2-1-开源-net-ide的诱惑-9e020f8d4057
 tags: .net sharpdevelop
+categories: [Programming Languages]
 title: 'SharpDevelop 2.0/2.1: 开源.NET IDE 的诱惑'
 ---
 (CSDN Sept 11, 2006)

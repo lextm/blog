@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /books-arrived-on-time-916acb1acad6
 tags: work-life
+categories: [Miscellaneous]
 title: Books Arrived On Time
 ---
 I booked several books from China-Pub.com about two weeks ago. And luckily it arrived today. That means finally I can read some books at night, not watch the TV plays.

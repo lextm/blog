@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /fix-for-windows-live-writer-52eaf7bdfcb3
 tags: windows
+categories: [Operating Systems]
 title: Fix for Windows Live Writer
 ---
 If you find Writer or svchost consumes 100% or 50% of your CPU, read this thread at once.

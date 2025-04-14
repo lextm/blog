@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /second-update-on-offline-publishing-asp-net-core-apps-e79c682fd287
 tags: .net asp.net visual-studio microsoft
+categories: [Programming Languages]
 title: Second Update on Offline Publishing ASP.NET Core Apps
 ---
 I [posted about offline publishing ASP.NET Core web apps]({% post_url 2018/2018-3-21-update-on-offline-publishing-asp-net-core-apps %}) earlier. It was a migration from 2.0.5 to 2.0.6. And now we need a new post, to upgrade from 2.0.6 to 2.1.0.

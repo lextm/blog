@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-how-to-upgrade-jexus-on-ubuntu-167ae3a1b6ef
 tags: asp.net jexus-manager linux mono
+categories: [Frameworks and Libraries]
 title: 'Jexus Series: How to Upgrade Jexus on Ubuntu'
 ---
 > In last post we discussed how to install Jexus on a clean Ubuntu 13.04 machine. Here we discuss how to upgrade from Jexus 5.2 to 5.3.1.

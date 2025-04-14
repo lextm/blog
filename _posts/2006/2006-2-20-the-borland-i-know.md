@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /the-borland-i-know-141062ba985a
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: The Borland I Know
 ---
 (Originally posted to CSDN on Feb 20, 2006)

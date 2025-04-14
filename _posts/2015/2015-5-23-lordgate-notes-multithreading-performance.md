@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /lordgate-notes-multithreading-performance-2a816da2af6d
 tags: snmp .net
+categories: [Technologies and Concepts]
 title: 'LordGate Notes: Multithreading Performance'
 ---
 A few performance testing scenarios have been executed recently and the results are quite surprising. Before locating the culprits, this post only shows what the testing reveals.

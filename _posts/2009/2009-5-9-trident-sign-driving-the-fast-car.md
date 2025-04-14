@@ -3,6 +3,7 @@ layout: post
 title: 'Trident Sign: Driving the Fast Car'
 description: This post is about the progress of SNMP v3 support.
 tags: snmp
+categories: [Technologies and Concepts]
 permalink: /trident-sign-driving-the-fast-car-1d9139a75689
 excerpt_separator: <!--more-->
 ---

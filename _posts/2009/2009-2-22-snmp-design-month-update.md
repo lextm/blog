@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-month-update-7a8e5b675645
 tags: work-life snmp
+categories: [Miscellaneous]
 title: '#SNMP Design: Month Update'
 ---
 TwinTower was released about a month ago, so here is a month update from the team.

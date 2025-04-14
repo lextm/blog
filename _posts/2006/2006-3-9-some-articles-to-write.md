@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /some-articles-to-write-7045892bc3af
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: Some articles to write
 ---
 (Originally posted to CSDN on March 09, 2006)

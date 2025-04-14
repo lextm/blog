@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-let-android-emulator-access-iis-express-f6530a02b1d3
 tags: iis visual-studio windows google jexus-manager android
+categories: [Tools and Platforms]
 title: How to Let Android Emulator Access IIS Express
 ---
 > Jexus Manager can be downloaded from https://jexusmanager.com

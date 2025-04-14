@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-is-now-a-time-to-release-crossroad-be2ddbb0b59b
 tags: work-life
+categories: [Miscellaneous]
 title: '#SNMP Design: Is Now A Time to Release CrossRoad?'
 ---
 Well, it is pretty busy spring time. After joining Microsoft, I find that I have less and less time to work on this small project. What about the other members? If they do have blogs for me to subscribe I may have a chance to know their status.

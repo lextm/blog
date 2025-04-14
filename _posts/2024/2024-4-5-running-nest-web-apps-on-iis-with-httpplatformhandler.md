@@ -3,6 +3,7 @@ description: "A comprehensive guide to deploying Nest.js applications on IIS usi
 excerpt_separator: <!--more-->
 layout: post
 tags: iis windows httpplatformhandler
+categories: [Tools and Platforms]
 title: Running Nest Web Apps on IIS with HttpPlatformHandler
 ---
 When Microsoft developed HttpPlatformHandler more than a decade ago to enable non-Microsoft web technologies on Windows/IIS, they didn't know that one day

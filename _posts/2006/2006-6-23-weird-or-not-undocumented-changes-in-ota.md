@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /weird-or-not-undocumented-changes-in-ota-648b47d2db58
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'Weird or Not: Undocumented Changes in OTA'
 ---
 (CSDN June 23, 2006)

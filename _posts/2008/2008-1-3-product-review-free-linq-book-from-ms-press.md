@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-free-linq-book-from-ms-press-6d1513e7710d
 tags: .net
+categories: [Programming Languages]
 title: 'Product Review: Free LINQ Book From MS Press'
 ---
 Introducing Microsoft LINQ is now a free e-Book available from MS Press. You can download it from here. Microsoft is promoting LINQ hard so as to make it even more popular.

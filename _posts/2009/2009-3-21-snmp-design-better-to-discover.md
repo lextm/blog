@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-better-to-discover-8c159a9fcc2d
 tags: work-life snmp
+categories: [Miscellaneous]
 title: '#SNMP Design: Better to Discover'
 ---
 You may notice that I just closed two work items, 3816 and 3916. The fix is a new component named Discoverer. Therefore, old interfaces to query agents in the same network are obsolete.

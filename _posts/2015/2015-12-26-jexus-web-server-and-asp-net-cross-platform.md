@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-web-server-and-asp-net-cross-platform-7d3c9169a906
 tags: .net jexus-manager mono linux windows asp.net
+categories: [Frameworks and Libraries]
 title: Jexus Web Server and ASP.NET Cross Platform
 ---
 > Update: ASP.NET Core 2.0 is now mature enough as the official migration path for ASP.NET 4.x on .NET Framework. Thus, spend some time on ASP.NET Core please.

@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /stack-overflow-issue-of-dockpanel-suite-on-mono-514a0c896d98
 tags: dockpanel-suite mono
+categories: [Frameworks and Libraries]
 title: Stack overflow issue of DockPanel Suite on Mono
 ---
 The issue information can be found at https://github.com/dockpanelsuite/dockpanelsuite/issues/16

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /openfiledialog-crashes-with-comexception-0x80040111-f51e18d1ab89
 tags: .net visual-studio windows
+categories: [Programming Languages]
 title: OpenFileDialog Crashes With COMException 0x80040111
 ---
 I have been updating Jexus Manager quite frequently as more and more useful crash reports were sent to me by Rollbar. And today a strange issue caught my attention.

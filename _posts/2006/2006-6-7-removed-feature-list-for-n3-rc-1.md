@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /removed-feature-list-for-n3-rc-1-589771f3662d
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: Removed Feature List for N3 RC 1
 ---
 (CSDN June 07, 2006)

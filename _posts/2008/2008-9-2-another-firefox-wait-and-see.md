@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /another-firefox-wait-and-see-37f009d7068b
 tags: open-source google
+categories: [Miscellaneous]
 title: Another Firefox? Wait And See
 ---
 For me the worst thing to live in GMT +8 is that all important event in the west happens in my dreams. Yes, this time Google Chrome, an open source browser built on Apple's WebKit and Mozilla Firefox elements, will be available in my dreams again.

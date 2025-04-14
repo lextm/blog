@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-windows-live-photo-gallery-vs-picasa-f0d176d48141
 tags: windows
+categories: [Operating Systems]
 title: 'Product Review: Windows Live Photo Gallery vs. Picasa'
 ---
 I have been using Picasa for a long time so you can see I am addicted to Google most of the times. However, you cannot double click on an image and open it in Picasa as you may expect. Picasa is not ACDSee. So I have to prepare Paint.NET as back up. Somebody in my team thinks the double click feature is a must so now I recommend him to use Windows Live Photo Gallery.

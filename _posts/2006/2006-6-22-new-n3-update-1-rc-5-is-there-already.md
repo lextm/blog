@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-n3-update-1-rc-5-is-there-already-9d281506d0bf
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: News! N3 Update 1 RC 5 is there already
 ---
 (CSDN June 22, 2006)

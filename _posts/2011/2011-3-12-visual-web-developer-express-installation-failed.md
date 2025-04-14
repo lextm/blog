@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /visual-web-developer-express-installation-failed-13a0dd1faafc
 tags: microsoft visual-studio
+categories: [Companies and Products]
 title: Visual Web Developer Express Installation Failed
 ---
 If you do an Internet search for this title, you will meet tons of posts/threads, and all such failures somehow are related to Microsoft Web Platform Installer. So is Web PI such a bad bad tool?

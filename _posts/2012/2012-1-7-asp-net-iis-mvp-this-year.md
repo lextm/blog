@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /asp-net-iis-mvp-this-year-4f9f5d822f5a
 tags: .net asp.net
+categories: [Programming Languages]
 title: ASP.NET/IIS MVP This Year
 ---
 I've just received the MVP award from Microsoft under ASP.NET/IIS category for 2012. Though losing my 7-day-long brand new Android phone yesterday makes my life bit of tough, I still consider that it is generally brighter this year for me.

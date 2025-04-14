@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /walkpace-brings-sharp-builder-tools-and-c-builder-goodies-to-any-bds-version-935f0c0f21a4
 tags: .net delphi code-beautifier-collection
+categories: [Programming Languages]
 title: WalkPace brings Sharp Builder Tools and C#Builder Goodies to any BDS version!
 ---
 (Originally posted to CSDN on March 14, 2006)

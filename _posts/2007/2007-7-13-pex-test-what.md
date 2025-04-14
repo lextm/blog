@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /pex-test-what-bb2186df5203
 tags: .net microsoft
+categories: [Programming Languages]
 title: 'Pex: Test What?'
 ---
 Microsoft Research has a project named Pex. Yep, when I tried to build QuickGraph, a CodePlex project I found a reference named Microsoft.Pex.Framework.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /finally-this-blog-is-inaccessible-from-my-office-too-4f4df4f2e7b
 tags: work-life
+categories: [Miscellaneous]
 title: Finally This Blog Is Inaccessible From My Office Too
 ---
 I know my blog cannot be accessed at home. I also know a lot of my friend cannot access it from other cities in China. And now I find out at last I cannot access it at office.

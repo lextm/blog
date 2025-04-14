@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /merry-xmas-happy-new-year-cf9c5ec7208f
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: Merry X'mas & Happy New Year
 ---
 2008 is coming, so now let me send out my wishes to all best dear friends (and surely myself),

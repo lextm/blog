@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /office-2007-users-must-haves-e36b230e1379
 tags: windows
+categories: [Operating Systems]
 title: Office 2007 Users' Must-Haves
 ---
 When I installed Office 2007 Trial, I knew it is Office only because of its title bar saying Office 2007. The look is much different from Office 2003/XP, and every menu items are gone.

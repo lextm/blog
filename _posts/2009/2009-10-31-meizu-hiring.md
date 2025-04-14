@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /从meizu的招聘职位看m8的未来-6e20a7e3930d
 tags: meizu android
+categories: [Companies and Products]
 title: 从Meizu的招聘职位看M8的未来
 ---
 Meizu也开始了今年的校园招聘，

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-beta-3-and-afterwards-3f462280c700
 tags: snmp
+categories: [Technologies and Concepts]
 title: 'HoneyCell Drops: Beta 3 and Afterwards'
 ---
 Beta 3 was released last weekend. But we still have more new things to add to the code base.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-nixnewner-update-1-rc-3-is-available-e843d2da79fb
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'News: NixNewNer Update 1 RC 3 is available'
 ---
 (CSDN June 13, 2006)

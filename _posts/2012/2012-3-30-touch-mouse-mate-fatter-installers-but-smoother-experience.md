@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-fatter-installers-but-smoother-experience-62030cdf0c90
 tags: .net visual-studio windows
+categories: [Programming Languages]
 title: 'Touch Mouse Mate: Fatter Installers But Smoother Experience'
 ---
 If you subscribed to Touch Mouse Mate CodePlex homepage for every changes, you will notice that recently though the binary version number remains, the installers have been updated several times. That's because I was tuning the installation experience step by step.

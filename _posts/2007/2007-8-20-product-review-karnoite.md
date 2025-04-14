@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-karvonite-de33d25e6212
 tags: .net delphi windows
+categories: [Programming Languages]
 title: 'Product Review: Karvonite'
 ---
 NHibernate and ECO are huge library for enterprise usage. However, even if you are running a small application, object model persistence technique can save a lot of development time.

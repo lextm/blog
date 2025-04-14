@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /first-entry-written-with-windows-live-writer-af344ebbd829
 tags: windows
+categories: [Operating Systems]
 title: First Entry written with Windows Live Writer
 ---
 I have been wondering if Blogger.com offers a client side blogging tool but only an Emacs's addin is found.

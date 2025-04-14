@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-time-for-parser-details-part-three-99e23346a7f8
 tags: linux snmp
+categories: [Operating Systems]
 title: '#SNMP Design: Time for Parser Details, Part Three'
 ---
 ## How to parse so many file in order? And how can I add more files to ObjectRegistry?

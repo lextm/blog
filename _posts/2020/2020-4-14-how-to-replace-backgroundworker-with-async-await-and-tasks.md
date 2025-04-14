@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /how-to-replace-backgroundworker-with-async-await-and-tasks-80d7c8ed89dc
 tags: .net microsoft visual-studio csharp
+categories: [Programming Languages]
 title: How to Replace BackgroundWorker with Async/Await and Tasks
 ---
 `BackgroundWorker` was introduced early in .NET Framework as an easy way to do asynchronous tasks in Windows Forms applications. Though it is WinForms centric and not considered part of the async patterns, its beauty lies in the simplicity and just enough encapsulation. You don't need to know much about the async patterns to use this tiny little class in your code base, and things often just work.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /codeplex-com-alex-has-been-moved-to-a-new-home-856628648bdd
 tags: .net sharpdevelop
+categories: [Programming Languages]
 title: 'CodePlex.com: Alex has been moved to a new home'
 ---
 (CSDN Dec 29, 2006)

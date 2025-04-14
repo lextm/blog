@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /viruses-from-u-disk-92f9f71ec3aa
 tags: powershell windows
+categories: [Tools and Platforms]
 title: Viruses From U Disk
 ---
 A U Disk from a team member filled my hard drive with viruses. And now I have to reboot to Safe Mode to remove them.

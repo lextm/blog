@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /重构的新篇章-54a6900a7495
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 重构的新篇章
 ---
 (CSDN Sept 06, 2006)

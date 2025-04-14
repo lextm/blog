@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /iis-hidden-facts-url-rewrite-module-55214414ab89
 tags: iis windows
+categories: [Tools and Platforms]
 title: 'IIS Hidden Facts: URL Rewrite Module'
 ---
 > I am working on a project called Jexus Manager, and as a result found many interesting facts about IIS. This series of posts are going to cover them.

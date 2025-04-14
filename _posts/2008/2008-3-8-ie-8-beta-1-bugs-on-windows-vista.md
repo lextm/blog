@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /ie-8-beta-1-bugs-on-windows-vista-7b395093b073
 tags: microsoft windows
+categories: [Companies and Products]
 title: IE 8 Beta 1 Bugs on Windows Vista
 ---
 I have just installed Internet Explorer 8 Beta 1 on my Windows Vista. Notice that I am using a Simplified Chinese Vista, so I expected some issues, and I was right.

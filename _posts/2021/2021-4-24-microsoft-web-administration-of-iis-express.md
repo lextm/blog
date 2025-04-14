@@ -3,6 +3,7 @@ description: Troubleshooting guide for Microsoft.Web.Administration version conf
 excerpt_separator: <!--more-->
 layout: post
 tags: .net iis windows microsoft
+categories: [Programming Languages]
 title: Microsoft.Web.Administration of IIS Express
 ---
 [I blogged]({% post_url 2015/2015-5-29-whats-microsoft-web-administration-and-the-horrible-facts-you-should-know %}) about `Microsoft.Web.Administration` a long while ago, but intentionally I left a small topic aside. However, it remains a misery sometimes painful to developers, so here comes a dedicated post.

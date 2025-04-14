@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /ubuntu-6-06-dapper-drake-wish-i-could-use-you-more-24cbd42145
 tags: linux mono
+categories: [Operating Systems]
 title: 'Ubuntu 6.06 Dapper Drake: Wish I could use you more'
 ---
 (CSDN July 07, 2006)

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-the-upcoming-snmp-pro-editions-1b7b38c12c3d
 tags: snmp .net
+categories: [Technologies and Concepts]
 title: 'TritonMate Words: The Upcoming #SNMP Pro Editions'
 ---
 I have been seriously considering the options to commercialize #SNMP, and the decision finally is as below,

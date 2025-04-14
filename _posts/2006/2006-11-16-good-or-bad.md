@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /潦倒还是快乐-499579b24255
 tags: work-life
+categories: [Miscellaneous]
 title: 潦倒还是快乐？
 ---
 (CSDN Nov 16, 2006)

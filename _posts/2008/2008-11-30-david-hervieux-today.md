@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /david-hervieux-today-c76b3e6fc462
 tags: .net
+categories: [Programming Languages]
 title: David Hervieux Today
 ---
 Well, it is always sad to say goodbye, especially when I have to stop my work on Code Beautifier Collection . But suddenly after typing David's name, I start to wonder what he is doing at this moment.

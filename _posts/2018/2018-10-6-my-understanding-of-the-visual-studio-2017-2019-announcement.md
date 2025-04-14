@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /my-understanding-of-the-visual-studio-2017-2019-announcements-53846c20453c
 tags: microsoft visual-studio
+categories: [Companies and Products]
 title: My Understanding of The Visual Studio 2017/2019 Announcements
 ---
 Visual Studio 2017 is a very important Visual Studio release, not only because that it delivers many unique features, but also [the way it is delivered](https://docs.microsoft.com/visualstudio/productinfo/vs2017-release-rhythm).

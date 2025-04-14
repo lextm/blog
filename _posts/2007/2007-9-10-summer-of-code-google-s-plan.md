@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /summer-of-code-googles-plan-533c901a066e
 tags: microsoft mono
+categories: [Companies and Products]
 title: 'Summer of Code: Google''s Plan'
 ---
 It is so wonderful that Google holds Summer of Code every year. After subscribing to Monologue, I can see how SoC helps Project Mono.

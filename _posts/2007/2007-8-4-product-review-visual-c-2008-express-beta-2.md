@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-visual-c-2008-express-beta-2-95aaafc1148efb
 tags: .net visual-studio visual-studio-code
+categories: [Tools and Platforms]
 title: 'Product Review: Visual C# 2008 Express Beta 2'
 ---
 I have to say after installing Visual C# 2008 Beta 2, Visual C# 2005 is useless. Why? Because I am using Vista Home Basic on which Visual C# 2008 performs better.

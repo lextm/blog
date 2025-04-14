@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /iis-7-and-wsus-on-windows-server-x64-1b59da5ac7ee
 tags: iis windows
+categories: [Tools and Platforms]
 title: IIS 7 and WSUS on Windows Server x64
 ---
 It is common to see people install IIS and WSUS on the same box. However, if the following conditions are met, you may come across a 500.19 that's strange and hard to diagnose on your own.

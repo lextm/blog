@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /busy-month-starts-2520a3d046f6
 tags: work-life
+categories: [Miscellaneous]
 title: Busy Month Starts
 ---
 In the group meeting today, I was assigned new tasks. It seems to be easy but hard in fact. I would take over one project from my mentor and start to update it and do bug fixing.

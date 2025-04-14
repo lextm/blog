@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /uac-off-on-applications-8ee164af45a1
 tags: windows
+categories: [Operating Systems]
 title: UAC Off On Applications
 ---
 I love UAC. If you find it boring, I guess you never use Ubuntu, a popular Linux distribution before. At last Windows Vista learns something from other more secure operating systems.

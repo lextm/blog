@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-resolve-mscorlib-related-issues-in-visual-studio-msbuild-84965aaf6f47
 tags: .net visual-studio
+categories: [Programming Languages]
 title: How to Resolve mscorlib Related Issues in Visual Studio/MSBuild
 ---
 For many .NET developers, mscorlib is something miserable as they never pay much attention to it. In fact, they should learn about it, especially when Visual Studio and MSBuild report an error about it.

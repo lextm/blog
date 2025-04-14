@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /免费的新东西-turbo-jbuilder-2007-23ed47e254d6
 tags: java
+categories: [Programming Languages]
 title: 免费的新东西：Turbo JBuilder 2007
 ---
 (CSDN March 19, 2007)

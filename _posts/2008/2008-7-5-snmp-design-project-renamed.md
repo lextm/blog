@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-project-renamed-b8503ea27506
 tags: sharpdevelop snmp
+categories: [Tools and Platforms]
 title: '#SNMP Design: Project Renamed'
 ---
 Today, I changed the project name to Sharp SNMP Suite. Because I am going to complete a MIB browser in 1.0 release, this project is no longer a library only. So from now on, #SNMP Suite = #SNMP Library + #SNMP MIB Browser.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-patch-to-support-lite-mode-on-mono-217547fc710b
 tags: .net dockpanel-suite mono
+categories: [Frameworks and Libraries]
 title: DockPanel Suite patch to support lite mode on Mono
 ---
 Back in 2010 [I wrote about using lite mode of DPS on Mono]({% post_url 2010/2010-5-2-dockpanel-suite-tip-5-we-can-go-mono %}).

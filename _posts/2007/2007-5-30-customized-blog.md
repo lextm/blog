@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /customized-blog-5261951e5dc6
 tags: work-life
+categories: [Miscellaneous]
 title: Customized Blog
 ---
 I have been customizing this blog for long. Wish the changes are positive.

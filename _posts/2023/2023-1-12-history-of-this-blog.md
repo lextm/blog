@@ -3,6 +3,7 @@ description: The evolution of my technical blog from 2005 to present, chroniclin
 excerpt_separator: <!--more-->
 layout: post
 tags: work-life
+categories: [Miscellaneous]
 title: History of This Blog
 ---
 It took me several days to finish a major upgrade of this blog, so worth the while to write down something for record.

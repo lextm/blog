@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-addmany-5-2-comes-4cad3c2a3425
 tags: .net code-beautifier-collection delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: AddMany 5.2 Comes'
 ---
 Our dear [Mauro Venturini](http://cc.codegear.com/Author/341801) released a new version of AddMany now. So you can download it here and install. Or if you prefer, I will revive the AddMany Plus in Code Beautifier Collection this weekend in 6.0 M9 so you can enjoy AddMany along with tens of other features provided by CBC.

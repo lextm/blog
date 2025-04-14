@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-docs-site-restructuredtext-and-visual-studio-code-d9d5a6b37a0d
 tags: dockpanel-suite restructuredtext visual-studio-code python
+categories: [Programming Languages]
 title: 'DockPanel Suite: Docs Site, reStructuredText, and Visual Studio Code'
 ---
 > Well, such a long title should match a long post. You've been warned!

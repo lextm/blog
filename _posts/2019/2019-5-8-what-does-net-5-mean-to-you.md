@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /what-does-net-5-mean-to-you-c63d06b63285
 tags: .net asp.net linux mono microsoft xamarin
+categories: [Frameworks and Libraries]
 title: What Does .NET 5 Mean to You
 ---
 On Monday, [Microsoft announced .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/), the next major release of its popular .NET Core platform.

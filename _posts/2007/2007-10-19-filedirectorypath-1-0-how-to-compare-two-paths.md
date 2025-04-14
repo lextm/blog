@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /filedirectorypath-1-0-how-to-compare-two-path-69926ba6e0e1
 tags: .net
+categories: [Programming Languages]
 title: 'FileDirectoryPath 1.0: How to Compare Two Paths'
 ---
 (CSDN June 02, 2006)

@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-push-me-hard-chris-bddd86e2dc4
 tags: microsoft snmp
+categories: [Companies and Products]
 title: '#SNMP Design: Push Me Hard, Chris'
 ---
 > This post is dedicated to Chris, who pushed me really hard this week.

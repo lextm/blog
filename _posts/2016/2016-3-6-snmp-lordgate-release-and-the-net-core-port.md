@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-lordgate-release-and-the-net-core-port-8c655a5eaa69
 tags: .net snmp open-source microsoft
+categories: [Programming Languages]
 title: '#SNMP: LordGate Release and The .NET Core Port'
 ---
 The 9.0 release (LordGate) was published on Feb 12 at NuGet.

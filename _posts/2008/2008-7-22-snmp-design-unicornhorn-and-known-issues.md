@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-unicornhorn-and-known-issues-d5950576ac36
 tags: linux snmp
+categories: [Operating Systems]
 title: '#SNMP Design: UnicornHorn and Known Issues'
 ---
 Finally the 1.0 release is here.

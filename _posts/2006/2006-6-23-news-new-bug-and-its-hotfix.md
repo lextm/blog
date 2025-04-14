@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-new-bug-and-its-hotfix-f817484853c
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: News! New Bug and Its Hotfix
 ---
 (CSDN June 23, 2006)

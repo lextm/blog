@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /eco-goes-2-visual-studio-451ee5ce9bdc
 tags: .net delphi visual-studio
+categories: [Programming Languages]
 title: ECO Goes 2 Visual Studio
 ---
 Finally we see ECO moves to Visual Studio. This is a nice shift. Although it will continue support to Delphi, it lands on a new planet.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-weaker-validation-on-table-oid-b34c0c4d9e00
 tags: python snmp
+categories: [Programming Languages]
 title: '#SNMP Design: Weaker Validation on Table OID'
 ---
 Maybe I should not have designed Manager.GetTable that way, isn't it? The trouble I got is more. So how to change the original design at this moment? Take a look at source code of Change Set 14707, and you will see my decision.

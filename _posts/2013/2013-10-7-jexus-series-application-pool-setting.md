@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-application-pool-setting-7e026fdff6f7
 tags: iis jexus-manager
+categories: [Tools and Platforms]
 title: 'Jexus Series: Application Pool Setting'
 ---
 Unlike IIS who has full application pool support, Jexus currently only supports a single application pool.

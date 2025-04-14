@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /googles-attack-on-eclipse-and-java-982c1f54e536
 tags: android
+categories: [Operating Systems]
 title: Google's Attack on Eclipse and Java
 ---
 I believe Eclipse is a great IDE and platform. And Java is a nice programming language. But IBM and SUN seem to be dominant, which may badly impact on innovations in certain aspects.

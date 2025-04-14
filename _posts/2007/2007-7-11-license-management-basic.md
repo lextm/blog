@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /license-management-basic-e126ab09cb81
 tags: code-beautifier-collection
+categories: [Tools and Platforms]
 title: License Management Basic
 ---
 For shareware developers, it is reasonable to develop sort of license management system, aka a license generator for internal use and a license verification module inside your software.

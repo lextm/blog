@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-more-features-ported-into-artcsb-plus-3f40f0c52ee2
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: More features ported into ArtCSB Plus'
 ---
 (CSDN Sept 27, 2006)

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-secrets-behind-object-identifier-ff242fd4474e
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Pro: Secrets Behind OBJECT IDENTIFIER'
 ---
 You might sometimes wonder why the shortest OID is 0.0 (aka ccitt.zero). [I blogged about that]({% post_url 2008/2008-9-8-snmp-design-solving-the-zero-puzzle %}) a few years ago, so today I won't revisit that.

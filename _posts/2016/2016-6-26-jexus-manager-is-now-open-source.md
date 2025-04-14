@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-is-now-open-source-a48fef80a6e7
 tags: iis jexus-manager windows open-source microsoft
+categories: [Tools and Platforms]
 title: Jexus Manager Is Now Open Source
 ---
 After several months of cleaning up, yesterday I published the source code of Jexus Manager at [GitHub](https://github.com/jexuswebserver/JexusManager).

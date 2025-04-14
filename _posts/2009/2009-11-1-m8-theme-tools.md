@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /m8主题修改的对决-50ec3afcddf4
 tags: android meizu
+categories: [Operating Systems]
 title: M8主题修改的对决？
 ---
 终于在发布到2.0版本的时候，Theme Editor的作者majiyunsea回复了我在魅族论坛的帖子。

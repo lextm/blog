@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-how-to-install-jexus-web-server-5-3-1-on-ubuntu-13-04-fb344997faa0
 tags: asp.net jexus-manager linux
+categories: [Frameworks and Libraries]
 title: 'Jexus Series: How to Install Jexus Web Server 5.3.1 on Ubuntu 13.04'
 ---
 This is a series of posts regarding the free Linux web server called Jexus.

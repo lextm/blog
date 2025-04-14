@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-experimental-cf-3-5-port-69bd866592b2
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: Experimental CF 3.5 Port'
 ---
 Because of this discussion thread, I think it is time to try .NET CF 3.5 a little bit. Luckily SharpDevelop 3 makes things easier when I don't have Visual Studio non-Express editions at hand. So let's see what I have done.

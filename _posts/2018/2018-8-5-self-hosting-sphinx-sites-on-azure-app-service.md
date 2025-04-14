@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /self-hosting-sphinx-sites-on-azure-app-service-a05b9db25e9a
 tags: azure iis visual-studio github
+categories: [Tools and Platforms]
 title: Self-Hosting Sphinx Sites on Azure App Service
 ---
 I used to host documentation sites on Read The Docs, and [wrote about the details in previous posts]({% post_url 2015/2015-11-28-dockpanel-suite-docs-site-restructuredtext-and-visual-studio-code %}). But finally it came to an end, as over the weekend I moved all such sites to my own Azure App Service. So this post shows the details behind.

@@ -3,6 +3,7 @@ description: Learn how to effectively use ANTLR 4 in .NET projects in 2023 with 
 excerpt_separator: <!--more-->
 layout: post
 tags: .net antlr visual-studio csharp
+categories: [Programming Languages]
 title: How to Use ANTLR 4 on .NET in 2023
 ---
 I once blogged heavily about how to use ANTLR on .NET, and you can find all related posts in [here]({{ site.baseurl }}/tags/antlr/).

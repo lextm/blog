@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /i-think-nixnewner-is-on-the-way-482c5707705d
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: I Think NixNewNer is on the way
 ---
 (CSDN April 11, 2006)

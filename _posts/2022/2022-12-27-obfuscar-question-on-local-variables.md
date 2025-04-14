@@ -3,6 +3,7 @@ description: Learn how Obfuscar handles C# local variable obfuscation in .NET as
 excerpt_separator: <!--more-->
 layout: post
 tags: .net csharp open-source obfuscar
+categories: [Programming Languages]
 title: 'Obfuscar: Question on Local Variables'
 ---
 It is not a surprise that many people would like to try out Obfuscar, one of the most popular .NET obfuscation tools, and they have various questions on the obfuscation results. Thus, I might post from time to time on what you should expect from such a tool, and help you better understand C#, .NET, as well as Obfuscar.

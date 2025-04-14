@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-sharpsnmppro-mib-assembly-released-7789ae356e5a
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Pro: SharpSnmpPro.Mib Assembly Released'
 ---
 After a few months of baking, today I finally announce that the very first official release of SharpSnmpPro.Mib assembly is now available for purchase. The Wiki pages are going to be updated soon.

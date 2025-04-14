@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /an-old-bug-fixed-now-after-searching-for-so-long-b123d7e1c926
 tags: .net code-beautifier-collection delphi
+categories: [Programming Languages]
 title: An old bug fixed now after searching for so long
 ---
 (CSDN June 07, 2006)

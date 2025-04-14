@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-april-08-release-6c3b2492ad5d
 tags: .net code-beautifier-collection delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: April 08 Release'
 ---
 You may notice that I have just released a new BETA version of Code Beautifier Collection yesterday. And this one is called April 08 Release.

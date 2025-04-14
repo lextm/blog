@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-interpret-iis-7-500-error-page-correctly-187fe536993c
 tags: asp.net iis
+categories: [Frameworks and Libraries]
 title: How to Interpret IIS 7+ 500 Error Page Correctly
 ---
 > Well, this blog post is a summary of [my IIS.net discussion with a user](http://forums.iis.net/t/1198073.aspx/1?Orginal+Url+are+written+instead+of+User+Friendly+Url+in+log+on+IIS+7+5+when+using+Current+RewritePath+).

@@ -3,6 +3,7 @@ description: Technical analysis of a bug in Obfuscar that creates unintended met
 excerpt_separator: <!--more-->
 layout: post
 tags: .net mono obfuscar
+categories: [Programming Languages]
 title: 'Obfuscar: Where Does Extra Overriding Methods Come'
 ---
 An issue has been reported to me one year ago, but I could not easily fix it as the code base was not quite clear where the bug comes from exactly.

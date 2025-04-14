@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /a-guess-on-mono-ecosystem-evolution-b096ccad6600
 tags: .net mono open-source
+categories: [Programming Languages]
 title: A Guess on Mono Ecosystem Evolution
 ---
 Mono has been there for years and grown from its first component (Mono C# Compiler)[1] to a large platform (with multiple components). Each components were written at a certain phase due to the demands then, but primarily speaking they all come to make Mono useful for non-Windows operating systems.

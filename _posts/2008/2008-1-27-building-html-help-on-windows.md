@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /building-html-help-on-windows-88f2168cb4b1
 tags: .net visual-studio windows
+categories: [Programming Languages]
 title: Building HTML Help on Windows
 ---
 Microsoft released two versions of HTML help in order to replace its popular WinHelp format. And it seems Microsoft is so confident with these two new formats that it removes WinHelp support from Windows Vista (and possibly Windows Server 2008). Therefore right now if your application needs a help file, you should use either CHM or HTML Help 2 formats.

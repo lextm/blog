@@ -3,6 +3,7 @@ layout: post
 title: "Understanding Port Configuration in HttpPlatformHandler"
 description: "Learn how HttpPlatformHandler allocates random ports for backend applications, and how to configure fixed ports for better control."
 tags: iis httpplatformhandler windows
+categories: [Tools and Platforms]
 excerpt_separator: <!--more-->
 ---
 

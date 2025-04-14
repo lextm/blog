@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /anti-virus-trouble-d22c83ae2334
 tags: work-life
+categories: [Miscellaneous]
 title: Anti-Virus Trouble
 ---
 I have just bought a Dell notebook. As a result, I will soon start to use an anti-virus product. Which one I will buy?

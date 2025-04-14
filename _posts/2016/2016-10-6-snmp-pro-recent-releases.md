@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-recent-releases-5e72c7973ba0
 tags: .net snmp open-source
+categories: [Programming Languages]
 title: '#SNMP Pro: Recent Releases'
 ---
 You should notice that #SNMP Library is now releasing more frequent with minor releases in just a few months, such as 9.0.0, 9.0.1, 9.0.2, and today 9.0.3. To match such a new strategy, the Pro edition is also releasing more changes in the past few weeks, such as 1.1.2 and 1.1.3. Such a change we make is to increase transparency and deliver urgent bug fixes in a quicker way.

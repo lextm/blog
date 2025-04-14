@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpsnmp-vs-snmpsharpnet-5fdce55232e7
 tags: .net snmp open-source
+categories: [Programming Languages]
 title: SharpSnmp vs. SnmpSharpNet
 ---
 This post was based on my original answer to this Stack Overflow question,

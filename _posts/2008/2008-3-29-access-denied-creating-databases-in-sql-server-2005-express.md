@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /access-denied-creating-databases-in-sql-server-2005-express-deae52d56b4b
 tags: microsoft
+categories: [Companies and Products]
 title: 'Access Denied: Creating Databases in SQL Server 2005 Express'
 ---
 Most people wonder why they have deployed SQL Server 2005 Express but failed to create new databases with it. And the error message is most confusing,

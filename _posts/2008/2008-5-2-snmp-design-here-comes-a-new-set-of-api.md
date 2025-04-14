@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-here-comes-a-new-set-of-api-ededcefba0e0
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: Here Comes A New Set of API'
 ---
 To keep you update, I have just published a new build (version number 0.5.010502.335) of #SNMP here. The biggest change is the API it provides. Compared to older builds, this build removes a lot of weak typed classes (such as the over-powerful Universal and SnmpBER created by Malcolm).

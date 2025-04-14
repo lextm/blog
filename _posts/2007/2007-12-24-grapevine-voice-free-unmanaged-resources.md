@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-free-unmanaged-resources-2bd41102062a
 tags: .net code-beautifier-collection
+categories: [Programming Languages]
 title: 'GrapeVine Voice: Free Unmanaged Resources'
 ---
 I have been programming in C# for a few years, but I never dig deeper to unmanaged resources related topics until last Friday I met an exception when launching Favourite feature is WiseEditor Plus.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-acquire-dependencies-for-visual-studio-code-extensions-9ca828cb168d
 tags: visual-studio-code open-source
+categories: [Tools and Platforms]
 title: How to Acquire Dependencies for Visual Studio Code Extensions
 ---
 The open source community is so large today, that you don't need to create all the wheels once again, unless really necessary.

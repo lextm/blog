@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jbuilder-2007的快捷键-8b658bd32428
 tags: java
+categories: [Programming Languages]
 title: JBuilder 2007的快捷键
 ---
 (CSDN Dec 06, 2006)

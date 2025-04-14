@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-and-google-updates-today-d3db1b82d3ce
 tags: work-life windows
+categories: [Miscellaneous]
 title: Windows Live and Google Updates Today
 ---
 Have you seen the latest version of Windows Live Writer and Messenger? Yes, today their new Betas are out (in one installer). And I am already writing this post in the new Beta of WLW.

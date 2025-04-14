@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /vmware-server-vs-player-b25c1c3f164e
 tags: delphi linux
+categories: [Operating Systems]
 title: VMware Server vs. Player
 ---
 I am using a Vista Home Basic machine. And when I try to launch a VMware image of OpenSuSE, the system freezes. Why?

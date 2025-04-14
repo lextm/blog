@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-nuget-on-mono-part-i-8d2cd63bd1e0
 tags: .net linux mono
+categories: [Programming Languages]
 title: How to Use NuGet on Mono, Part I
 ---
 > Update: Microsoft starts to officially support Mono, so please simply use latest NuGet executable such as 3.5.

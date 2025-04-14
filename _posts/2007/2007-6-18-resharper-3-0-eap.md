@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /resharper-3-0-eap-bdd5386368eb
 tags: .net visual-studio
+categories: [Programming Languages]
 title: ReSharper 3.0 EAP
 ---
 I knew IntelliJ IDEA a long time ago. However, I did not notice it was created by JetBrains until I tried ReSharper.

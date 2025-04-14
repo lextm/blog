@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /opera-against-open-source-980512168fa7
 tags: open-source
+categories: [Miscellaneous]
 title: Opera Against Open Source?
 ---
 I have just read this interview of Opera CEO. And it is funny to see how he fights against Microsoft and, open source.

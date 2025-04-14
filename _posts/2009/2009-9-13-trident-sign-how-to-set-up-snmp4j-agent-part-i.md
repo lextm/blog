@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-how-to-set-up-snmp4j-agent-part-1-9354ddb8868a
 tags: java snmp
+categories: [Programming Languages]
 title: 'Trident Sign: How to Set Up SNMP4J Agent, Part 1'
 ---
 To enrich #SNMP v3 support, I am going to use snmp4j agent. But due to lack of documentation for me, a Java blind, I have to learn about it bit by bit.

@@ -3,6 +3,7 @@ description: "Learn how to efficiently update GitHub Actions in your workflows w
 excerpt_separator: <!--more-->
 layout: post
 tags: github python
+categories: [Tools and Platforms]
 title: "Easy Way to Upgrade Actions Used in Your GitHub Actions Workflow"
 ---
 No doubt I use GitHub Actions a lot in my projects, and I have workflows that are created a long time ago. As GitHub Actions evolves, especially when the Node.js runtime used by many actions became obsolete, I have to upgrade the actions to newer versions so that the workflows can continue to run without issues.

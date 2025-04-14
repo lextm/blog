@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-nixnewner-update-1-rc-2-is-ready-8812b6fbcfae
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'News: NixNewNer Update 1 RC 2 is ready'
 ---
 (CSDN June 12, 2006)

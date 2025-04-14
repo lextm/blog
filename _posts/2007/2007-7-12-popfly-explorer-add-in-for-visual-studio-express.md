@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /popfly-explorer-add-in-for-visual-studio-express-495637f47aa3
 tags: .net visual-studio visual-studio-code
+categories: [Tools and Platforms]
 title: 'Popfly Explorer: Add-in For Visual Studio Express'
 ---
 I registered Popfly long time ago, but I am not a artist and not fond of design web pages. That is why I do not visit that site much. But today I find Popfly Explorer, an Addin for Visual Studio (Express Edition supported).

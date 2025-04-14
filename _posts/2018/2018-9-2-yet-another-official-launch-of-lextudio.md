@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /yet-another-official-launch-of-lextudio-77ca144b7f51
 tags: work-life open-source
+categories: [Miscellaneous]
 title: Yet Another Official Launch of LeXtudio
 ---
 I started to use the brand LeXtudio more than a decade ago, when I worked on Code Beautifier Collection, which was a popular Delphi extension in 2005.

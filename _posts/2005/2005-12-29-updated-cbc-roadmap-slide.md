@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /updated-cbc-roadmap-slide-ddfd2f550bb8
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: Updated CBC Roadmap Slide
 ---
 (Originally published to CSDN on Dec 29, 2005)

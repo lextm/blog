@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-vs-adobe-a-war-before-time-9f4b04528753
 tags: microsoft visual-studio windows
+categories: [Companies and Products]
 title: 'Microsoft vs. Adobe: A War Before Time'
 ---
 When I tried XPS Essentials Pack 1.0, I found it similar to PDF. Yes, what is missing is a Acrobat product line (I didn't try the Expressions, so maybe I was wrong).

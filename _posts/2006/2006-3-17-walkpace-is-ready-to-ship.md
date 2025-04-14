@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /walkpace-is-ready-to-ship-7fed5643f114
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: WalkPace is ready to ship!
 ---
 (CSDN March 17, 2006)

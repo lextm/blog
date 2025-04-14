@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /a-custom-gendarme-rule-overridetostringmethodrule-fc52ebb18c78
 tags: .net mono
+categories: [Programming Languages]
 title: 'A Custom Gendarme Rule: OverrideToStringMethodRule'
 ---
 I started to use GitHub as I would like to write patches for the software I use the most and love the most. So today I finally checked in a patch for Gendarme,

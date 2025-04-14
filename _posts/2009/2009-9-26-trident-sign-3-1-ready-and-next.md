@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-3-1-ready-and-next-bc522bef47fb
 tags: snmp
+categories: [Technologies and Concepts]
 title: 'Trident Sign: 3.1 Ready and Next'
 ---
 I just checked in the last bit for 3.1 release. So Trident Refresh will be released after one month of baking. This is a bug fix release, so changes are rare (but some are significant),

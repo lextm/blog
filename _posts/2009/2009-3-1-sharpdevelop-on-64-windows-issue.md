@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpdevelop-on-x64-windows-issue-2e845c12cdc1
 tags: .net sharpdevelop visual-studio windows
+categories: [Tools and Platforms]
 title: SharpDevelop on x64 Windows Issue
 ---
 SharpDevelop is my main IDE when developing Code Beautifier Collection, Alex and #SNMP. But now as I use Windows 7 x64 build 7000 as my workstation at home, this IDE starts to show a few issues. Luckily the one I met today was documented in this old thread.

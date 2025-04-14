@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-pulse-up-cfaea3b7535d
 tags: work-life
+categories: [Miscellaneous]
 title: 'Product Review: Pulse Up'
 ---
 I did try Pulse a long time ago, but I was not happy with that. However, after Eclipse 3.4 announcement I tried Pulse again, and the new version, is excellent!

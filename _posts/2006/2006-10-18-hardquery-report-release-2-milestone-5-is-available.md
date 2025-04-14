@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-release-2-milestone-5-is-available-ee7c4a96c4d4
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Release 2 Milestone 5 is available.'
 ---
 (CSDN Oct 18, 2006)

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /installation-tips-mono-1-1-15-on-ubuntu-53bd76750e6
 tags: linux mono
+categories: [Operating Systems]
 title: 'Installation Tips: Mono 1.1.15 on Ubuntu'
 ---
 (CSDN July 20, 2006)

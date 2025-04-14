@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-n3-update-1-rc-4-is-available-dca13583c79e
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: News! N3 Update 1 RC 4 is available
 ---
 (CSDN June 16, 2006)

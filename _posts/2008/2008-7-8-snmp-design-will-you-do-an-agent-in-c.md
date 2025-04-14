@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-will-you-do-an-agent-in-c-31af397da12a
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: Will You Do An Agent in C#?'
 ---
 Today a post in the Discussions section asked if #SNMP library can be used to send out TRAP message. You can read my reply here because I don't want to copy myself. But this is really a question I don't have the answer. So how many C# developers are doing SNMP agent development?

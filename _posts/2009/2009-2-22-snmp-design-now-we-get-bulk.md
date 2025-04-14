@@ -3,6 +3,7 @@ layout: post
 title: '#SNMP Design: Now We GET BULK'
 description: This post is about the GET BULK message type support.
 tags: snmp
+categories: [Technologies and Concepts]
 permalink: /snmp-design-now-we-get-bulk-2db25fc8cd97
 excerpt_separator: <!--more-->
 ---

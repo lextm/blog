@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-twintower-status-on-library-side-2e21343772f
 tags: work-life
+categories: [Miscellaneous]
 title: '#SNMP Design: TwinTower Status on Library Side'
 ---
 Well, I can only say something about the Library. Steve will decide if there is anything else on the Browser side. Note that the Compiler will be surely Alpha until CrossRoad.

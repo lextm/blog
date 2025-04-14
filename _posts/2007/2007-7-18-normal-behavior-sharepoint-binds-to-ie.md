@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /normal-behavior-sharepoint-binds-to-ie-f6e77819d6b3
 tags: microsoft
+categories: [Companies and Products]
 title: 'Normal Behavior: SharePoint Binds to IE'
 ---
 My team uses a SharePoint site to communicate. The problem is that I cannot use Firefox to enjoy all features of the site. Many features such as discussion can only be available when browsing in IE.

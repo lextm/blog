@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /blogspot-is-blocked-at-home-1a9572fe530d
 tags: work-life
+categories: [Miscellaneous]
 title: Blogspot Is Blocked At Home
 ---
 The access at home has just been setup. Some domains have been blocked by the Service Provider. Unluckily, Blogspot.com is blocked. What is interesting is that I can in contrast write posts through Blogger.com interface. Because Windows Live Writer cannot access the blocked domain, it fails, too. I will report this to the SP. Wish they could make thing right some day.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-5-3-4-rc-1-binary-is-now-available-dc1a0e75ea67
 tags: .net delphi
+categories: [Programming Languages]
 title: 'HardQuery Report: 5.3.4 RC 1 Binary Is Now Available'
 ---
 I have just compiled 5.3.4 source code to binary and the process is not pleasant. The source code package in fact can only compiled without an error on .NET 2.0. I had to modify a few lines in order to compile it successfully under .NET 1.1. So if you find that you cannot compile the source code on your PC, try to download the binary version instead.

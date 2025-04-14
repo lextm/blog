@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /from-value-types-to-reference-types-93912062163c
 tags: .net
+categories: [Programming Languages]
 title: From Value Types to Reference Types
 ---
 I have a few C# books at hand, but a topic cannot be found in them. This topic is what you must pay attention to when you design a library and have to change a few types from value types to reference types. Both fortunately and unfortunately, I have come across this issue with a lot of headaches so in this post I'd like to provide you some tips I find out.

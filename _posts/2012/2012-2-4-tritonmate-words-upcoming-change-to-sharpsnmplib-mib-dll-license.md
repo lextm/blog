@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-upcoming-change-to-sharpsnmplib-mib-dll-license-b797092665a
 tags: sharpdevelop snmp
+categories: [Tools and Platforms]
 title: 'TritonMate Words: Upcoming Change to SharpSnmpLib.Mib.dll License'
 ---
 As you already know, in #SNMP 8.0 (upcoming release), the MIB compiler will be ANTLR based. Besides this technology change, I would like to also introduce a license change.

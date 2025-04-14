@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /trying-eclipse-cdt-43d754f617e1
 tags: java
+categories: [Programming Languages]
 title: Trying Eclipse CDT
 ---
 I have been reading this article from IBM community, "Migrate Visual Studio C and C++ projects to Eclipse CDT".

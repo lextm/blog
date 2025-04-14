@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /update-on-offline-publishing-asp-net-core-apps-e7894a84bd46
 tags: .net asp.net microsoft
+categories: [Programming Languages]
 title: Update on Offline Publishing ASP.NET Core Apps
 ---
 I [blogged about how to publish an ASP.NET Core app against an internal NuGet server]({% post_url 2018/2018-2-7-offline-publishing-asp-net-core-apps %}).

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-authentication-and-privacy-further-86429d12a875
 tags: python snmp
+categories: [Programming Languages]
 title: 'BigDipper Light: Authentication and Privacy Further'
 ---
 Ivo reported a new issue recently, and it shows that #SNMP does not yet handle SNMP v3 REPORT message completely.

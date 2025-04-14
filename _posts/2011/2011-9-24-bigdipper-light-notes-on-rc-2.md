@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-notes-on-rc-2-dfee378826b1
 tags: snmp .net csharp open-source
+categories: [Programming Languages]
 title: 'BigDipper Light: Notes on RC 2'
 ---
 Today, I started typing the release notes for our next major release, BigDipper, or 7.0.

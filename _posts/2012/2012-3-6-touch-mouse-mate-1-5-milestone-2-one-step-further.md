@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-1-5-milestone-2-one-step-further-aca10ce76be9
 tags: windows
+categories: [Operating Systems]
 title: 'Touch Mouse Mate: 1.5 Milestone 2, One Step Further'
 ---
 Hi guys,

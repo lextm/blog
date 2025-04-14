@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-a-sneak-on-upcoming-compiler-pro-4a188285867b
 tags: snmp visual-studio .net
+categories: [Technologies and Concepts]
 title: '#SNMP Pro: A Sneak on Upcoming Compiler Pro'
 ---
 In this blog post I am going to demonstrate how the Pro edition of #SNMP MIB Compiler is different from the open source edition.

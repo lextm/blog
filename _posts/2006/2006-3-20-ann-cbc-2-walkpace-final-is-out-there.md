@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /ann-cbc-2-walkpace-final-is-out-there-in-ac7c3dd44106
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'ANN: CBC 2 WalkPace Final is out there'
 ---
 (CSDN March 20, 2006)

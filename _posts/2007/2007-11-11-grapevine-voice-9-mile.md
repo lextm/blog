@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-9-mile-8f951330da6a
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: 9 Mile'
 ---
 Yes, 8 Mile-stone has been out there a couple of weeks. And it has the top download count now (579) while M5 is the second.

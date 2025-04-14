@@ -3,6 +3,7 @@ description: "An inside look at how the PySNMP team collaborated with Home Assis
 excerpt_separator: <!--more-->
 layout: post
 tags: home-assistant python snmp open-source
+categories: [Miscellaneous]
 title: PySNMP and Home Assistant
 ---
 Home Assistant is a popular open-source home automation platform. It is able to integrate with a wide variety of devices and services, and it is also able to monitor and control SNMP devices. The integration is done through the PySNMP library, which is a pure-Python SNMP library.

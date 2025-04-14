@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-too-many-themes-and-new-goodies-fb4fe55d127e
 tags: dockpanel-suite visual-studio .net open-source
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite: Too Many Themes and New Goodies'
 ---
 I blogged a few days ago on DockPanel Suite recent changes, but well excitingly there is much more to share this time.

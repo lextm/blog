@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-5-3-2-1125-can-work-with-c-builder-2007-20da732d0e71
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'HardQuery Report: 5.3.2.1125 Can Work With C++Builder 2007'
 ---
 I have just installed the trial version of C++Builder 2007 and built CBC HardQuery against .NET 2.0 and ToolsAPI 5.0. And then I manually added the needed registry item. Launch C++Builder 2007 and CBC is there!

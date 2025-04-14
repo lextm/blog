@@ -3,6 +3,7 @@ layout: post
 title: "开源项目，其实你有多种参与方式 Draft Version 1.1"
 description: "从使用者到贡献者：作者讲述了CnBeautifierWizard开源项目的创建历程，详细分享了参与开源项目的不同层次——从提建议、贡献文档到编写代码。这篇经验分享揭示了开源协作的本质和价值，为想加入开源社区的开发者提供了实用指南。"
 tags: code-beautifier-collection delphi open-source
+categories: [Tools and Platforms]
 permalink: /开源项目-其实你有多种参与方式-draft-version-1-1-17583bba4039
 excerpt_separator: <!--more-->
 ---

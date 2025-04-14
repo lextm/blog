@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-official-port-to-mono-for-android-6eb298f9a66
 tags: android mono
+categories: [Operating Systems]
 title: 'TritonMate Words: Official Port to Mono for Android'
 ---
 As announced, my new laptop arrived last Monday. So this has been a fabulous week for me.

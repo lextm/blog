@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-installshield-2008-e80bed2f9336
 tags: windows
+categories: [Operating Systems]
 title: 'Product Review: InstallShield 2008'
 ---
 One reseller of InstallShield strongly recommend me about InstallShield 2008. So why not take a look at it?

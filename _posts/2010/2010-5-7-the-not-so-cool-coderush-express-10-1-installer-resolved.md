@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /the-not-so-cool-coderush-express-10-1-installer-resolved-6938c7cbd9dd
 tags: visual-studio visual-studio-code
+categories: [Tools and Platforms]
 title: The Not-So-Cool CodeRush Express 10.1 Installer (Resolved)
 ---
 I have been expecting CodeRush Express 10.1 for a few weeks, but when I touched it and tried to install, it disappointed me with such a page.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /inno-setup-preprocessor-tip-for-net-developers-a4bece8d7349
 tags: .net
+categories: [Programming Languages]
 title: Inno Setup Preprocessor Tip for .NET Developers
 ---
 I love ISPP because it really makes things easier. But .NET sometimes brings differences. For example,

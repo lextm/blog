@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /snmp-library-11-0-and-above-96c31e9d11b8
 tags: .net snmp open-source
+categories: [Programming Languages]
 title: '#SNMP Library, 11.0 and Above'
 ---
 I just revised and published [release notes](https://github.com/lextudio/sharpsnmplib/releases) for #SNMP Library 11.0 and 11.1.

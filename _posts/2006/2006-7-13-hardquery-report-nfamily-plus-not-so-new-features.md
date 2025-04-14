@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-nfamily-plus-not-so-new-features-6bcf14061e86
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: NFamily Plus, not-so-new features'
 ---
 (CSDN July 13, 2006)

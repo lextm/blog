@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-plan-b-for-repository-hosting-495c9abe4e27
 tags: snmp google open-source
+categories: [Technologies and Concepts]
 title: 'BigDipper Light: Plan B for Repository Hosting'
 ---
 We just started to enjoy some of the benefits of switching to Mercurial,

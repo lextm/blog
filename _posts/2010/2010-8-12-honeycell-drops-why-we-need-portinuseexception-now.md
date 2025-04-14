@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-why-we-need-portinuseexception-now-88fb45fb7962
 tags: snmp windows
+categories: [Technologies and Concepts]
 title: 'HoneyCell Drops: Why We Need PortInUseException Now'
 ---
 > It is not easy to review the code base as I don't have much time recently and the weather in Shanghai is too hot.

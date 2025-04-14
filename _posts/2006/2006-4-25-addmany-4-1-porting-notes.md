@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /addmany-4-1-porting-notes-eace63c85cae
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: AddMany 4.1 Porting Notes
 ---
 (CSDN April 25, 2006)

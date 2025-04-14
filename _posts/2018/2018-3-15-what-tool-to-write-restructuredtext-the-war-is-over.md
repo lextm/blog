@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /what-tool-to-write-restructuredtext-the-war-is-over-249953d88c25
 tags: restructuredtext visual-studio-code open-source
+categories: [Programming Languages]
 title: What Tool to Write reStructuredText? The War Is Over
 ---
 I started to develop the reStructuredText extension for Visual Studio Code in November 2015. [Sublime Text](https://github.com/mgaitan/sublime-rst-completion) and [Atom](https://atom.io/packages/language-restructuredtext) were more popular editors back then, and they have reStructuredText support.

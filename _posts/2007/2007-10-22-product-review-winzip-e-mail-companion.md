@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-winzip-e-mail-companion-2be55039ccfe
 tags: windows
+categories: [Operating Systems]
 title: 'Product Review: WinZip E-Mail Companion'
 ---
 I tried this beta software for a few months and now it is already officially released by WinZip. For me, it resolves an important issue that commonly occurs in corporate world.

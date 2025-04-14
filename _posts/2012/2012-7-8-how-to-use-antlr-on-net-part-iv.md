@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-antlr-on-net-part-iv-62174f93bde0
 tags: .net antlr snmp
+categories: [Programming Languages]
 title: How to Use ANTLR on .NET, Part IV
 ---
 Part IV: ANTLR Grammar Tricks for C#

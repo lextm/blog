@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-nixnewner-update-1-is-out-there-112ae3c9d5ad
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: News! NixNewNer Update 1 is out there
 ---
 (CSDN July 04, 2006)

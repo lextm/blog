@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-how-to-compile-on-opensuse-and-ubuntu-f4cf99c83309
 tags: .net linux mono snmp
+categories: [Programming Languages]
 title: 'TritonMate Words: How to Compile on openSUSE and Ubuntu'
 ---
 Finally I learned how to run NuGet on Mono, so below is the updated steps to build #SNMP latest code base on Mono and openSUSE.

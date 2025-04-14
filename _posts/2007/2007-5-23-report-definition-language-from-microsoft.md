@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /report-definition-language-from-microsoft-7c66510089cb
 tags: visual-studio
+categories: [Tools and Platforms]
 title: Report Definition Language from Microsoft
 ---
 I used to use RAVE Report and TeeChart to do reporting tasks on Delphi land. But now switched to .NET field, I found so many solutions including one that provided by Microsoft, RDL.

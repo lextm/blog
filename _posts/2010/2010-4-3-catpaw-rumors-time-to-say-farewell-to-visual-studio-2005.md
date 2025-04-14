@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumor-time-to-say-farewell-to-visual-studio-2005-2a0313501950
 tags: .net visual-studio visual-studio-code
+categories: [Tools and Platforms]
 title: 'CatPaw Rumor: Time To Say Farewell to Visual Studio 2005'
 ---
 This weekend, I started to use Visual Studio 2010 as primary IDE instead of Visual Studio 2008.

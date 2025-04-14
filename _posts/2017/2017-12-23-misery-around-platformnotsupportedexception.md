@@ -3,6 +3,7 @@ layout: post
 title: Misery Around PlatformNotSupportedException
 description: 'Learn about the new pattern for library authors to handle PlatformNotSupportedException in .NET Standard 2.0 libraries, with practical examples from #SNMP Library implementation.'
 tags: visual-studio .net csharp
+categories: [Programming Languages]
 permalink: /misery-around-platformnotsupportedexception-1b890c74a08a
 excerpt_separator: <!--more-->
 ---

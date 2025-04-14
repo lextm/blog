@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-beta-2-is-out-6e2addb5757
 tags: work-life snmp windows
+categories: [Miscellaneous]
 title: 'HoneyCell Drops: Beta 2 is Out'
 ---
 I just released Beta 2 for our 6.0 release.

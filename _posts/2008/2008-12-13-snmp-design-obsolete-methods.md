@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-obsolete-methods-c3549a6c18d9
 tags: php snmp
+categories: [Programming Languages]
 title: '#SNMP Design: Obsolete Methods'
 ---
 I did not pay much attention to compatibility in the past, because previous releases (0.9, 1.0, and 1.1) are concept oriented which make sure that SNMP can be implemented in such a way. Therefore, I have changed the API several times. Well, that can be bad to some users if they have hundreds of lines to modify all in a day.

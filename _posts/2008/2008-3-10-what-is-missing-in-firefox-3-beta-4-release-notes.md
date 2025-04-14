@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /what-is-missing-in-firefox-3-beta-4-release-notes-d31cec0a145d
 tags: open-source
+categories: [Miscellaneous]
 title: What Is Missing in Firefox 3 Beta 4 Release Notes
 ---
 I skipped a few important FF milestones after trying Alpha 1. But last month I installed Firefox 3 Beta 3 and suddenly found it stable and super fast. And today Beta 4 is out so I simply navigated to the download page and wanted to download the installer.

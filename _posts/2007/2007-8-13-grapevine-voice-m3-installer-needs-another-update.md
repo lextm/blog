@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-m3-installer-needs-another-update-7cabf2769635
 tags: delphi windows
+categories: [Operating Systems]
 title: 'GrapeVine Voice: M3 Installer Needs Another Update'
 ---
 According to bug report I received today from Dear Tom, I have updated M3 installer on Google Code.

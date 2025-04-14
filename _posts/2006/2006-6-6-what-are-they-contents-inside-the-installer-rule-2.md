@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /what-are-they-contents-inside-the-installer-rule-2-2cbdc7a9159f
 tags: delphi inno-setup code-beautifier-collection
+categories: [Tools and Platforms]
 title: What are they? Contents Inside The Installer (Rule 2)
 ---
 (CSDN June 06, 2006)

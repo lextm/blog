@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-serious-discussion-sessions-5a26c93aca30
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: Serious Discussion Sessions'
 ---
 Sometimes, maintaining an open source project is just like running a one-man show. There could be a lot of users, but most source code came from you and you were the only player in the field. I felt so lonely in the past.

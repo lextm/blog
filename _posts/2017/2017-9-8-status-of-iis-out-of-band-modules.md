@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /status-of-iis-out-of-band-modules-80a3af57c489
 tags: asp.net iis windows microsoft
+categories: [Frameworks and Libraries]
 title: Status of IIS Out-Of-Band Modules
 ---
 When Microsoft designed and shipped IIS 7, they decided to provide a few more extensions to IIS users for free. And those were called out-of-band modules.

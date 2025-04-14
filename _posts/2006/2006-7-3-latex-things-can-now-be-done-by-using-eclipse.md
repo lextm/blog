@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /latex-things-can-now-be-done-by-using-eclipse-9633f07255ef
 tags: java
+categories: [Programming Languages]
 title: LaTeX things Can Now Be Done by Using Eclipse
 ---
 (CSDN July 03, 2006)

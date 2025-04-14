@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tuning-skills-needed-5e563c20b137
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: Tuning Skills Needed
 ---
 (CSDN June 02, 2006)

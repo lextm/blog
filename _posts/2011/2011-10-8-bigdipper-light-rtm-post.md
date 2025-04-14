@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-rtm-post-a58eb789173f
 tags: snmp .net csharp open-source
+categories: [Programming Languages]
 title: 'BigDipper Light: RTM Post'
 ---
 After almost a year, the final release of #SNMP 7.0, or BigDipper, is now available.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /astyle-addin-a-sign-that-i-cannot-ignore-9849c4bee02f
 tags: sharpdevelop .net
+categories: [Tools and Platforms]
 title: 'AStyle AddIn: A sign that I cannot ignore'
 ---
 (CSDN Oct 13, 2006)

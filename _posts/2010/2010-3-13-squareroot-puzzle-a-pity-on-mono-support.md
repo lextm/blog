@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /squareroot-puzzle-a-pity-on-mono-support-36a947c50037
 tags: .net mono
+categories: [Programming Languages]
 title: 'SquareRoot Puzzle: A Pity on Mono Support'
 ---
 A review with MoMA on the suite release shows that the Browser, Compiler and Agent all fails to support Mono due to their dependencies on Windows only libraries.

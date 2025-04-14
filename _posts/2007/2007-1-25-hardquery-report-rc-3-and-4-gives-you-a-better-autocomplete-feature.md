@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-rc-3-and-4-gives-you-a-better-autocomplete-feature-6cffcfbe9180
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'HardQuery Report: RC 3 and 4 gives you a better AutoComplete feature'
 ---
 (CSDN Jan 25, 2007)

@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-sharp-builder-tools-and-others-are-reborn-inside-cbc-d3fbf4baf54e
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Sharp Builder Tools and others are reborn inside CBC'
 ---
 (CSDN Oct 08, 2006)

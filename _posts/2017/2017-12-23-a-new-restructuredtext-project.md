@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /a-new-restructuredtext-project-112e9ae52acb
 tags: .net visual-studio-code restructuredtext antlr open-source
+categories: [Programming Languages]
 title: A New reStructuredText Project
 ---
 Microsoft/Xamarin uses VSTest to enable cross platform unit testing support for Visual Studio and Visual Studio for Mac. Therefore, I freed myself from maintaining the xUnit.net extension for the latter, and have some time for new adventures.

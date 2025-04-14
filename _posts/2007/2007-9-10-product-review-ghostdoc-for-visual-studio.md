@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-ghostdoc-for-visual-studio-7bb2925c469f
 tags: .net sharpdevelop visual-studio visual-studio-code
+categories: [Tools and Platforms]
 title: 'Product Review: GhostDoc for Visual Studio'
 ---
 There are so many add ins for Visual Studio designed by MVPs and I can almost draw a conclusion that if you make a popular VS add in, you may become an MVP some day.

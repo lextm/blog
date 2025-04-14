@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-frequent-releases-and-rollbar-dashboard-79afefd6f4ea
 tags: iis jexus-manager windows open-source
+categories: [Tools and Platforms]
 title: 'Jexus Manager: Frequent Releases and Rollbar Dashboard'
 ---
 It is really astonishing that I released 29 builds of Jexus Manager in 24 days. Tons of bugs have been fixed and some new features have shipped.

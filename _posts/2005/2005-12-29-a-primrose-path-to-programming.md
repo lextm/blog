@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /a-primrose-path-to-programming-4aeb1f289b2c
 tags: delphi windows
+categories: [Operating Systems]
 title: A Primrose Path to Programming
 ---
 (Originally published to CSDN on Dec 29, 2005)

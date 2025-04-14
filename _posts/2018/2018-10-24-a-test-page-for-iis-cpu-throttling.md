@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /a-test-page-for-iis-cpu-throttling-8813f76c67d
 tags: .net asp.net iis windows
+categories: [Programming Languages]
 title: A Test Page for IIS CPU Throttling
 ---
 IIS has a feature of [CPU throttling](https://docs.microsoft.com/iis/get-started/whats-new-in-iis-8/iis-80-cpu-throttling-sand-boxing-sites-and-applications) so that you can better control how to respond when a web app uses too much CPU resource.

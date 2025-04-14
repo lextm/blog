@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /everything-good-and-horrible-about-powershell-gallery-a2814e1a8ab6
 tags: microsoft powershell
+categories: [Companies and Products]
 title: Everything Good And Horrible About PowerShell Gallery
 ---
 Microsoft introduced PowerShell Gallery Preview in July 2015, and announced its Public release on February 25, 2016. The idea was cool that everyone can publish useful PowerShell modules/scripts there and later install on target machines easily.

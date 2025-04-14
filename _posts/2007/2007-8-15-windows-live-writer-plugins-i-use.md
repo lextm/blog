@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-writer-plugins-i-use-603828787534
 tags: work-life windows
+categories: [Miscellaneous]
 title: Windows Live Writer Plugins I Use
 ---
 Windows Live Writer is a good pal for bloggers. As with some small plugins you could enjoy yourself more.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-php-manager-for-iis-e17105c8f751
 tags: iis php windows
+categories: [Tools and Platforms]
 title: 'Product Review: PHP Manager for IIS'
 ---
 I just noticed this project on CodePlex, which provides PHP support in IIS Manager.

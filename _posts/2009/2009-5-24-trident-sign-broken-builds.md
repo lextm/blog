@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-broken-builds-30f0087a056c
 tags: work-life snmp
+categories: [Miscellaneous]
 title: 'Trident Sign: Broken Builds'
 ---
 Is it OK to follow #SNMP builds at CodePlex.com? Probably not. The reason is quite simple, that I just can guarantee the builds can be compiled and that's all.

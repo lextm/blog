@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-now-comes-6-0-codename-for-snmp-8f4cff5f981f
 tags: .net snmp
+categories: [Programming Languages]
 title: 'HoneyCell Drops: Now Comes 6.0 Codename for #SNMP'
 ---
 For #SNMP, the codenames for every releases implicitly contain the release numbers. Now comes HoneyCell, our next release (6.0).

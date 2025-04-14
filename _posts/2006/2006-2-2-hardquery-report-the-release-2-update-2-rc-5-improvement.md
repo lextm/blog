@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-the-release-2-update-2-rc-5-improvement-600f40f5e02b
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'HardQuery Report: the Release 2 Update 2 RC 5 improvement'
 ---
 (CSDN Feb 02, 2006)

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jbuilder-hour-30e478922477
 tags: delphi java
+categories: [Programming Languages]
 title: JBuilder Hour
 ---
 (CSDN Jan 12, 2007)

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /suggestion-to-sharpdevelop-3-0-a4b1ba8b2cc8
 tags: .net msbuild sharpdevelop
+categories: [Tools and Platforms]
 title: Suggestion to SharpDevelop 3.0
 ---
 It is really fun to read SD blogs as well as its source code. And [the latest post](http://laputa.sharpdevelop.net/ChoosingTheTargetFrameworkInSharpDevelop30.aspx) talks about multi-targeting and asks for users' opinions. I suggest SD 3 Alpha continues to use option 1 now. And once SD 3 enters its Beta stage, option 2 may be better.

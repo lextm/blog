@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-i-got-start-menu-back-in-windows-8-with-free-stuffs-b1a6f0d84a53
 tags: windows
+categories: [Operating Systems]
 title: How I Got Start Menu Back in Windows 8 with Free Stuffs
 ---
 I played with Stardock's Start8 since its initial release, but since Stardock would like to make some fortune from this useful tool and I did not plan to pay, I have been searching for a free alternative for a while. Today I think I have found the last piece, so here comes a blog post that covers my findings.

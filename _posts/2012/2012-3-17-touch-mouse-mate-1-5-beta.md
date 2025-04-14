@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-1-5-beta-8dc67d90970c
 tags: windows
+categories: [Operating Systems]
 title: 'Touch Mouse Mate: 1.5 Beta'
 ---
 Hi guys,

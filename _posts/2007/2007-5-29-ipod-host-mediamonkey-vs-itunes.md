@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /ipod-host-mediamonkey-vs-itunes-d72da8cd1697
 tags: windows delphi
+categories: [Operating Systems]
 title: 'iPod Host: MediaMonkey vs. iTunes'
 ---
 I have bought a iPod Video 2. Since so many people complains about iTunes's performance, I have been frightened and decided to use something else.

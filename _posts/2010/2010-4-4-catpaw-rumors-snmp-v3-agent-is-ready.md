@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-snmp-v3-agent-is-ready-fd7b5819093b
 tags: snmp
+categories: [Technologies and Concepts]
 title: 'CatPaw Rumors: SNMP v3 Agent Is Ready'
 ---
 In #SNMP Suite release 4.0 we delivered an SNMP agent which supports v1 and v2c. How far away are we from v3 support?

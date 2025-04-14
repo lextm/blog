@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /update-on-restructuredtext-and-visual-studio-code-1b23916c4c0f
 tags: restructuredtext visual-studio-code python open-source
+categories: [Programming Languages]
 title: Update on reStructuredText and Visual Studio Code
 ---
 When I started the reStructuredText extension for Visual Studio Code in Nov 2015, I wasn't expect it to be a hot extension in the gallery. But even without an ambition, now it serves >1,700 users, so time to make it better.

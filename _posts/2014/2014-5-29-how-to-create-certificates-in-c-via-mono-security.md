@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-create-certificates-in-c-via-mono-security-f92ded38e6fb
 tags: .net mono jexus-manager
+categories: [Programming Languages]
 title: How to Create Certificates in C# via Mono.Security
 ---
 To generate certificates for testing, you probably know the makecert utility from .NET Framework SDK (now Windows SDK). But what if we are going to generate such certificates in C# code?

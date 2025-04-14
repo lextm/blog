@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-qc-plus-1-0-77a0e79f86a8
 tags: delphi visual-studio
+categories: [Tools and Platforms]
 title: 'Product Review: QC Plus 1.0'
 ---
 I have submitted bug reports to both Microsoft and Borland/CodeGear. The experiences are completely different.

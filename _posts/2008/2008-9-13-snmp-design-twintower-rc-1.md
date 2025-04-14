@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-twintower-rc-1-f4cade28a4ca
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: TwinTower RC 1'
 ---
 So it is already there for hours. Although it is marked as 1.4, it is still really a RC for TwinTower, our upcoming 1.5 release. The source code behind is Change Set 15687.

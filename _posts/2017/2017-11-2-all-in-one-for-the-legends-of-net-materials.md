@@ -1,5 +1,5 @@
 ---
-categories: [History, .NET]
+categories: [Programming Languages]
 description: A comprehensive collection of articles about the history and legends of .NET technologies, including posts about MSBuild, C# compilers, ASP.NET on IIS, and other important .NET ecosystem stories.
 excerpt_separator: <!--more-->
 layout: post

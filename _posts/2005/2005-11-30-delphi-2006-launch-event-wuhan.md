@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /追星行动1-参加delphi-2006发布会见闻-version-0-1-b31b2f64c9ab
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 追星行动1――参加Delphi 2006发布会见闻 Version 0.1
 ---
 (Originally posted to CSDN on Nov 30, 2005)

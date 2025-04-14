@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /digging-windows-live-writer-9b5403d6af8a
 tags: windows
+categories: [Operating Systems]
 title: Digging Windows Live Writer
 ---
 For a new Windows Live Writer, these three things you may not know (but you know now).

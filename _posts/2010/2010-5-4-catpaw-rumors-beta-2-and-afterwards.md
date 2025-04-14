@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-beta-2-and-afterwards-ce41cef93014
 tags: .net mono snmp
+categories: [Programming Languages]
 title: 'CatPaw Rumors: Beta 2 and Afterwards'
 ---
 #SNMP 5 goes on smoothly. I just had two items to work on when I started,

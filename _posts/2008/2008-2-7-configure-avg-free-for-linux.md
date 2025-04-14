@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /configure-avg-free-for-linux-ac164e5234c6
 tags: linux
+categories: [Operating Systems]
 title: Configure AVG Free for Linux
 ---
 I love AVG Free, but because viruses and Trojans are serious in China I use a commercial product named KAV7 on Windows Vista.

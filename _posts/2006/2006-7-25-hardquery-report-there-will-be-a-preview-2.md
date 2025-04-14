@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-there-will-be-a-preview-2-b5fa50f1de3
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: There will be a Preview 2'
 ---
 (CSDN July 25, 2006)

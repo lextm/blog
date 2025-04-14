@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /logging-exceptions-and-hacks-83bec1bf4075
 tags: work-life
+categories: [Miscellaneous]
 title: Logging, Exceptions, and Hacks
 ---
 In the development of my project, I have to connect to a device through sockets. The problem is that this device driver has a bug that prevents a PC to create a second socket with it. This means I have to take care of the socket I create every time. If a socket is not closed, I will never be able to connect to the device again. I do not want to reboot the device. However, there seems to be necessary.

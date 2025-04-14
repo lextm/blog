@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /变老的自己-b1a3343856b4
 tags: work-life
+categories: [Miscellaneous]
 title: 变老的自己
 ---
 应该好好看待变老这个话题。

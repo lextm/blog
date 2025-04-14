@@ -3,6 +3,7 @@ description: Learn ASP.NET Core through common error scenarios and troubleshooti
 excerpt_separator: <!--more-->
 layout: post
 tags: .net asp.net windows linux macos
+categories: [Operating Systems]
 title: ASP.NET Core Crashes and Burns
 ---
 Getting start with ASP.NET Core is in fact easy, if you let it crash and burn. Every errors help you get better understanding of different aspects.

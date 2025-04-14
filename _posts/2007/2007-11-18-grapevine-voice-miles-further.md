@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-miles-further-442cc280d861
 tags: work-life delphi
+categories: [Miscellaneous]
 title: 'GrapeVine Voice: Miles Further?'
 ---
 I am not yet sure whether GrapeVine M10 is stable enough but it is the last Milestone build for 6.0. I am expecting to release a stable release of 6.0 sooner or later. I am now targeting some day in December before the Christmas. Like in the previous years, I want the new release to be a present for all my dear users, my friends.

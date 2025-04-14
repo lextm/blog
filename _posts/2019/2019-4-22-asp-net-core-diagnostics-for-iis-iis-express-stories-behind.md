@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /asp-net-core-diagnostics-for-iis-iis-express-stories-behind-90b4e8229aad
 tags: .net asp.net iis microsoft visual-studio
+categories: [Tools and Platforms]
 title: ASP.NET Core Diagnostics for IIS/IIS Express, Stories Behind
 ---
 ASP.NET Core on IIS/IIS Express shouldn't be hard, as they all come from Microsoft. However, we all know it has been a mess since the beginning, as I blogged multiple times from different angles, in the following posts like [this]({% post_url 2018/2018-3-30-what-should-you-check-when-visual-studio-cannot-debug-asp-net-core-project %}), [this]({% post_url 2018/2018-6-15-the-horrible-story-of-publishing-net-core-web-apps-for-beginners %}), and [this]({% post_url 2017/2017-6-5-how-visual-studio-launches-iis-express-to-debug-asp-net-core-apps %}).

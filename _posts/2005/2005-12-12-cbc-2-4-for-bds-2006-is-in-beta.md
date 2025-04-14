@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-2-4-for-bds-2006-is-in-beta-5f5b6fa8416d
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: CBC 2.4 for BDS 2006 is in BETA!
 ---
 (Originally published to CSDN on Dec 12, 2005)

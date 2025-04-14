@@ -3,6 +3,7 @@ description: How to use AsmSpy to verify assembly dependencies and prevent runti
 excerpt_separator: <!--more-->
 layout: post
 tags: .net iis php visual-studio
+categories: [Programming Languages]
 title: AsmSpy on Artifacts Verification
 ---
 We often perform artifacts verification via test suites, so for .NET projects NUnit/xUnit.net/MSTest might be quite helpful. However, there is a kind of issues that cannot be easily caught by test suites, and I found AsmSpy a perfect tool in this field. In this post, I will give an example.

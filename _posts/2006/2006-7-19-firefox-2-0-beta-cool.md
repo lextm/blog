@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /firefox-2-0-beta-cool-d46fbe5deb29
 tags: open-source
+categories: [Miscellaneous]
 title: 'Firefox 2.0 Beta: Cool'
 ---
 (CSDN July 19, 2006)

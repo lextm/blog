@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /beta-walkpace-first-beta-version-is-here-5f9eed0a5633
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'BETA: WalkPace first beta version is here'
 ---
 (Originally posted to CSDN on March 09, 2006)

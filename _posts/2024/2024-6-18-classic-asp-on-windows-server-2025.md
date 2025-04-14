@@ -3,6 +3,7 @@ description: "Discover the continued support for classic ASP in Windows Server 2
 excerpt_separator: <!--more-->
 layout: post
 tags: asp.net iis windows
+categories: [Frameworks and Libraries]
 title: Classic ASP with IIS 10 on Windows Server 2025
 ---
 Classic ASP (Active Server Pages) holds a special place in the hearts of some developers. It empowered the creation of dynamic websites in the late 90s and early 2000s.  While there have been concerns about its future after Microsoft announced its deprecation plan for VBScript, this blog post aims to summarize the things we learned so far and clarify that classic ASP likely remains fully supported on Windows Server 2025.

@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-firefoxs-flaw-or-windows-e108ed376916
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Firefox''s Flaw or Windows'''
 ---
 I'd like to set Firefox as my default web browser. However, then strange things happens. I cannot open an HTML file by double clicking it in Windows Explorer without a warning.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-how-i-test-this-plug-in-easier-later-96cd9dafd9da
 tags: .net delphi code-beautifier-collection
+categories: [Programming Languages]
 title: 'CBC TechNote: How I Test This Plug-in Easier Later'
 ---
 (Originally published to CSDN on Nov 03, 2005)

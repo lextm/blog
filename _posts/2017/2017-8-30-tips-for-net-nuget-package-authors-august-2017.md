@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tips-for-net-nuget-package-authors-august-2017-48f07604e4a0
 tags: .net visual-studio open-source microsoft
+categories: [Programming Languages]
 title: Tips for .NET NuGet Package Authors (August 2017)
 ---
 > I have to add "August 2017", as time proves that the tips can go easily out-of-date.

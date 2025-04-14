@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-writer-special-tip-13fbf9ddfdb4
 tags: work-life windows
+categories: [Miscellaneous]
 title: Windows Live Writer Special Tip
 ---
 I cannot access my blogspot account at home. Yes, I cannot see my homepage, while I was about to log in and edit posts.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /logon-studio-vista-with-sp1-rc-b352f50eecdf
 tags: windows
+categories: [Operating Systems]
 title: Logon Studio Vista with SP1 RC
 ---
 I have installed Vista SP1 RC. Even though no significant improvements I see, I think I should not remove it until SP1 RTM is released.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-possible-json-e2370c321dea
 tags: .net delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: Possible JSON'
 ---
 .NET 3.5 introduces a JSON formatter. So I am considering giving up Yaowi's XmlSerializer and XmlDeserializer some time later.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-release-notes-b55aac776781
 tags: work-life snmp
+categories: [Miscellaneous]
 title: 'Trident Sign: Release Notes'
 ---
 Finally we start to ship Trident 3.0 of #SNMP Suite. In this release the changes are,

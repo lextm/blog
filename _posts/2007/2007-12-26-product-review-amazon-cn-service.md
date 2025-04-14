@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-amazon-cn-service-b4b660ad202
 tags: work-life
+categories: [Miscellaneous]
 title: 'Product Review: Amazon.CN Service'
 ---
 I have bought a lot of books online and I like Amazon.CN a lot.

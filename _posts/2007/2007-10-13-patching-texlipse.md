@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /patching-texlipse-ec5908768adf
 tags: work-life
+categories: [Miscellaneous]
 title: Tuning Skills Needed
 ---
 I use Texlipse with EasyEclipse for C/C++ to maintain Code Beautifier Collection documents. However, since I was forced to use Windows Vista, a lot of problems have prevents me from doing my job.

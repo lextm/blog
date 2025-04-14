@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-recommendation-8148575027cf
 tags: .net delphi
+categories: [Programming Languages]
 title: 'HardQuery Report: Recommendation'
 ---
 Dear users, although I am trying to release a new update for HardQuery series (5.3.4.1001 is the first Release Candidate), there is something I won't fix in this update (or later updates).

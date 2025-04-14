@@ -1,5 +1,5 @@
 ---
-categories: [History, .NET]
+categories: [Frameworks and Libraries]
 description: Discover why Microsoft abandoned MonoDevelop, the implications for cross-platform .NET development, and what alternatives developers should consider using instead.
 excerpt_separator: <!--more-->
 image:

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dundas-chart-help-hell-9cebbb2c5621
 tags: .net sharpdevelop
+categories: [Programming Languages]
 title: Dundas Chart Help Hell
 ---
 I thought Dundas Chart was great, so I recommended my company bought it. However, when I installed and used it, I found the help in fact helpless sometimes.

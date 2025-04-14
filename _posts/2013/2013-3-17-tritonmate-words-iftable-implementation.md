@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-iftable-implementation-c15a6b8a587f
 tags: .net snmp
+categories: [Programming Languages]
 title: 'TritonMate Words: ifTable Implementation'
 ---
 #SNMP has a reference design of SNMP agent, which should have been known for a while. But up to now the problem is inside of it there is no real-world SNMP table example. Yes, that is a big problem. The sysORTable might be an example, but it is faked, and it is not available by default in most MIB browsers (due to the MIB document versioning issues). So even if you want to try it out, it might take extra efforts.

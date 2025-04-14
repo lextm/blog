@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-ubuntu-support-74bade4942cb
 tags: linux mono snmp
+categories: [Operating Systems]
 title: 'HoneyCell Drops: Ubuntu Support'
 ---
 Last time we tested #SNMP 5 on openSUSE, but this time I use Ubuntu 10.10 Beta to test out #SNMP 6.

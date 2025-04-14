@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /a-strange-peer-certificate-cannot-be-authenticated-issue-a7f47193699
 tags: .net linux mono open-source
+categories: [Programming Languages]
 title: A Strange 'Peer Certificate Cannot Be Authenticated' Issue
 ---
 I built a Debian machine a while ago to test out MonoDevelop, and now I am trying to test .NET Core on it. But such an exception happened.

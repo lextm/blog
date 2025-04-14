@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /writer-helpers-48d211511bd9
 tags: windows
+categories: [Operating Systems]
 title: Writer Helpers
 ---
 I have to confess Windows Live Writer (WLW) is so good that I will never write a post in browser again.

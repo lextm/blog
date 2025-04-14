@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-latest-nuget-packages-805787c264ff
 tags: .net snmp
+categories: [Programming Languages]
 title: 'BigDipper Light: Latest NuGet Packages'
 ---
 #SNMP started to provide 7.0 NuGet package last October. It was my first attempt, so there were a few issues with that package,

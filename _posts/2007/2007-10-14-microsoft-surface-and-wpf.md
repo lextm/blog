@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-surface-and-wpf-b7647ff0b94f
 tags: .net windows
+categories: [Programming Languages]
 title: Microsoft Surface And WPF
 ---
 Why .NET is core of Windows development now? Because Microsoft uses it wherever possible. When Microsoft Surface is released, when you say Wow, please understand that .NET (especially WPF) drives this innovative product. I am now reading [a post](http://windowsvistablog.com/blogs/windowsvista/archive/2007/09/16/surface-computing-the-wave-of-the-future.aspx) of Windows Vista Blog which provides more details about this.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-a-special-preview-e51d4bbaf9bd
 tags: .net delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: A Special Preview'
 ---
 I am planning to release a special GrapeVine Preview. Why? There are several reasons,

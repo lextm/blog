@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-6-0-final-is-out-and-donation-is-welcome-c2924156056
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: 6.0 Final is Out And Donation is Welcome'
 ---
 I have just released the GrapeVine Final as version 6.0.0.1014. After unsuccessful M11 and M12, I decide to skip M13. That is why the final release is the 14th build.

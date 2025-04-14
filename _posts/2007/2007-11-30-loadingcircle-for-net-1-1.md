@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /loadingcircle-for-net-1-1-a6921ccdccb4
 tags: .net windows
+categories: [Programming Languages]
 title: LoadingCircle for .NET 1.1
 ---
 Do you know that you can easily add a Firefox or IE 7 look LoadingCircle in your .NET applications? Please take a look at [this old CodeProject article](https://www.codeproject.com/Articles/14841/How-to-write-a-loading-circle-animation-in-NET).

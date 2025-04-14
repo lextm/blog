@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-release-notes-for-5-0-release-d51fb1c07c1b
 tags: mono snmp
+categories: [Frameworks and Libraries]
 title: 'CatPaw Rumors: Release Notes for 5.0 Release'
 ---
 We did analysis on #SNMP 4.0 before. This post is the latest one for 5.0.

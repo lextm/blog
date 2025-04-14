@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /vmware-workstation和server-艰难的选择-4ee13e7eeb26
 tags: windows
+categories: [Operating Systems]
 title: 'VMware Workstation 和 Server: 艰难的选择'
 ---
 (CSDN May 15, 2007)

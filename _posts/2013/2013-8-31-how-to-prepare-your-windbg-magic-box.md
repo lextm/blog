@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-prepare-your-windbg-magic-box-43b5e9ad8a03
 tags: .net visual-studio
+categories: [Programming Languages]
 title: How to Prepare Your WinDbg Magic Box
 ---
 If you are an advanced developer that often needs to debug either native or managed Windows applications, you should be quite familiar with WinDbg, a low level debugger from Microsoft. It has a sharp learning curve, but is indeed the ultimate tool for debugging.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-understand-net-api-browser-dec-2017-16fe068ab072
 tags: .net visual-studio microsoft open-source
+categories: [Programming Languages]
 title: How to Understand .NET API Browser (Dec 2017)
 ---
 Microsoft tries to use new tools to build .NET documentation, which is good. The benefits for the community are,

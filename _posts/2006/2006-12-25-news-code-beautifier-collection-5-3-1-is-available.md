@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-code-beautifier-collection-5-3-1-is-available-c285e5e71511
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: News! Code Beautifier Collection 5.3.1 is available
 ---
 (CSDN Dec 25, 2006)

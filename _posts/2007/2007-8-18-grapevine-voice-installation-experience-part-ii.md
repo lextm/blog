@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-installation-experience-part-ii-b2899f34a18d
 tags: delphi inno-setup
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Installation Experience (Part II)'
 ---
 For MSI installers, it seems easier to install for all users. I do not have time to study MSI, so I try to make something similar with Inno Setup.

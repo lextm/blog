@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /open-source-must-read-list-from-me-3b179c25158
 tags: work-life
+categories: [Miscellaneous]
 title: Open Source 'Must Read' List From Me
 ---
 In my opinion, there is few great books about open source out there published in China. And I was lucky enough to find out two free and great books during these years.

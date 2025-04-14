@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-the-configuration-system-108aa9e471b0
 tags: jexus-manager linux
+categories: [Tools and Platforms]
 title: 'Jexus Series: The Configuration System'
 ---
 The Jexus configuration system is more similar to Apache/Nginx, rather than IIS.

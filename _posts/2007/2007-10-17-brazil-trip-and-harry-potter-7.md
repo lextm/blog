@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /brazil-trip-and-harry-potter-7-57e5eb615d24
 tags: work-life
+categories: [Miscellaneous]
 title: Brazil Trip and Harry Potter 7
 ---
 My boss will send me to Brazil for a business trip. I am about to arrive in Sao Paolo on October 30th, and stay there for 4 days. I am looking forward to the trip except I need an injection of yellow fever bacterin this Friday (a little bit afraid).

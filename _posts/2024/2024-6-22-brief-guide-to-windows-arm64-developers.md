@@ -3,6 +3,7 @@ description: "An essential guide for Windows ARM64 developers working with web a
 excerpt_separator: <!--more-->
 layout: post
 tags: asp.net iis windows
+categories: [Frameworks and Libraries]
 title: Brief Guide to Windows ARM64 Developers
 ---
 The introduction of ARM64 architecture to Windows has opened up new possibilities for developers. The new ARM64 based Copilot+ PCs on new chipset like Qualcomm Snapdragon X Elite are not only enabling AI related innovations but also providing a platform for traditional developers to explore new opportunities. This post provides a brief guide to Windows ARM64 developers, covering key aspects and considerations to set up your development and testing environments.

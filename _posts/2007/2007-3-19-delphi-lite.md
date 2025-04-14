@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /bug-report-reply-delphi的lite版本-58497f576876
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'Bug Report Reply: Delphi的Lite版本'
 ---
 (CSDN March 19, 2007)

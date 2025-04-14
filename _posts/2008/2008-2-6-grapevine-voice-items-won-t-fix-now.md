@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-items-wont-fix-now-eaadd4701e4c
 tags: .net delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: Items Won''t Fix Now'
 ---
 Have to say the sound of fireworks outside the window is so loud. The whole nation is waiting for the coming of Chinese New Year. The PIG is leaving and the MOUSE is coming.

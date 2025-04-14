@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /candycan-opener-bad-news-at-prime-time-b9f0478bfe78
 tags: asp.net delphi
+categories: [Frameworks and Libraries]
 title: 'CandyCan Opener: Bad News at Prime Time'
 ---
 Sorry guys, the bad news comes at last.

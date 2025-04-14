@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-in-date-is-not-working-normally-eea0eef14c14
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'Hardquery Report: InDate is not working normally'
 ---
 (CSDN Dec 26, 2006)

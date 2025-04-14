@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /clearcontext-update-676c77d86c03
 tags: work-life
+categories: [Miscellaneous]
 title: ClearContext Update
 ---
 IMS 4.0 was released a few days ago. I do not try this version because its 3.1.1 Personal meets my basic needs and helps a lot. I cannot find any information about 4.0 Personal so I guess that there is no 4.0 Personal. (I was wrong)

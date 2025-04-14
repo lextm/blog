@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /学习编程-中国程序员入门的怪现象之一-中文的困惑-817c168c1ce7
 tags: work-life
+categories: [Miscellaneous]
 title: 学习编程：中国程序员入门的怪现象之一――中文的困惑
 ---
 (CSDN April 02, 2008)

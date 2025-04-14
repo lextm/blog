@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-teamprise-and-tfs-2cbfc148f1b8
 tags: visual-studio visual-studio-code
+categories: [Tools and Platforms]
 title: 'Product Review: Teamprise and TFS'
 ---
 Microsoft is going to provide more collaboration utilities for its developers. Yes, at present we see SharePoint, and Team Foundation Server as two key products. I have been using SharePoint for a few months and it serves well. But I do not try TFS.

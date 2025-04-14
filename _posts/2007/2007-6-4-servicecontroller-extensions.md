@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /servicecontroller-extensions-de5af7a92903
 tags: .net windows
+categories: [Programming Languages]
 title: ServiceController Extensions
 ---
 In the afternoon I had to do something with Windows services. As a result a better `ServiceController` should be used to know the executable name.

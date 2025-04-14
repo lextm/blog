@@ -3,6 +3,7 @@ description: Introduction to Jexus Manager, an IIS Manager-like GUI tool for man
 excerpt_separator: <!--more-->
 layout: post
 tags: iis jexus-manager linux asp.net
+categories: [Tools and Platforms]
 title: 'Jexus Series: Announce Jexus Manager, Management Console for Jexus Web Server'
 ---
 As illustrated in early posts, Jexus web server is more similar to IIS, if we compare other famous web servers available on Linux. To better assist ASP.NET developers and professionals to migrate their web applications to Jexus, I have been developing a management console in the past few weeks. Today it is time to reveal this utility, aka Jexus Manager, to general public.

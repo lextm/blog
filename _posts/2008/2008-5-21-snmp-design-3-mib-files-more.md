@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-3-mib-files-more-c69206fb3006
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: 3 MIB Files More'
 ---
 After reading Wikipedia, I kind of understand what is a yylexer. However, I am still going on my own lexer. I am sure if I keep refactoring down the road, I may achieve something similar to a standard yylexer.

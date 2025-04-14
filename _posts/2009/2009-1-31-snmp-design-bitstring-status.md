@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-bitstring-status-3b80c3a479e9
 tags: work-life
+categories: [Miscellaneous]
 title: '#SNMP Design: BitString Status'
 ---
 Well, I have to say something here about BitString class and its future.

@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-backport-to-c-2-0-visual-studio-2005-253d6b099c55
 tags: .net visual-studio visual-studio-code
+categories: [Tools and Platforms]
 title: '#SNMP Design: Backport to C# 2.0/Visual Studio 2005'
 ---
 Steve contributed a lot by back porting the library to C# 2.0. This is out of my original plan. This port was required because Visual Studio 2005 becomes Steve's primary platform lately. It is interesting to notice that only a few classes modified. Well, luckily I stopped using a lot of C# 3.0 specific features when I realized they will probably prevent such a port in late August.

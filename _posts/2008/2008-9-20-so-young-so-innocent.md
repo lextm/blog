@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /so-young-so-innocent-4bfb6957f065
 tags: work-life
+categories: [Miscellaneous]
 title: So Young, So Innocent
 ---
 I thought I had grown up to an adult, but my mom denied it. She insisted that I be an adult only if I were more than 30. This short dialog happened last weekend, but now it seems years ago.

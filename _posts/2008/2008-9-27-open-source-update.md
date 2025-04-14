@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /对于开源的种种误读-的更新-9d83150b8e35
 tags: work-life microsoft
+categories: [Miscellaneous]
 title: “对于开源的种种误读”的更新
 ---
 (CSDN Sept 27, 2008)

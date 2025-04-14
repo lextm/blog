@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /brazil-trip-delay-harry-potter-7-fe8cfcf20158
 tags: work-life
+categories: [Miscellaneous]
 title: Brazil Trip Delay & Harry Potter 7
 ---
 My trip to Sao Paulo were delayed because Cisco do Brasil met some troubles. You may already read about the news on Slashdot.org. Thus, I would probably arrive in the end of November.

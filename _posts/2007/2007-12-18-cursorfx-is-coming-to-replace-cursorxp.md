@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /cursorfx-is-coming-to-replace-cursorxp-2337a5211c5f
 tags: windows
+categories: [Operating Systems]
 title: CursorFX Is Coming to Replace CursorXP
 ---
 If you want a nice cursor on your screen, you may give CursorXP a try. But today, Stardock publishes a preview of CursorFX which surely is better than CursorXP.

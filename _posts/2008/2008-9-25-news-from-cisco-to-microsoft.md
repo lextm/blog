@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /lextm-cn-news-from-cisco-to-microsoft-a32452730e6c
 tags: .net microsoft
+categories: [Programming Languages]
 title: 'News: From Cisco to Microsoft'
 ---
 > Finally it is time to announce something important officially on this blog.

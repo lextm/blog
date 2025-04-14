@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /遭遇-盗版-的感觉-e447b73576ee
 tags: work-life
+categories: [Miscellaneous]
 title: 遭遇'盗版'的感觉
 ---
 (CSDN Dec 06, 2006)

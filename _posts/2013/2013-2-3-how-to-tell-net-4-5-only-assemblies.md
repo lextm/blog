@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-tell-net-4-5-only-assemblies-f5e9041533bb
 tags: .net
+categories: [Programming Languages]
 title: How to Tell .NET 4.5 Only Assemblies
 ---
 .NET 4.5 is a very special release of .NET Framework, as it is an in-place upgrade of .NET 4, as [detailed by Scott Hanselman here](http://www.hanselman.com/blog/NETVersioningAndMultiTargetingNET45IsAnInplaceUpgradeToNET40.aspx).

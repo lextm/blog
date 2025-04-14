@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-chrome-look-firefox-473fe9e6248b
 tags: work-life
+categories: [Miscellaneous]
 title: 'Product Review: Chrome-Look Firefox'
 ---
 Well, it is sad that Google Chrome does not yet support Windows 7 Beta. So I fall back to Firefox and install Total ReChrome add-on to achieve a Chrome look.

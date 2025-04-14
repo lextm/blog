@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /alex-license-changed-to-mit-f89171174dbe
 tags: .net code-beautifier-collection sharpdevelop
+categories: [Tools and Platforms]
 title: 'Alex: License Changed to MIT'
 ---
 Finally I think it is time to release Alex under a real open source license. Therefore, now the whole source code is released under MIT license. You can play with it if you like in almost any way. Hope you enjoy this change.

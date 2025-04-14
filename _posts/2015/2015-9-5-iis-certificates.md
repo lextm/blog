@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /iis迷宫之消失的证书-558d58aff8f5
 tags: iis windows
+categories: [Tools and Platforms]
 title: IIS迷宫之消失的证书
 ---
 在网站开发和测试工作中，总有一些场景像迷宫一样繁杂，以至于一个不小心就会如无头苍蝇到处乱撞。今天这个案例便起因于一个小设置，但没有恶补下X509证书基础知识的看官们恐怕尚且需要些时间来消化啊。

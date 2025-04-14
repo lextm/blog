@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /from-vmware-to-virtualbox-eda6ec764f49
 tags: windows
+categories: [Operating Systems]
 title: From VMware to VirtualBox
 ---
 VMware (VMW) is cute but I could not afford the Workstation at home, so I turned to its Server. After it crashed on Windows Vista, I moved to its Player and found that I could not create an image in it. That is VMware personal product line, neither suits my requirements of cheap, stable, and not quite feature limited.

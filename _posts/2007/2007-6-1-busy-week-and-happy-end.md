@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /busy-week-and-happy-end-c9c795b7db43
 tags: work-life
+categories: [Miscellaneous]
 title: Busy Week and Happy End
 ---
 My Dell notebook is finally arriving. And I will subscribe to local ADSL service next week. As a result, soon Code Beautifier Collection 5.3.3 will be available in weeks.

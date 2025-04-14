@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-release-notes-for-1-5-twintower-2de00443601c
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: Release Notes for 1.5 (TwinTower)'
 ---
 Well, this release takes much longer than we expected even though luckily Steve joined me. But I am sure that it worth the while because finally we have more features implemented in the suite.

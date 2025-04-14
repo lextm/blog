@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpdevelop-2-2-unexpected-eb87cf0cccc8
 tags: sharpdevelop visual-studio
+categories: [Tools and Platforms]
 title: 'SharpDevelop 2.2: Unexpected'
 ---
 The version number of SharpDevelop has been changed to 2.2 (on the build server), which means there is one more version between 2.1 and 3.0. The changes are not so visible that I noticed the version number update three days after installation.

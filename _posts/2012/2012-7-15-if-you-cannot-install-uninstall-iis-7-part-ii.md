@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /if-you-cannot-install-uninstall-iis-7-part-ii-73a14fe3db0
 tags: iis windows
+categories: [Tools and Platforms]
 title: If You Cannot Install/Uninstall IIS 7, Part II
 ---
 I blogged about this last year as [part I]({% post_url 2011/2011-2-26-if-you-cannot-install-uninstall-iis-7 %}).

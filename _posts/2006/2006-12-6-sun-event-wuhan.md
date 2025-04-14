@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /sun技术日的见闻-06-12-06-e6815979f036
 tags: java
+categories: [Programming Languages]
 title: SUN技术日的见闻-06.12.06
 ---
 (CSDN Dec 06, 2006)

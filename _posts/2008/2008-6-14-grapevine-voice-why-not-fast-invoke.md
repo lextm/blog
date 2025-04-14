@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-why-not-fast-invoke-e0af02d2d68a
 tags: .net asp.net delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: Why Not Fast Invoke?'
 ---
 (Originally posted to CSDN on Feb 21, 2006)

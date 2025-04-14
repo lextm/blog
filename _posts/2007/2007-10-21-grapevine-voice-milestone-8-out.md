@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-milestone-8-out-6421c1ed5679
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Milestone 8 Out'
 ---
 Today I am happy to announce M8 of Code Beautifier Collection 6.0. It adds new features as well as fixes bugs.

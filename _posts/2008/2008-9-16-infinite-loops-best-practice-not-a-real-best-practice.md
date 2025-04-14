@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /infinite-loops-best-practice-not-a-real-best-practice-e47b8922f445
 tags: .net snmp
+categories: [Programming Languages]
 title: Infinite Loops Best Practice (Not a real best practice)
 ---
 [Updated: This post is too old to be correct. Even #SNMP starts to use a completely different way to handle incoming packets http://code.google.com/p/sharpsnmplib/source/browse/SharpSnmpLib/Messaging/ListenerBinding.cs. So please read it carefully.]

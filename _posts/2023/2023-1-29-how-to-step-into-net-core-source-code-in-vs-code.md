@@ -3,6 +3,7 @@ layout: post
 title: How to Step into .NET Core Source Code in VS Code
 description: Learn how to configure Visual Studio Code's debugger settings to step into .NET Core source code with a step-by-step guide including launch.json configuration examples to enable source linking and symbol loading.
 tags: .net visual-studio-code csharp
+categories: [Programming Languages]
 excerpt_separator: <!--more-->
 ---
 

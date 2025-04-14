@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /unsigned-long-december-e4e58e957e88
 tags: work-life
+categories: [Miscellaneous]
 title: Unsigned long December
 ---
 (CSDN Dec 26, 2006)

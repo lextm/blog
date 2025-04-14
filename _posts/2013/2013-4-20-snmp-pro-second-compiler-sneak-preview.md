@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-second-compiler-sneak-preview-dc62ff62f38
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Pro: Second Compiler Sneak Preview'
 ---
 In the first preview I demonstrated the basic building blocks of the Compiler Pro. In this post, we are going to review the new additions.

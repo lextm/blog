@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-plus-file-format-version-2-is-ready-9c21c653da0f
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: News! Plus File Format Version 2 is ready
 ---
 (CSDN June 09, 2006)

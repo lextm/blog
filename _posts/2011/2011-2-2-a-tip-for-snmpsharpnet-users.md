@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /a-tip-for-snmpsharpnet-snmp-net-users-6a23a02b71e
 tags: snmp csharp
+categories: [Technologies and Concepts]
 title: A Tip for SnmpSharpNet (SNMP#NET) Users
 ---
 Well, I believe you have the habit of reading release notes and pay attention to what was written in SnmpSharpNet's one.

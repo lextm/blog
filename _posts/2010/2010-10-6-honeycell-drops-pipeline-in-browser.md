@@ -3,6 +3,7 @@ layout: post
 title: 'HoneyCell Drops: Pipeline in Browser'
 description: This post is about the pipeline in the browser.
 tags: snmp
+categories: [Technologies and Concepts]
 permalink: /honeycell-drops-pipeline-in-browser-2a992a2a61c8
 excerpt_separator: <!--more-->
 ---

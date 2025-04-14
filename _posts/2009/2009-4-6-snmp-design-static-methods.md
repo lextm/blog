@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-static-methods-8fda0d466c89
 tags: work-life
+categories: [Miscellaneous]
 title: '#SNMP Design: Static Methods'
 ---
 There are many static methods available now in Manager and Agent classes, but actually they have no relationship with either Manager or Agent. Therefore, I think it is better to move them into an isolated helper class. That's why Messenger class was added lately. It's also a good time to implement shared Socket object in this single entry for static methods.

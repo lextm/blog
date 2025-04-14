@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-hardquery-preview-1-is-out-f32eb717d9ad
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'News: HardQuery Preview 1 is out'
 ---
 (CSDN July 17, 2006)

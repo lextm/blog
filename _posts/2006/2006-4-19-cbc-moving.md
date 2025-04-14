@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /code-beautifier-collection-2-搬家中-36a6adeba7a1
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: Code Beautifier Collection 2 搬家中…
 ---
 (CSDN April 19, 2006)

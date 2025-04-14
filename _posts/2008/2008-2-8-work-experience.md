@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /工作经验真的那么重要吗-2395bd492880
 tags: work-life
+categories: [Miscellaneous]
 title: 工作经验真的那么重要吗？
 ---
 (CSDN Feb 08, 2008)

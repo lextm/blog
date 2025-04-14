@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-table-manipulation-6f8353bc9ebc
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: Table Manipulation'
 ---
 I believe the table manipulation is one of the hardest things in SNMP world. Therefore, I have tried my best to make it simple for #SNMP users.

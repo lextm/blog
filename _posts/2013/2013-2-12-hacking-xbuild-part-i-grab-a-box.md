@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hacking-xbuild-part-i-grab-a-box-24e70b6d2821
 tags: linux mono
+categories: [Operating Systems]
 title: 'Hacking xbuild: Part I, Grab a Box'
 ---
 Recently I decided to hack on xbuild. But soon I found it was not easy to set up a clean environment.

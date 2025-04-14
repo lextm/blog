@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /至cnpack项目组的公开信-草稿-40064c875807
 tags: code-beautifier-collection delphi open-source
+categories: [Tools and Platforms]
 title: 至CnPack项目组的公开信――草稿
 ---
 (Originally posted to CSDN on Nov 30, 2005)

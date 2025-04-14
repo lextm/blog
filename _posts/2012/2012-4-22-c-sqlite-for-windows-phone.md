@@ -3,6 +3,7 @@ layout: post
 title: C# SQLite for Windows Phone
 description: This post is about csharp-sqlite for Windows Phone.
 tags: .net
+categories: [Programming Languages]
 permalink: /c-sqlite-for-windows-phone-13878d482809
 excerpt_separator: <!--more-->
 ---

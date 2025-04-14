@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /net-snmp-snmpd-exe-crash-on-windows-9d03bab1b105
 tags: snmp windows
+categories: [Technologies and Concepts]
 title: Net-SNMP snmpd.exe Crash On Windows
 ---
 Well, there are already posts on the Internet about this issue, that snmpd.exe crashes on Windows. I am using Windows Vista SP2 and I also notice this issue.

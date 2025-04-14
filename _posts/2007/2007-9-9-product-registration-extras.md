@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-registration-extras-a649425ff8ea
 tags: delphi visual-studio
+categories: [Tools and Platforms]
 title: Product Registration Extras
 ---
 I believe most people do not understand why registering your purchased products is important. I was one of those people until CodeGear provides extras for its registered users of Delphi 2006. Since then I have registered every products I have. 

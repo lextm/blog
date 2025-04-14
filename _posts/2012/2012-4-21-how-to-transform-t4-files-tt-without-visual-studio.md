@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-transform-t4-files-tt-without-visual-studio-d9042165a0eb
 tags: .net mono visual-studio
+categories: [Programming Languages]
 title: How to Transform T4 files (.tt) without Visual Studio
 ---
 Microsoft integrates T4 text template support inside Visual Studio. However, you usually find it troublesome to transform such files outside Visual Studio (at command prompt or in your build process). In fact, you can even transform them without installing Visual Studio, because…Mono guys have a full open source implementation of that engine :)

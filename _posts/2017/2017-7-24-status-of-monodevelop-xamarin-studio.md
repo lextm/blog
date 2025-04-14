@@ -1,5 +1,5 @@
 ---
-categories: [History, .NET]
+categories: [Operating Systems]
 description: A comprehensive overview of the current status of MonoDevelop and Xamarin Studio after Microsoft's acquisition of Xamarin, explaining the transition to Visual Studio for Mac and best IDE choices for each platform.
 excerpt_separator: <!--more-->
 layout: post

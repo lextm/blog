@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-handle-cors-preflight-requests-in-asp-net-mvc-web-api-with-windows-authentication-f19814cbb558
 tags: asp.net iis .net
+categories: [Frameworks and Libraries]
 title: How to Handle CORS Preflight Requests in ASP.NET MVC/Web API with Windows Authentication
 ---
 It is interesting that many ASP.NET developers find this something hard to do, so I write the tips out to reveal that starting from IIS 7 Microsoft makes things so much easier.

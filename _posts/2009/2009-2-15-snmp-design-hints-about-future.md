@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-hints-about-future-f945dc90fa12
 tags: work-life
+categories: [Miscellaneous]
 title: '#SNMP Design: Hints about Future'
 ---
 Because of our latest contributors, this project has a chance to improve in the following areas,

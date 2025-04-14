@@ -3,6 +3,7 @@ description: "Learn how to deploy Next.js web applications on IIS using HttpPlat
 excerpt_separator: <!--more-->
 layout: post
 tags: iis windows httpplatformhandler
+categories: [Tools and Platforms]
 title: Running Next.js Web Apps on IIS with HttpPlatformHandler
 ---
 When Microsoft developed HttpPlatformHandler more than a decade ago to enable non-Microsoft web technologies on Windows/IIS, they didn't know that one day

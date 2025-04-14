@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-no-more-walkpace-versions-nixnewner-is-coming-soon-db7d47ba4d1a
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: News! No more WalkPace versions. NixNewNer is coming soon
 ---
 (CSDN June 05, 2006)

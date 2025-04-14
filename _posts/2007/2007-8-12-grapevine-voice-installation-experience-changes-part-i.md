@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-installation-experience-changes-part-i-8928cd2e56a3
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Installation Experience Changes (Part I)'
 ---
 I'd like to review some historical phases at first, (details can be found in docs/Readme.pdf)

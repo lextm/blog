@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-final-release-on-nov-12-a9e16823031a
 tags: snmp
+categories: [Technologies and Concepts]
 title: 'HoneyCell Drops: Final Release on Nov 12'
 ---
 After five beta builds, the final release of #SNMP 6.0 became available on Nov 12.

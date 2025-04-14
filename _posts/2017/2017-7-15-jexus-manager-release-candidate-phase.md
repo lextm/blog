@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-release-candidate-phase-46206e4a0b9a
 tags: .net iis jexus-manager
+categories: [Tools and Platforms]
 title: 'Jexus Manager: Release Candidate Phase'
 ---
 It is not easy to develop a product such as Jexus Manager, as it contains a large amount of code and targets too many pieces of IIS/IIS Express.

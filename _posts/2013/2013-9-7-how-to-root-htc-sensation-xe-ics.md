@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-root-htc-sensation-xe-ics-892ca9881b8c
 tags: android
+categories: [Operating Systems]
 title: How to Root HTC Sensation XE (ICS)
 ---
 I bought an HTC Sensation XE phone last year. Generally speaking it was a nice model. However, like any old enough model it started to suffer performance issues only after a few months of using. Luckily HTC shipped an upgrade to Android 4.0 (ICS) some time in May and after the upgrade the performance got better.

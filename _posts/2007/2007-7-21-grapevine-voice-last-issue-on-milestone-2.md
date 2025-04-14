@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-last-issue-on-milestone-2-da46970957bc
 tags: work-life code-beautifier-collection windows
+categories: [Miscellaneous]
 title: 'GrapeVine Voice: Last Issue On Milestone 2'
 ---
 UAC problems are solved today. After digging, some bugs are verified my mistakes, not UAC problems at all. So M2 is nearly finished except InDate (Auto Update feature) still need tests. I wish I could provide a full feature set this time, so I rather keep you all waiting for a few more days.

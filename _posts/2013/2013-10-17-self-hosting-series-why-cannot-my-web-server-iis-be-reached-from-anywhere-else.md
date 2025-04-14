@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /self-hosting-series-why-cannot-my-web-server-iis-be-reached-from-anywhere-else-8da0e0b252ef
 tags: iis windows
+categories: [Tools and Platforms]
 title: 'Self Hosting Series: Why Cannot My Web Server (IIS) Be Reached from Anywhere
   Else?'
 ---

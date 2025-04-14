@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tdd-ioc-and-mock-framework-a16825154e8b
 tags: .net asp.net delphi
+categories: [Programming Languages]
 title: TDD, IoC, and Mock Framework
 ---
 My experience is that some cool terms always come together. In my case the three words are: TDD, IoC, and mock framework. If you never knew how these terms connect to each other, I can tell you my story.

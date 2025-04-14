@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /will-assemblyinfotask-be-back-1fc09eddcd9d
 tags: .net asp.net microsoft
+categories: [Programming Languages]
 title: Will AssemblyInfoTask Be Back
 ---
 GotDotNet is down finally. Even though Microsoft promotes CodePlex harder and harder these days, there are a lot of projects drowning with GotDotNet.

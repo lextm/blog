@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-using-log4net-now-dfb6b817a46a
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Using log4net now'
 ---
 (CSDN Dec 04, 2006)

@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /the-horrible-facts-on-visual-studio-setup-projects-45e66fe86d8d
 tags: .net microsoft visual-studio windows
+categories: [Programming Languages]
 title: The Horrible Facts on Visual Studio Setup Projects
 ---
 Microsoft Windows requires software to be packed as installers so as to install easily for end users. The evolution of Windows leads to various installer technologies to be invented along the way, and around year 2000 [MSI](https://en.wikipedia.org/wiki/Windows_Installer) became the standard approach.

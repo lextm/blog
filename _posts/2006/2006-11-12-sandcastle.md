@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /sandcastle-ndoc的继承人-fd544ecc3f17
 tags: .net
+categories: [Programming Languages]
 title: Sandcastle：NDoc的继承人
 ---
 (CSDN Nov 12, 2006)

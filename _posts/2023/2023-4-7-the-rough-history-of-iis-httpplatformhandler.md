@@ -1,5 +1,5 @@
 ---
-categories: [History, IIS]
+categories: [Tools and Platforms]
 description: Explore the complete history of IIS HttpPlatformHandler from its origins to present day, including its relationship with ASP.NET Core, common misconceptions, and guidance for implementing non-Microsoft web technologies on Windows Server and IIS.
 excerpt_separator: <!--more-->
 layout: post

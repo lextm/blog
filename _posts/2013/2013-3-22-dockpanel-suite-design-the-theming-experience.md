@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-design-the-theming-experience-4c55f51d65c8
 tags: dockpanel-suite visual-studio windows
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite: Design the Theming Experience'
 ---
 In previous change sets I attempted to add the new `ITheme` derived themes to DPS, so that we can easily change from one theme to another.

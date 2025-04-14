@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-release-2-takes-place-of-update-1-1c26ab8a9617
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Release 2 takes place of Update 1'
 ---
 (CSDN Oct 16, 2006)

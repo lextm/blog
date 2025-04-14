@@ -3,6 +3,7 @@ layout: post
 title: Trouble in Running Traditional ASP.NET Apps in Containers on Windows Server 2016
 description: "Troubleshooting common issues when running traditional ASP.NET applications in Docker containers on Windows Server 2016, including Docker installation, docker-compose configuration, and disk space requirements."
 tags: iis asp.net windows microsoft
+categories: [Tools and Platforms]
 permalink: /trouble-in-running-traditional-asp-net-apps-in-containers-on-windows-server-2016-43b755611337
 excerpt_separator: <!--more-->
 ---

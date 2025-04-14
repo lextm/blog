@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /the-challenges-to-enable-open-with-windows-terminal-8090b2d92d5a
 tags: powershell windows microsoft
+categories: [Tools and Platforms]
 title: The Challenges to Enable 'Open With Windows Terminal'"
 ---
 Microsoft have created several interesting open source projects in the past few years, and [Windows Terminal](https://github.com/microsoft/terminal) is surely one of the most wanted.

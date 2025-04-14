@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-rc-5-is-out-and-the-final-will-be-available-late-in-april-22bf25edde59
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'HardQuery Report: RC 5 is out and the Final will be available late in April'
 ---
 (CSDN March 26, 2007)

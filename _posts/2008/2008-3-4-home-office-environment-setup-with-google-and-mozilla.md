@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /home-office-environment-setup-with-google-and-mozilla-8c7b0daef03a
 tags: google
+categories: [Companies and Products]
 title: Home Office Environment Setup With Google and Mozilla
 ---
 I want to enjoy both email and calendar services at home as well as at office. How? As I know, the office environment is set up by Microsoft Outlook plus Exchange Server which cost thousands of dollars. However, my home environment is totally free. Because there is no post available to fully document how to setup such a home environment according to my search on Google, I try to make such a post to fill in the blank (I am sure that someone has done it before but I guess nobody mashes the content up like this).

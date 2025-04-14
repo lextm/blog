@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /net-framework和mono大事记-初稿-c41fd8a8bc97
 tags: .net asp.net mono xamarin microsoft open-source
+categories: [Frameworks and Libraries]
 title: .NET Framework和Mono大事记（初稿）
 ---
 * June 2000, .NET Framework Beta 发布[1]

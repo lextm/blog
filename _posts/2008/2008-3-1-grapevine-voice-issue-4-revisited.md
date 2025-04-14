@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-issue-4-revisited-17f7247ca063
 tags: .net
+categories: [Programming Languages]
 title: 'GrapeVine Voice: Issue 4 Revisited'
 ---
 I reopened issue 4 earlier today, and luckily I fixed it again in an hour. The real problem behind the scene is how to determine a DLL is .NET.

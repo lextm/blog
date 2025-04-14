@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-office-compatibility-pack-turn-it-on-again-1548e87d6dd2
 tags: windows
+categories: [Operating Systems]
 title: 'Microsoft Office Compatibility Pack: Turn It On Again'
 ---
 After installing Microsoft Office Compatibility Pack, my Office XP can open Office 2007 format files.

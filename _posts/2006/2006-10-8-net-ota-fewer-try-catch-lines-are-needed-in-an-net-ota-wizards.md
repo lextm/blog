@@ -4,6 +4,7 @@ description: This article describes how to use UnhandledExceptionManager to catc
 excerpt_separator: <!--more-->
 layout: post
 tags: delphi code-beautifier-collection .net
+categories: [Tools and Platforms]
 title: '.NET OTA: Fewer try-catch lines are needed in an .NET OTA wizards'
 ---
 (CSDN Oct 08, 2006)

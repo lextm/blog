@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-dell-inpiron-640m-2f561ad3cf15
 tags: work-life
+categories: [Miscellaneous]
 title: Dell Inspiron 640m
 ---
 I have bought such a computer half a month ago and it arrived last Saturday. The silver look is very amazing. I have to say this is the most expensive thing I own now (the 30G iPod Video 2 is second to it).

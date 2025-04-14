@@ -3,6 +3,7 @@ description: Step-by-step tutorial on deploying Node.js applications to IIS usin
 excerpt_separator: <!--more-->
 layout: post
 tags: httpplatformhandler iis windows microsoft
+categories: [Tools and Platforms]
 title: Running Node.js Web Apps on IIS with HttpPlatformHandler
 ---
 When Microsoft developed HttpPlatformHandler more than a decade ago to enable non-Microsoft web technologies on Windows/IIS, they didn't know that one day

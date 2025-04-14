@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-a-little-bit-broadcasting-954d2b48c1c6
 tags: snmp windows
+categories: [Technologies and Concepts]
 title: '#SNMP Design: A Little Bit Broadcasting'
 ---
 Maybe you have this question just like me. If I already know there is a lot of SNMP enabled devices in my network, how can I add them easily? Yes, when I am not the administrator, I cannot have a list of IP addresses at hand. So, there is no hope, isn't it?

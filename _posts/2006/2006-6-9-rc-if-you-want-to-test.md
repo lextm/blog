@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /rc-if-you-want-to-test-2c15c57ee120
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'RC: If you want to test'
 ---
 (CSDN June 09, 2006)

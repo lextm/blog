@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-hardquery-final-source-is-available-now-b8bdcdc11e5
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: News! HardQuery Final source is available now
 ---
 (CSDN Sept 21, 2006)

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-repository-access-good-mixture-or-bad-e2aaebc1d686
 tags: mono sharpdevelop snmp
+categories: [Frameworks and Libraries]
 title: 'CatPaw Rumors: Repository Access, Good Mixture Or Bad?'
 ---
 In order to test out #SNMP on Mono/openSUSE, I start to use MonoDevelop on openSUSE and it works fine in many aspects. But well soon issues arise.

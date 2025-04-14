@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /virtualized-trio-linux-samba-and-windows-part-i-65565fa237b4
 tags: linux windows
+categories: [Operating Systems]
 title: 'Virtualized Trio: Linux, Samba, and Windows, Part I'
 ---
 > This series focus on virtualized development environment.

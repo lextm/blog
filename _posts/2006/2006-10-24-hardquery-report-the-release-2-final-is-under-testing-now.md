@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-the-release-2-final-is-under-testing-now-6874698912d7
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: The Release 2 Final is under testing now'
 ---
 (CSDN Oct 24, 2006)

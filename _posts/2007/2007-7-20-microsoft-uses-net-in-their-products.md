@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-uses-net-in-their-products-5443b2aa4b2
 tags: .net asp.net microsoft
+categories: [Programming Languages]
 title: Microsoft Uses .NET In Their Products
 ---
 In the past, it was said that Microsoft never used a line of managed code in their products.

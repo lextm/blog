@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /mono-生态系统未来可能的进化方向-cff149c24f9e
 tags: .net mono open-source
+categories: [Programming Languages]
 title: Mono 生态系统未来可能的进化方向
 ---
 Mono 项目从一个开源 C# 编译器起家在十多年中发展成为了一个良好的开发平台[1]。它的很多部件，都在特定时间因为某些原因开发和加入（例如项目的紧迫性，母公司的要求，和纯粹的实验性质研究），但宗旨都是让 Mono 开发者更好的和非 Windows 操作系统底层的 API 互动。

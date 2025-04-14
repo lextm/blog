@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /compiling-mono-gtk-2-99-a6640cfc8cc
 tags: mono linux open-source
+categories: [Frameworks and Libraries]
 title: 'Compiling Mono: Gtk# 2.99'
 ---
 I think GTK# 3.0 is coming soon, as Gtk# 2.99 is now in milestone 2. It does introduce some problems if

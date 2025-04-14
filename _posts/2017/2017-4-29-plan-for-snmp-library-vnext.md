@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /plan-for-snmp-library-vnext-b6759e5b10dc
 tags: .net snmp
+categories: [Programming Languages]
 title: 'Plan for #SNMP Library vNext'
 ---
 As .NET Core 2.0 is coming, I think it is time to write about the plan for #SNMP Library vNext (the version number is uncertain yet, 9.5 or 10.0).

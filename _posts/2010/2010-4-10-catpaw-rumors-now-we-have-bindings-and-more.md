@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-now-we-have-bindings-and-more-b54b4026575f
 tags: asp.net iis snmp
+categories: [Frameworks and Libraries]
 title: 'CatPaw Rumors: Now We Have Bindings And More'
 ---
 #SNMP Agent starts to look good after I decide to follow IIS and ASP.NET patterns. Yes, the pipeline pattern makes it so easy to do authentication, handler mappings, and so on. Our release 4.0 is a nice indication that we are on the right track, and the upcoming release 5.0 is evolving fast. A few days ago, I announce that we implemented most SNMP v3 support in snmpd. Today, we go ahead and borrow one more idea from IIS. That is, the bindings.

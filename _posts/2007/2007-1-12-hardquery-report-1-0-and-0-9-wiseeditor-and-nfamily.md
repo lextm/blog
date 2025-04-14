@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-1-0-and-0-9-wiseeditor-and-nfamily-cc4b51210503
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: 1.0 and 0.9, WiseEditor and NFamily'
 ---
 (CSDN Jan 12, 2007)

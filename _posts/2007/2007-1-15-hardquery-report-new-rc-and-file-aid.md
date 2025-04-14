@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-new-rc-and-file-aid-7508fb61ee7c
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'HardQuery Report: New RC and File Aid'
 ---
 (CSDN Jan 15, 2007)

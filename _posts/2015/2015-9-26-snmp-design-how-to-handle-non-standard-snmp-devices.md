@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-how-to-handle-non-standard-snmp-devices-ec75872ae9d
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: How to Handle Non Standard SNMP Devices'
 ---
 It is quite happy to go over old posts I made in the past few years regarding #SNMP. Many topics are so generic that they also apply to other SNMP products. But one surprising fact is that I rarely discussed about those devices that fail to be standard compliant. Though rare in numbers, they still bite users/operators many times, and different product/library vendors take different approaches to handle them. It would be quite useful if I can write down some technical details for future readers. Thus, this post is the one for that purpose.

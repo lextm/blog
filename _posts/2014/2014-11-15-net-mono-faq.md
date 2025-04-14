@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /net-开放源代码和mono相关的常见问题-持续更新中-2e74e039945d
 tags: .net mono xamarin open-source
+categories: [Frameworks and Libraries]
 title: .NET 开放源代码和Mono相关的常见问题（持续更新中）
 ---
 ## Q1: Mono 已死

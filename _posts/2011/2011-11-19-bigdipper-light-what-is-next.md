@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-what-is-next-12a1945bccb1
 tags: snmp google .net csharp open-source
+categories: [Programming Languages]
 title: 'BigDipper Light: What Is Next'
 ---
 Recently I submitted several new change sets to the repository, http://code.google.com/p/sharpsnmplib/source/list, which improves #SNMP compatibility with more SNMP devices.

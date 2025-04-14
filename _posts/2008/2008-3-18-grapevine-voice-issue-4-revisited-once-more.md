@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-issue-4-revisited-once-more-9fb06f8d6638
 tags: .net delphi mono
+categories: [Programming Languages]
 title: 'GrapeVine Voice: Issue 4 Revisited Once More'
 ---
 This is an interesting issue because it touches one of the .NET essentials, PE format. So even though [I talked about it in this post earlier]({% post_url 2008/2008-3-1-grapevine-voice-issue-4-revisited %}), I think another post is worthwhile.

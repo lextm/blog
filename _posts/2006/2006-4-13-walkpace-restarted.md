@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /walkpace-restarted-50fe0b708c79
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: WalkPace Restarted
 ---
 (CSDN April 13, 2006)

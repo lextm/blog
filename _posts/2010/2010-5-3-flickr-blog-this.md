@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /flickr-blog-this-72e3626b32ed
 tags: work-life
+categories: [Miscellaneous]
 title: Flickr Blog this
 ---
 I have been using mail to blogger for a while as blogger.com has been blocked for the reason you know. However, I found it hard to embed images.

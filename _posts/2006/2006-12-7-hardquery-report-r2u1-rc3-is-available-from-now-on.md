@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-r2u1-rc3-is-available-from-now-on-bba730f33250
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: R2U1 RC3 is available from now on'
 ---
 (CSDN Dec 07, 2006)

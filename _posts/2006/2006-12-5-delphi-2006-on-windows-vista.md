@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /在windows-vista上面安装delphi-2006-af18f79f0ac0
 tags: delphi microsoft
+categories: [Companies and Products]
 title: 在 Windows Vista 上面安装 Delphi 2006
 ---
 (CSDN Dec 05, 2006)

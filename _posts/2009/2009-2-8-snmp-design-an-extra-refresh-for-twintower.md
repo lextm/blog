@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-an-extra-refresh-for-twintower-2009c8d650ce
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: An Extra Refresh for TwinTower'
 ---
 We did a Refresh for UnicornHorn last year and now a similar Refresh for TwinTower is on its way. Note that I am talking about the Library. The Browser and Compiler will be a separate story.

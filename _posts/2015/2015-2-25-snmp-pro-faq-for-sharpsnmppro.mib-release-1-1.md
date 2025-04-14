@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-faq-for-sharpsnmppro-mib-release-1-1-b68824d9220a
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Pro: FAQ for SharpSnmpPro.Mib Release 1.1'
 ---
 Some users wrote in to ask questions about this new release. Here I pick up a few common questions as FAQ.

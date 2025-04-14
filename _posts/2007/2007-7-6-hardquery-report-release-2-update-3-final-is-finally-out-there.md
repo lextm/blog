@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-release-2-update-3-final-is-finally-out-there-b0835b9e84b7
 tags: .net code-beautifier-collection delphi
+categories: [Programming Languages]
 title: 'HardQuery Report: Release 2 Update 3 Final is Finally Out There'
 ---
 Code Beautifier Collection 5.3.3 is now ready to reach you.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tick-tick-tick-you-are-counted-here-646d0ecc981b
 tags: work-life
+categories: [Miscellaneous]
 title: 'Tick Tick Tick: You Are Counted Here'
 ---
 Since yesterday the visitors to this blog has been counted. See the counter on the right of this page.

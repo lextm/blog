@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-one-api-design-flaw-d1a3f72a9966
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: One API Design Flaw'
 ---
 When I reviewed the message classes, I suddenly realized that there is a design flaw. Do you notice?

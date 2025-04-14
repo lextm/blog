@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-latest-changes-f916c585230f
 tags: code-beautifier-collection delphi windows
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Latest Changes'
 ---
 It's been a long time since last time I posted about CBC. But it is still alive. Although #SNMP is now my top priority, I think improving CBC must be the second.

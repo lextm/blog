@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-castalia-authors-post-4785b48604c5
 tags: .net delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: Castalia Author''s Post'
 ---
 I have been reading posts about upcoming Delphi 2009 (code name Tiburon) for weeks, but I love this post from Castalia's author Jacob.
