@@ -5,7 +5,7 @@ layout: post
 permalink: /snmp-design-half-baking-done-b0ffcc9bc34d
 tags: snmp
 categories: [Technologies and Concepts]
-title: '#SNMP Design: Half Baking Done'
+title: '#SNMP Design: Halfbaked Done'
 ---
 After a month, it is time to publish a release of #SNMP to public. So you can now find the Halfbaked (0.5) release here.
 

@@ -1,7 +1,5 @@
 ---
-categories: [Frameworks and Libraries]
-- History
-- .NET
+categories: [Hostory, .NET]
 description: This post is about the history and future of DockPanel Suite.
 excerpt_separator: <!--more-->
 layout: post
