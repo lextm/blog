@@ -171,3 +171,7 @@ You might easily hit issues with WebSocket and Socket.IO if you try to host a Py
 ## Other Languages on IIS?
 
 If you want to learn more about HttpPlatformHandler and how to host other languages (Go/Node.js/Java) or frameworks (Django/FastAPI), you can read [this post]({% post_url 2023/2023-4-7-the-rough-history-of-iis-httpplatformhandler %}).
+
+## Related HttpPlatformHandler Articles
+
+> This article is part of a series on using HttpPlatformHandler with IIS. To explore all related articles, please visit the [httpplatformhandler tag page](/tags/httpplatformhandler/) for the complete collection of guides and tutorials.

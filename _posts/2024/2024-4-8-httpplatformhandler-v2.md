@@ -51,3 +51,7 @@ To recap, this v2 module from us provides the following benefits,
 * Open-source. You can check out the source code and build it yourself.
 
 Stay tuned for more updates on this new project.
+
+## Related HttpPlatformHandler Articles
+
+> This article is part of a series on using HttpPlatformHandler with IIS. To explore all related articles, please visit the [httpplatformhandler tag page](/tags/httpplatformhandler/) for the complete collection of guides and tutorials.

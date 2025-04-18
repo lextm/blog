@@ -127,3 +127,7 @@ With LeXtudio's HttpPlatformHandler v2.0 now available, the future of this techn
 - [Nest Example by me]({% post_url 2024/2024-4-5-running-nest-web-apps-on-iis-with-httpplatformhandler %})
 - [Ruby Example by Scott Hanselman](https://www.hanselman.com/blog/announcing-running-ruby-on-rails-on-iis8-or-anything-else-really-with-the-new-httpplatformhandler)
 - [Go Example by me]({% post_url 2024/2024-2-9-running-go-web-apps-on-iis-with-httpplatformhandler %})
+
+## Related HttpPlatformHandler Articles
+
+> This article is part of a series on using HttpPlatformHandler with IIS. To explore all related articles, please visit the [httpplatformhandler tag page](/tags/httpplatformhandler/) for the complete collection of guides and tutorials.

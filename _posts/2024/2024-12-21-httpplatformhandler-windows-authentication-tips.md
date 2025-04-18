@@ -311,3 +311,7 @@ There is [a dedicated package](https://pkg.go.dev/github.com/mfcollins3/windowsa
 ## Conclusion
 
 This post talks about how to enable Windows authentication for HttpPlatformHandler and how to access the Windows authentication information in your web app. By following the steps in this post, you can enable Windows authentication for your web apps hosted on IIS/Windows and access the Windows authentication information in your web app.
+
+## Related HttpPlatformHandler Articles
+
+> This article is part of a series on using HttpPlatformHandler with IIS. To explore all related articles, please visit the [httpplatformhandler tag page](/tags/httpplatformhandler/) for the complete collection of guides and tutorials.
