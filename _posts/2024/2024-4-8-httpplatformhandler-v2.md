@@ -33,7 +33,7 @@ People started to write about switching to ASP.NET Core module as workaround, bu
 
 ## How We Build HttpPlatformHandler v2?
 
-You know that in the past two years I wrote quite [a few blog posts on HttpPlatformHandler]({{ site.baseurl }}/tags/httpplatformhandler/), and I have been working on IIS topics for more than a decade (as IIS MVP or not). So why not take the challenging task to build a new version of HttpPlatformHandler? And most importantly, we can make it open-source.
+You know that in the past two years I wrote quite [a few blog posts on HttpPlatformHandler]({{ site.baseurl }}{{ site.baseurl }}/tags/httpplatformhandler/), and I have been working on IIS topics for more than a decade (as IIS MVP or not). So why not take the challenging task to build a new version of HttpPlatformHandler? And most importantly, we can make it open-source.
 
 But clearly Microsoft never released the source code of HttpPlatformHandler, so do we have to start from scratch? Not really. ASP.NET Core module was initially a fork of HttpPlatformHandler itself, now is both open-source and well maintained by Microsoft ASP.NET Core team. So, we started from there by creating a fork of ASP.NET Core module.
 
@@ -54,4 +54,4 @@ Stay tuned for more updates on this new project.
 
 ## Related HttpPlatformHandler Articles
 
-> This article is part of a series on using HttpPlatformHandler with IIS. To explore all related articles, please visit the [httpplatformhandler tag page](/tags/httpplatformhandler/) for the complete collection of guides and tutorials.
+> This article is part of a series on using HttpPlatformHandler with IIS. To explore all related articles, please visit the [httpplatformhandler tag page]({{ site.baseurl }}/tags/httpplatformhandler/) for the complete collection of guides and tutorials.

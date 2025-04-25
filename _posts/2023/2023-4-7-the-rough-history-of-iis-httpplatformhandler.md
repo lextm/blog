@@ -130,4 +130,4 @@ With LeXtudio's HttpPlatformHandler v2.0 now available, the future of this techn
 
 ## Related HttpPlatformHandler Articles
 
-> This article is part of a series on using HttpPlatformHandler with IIS. To explore all related articles, please visit the [httpplatformhandler tag page](/tags/httpplatformhandler/) for the complete collection of guides and tutorials.
+> This article is part of a series on using HttpPlatformHandler with IIS. To explore all related articles, please visit the [httpplatformhandler tag page]({{ site.baseurl }}/tags/httpplatformhandler/) for the complete collection of guides and tutorials.
