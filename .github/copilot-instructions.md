@@ -1,1 +1,10 @@
 - @azure Rule - Use Azure Best Practices: When generating code for Azure, running terminal commands for Azure, or performing operations related to Azure, invoke your `azure_development-get_best_practices` tool if available.
+- When generating a new blog post in this project:
+  - Use the correct front matter format: include `layout`, `title`, `description`, `tags`, `categories`, and `excerpt_separator`.
+  - Place the new post in the appropriate `_posts/YYYY/` folder, using the filename format `YYYY-MM-DD-title.md`.
+  - Write a long, SEO-friendly summary in the `description` field that clearly explains the post's topic and value.
+  - Use relevant tags and categories.
+  - Use `<!--more-->` as the excerpt separator after the introductory paragraph.
+  - Follow the writing style and structure of previous posts for consistency.
+  - When adding backlinks to previous posts, use the correct Jekyll/Liquid link style (e.g., `{% post_url YYYY/MM-DD-title %}`) instead of hardcoded URLs.
+  - If the post is a new addition to an existing post series, add a final section inviting readers to visit the tag page for that series to explore related posts. For example, for HttpPlatformHandler-related posts, add a note like: "To explore more on this topic, check out all posts tagged [HttpPlatformHandler](/tags/httpplatformhandler/)."
