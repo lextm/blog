@@ -8,3 +8,9 @@
   - Follow the writing style and structure of previous posts for consistency.
   - When adding backlinks to previous posts, use the correct Jekyll/Liquid link style (e.g., `{% post_url YYYY/MM-DD-title %}`) instead of hardcoded URLs.
   - If the post is a new addition to an existing post series, add a final section inviting readers to visit the tag page for that series to explore related posts. For example, for HttpPlatformHandler-related posts, add a note like: "To explore more on this topic, check out all posts tagged [HttpPlatformHandler](/tags/httpplatformhandler/)."
+  - Use clean and compact Markdown syntax:
+    - Use ATX-style headings (`##` for main heading, `###` for subheadings, etc.) with a space after the hash marks. Do not use single hash (`#`) headings due to Jekyll theme requirements.
+    - Ensure proper spacing between paragraphs, headings, and lists (one blank line).
+    - Use fenced code blocks with language specifiers (`csharp, `xml, etc.) for better syntax highlighting.
+    - Keep line lengths reasonable and use line breaks appropriately for readability in the source.
+    - Use reference-style links for cleaner text when there are multiple links to the same source.
