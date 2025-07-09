@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "DockPanel Suite: More About Theming"
-description: "This post is about how new themes are developed and distributed in the future."
-tags: DockPanel-Suite .NET
-permalink: /dockpanel-suite-more-about-theming-48864f47892c
+description: This post is about how new themes are developed and distributed in the future.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-more-about-theming-48864f47892c
+tags: .net dockpanel-suite visual-studio
+title: 'DockPanel Suite: More About Theming'
 ---
 Ever since I finished integrating the VS 2012 light theme into DPS, we see demands on other themes. The community is much stronger than we thought and new theme authors are now with us.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "IIS Hidden Facts: URL Rewrite Module"
-description: "This post is about some interesting facts about IIS URL Rewrite module."
-tags: IIS
-permalink: /iis-hidden-facts-url-rewrite-module-55214414ab89
+description: This post is about some interesting facts about IIS URL Rewrite module.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /iis-hidden-facts-url-rewrite-module-55214414ab89
+tags: iis windows
+title: 'IIS Hidden Facts: URL Rewrite Module'
 ---
 > I am working on a project called Jexus Manager, and as a result found many interesting facts about IIS. This series of posts are going to cover them.
 

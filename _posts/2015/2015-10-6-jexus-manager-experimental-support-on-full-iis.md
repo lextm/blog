@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jexus Manager: Experimental Support on Full IIS"
-description: "This post is about how Jexus Manager provides experimental support on full IIS."
-tags: Jexus-Manager IIS
-permalink: /jexus-manager-experimental-support-on-full-iis-8bcf2e350647
+description: This post is about how Jexus Manager provides experimental support on full IIS.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-manager-experimental-support-on-full-iis-8bcf2e350647
+tags: iis jexus-manager windows
+title: 'Jexus Manager: Experimental Support on Full IIS'
 ---
 If you run the latest build of Jexus Manager for IIS Express Beta 2 as administrator, you might notice an extra node listed in the Connections panel. By double clicking this node, the configuration of full IIS on this machine is displayed.
 

@@ -1,12 +1,11 @@
 ---
-layout: post
-title: Web Application Differences in Visual Studio and IIS
-description: "This post is about the differences between web applications running in Visual Studio and IIS."
-tags: IIS
-permalink: /web-application-differences-in-visual-studio-and-iis-60fec7e311b3
+description: This post is about the differences between web applications running in Visual Studio and IIS.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /web-application-differences-in-visual-studio-and-iis-60fec7e311b3
+tags: asp.net iis visual-studio windows .net
+title: Web Application Differences in Visual Studio and IIS
 ---
-
 Beginners of web development often find it strange to see their ASP.NET applications run differently in VS and on IIS. It is reasonable to expect the same code base yields the same results everywhere, but is there anything they take for granted?
 <!--more-->
 ## Web Server Differences
