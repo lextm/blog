@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Why Not Fast Invoke?"
-description: "This post talks about why FastInvoke is not used in GrapeVine."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-why-not-fast-invoke-e0af02d2d68a
+description: This post talks about why FastInvoke is not used in GrapeVine.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-why-not-fast-invoke-e0af02d2d68a
+tags: .net asp.net delphi
+title: 'GrapeVine Voice: Why Not Fast Invoke?'
 ---
 (Originally posted to CSDN on Feb 21, 2006)
 <!--more-->

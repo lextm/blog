@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "AssemblyInfoTask Is Back"
 description: This post talks about the fate of AssemblyInfoTask.
-tags: .NET
-permalink: /assemblyinfotask-is-back-1c986b70f19f
 excerpt_separator: <!--more-->
+layout: post
+permalink: /assemblyinfotask-is-back-1c986b70f19f
+tags: .net asp.net iis
+title: AssemblyInfoTask Is Back
 ---
 I was wondering where to find AssemblyInfoTask again after GotDotNet got down. And googling did not help. It was last week that I could not wait any more and write to the author for help.This morning, kindly Neil replied to me with the link.
 

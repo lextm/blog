@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Update on Agent Side"
-description: "This post is about the update on #SNMP agent side support."
-tags: SNMP
-permalink: /snmp-design-update-on-agent-side-7d086531037c
+description: 'This post is about the update on #SNMP agent side support.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-update-on-agent-side-7d086531037c
+tags: work-life snmp
+title: '#SNMP Design: Update on Agent Side'
 ---
 For a long time, #SNMP focuses on SNMP manager side. Therefore, when one user asked if he/she could send out TRAP with #SNMP, I was surprised.
 

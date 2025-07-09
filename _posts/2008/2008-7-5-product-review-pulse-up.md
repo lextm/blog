@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: Pulse Up"
-description: "This post talks about the progress of Pulse for Eclipse."
-tags: Java
-permalink: /product-review-pulse-up-cfaea3b7535d
+description: This post talks about the progress of Pulse for Eclipse.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-pulse-up-cfaea3b7535d
+tags: work-life
+title: 'Product Review: Pulse Up'
 ---
 I did try Pulse a long time ago, but I was not happy with that. However, after Eclipse 3.4 announcement I tried Pulse again, and the new version, is excellent!
 

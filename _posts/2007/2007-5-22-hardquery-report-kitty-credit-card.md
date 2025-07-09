@@ -3,7 +3,7 @@ description: This post describes my first credit card.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /kitty-credit-card-1cc7e1da33ab
-tags: others
+tags: work-life
 title: Kitty Credit Card
 ---
 I received my first credit card on Monday. And yesterday I bought a Dell notebook with it. Oh my Lord, it was so fast to make this happen. I wish I can enjoy myself soon.

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Opera Against Open Source?"
 description: This post talks about the interview of Opera CEO.
-tags: Others
-permalink: /opera-against-open-source-980512168fa7
 excerpt_separator: <!--more-->
+layout: post
+permalink: /opera-against-open-source-980512168fa7
+tags: open-source
+title: Opera Against Open Source?
 ---
 I have just read this interview of Opera CEO. And it is funny to see how he fights against Microsoft and, open source.
 

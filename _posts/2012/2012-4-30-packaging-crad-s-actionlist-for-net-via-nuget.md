@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Packaging Crad's ActionList for .NET via NuGet"
-description: "This post is about packaging Crad's ActionList for .NET via NuGet."
-tags: .NET
-permalink: /packaging-crads-actionlist-for-net-via-nuget-5c72e77ece94
+description: This post is about packaging Crad's ActionList for .NET via NuGet.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /packaging-crads-actionlist-for-net-via-nuget-5c72e77ece94
+tags: .net
+title: Packaging Crad's ActionList for .NET via NuGet
 ---
-
 In case you don't know Crad's ActionList for .NET, you can refer to [this article](http://www.codeproject.com/Articles/13879/ActionList-for-NET-2-0).
 
 <!--more-->

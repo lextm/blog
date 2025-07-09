@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: TechSmith Jing Shines"
 description: This post talks about a free tool from TechSmith, called Jing.
-tags: Windows
-permalink: /techsmith-goes-crazy-jing-shines-9354dc8736c8
 excerpt_separator: <!--more-->
+layout: post
+permalink: /techsmith-goes-crazy-jing-shines-9354dc8736c8
+tags: work-life
+title: 'Product Review: TechSmith Jing Shines'
 ---
 I tried Camtasia once and it is very easy to use. Yes, but I still use CamStudio which is free. However, after using Jing today, I believe I will switch to Jing instead.
 <!--more-->

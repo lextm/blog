@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Microsoft Lends A Hand To Open Source?"
-description: "This post talks about Microsoft's open source policy changes."
-tags: Microsoft
-permalink: /microsoft-lends-a-hand-to-open-source-460001aab0da
+description: This post talks about Microsoft's open source policy changes.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /microsoft-lends-a-hand-to-open-source-460001aab0da
+tags: microsoft windows
+title: Microsoft Lends A Hand To Open Source?
 ---
 If you have time, please go and see this page on Microsoft.com, named Open Source at Microsoft.
 

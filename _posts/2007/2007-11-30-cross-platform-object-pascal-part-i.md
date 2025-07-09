@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Cross Platform Object Pascal (Part I)"
-description: This post talks about that there are totally three major groups working on cross platform Object Pascal.
-tags: Code-Beautifier-Collection Delphi
-permalink: /cross-platform-object-pascal-part-i-e4d73af87646
+description: This post talks about that there are totally three major groups working
+  on cross platform Object Pascal.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /cross-platform-object-pascal-part-i-e4d73af87646
+tags: .net delphi
+title: Cross Platform Object Pascal (Part I)
 ---
 > This post was original named as RemObjects Updates because after reviewing what RemObjects has done in the past two years, I am sure this company is doing something good. But soon there was a thread on CodeGear newsgroup about Delphi and the .NET platform which I involved, I thought it is now the time to write about something different.
 

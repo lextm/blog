@@ -3,7 +3,7 @@ description: A post about Code Beautifier Collection 2.4 Beta 1.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /code-beautifier-collection-2-4-beta-1-is-out-51e305ce6f9f
-tags: delphi inno-setup latex
+tags: delphi inno-setup
 title: Code Beautifier Collection 2.4 Beta 1 is out!
 ---
 (Originally published on Dec 20, 2005)

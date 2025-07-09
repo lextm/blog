@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Touch Mouse Mate"
-description: "This post is about a new open source project I am working on this weekend, named Touch Mouse Mate."
-tags: Windows
-permalink: /touch-mouse-mate-74b8fe2ec7e1
+description: This post is about a new open source project I am working on this weekend,
+  named Touch Mouse Mate.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /touch-mouse-mate-74b8fe2ec7e1
+tags: microsoft windows
+title: Touch Mouse Mate
 ---
 Here I announce a new open source project I am working on this weekend, named Touch Mouse Mate.
 <!--more-->

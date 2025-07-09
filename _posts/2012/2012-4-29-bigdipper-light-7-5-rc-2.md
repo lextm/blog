@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: 7.5 RC 2"
-description: "This post is about the release of #SNMP 7.5 RC 2."
-tags: SNMP
-permalink: /bigdipper-light-7-5-rc-2-14e1e0679aba
+description: 'This post is about the release of #SNMP 7.5 RC 2.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-7-5-rc-2-14e1e0679aba
+tags: .net snmp
+title: 'BigDipper Light: 7.5 RC 2'
 ---
 The development of #SNMP 8 won't be an easy task, as so many things related to the compiler must be reviewed and enhanced. So in order to provide users a quick update, a new release candidate of 7.5 release is now uploaded.
 

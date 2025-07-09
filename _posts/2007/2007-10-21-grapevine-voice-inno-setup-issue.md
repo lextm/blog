@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Inno Setup Issue"
-description: "This post talks about an issue I met when uninstalling CBC."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-inno-setup-issue-f54bda333a1b
+description: This post talks about an issue I met when uninstalling CBC.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-inno-setup-issue-f54bda333a1b
+tags: code-beautifier-collection delphi inno-setup
+title: 'GrapeVine Voice: Inno Setup Issue'
 ---
 Today I will release M8. And the last issue I met is that uninstalling CBC caused an unhandled exception. What caused this exception? It was hard to debug. Inno Setup does not have a debugger like InstallAware. So I had to debug my own code. But my code ran well. Then I had to guess what happened by investigating what left in the folder. There was only one file, installforallusers.exe.
 <!--more-->

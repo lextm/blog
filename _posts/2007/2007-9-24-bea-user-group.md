@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "动态语言，BEA User Group之后的一点想法"
-description: "这篇文章是我参加 BEA User Group 之后的一点想法。"
-tags: Java
-permalink: /动态语言-bea-user-group之后的一点想法-2ce5eefdde7c
+description: 这篇文章是我参加 BEA User Group 之后的一点想法。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /动态语言-bea-user-group之后的一点想法-2ce5eefdde7c
+tags: java
+title: 动态语言，BEA User Group之后的一点想法
 ---
 (CSDN Sept 24, 2007)
 

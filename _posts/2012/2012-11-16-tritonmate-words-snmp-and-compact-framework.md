@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: #SNMP and Compact Framework"
-description: "This post is about #SNMP and Compact Framework."
-tags: SNMP
-permalink: /tritonmate-words-snmp-and-compact-framework-e2cb24d7250e
+description: 'This post is about #SNMP and Compact Framework.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-snmp-and-compact-framework-e2cb24d7250e
+tags: .net snmp
+title: 'TritonMate Words: #SNMP and Compact Framework'
 ---
 .NET Compact Framework was a monster released by Microsoft. After so many years, we observed many of its disadvantages,
 

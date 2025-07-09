@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: How To Build It On Your Machine"
-description: "This post talks about how to build HardQuery source code on your machine."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-how-to-build-it-on-your-machine-8659b530e522
+description: This post talks about how to build HardQuery source code on your machine.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-how-to-build-it-on-your-machine-8659b530e522
+tags: code-beautifier-collection delphi msbuild
+title: 'HardQuery Report: How To Build It On Your Machine'
 ---
 If you master MSBuild, you can manually modified *.proj files in source package in order to build CBC successfully. If you are not familiar with MSBuild, please carefully follow the steps,
 

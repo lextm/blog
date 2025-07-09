@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: Eclipse vs. Visual Studio"
-description: "This post is to compare Eclipse and Visual Studio."
-tags: Java Visual-Studio
-permalink: /product-review-eclipse-vs-visual-studio-698403cf8503
+description: This post is to compare Eclipse and Visual Studio.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-eclipse-vs-visual-studio-698403cf8503
+tags: visual-studio
+title: 'Product Review: Eclipse vs. Visual Studio'
 ---
 I subsribed to Slashdot.org last month. Since then I have been enjoying those discussions. What is that latest hot discussion? Check the title and you know it.
 

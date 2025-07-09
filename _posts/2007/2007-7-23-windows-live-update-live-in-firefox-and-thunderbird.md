@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Windows Live Update: Live in Firefox and Thunderbird"
-description: "This post talks about Windows Live Update and it doesn't yet work with Firefox and Thunderbird."
-tags: Windows
-permalink: /windows-live-update-live-in-firefox-and-thunderbird-da3faaa4657a
+description: This post talks about Windows Live Update and it doesn't yet work with
+  Firefox and Thunderbird.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /windows-live-update-live-in-firefox-and-thunderbird-da3faaa4657a
+tags: windows microsoft
+title: 'Windows Live Update: Live in Firefox and Thunderbird'
 ---
 For a long time Windows Live Spaces of my friends cannot be viewed both in Firefox 3a and Thunderbird 2. I have been tired of switching to IE until today Windows Live starts a special update.
 

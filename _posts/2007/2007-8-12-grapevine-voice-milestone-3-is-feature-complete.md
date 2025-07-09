@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "GrapeVine Voice: Milestone 3 Is Feature Complete"
-description: "This post describes about the new features in Code Beautifier Collection 6.0.0.1003."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-milestone-3-is-feature-complete-a693a6e0e02e
+description: This post describes about the new features in Code Beautifier Collection
+  6.0.0.1003.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-milestone-3-is-feature-complete-a693a6e0e02e
+tags: code-beautifier-collection delphi google
+title: 'GrapeVine Voice: Milestone 3 Is Feature Complete'
 ---
 Code Beautifier Collection 6.0.0.1003 is now available on Google Code Homepage.
 

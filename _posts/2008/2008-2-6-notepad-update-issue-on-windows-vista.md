@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Notepad++ Update Issue on Windows Vista"
 description: This post talks about the update issue of Notepad++ on Windows Vista.
-tags: Windows
-permalink: /notepad-update-issue-on-windows-vista-f97c4148d6a1
 excerpt_separator: <!--more-->
+layout: post
+permalink: /notepad-update-issue-on-windows-vista-f97c4148d6a1
+tags: windows
+title: Notepad++ Update Issue on Windows Vista
 ---
 Because auto update feature has been added to Code Beautifier Collection (http://code.google.com/p/lextudio) since 2006, I am able to compare other products with my small project to see if their auto update implementation is better or not.
 

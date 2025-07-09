@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Roadmap of Stage 2.4"
-description: "This post talks about the roadmap of #SNMP 2.x."
-tags: SNMP
-permalink: /snmp-design-instance-property-octetstring-encoding-8f355c053e9a
+description: 'This post talks about the roadmap of #SNMP 2.x.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-instance-property-octetstring-encoding-8f355c053e9a
+tags: powershell snmp
+title: Roadmap of Stage 2.4
 ---
 It was in the latest Change Set 15756 that I added a static property DefaultEncoding to OctetString class. Soon, as a user commented in this thread, that was not enough if both ASCII and Unicode strings are required in the management system (especially for "community name"). Therefore, now I am working on a new approach.
 <!--more-->

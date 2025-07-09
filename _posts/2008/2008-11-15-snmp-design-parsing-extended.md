@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Parsing Extended"
-description: "This post is about the improvement in MIB parser."
-tags: SNMP
-permalink: /snmp-design-parsing-extended-483997023960
+description: This post is about the improvement in MIB parser.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-parsing-extended-483997023960
+tags: snmp
+title: '#SNMP Design: Parsing Extended'
 ---
 It is not the first time that I see posts on #SNMP discussion board contain messages formed by hex numbers. Yes, one of them is this thread . How did I involve in this thread? I have to carefully analyse the numbers and then understand their meanings.
 <!--more-->

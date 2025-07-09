@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "IIS URL Rewrite Tip: Break Free"
-description: "This post is about how to write rules to break from further processing with the rule engine in IIS URL Rewrite."
-tags: IIS
+title: 'IIS URL Rewrite Tip: Break Free'
+description: This post is about how to write rules to break from further processing
+  with the rule engine in IIS URL Rewrite.
+tags: iis
 permalink: /iis-url-rewrite-tip-break-free-adccdb4b9f2f
 excerpt_separator: <!--more-->
 ---

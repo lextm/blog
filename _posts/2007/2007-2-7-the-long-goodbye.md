@@ -3,7 +3,7 @@ description: This post announces the goodbye to CSDN.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-long-goodbye-c78a0ffeb5fd
-tags: others
+tags: work-life
 title: The long goodbye
 ---
 (CSDN Feb 07, 2007)

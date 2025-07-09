@@ -4,7 +4,7 @@ description: This post is about how to analyze the layers of a Docker image, and
 excerpt_separator: <!--more-->
 layout: post
 permalink: /traditional-asp-net-on-docker-images-1af3b72eeaaf
-tags: .net asp.net iis windows docker
+tags: .net asp.net iis windows
 title: 'Traditional ASP.NET on Docker: Images'
 ---
 > Update: due to the recent changes by Microsoft, the actual images can be different, but the way of analyzing the layers should remain the same. You are welcome to write a new blog post to replace this.

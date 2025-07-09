@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Windows Live Mail Spelling Does Not Work"
-description: "This post is about how to fix the spelling button in Windows Live Mail."
-tags: Windows
-permalink: /windows-live-mail-spelling-does-not-work-40600aa03433
+description: This post is about how to fix the spelling button in Windows Live Mail.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /windows-live-mail-spelling-does-not-work-40600aa03433
+tags: visual-studio windows
+title: Windows Live Mail Spelling Does Not Work
 ---
 I am using Windows Live Mail 2011 to write blog post, as Writer cannot connect to Blogger here in China. But at first Spelling button was greyed out and I did not know why.
 

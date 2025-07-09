@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: JCF Deeper Integration"
-description: "This post talks about the improved integration of JCF into GrapeVine."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-jcf-deeper-adapting-83f7e56f48e4
+description: This post talks about the improved integration of JCF into GrapeVine.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-jcf-deeper-adapting-83f7e56f48e4
+tags: code-beautifier-collection delphi
+title: 'GrapeVine Voice: JCF Deeper Integration'
 ---
 Code Beautifier Collection makes use of JEDI Code Format console program to format Object Pascal source files. What has been missing for a long time is an editor that enables users to modify default Borland style to suit their unique needs. I put this feature high in the list, but it is until now I have enough time and knowledge to make the editor ready.
 

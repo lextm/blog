@@ -2,7 +2,7 @@
 layout: post
 title: Replacing Zapier With Azure Function
 description: A post about how I replaced Zapier with Azure Function.
-tags: .NET Azure Visual-Studio
+tags: .net azure visual-studio
 permalink: /replacing-zapier-with-azure-function-23e8c66bd8bc
 excerpt_separator: <!--more-->
 image:

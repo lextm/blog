@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: Updated Async Support"
-description: "This post is about the updated async support in #SNMP."
-tags: SNMP
-permalink: /bigdipper-light-updated-async-support-76d3c950066e
+description: 'This post is about the updated async support in #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-updated-async-support-76d3c950066e
+tags: .net snmp
+title: 'BigDipper Light: Updated Async Support'
 ---
 Starting from our latest change set, you need to provide one more argument to BeginGetResponse. That was the missing piece, state object.
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CrossRoad Billboard: More on IP v6 and 2.1"
-description: "This post is about a bug in the latest CrossRoad release."
-tags: Code-Beautifier-Collection Delphi
-permalink: /crossroad-billboard-more-on-ip-v6-and-2-1-3b924cecacef
+description: This post is about a bug in the latest CrossRoad release.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /crossroad-billboard-more-on-ip-v6-and-2-1-3b924cecacef
+tags: work-life
+title: 'CrossRoad Billboard: More on IP v6 and 2.1'
 ---
 Here is the technical details about work item 4016 and release 2.1.
 <!--more-->

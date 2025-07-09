@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "News: From Cisco to Microsoft"
 description: This post talks about my new job at Microsoft.
-tags: Microsoft
-permalink: /lextm-cn-news-from-cisco-to-microsoft-a32452730e6c
 excerpt_separator: <!--more-->
+layout: post
+permalink: /lextm-cn-news-from-cisco-to-microsoft-a32452730e6c
+tags: .net microsoft
+title: 'News: From Cisco to Microsoft'
 ---
 > Finally it is time to announce something important officially on this blog.
 

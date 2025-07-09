@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HoneyCell Drops: Beta 3 and Afterwards"
-description: "This post is about the third beta release of #SNMP 6.0 and future plan."
-tags: SNMP
-permalink: /honeycell-drops-beta-3-and-afterwards-3f462280c700
+description: 'This post is about the third beta release of #SNMP 6.0 and future plan.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /honeycell-drops-beta-3-and-afterwards-3f462280c700
+tags: snmp
+title: 'HoneyCell Drops: Beta 3 and Afterwards'
 ---
 Beta 3 was released last weekend. But we still have more new things to add to the code base.
 <!--more-->

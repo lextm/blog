@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Free Unmanaged Resources"
 description: This post is about how to free up unmanaged resources.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-free-unmanaged-resources-2bd41102062a
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-free-unmanaged-resources-2bd41102062a
+tags: .net code-beautifier-collection
+title: 'GrapeVine Voice: Free Unmanaged Resources'
 ---
 I have been programming in C# for a few years, but I never dig deeper to unmanaged resources related topics until last Friday I met an exception when launching Favourite feature is WiseEditor Plus.
 <!--more-->

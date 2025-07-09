@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: 360Safe Treats InDate As Spyware"
 description: This post talks about 360Safe treats InDate as spyware.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-360safe-treats-indate-as-spyware-ba96e5bce4e2
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-360safe-treats-indate-as-spyware-ba96e5bce4e2
+tags: asp.net code-beautifier-collection delphi
+title: 'GrapeVine Voice: 360Safe Treats InDate As Spyware'
 ---
 It is occasional that I created InDate, auto update component of CBC. And the logic used in InDate is simple,
 

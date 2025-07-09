@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Trident Sign: SNMP Agent Approach I Chose and The News"
-description: "this post is about how I implemented the SNMP agent with a different approach"
-tags: SNMP
-permalink: /trident-sign-snmp-agent-approach-i-chose-and-the-news-7a95902b8d83
+description: this post is about how I implemented the SNMP agent with a different
+  approach
 excerpt_separator: <!--more-->
+layout: post
+permalink: /trident-sign-snmp-agent-approach-i-chose-and-the-news-7a95902b8d83
+tags: asp.net snmp
+title: 'Trident Sign: SNMP Agent Approach I Chose and The News'
 ---
 When the first time someone asked me if #SNMP library can be used to develop a full feature SNMP agent, I was not sure. I know it must be a long way to go on agent side, because there are so many pieces we need to implement.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Series on CodeProject Kick-off"
-description: "This post is about the kick-off of #SNMP series on CodeProject."
-tags: SNMP
-permalink: /snmp-series-on-codeproject-kick-off-6634b2bed423
+description: 'This post is about the kick-off of #SNMP series on CodeProject.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-series-on-codeproject-kick-off-6634b2bed423
+tags: .net snmp
+title: '#SNMP Series on CodeProject Kick-off'
 ---
 I was thinking about how to improve documentation on #SNMP. After a few weeks, the following decision is made,
 

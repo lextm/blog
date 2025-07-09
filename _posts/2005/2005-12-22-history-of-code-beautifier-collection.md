@@ -2,7 +2,7 @@
 layout: post
 title: "开源项目，其实你有多种参与方式 Draft Version 1.1"
 description: "介绍了自己开发 CnBeautifierWizard 开源项目前后的故事。"
-tags: Code-Beautifier-Collection Delphi
+tags: code-beautifier-collection delphi open-source
 permalink: /开源项目-其实你有多种参与方式-draft-version-1-1-17583bba4039
 excerpt_separator: <!--more-->
 ---

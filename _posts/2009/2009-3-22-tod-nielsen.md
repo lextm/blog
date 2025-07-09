@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Tod Nielsen从Borland奔向VMware"
-description: "这篇文章提到了 Tod Nielsen 从 Borland 奔向 VMware 的新闻。"
-tags: Others
-permalink: /tod-nielsen从borland奔向vmware-926598d71987
+description: 这篇文章提到了 Tod Nielsen 从 Borland 奔向 VMware 的新闻。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tod-nielsen从borland奔向vmware-926598d71987
+tags: delphi
+title: Tod Nielsen从Borland奔向VMware
 ---
 (CSDN March 22, 2009)
 

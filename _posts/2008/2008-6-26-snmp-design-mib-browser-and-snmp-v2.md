@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: MIB Browser and SNMP v2"
-description: "This post talks about MIB Browser and SNMP v2 support."
-tags: SNMP
-permalink: /snmp-design-mib-browser-and-snmp-v2-74a48ec539ce
+description: This post talks about MIB Browser and SNMP v2 support.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-mib-browser-and-snmp-v2-74a48ec539ce
+tags: linux snmp
+title: '#SNMP Design: MIB Browser and SNMP v2'
 ---
 I was thinking about what demo should be added in UnicornHorn and today I finally made up my mind. Why not create a simple MIB Browser? Yes, it is quite possible because I ready had the basis there in NineHeaded.
 

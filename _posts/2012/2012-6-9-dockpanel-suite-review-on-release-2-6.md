@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "DockPanel Suite: Review on Release 2.6"
-description: "This post is about DockPanel Suite 2.6 release."
-tags: DockPanel-Suite
-permalink: /dockpanel-suite-review-on-release-2-6-4e5517d8c0b9
+description: This post is about DockPanel Suite 2.6 release.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-review-on-release-2-6-4e5517d8c0b9
+tags: .net asp.net dockpanel-suite
+title: 'DockPanel Suite: Review on Release 2.6'
 ---
-
 DockPanel Suite 2.6 is now available in two places,
 
 - NuGet channel. You can learn about it from http://nuget.org

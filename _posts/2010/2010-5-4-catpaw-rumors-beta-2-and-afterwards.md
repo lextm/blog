@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CatPaw Rumors: Beta 2 and Afterwards"
-description: "This post is about future plans of #SNMP 5."
-tags: SNMP Mono
-permalink: /catpaw-rumors-beta-2-and-afterwards-ce41cef93014
+description: 'This post is about future plans of #SNMP 5.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /catpaw-rumors-beta-2-and-afterwards-ce41cef93014
+tags: .net mono snmp
+title: 'CatPaw Rumors: Beta 2 and Afterwards'
 ---
 #SNMP 5 goes on smoothly. I just had two items to work on when I started,
 

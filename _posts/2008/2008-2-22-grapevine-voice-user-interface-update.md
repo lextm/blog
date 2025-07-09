@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: User Interface Update"
 description: This article talks about the user interface update of GrapeVine Voice.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-user-interface-update-9b308ecd45c
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-user-interface-update-9b308ecd45c
+tags: delphi visual-studio
+title: 'GrapeVine Voice: User Interface Update'
 ---
 Did you read [this post]({% post_url 2008/2008-2-18-office-2007-style %}) You might think I use Krypton Toolkit, but in fact I didn't because Krypton Toolkit is not open source.
 

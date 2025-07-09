@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Why A Developer Should Learn Troubleshooting, Part I: The Reasons"
-description: "This post is about why a developer should learn troubleshooting skills."
-tags: Others
-permalink: /why-a-developer-should-learn-troubleshooting-part-i-the-reasons-bfccd3cf5529
+description: This post is about why a developer should learn troubleshooting skills.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /why-a-developer-should-learn-troubleshooting-part-i-the-reasons-bfccd3cf5529
+tags: .net iis
+title: 'Why A Developer Should Learn Troubleshooting, Part I: The Reasons'
 ---
 I often appear on IIS.net forums (http://forums.iis.net) and also would like to visit StackOverflow (http://stackoverflow.com) to answer questions I am interested in. My observation seems to indicate that developers do not pay enough attention to troubleshooting. It is so easy to say the fault is caused by another piece of code or another application, or even the operating system itself (how many times you see a guy crying out and saying "I've found a Windows/.NET bug!"). But is that always the truth?
 <!--more-->

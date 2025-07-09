@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Take A Break"
-description: "This post is about my vacation and the progress of #SNMP."
-tags: SNMP
-permalink: /snmp-design-take-a-break-6915e7d8691c
+description: 'This post is about my vacation and the progress of #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-take-a-break-6915e7d8691c
+tags: microsoft snmp
+title: '#SNMP Design: Take A Break'
 ---
 Now my 9-day-long vacation is going to end. It is really nice vacation because,
 

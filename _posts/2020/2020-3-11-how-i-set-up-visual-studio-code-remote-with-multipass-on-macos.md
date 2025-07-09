@@ -6,7 +6,7 @@ image:
   path: /images/competitiveness-prosperity.jpg
 layout: post
 permalink: /how-i-set-up-visual-studio-code-remote-with-multipass-on-macos-674ce00956d1
-tags: linux macos multipass visual-studio-code
+tags: linux macos visual-studio-code
 title: How I Set Up Visual Studio Code Remote with Multipass on macOS
 ---
 [Visual Studio Code Remote Development Extension](https://code.visualstudio.com/blogs/2019/07/25/remote-ssh) is an excellent idea with easy-to-use user experience. You can easily configure if your target machine is an SSH enabled Linux machine, either physical or virtual, in the cloud or on premise.

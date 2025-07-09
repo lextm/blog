@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: M3 Installer Needs Another Update"
-description: "This post is to update M3 installer."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-m3-installer-needs-another-update-7cabf2769635
+description: This post is to update M3 installer.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-m3-installer-needs-another-update-7cabf2769635
+tags: delphi windows
+title: 'GrapeVine Voice: M3 Installer Needs Another Update'
 ---
 According to bug report I received today from Dear Tom, I have updated M3 installer on Google Code.
 

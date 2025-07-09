@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Revival of LoggingService Functionality"
-description: "This post is about why I revived the LoggingService functionality."
-tags: .NET
-permalink: /revival-of-loggingservice-functionality-29aef28c75b1
+description: This post is about why I revived the LoggingService functionality.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /revival-of-loggingservice-functionality-29aef28c75b1
+tags: .net code-beautifier-collection
+title: Revival of LoggingService Functionality
 ---
-
 A few years ago, I wrote a class for Code Beautifier Collection named [LoggingService]({% post_url 2006/2006-12-20-hardquery-report-using-loggingservice-class %}). At that time I decided to wrap over log4net.
 
 However, I started to use log4net more directly in the following years, and LoggingService is no longer a convenient way. OK. Then how to make use of those old code again?

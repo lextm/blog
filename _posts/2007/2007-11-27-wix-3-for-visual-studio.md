@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "WiX 3 for Visual Studio"
+title: WiX 3 for Visual Studio
 description: This post is about WiX 3, which is just integrated into Visual Studio.
-tags: Visual-Studio Windows
+tags: visual-studio windows
 permalink: /wix-3-for-visual-studio-864fa40b001b
 excerpt_separator: <!--more-->
 ---

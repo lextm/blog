@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CandyCan Opener: A Detailed Checklist"
 description: This post talks about the next major release of Code Beautifier Collection.
-tags: Code-Beautifier-Collection Delphi
-permalink: /candycan-opener-a-detailed-checklist-9fe92aa18c59
 excerpt_separator: <!--more-->
+layout: post
+permalink: /candycan-opener-a-detailed-checklist-9fe92aa18c59
+tags: delphi
+title: 'CandyCan Opener: A Detailed Checklist'
 ---
 Now I am trying to record a full checklist of every change I made to support Delphi 2009 in CBC 7.0.
 <!--more-->

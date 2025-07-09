@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Flags Icons"
-description: "This post talks about some flags icons found over the internet."
-tags: Others
-permalink: /flags-icons-1851da691b49
+description: This post talks about some flags icons found over the internet.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /flags-icons-1851da691b49
+tags: work-life
+title: Flags Icons
 ---
-
 When I tried to find icons for some nations' flags, I came across this web page. Yep, the icons are awesome.
 
 http://www.famfamfam.com/lab/icons/flags/

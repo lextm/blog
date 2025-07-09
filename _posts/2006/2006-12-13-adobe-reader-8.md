@@ -3,7 +3,7 @@ description: 这篇文章讲述了Adobe Reader 8的安装。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /adobe-reader-8的安装-36cb6dcc493d
-tags: others
+tags: work-life
 title: Adobe Reader 8的安装
 ---
 (CSDN Dec 13, 2006)

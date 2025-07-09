@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: How To Build It On Your Machine (Part II)"
-description: "This post is part ii on how to build GrapeVine on your machine."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-how-to-build-it-on-your-machine-part-ii-a6f1c5577e76
+description: This post is part ii on how to build GrapeVine on your machine.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-how-to-build-it-on-your-machine-part-ii-a6f1c5577e76
+tags: .net delphi
+title: 'GrapeVine Voice: How To Build It On Your Machine (Part II)'
 ---
 In this post I talked about how to build CBC HardQuery Release 2 Update 3 (5.3.3). However, GrapeVine (6.0) introduces many changes so it worths another post like this.
 <!--more-->

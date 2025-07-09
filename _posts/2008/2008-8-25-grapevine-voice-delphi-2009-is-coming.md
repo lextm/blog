@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Delphi 2009 Is Coming"
-description: "This post talks about the new release for Delphi 2009."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-delphi-2009-is-coming-188071447b6f
+description: This post talks about the new release for Delphi 2009.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-delphi-2009-is-coming-188071447b6f
+tags: asp.net delphi
+title: 'GrapeVine Voice: Delphi 2009 Is Coming'
 ---
 Since GrapeVine is not as active as usual, I have to say there will be no new features coming in the next few months. But two things will go on soon.
 

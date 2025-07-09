@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CatPaw Rumors: We Are Truly Mono Ready Part II"
-description: "This post is about #SNMP Mono support"
-tags: SNMP Mono
-permalink: /catpaw-rumors-we-are-truly-mono-ready-part-ii-ac852a26aa5
+description: 'This post is about #SNMP Mono support'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /catpaw-rumors-we-are-truly-mono-ready-part-ii-ac852a26aa5
+tags: mono snmp
+title: 'CatPaw Rumors: We Are Truly Mono Ready Part II'
 ---
 This is a MoMA scan report on snmpd.exe. Though there are so many issues reported, in fact this SNMP agent runs fine on both Windows/.NET and openSUSE/Mono.
 <!--more-->

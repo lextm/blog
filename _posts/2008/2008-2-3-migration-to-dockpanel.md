@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Migration to DockPanel"
 description: This post talks about my work to migrate a project to DockPanel Suite.
-tags: DockPanel-Suite
-permalink: /migration-to-dockpanel-296ecd64e9ea
 excerpt_separator: <!--more-->
+layout: post
+permalink: /migration-to-dockpanel-296ecd64e9ea
+tags: dockpanel-suite visual-studio windows
+title: Migration to DockPanel
 ---
 I have been maintaining a Windows Forms application (Project E) for about 10 months since last April. The user interface was very complex because the original creator left so many lines of code inside event handlers.
 

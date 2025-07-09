@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: RAD Studio OTA Issue"
 description: This post talks about a RAD Studio OTA issue.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-rad-studio-ota-issue-4b405586bbf3
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-rad-studio-ota-issue-4b405586bbf3
+tags: .net delphi
+title: 'GrapeVine Voice: RAD Studio OTA Issue'
 ---
 I thought it was a CBC bug at first. However, after debugging I am sure it is another OTA bug.
 <!--more-->

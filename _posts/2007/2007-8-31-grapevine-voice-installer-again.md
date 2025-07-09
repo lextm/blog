@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Installer Again"
-description: "This post is to update M3 installer."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-installer-again-5e2dba96f20e
+description: This post is to update M3 installer.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-installer-again-5e2dba96f20e
+tags: code-beautifier-collection inno-setup
+title: 'GrapeVine Voice: Installer Again'
 ---
 When I published this post, I did not expect ISPP changed most of things easily.
 

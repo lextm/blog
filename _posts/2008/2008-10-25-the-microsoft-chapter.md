@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "The Microsoft Chapter"
-description: "This post is about my new blog at MSDN Blogs."
-tags: Microsoft
+description: This post is about my new blog at MSDN Blogs.
 excerpt_separator: <!--more-->
+layout: post
+tags: work-life microsoft
+title: The Microsoft Chapter
 ---
 After joining Microsoft, I think it is time to split my blog posts. So from now on all Microsoft related posts will be published on my new blog at MSDN Blogs.
 

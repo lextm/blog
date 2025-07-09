@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: More Objects into Unity Container"
-description: "This post is about the changes in CrossRoad to use more of IoC containers."
-tags: SNMP
-permalink: /snmp-design-more-objects-into-unity-container-aa6fc2425e35
+description: This post is about the changes in CrossRoad to use more of IoC containers.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-more-objects-into-unity-container-aa6fc2425e35
+tags: work-life
+title: '#SNMP Design: More Objects into Unity Container'
 ---
 I have to confess in the past we don't pay much attention to Browser structure as much as necessary. Though began as a larger demo for the Library, it now turns out to be a useful utility itself after Steve's active development. However, I have to dive in sometimes to clean up my not-so-good legacy and close work items assigned to me. Well, that was very painful before we shipped TwinTower final because then I realized we need to lay a solid ground floor at first.
 <!--more-->

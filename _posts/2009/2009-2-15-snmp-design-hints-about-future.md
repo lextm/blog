@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Hints about Future"
-description: "This post is about the future arrangement of #SNMP."
-tags: SNMP
-permalink: /snmp-design-hints-about-future-f945dc90fa12
+description: 'This post is about the future arrangement of #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-hints-about-future-f945dc90fa12
+tags: work-life
+title: '#SNMP Design: Hints about Future'
 ---
 Because of our latest contributors, this project has a chance to improve in the following areas,
 

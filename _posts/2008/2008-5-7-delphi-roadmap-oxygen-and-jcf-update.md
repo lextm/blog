@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Delphi Roadmap, Oxygene, And JCF Update"
 description: This post talks about the Delphi roadmap, Oxygene, and JCF update.
-tags: Delphi
-permalink: /delphi-roadmap-oxygen-and-jcf-update-435b6eaf0e04
 excerpt_separator: <!--more-->
+layout: post
+permalink: /delphi-roadmap-oxygen-and-jcf-update-435b6eaf0e04
+tags: .net delphi
+title: Delphi Roadmap, Oxygene, And JCF Update
 ---
 It is wonder to see that Delphi IDE is going to have a code formatter bundled. However, that would happen at least one year later, so Code Beautifier Collection still have its place. There are other importance items listed in the roadmap, so if you are interested in Delphi please take a look at it.
 

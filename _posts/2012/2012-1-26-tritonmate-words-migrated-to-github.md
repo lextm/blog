@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: Migrated to GitHub"
-description: "This post is about the migration of #SNMP repo to GitHub."
-tags: SNMP
-permalink: /tritonmate-migrated-to-github-db7328984126
+description: 'This post is about the migration of #SNMP repo to GitHub.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-migrated-to-github-db7328984126
+tags: snmp
+title: 'TritonMate Words: Migrated to GitHub'
 ---
 Due to the following reasons, I just converted the repository from Mercurial to Git and host it on GitHub,
 

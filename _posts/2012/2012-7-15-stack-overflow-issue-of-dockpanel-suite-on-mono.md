@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Stack overflow issue of DockPanel Suite on Mono"
-description: "This post is about stack overflow issue of DockPanel Suite on Mono and how I investigated on it."
-tags: Mono DockPanel-Suite
-permalink: /stack-overflow-issue-of-dockpanel-suite-on-mono-514a0c896d98
+description: This post is about stack overflow issue of DockPanel Suite on Mono and
+  how I investigated on it.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /stack-overflow-issue-of-dockpanel-suite-on-mono-514a0c896d98
+tags: dockpanel-suite mono
+title: Stack overflow issue of DockPanel Suite on Mono
 ---
-
 The issue information can be found at https://github.com/dockpanelsuite/dockpanelsuite/issues/16
 
 It was in May 2010 I first attempted to port DockPanel Suite to Mono, so as to [bring #SNMP to Linux]({% post_url 2010/2010-5-2-dockpanel-suite-tip-5-we-can-go-mono %}) and any other operating systems supported by Mono.

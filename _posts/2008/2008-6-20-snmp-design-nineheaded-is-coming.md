@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: NineHeaded Is Coming"
-description: "This post talks about the progress of #SNMP 0.9 release."
-tags: SNMP
-permalink: /snmp-design-nineheaded-is-coming-9f2c70c0b9de
+description: 'This post talks about the progress of #SNMP 0.9 release.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-nineheaded-is-coming-9f2c70c0b9de
+tags: .net snmp visual-studio
+title: '#SNMP Design: NineHeaded Is Coming'
 ---
 I am going to release NineHeaded (0.9) release of #SNMP this weekend. And right now the only requirement before 1.0 is a lot of samples.
 

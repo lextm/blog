@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Windows Live Writer Frozen Issue On Vista"
 description: This post is about Windows Live Writer frozen issue on Windows Vista.
-tags: Windows
-permalink: /windows-live-writer-frozen-issue-on-vista-476707dbeeb0
 excerpt_separator: <!--more-->
+layout: post
+permalink: /windows-live-writer-frozen-issue-on-vista-476707dbeeb0
+tags: windows
+title: Windows Live Writer Frozen Issue On Vista
 ---
 The Windows Update brings me the latest WLW last weekend. But from then on I have experiences several WLW frozen issues on Windows Vista Home Basic. The problem is that after clicking the Publish button, the dialogue freezes and I cannot operate it any more.
 

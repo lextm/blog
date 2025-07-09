@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: GhostDoc for Visual Studio"
-description: "This post talks about GhostDoc for Visual Studio."
-tags: .NET Visual-Studio
-permalink: /product-review-ghostdoc-for-visual-studio-7bb2925c469f
+description: This post talks about GhostDoc for Visual Studio.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-ghostdoc-for-visual-studio-7bb2925c469f
+tags: .net sharpdevelop visual-studio visual-studio-code
+title: 'Product Review: GhostDoc for Visual Studio'
 ---
 There are so many add ins for Visual Studio designed by MVPs and I can almost draw a conclusion that if you make a popular VS add in, you may become an MVP some day.
 <!--more-->

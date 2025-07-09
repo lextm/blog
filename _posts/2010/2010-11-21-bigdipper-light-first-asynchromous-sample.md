@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: First Asynchronous Sample"
-description: "This post is about the first asynchronous sample for Sharp SNMP Library."
-tags: SNMP
-permalink: /bigdipper-light-first-asynchronous-sample-cb5b4cb15dfd
+description: This post is about the first asynchronous sample for Sharp SNMP Library.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-first-asynchronous-sample-cb5b4cb15dfd
+tags: .net snmp
+title: 'BigDipper Light: First Asynchronous Sample'
 ---
 Microsoft invents a series of patterns for .NET asynchronous API design. However, no every pattern meet all requirements. For #SNMP, currently the Begin/End pattern is still the most suitable as it can be used in extension methods.
 <!--more-->

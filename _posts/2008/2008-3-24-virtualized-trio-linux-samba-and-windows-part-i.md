@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Virtualized Trio: Linux, Samba, and Windows, Part I"
 description: This series focus on virtualized development environment.
-tags: Windows
-permalink: /virtualized-trio-linux-samba-and-windows-part-i-65565fa237b4
 excerpt_separator: <!--more-->
+layout: post
+permalink: /virtualized-trio-linux-samba-and-windows-part-i-65565fa237b4
+tags: linux windows
+title: 'Virtualized Trio: Linux, Samba, and Windows, Part I'
 ---
 > This series focus on virtualized development environment.
 

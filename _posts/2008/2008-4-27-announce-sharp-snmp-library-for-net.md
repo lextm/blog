@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Announce Sharp SNMP Library for .NET"
 description: This post talks about the new project Sharp SNMP Library for .NET.
-tags: SNMP
-permalink: /announce-sharp-snmp-library-for-net-e359089cad7f
 excerpt_separator: <!--more-->
+layout: post
+permalink: /announce-sharp-snmp-library-for-net-e359089cad7f
+tags: .net snmp
+title: Announce Sharp SNMP Library for .NET
 ---
 I have been working with SNMP on Microsoft.NET platform for months. In order to leave my experience fresh and clear for other developers that might enter this field one day, I wonder what kind of contribution I could do. And here comes it.
 

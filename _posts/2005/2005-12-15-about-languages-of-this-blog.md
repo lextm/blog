@@ -3,7 +3,7 @@ description: A post about why I use English in this blog.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /about-languages-of-this-blog-1fd2d08f9dbb
-tags: others
+tags: work-life
 title: About languages of this blog
 ---
 (Originally published to CSDN on Dec 15, 2005)

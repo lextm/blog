@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Alex: License Changed to MIT"
-description: "This post talks about the license change of Alex."
-tags: .NET
-permalink: /alex-license-changed-to-mit-f89171174dbe
+description: This post talks about the license change of Alex.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /alex-license-changed-to-mit-f89171174dbe
+tags: .net code-beautifier-collection sharpdevelop
+title: 'Alex: License Changed to MIT'
 ---
 Finally I think it is time to release Alex under a real open source license. Therefore, now the whole source code is released under MIT license. You can play with it if you like in almost any way. Hope you enjoy this change.
 

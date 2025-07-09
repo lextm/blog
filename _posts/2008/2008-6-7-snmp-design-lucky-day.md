@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Lucky Day"
-description: "This post talks about the progress of #SNMP 0.9 release."
-tags: SNMP
-permalink: /snmp-design-lucky-day-6384d98cc892
+description: 'This post talks about the progress of #SNMP 0.9 release.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-lucky-day-6384d98cc892
+tags: .net snmp
+title: '#SNMP Design: Lucky Day'
 ---
 Today must be my lucky day. Now I am happy to announce that my MIB parser hits the first milestone. All 70 Net-SNMP bundled MIB files can be successfully parsed by it. So #SNMP is ready to provide users a MIB tree that contains all basic nodes in the next major release, NineHeaded.
 

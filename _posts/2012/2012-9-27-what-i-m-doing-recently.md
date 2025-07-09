@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "What I'm Doing Recently"
-description: "This post is about what I'm doing recently, the book and the projects."
-tags: Others
-permalink: /what-im-doing-recently-71cb38b0d35a
+description: This post is about what I'm doing recently, the book and the projects.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /what-im-doing-recently-71cb38b0d35a
+tags: delphi dockpanel-suite
+title: What I'm Doing Recently
 ---
 This blog has been quiet for a while, as I have been pretty busy on several projects, but trapped on an 2007 laptop.
 <!--more-->

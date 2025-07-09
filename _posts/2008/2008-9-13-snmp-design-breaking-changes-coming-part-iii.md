@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Breaking Changes Coming, Part III"
-description: "This post talks about the breaking changes in #SNMP Library."
-tags: SNMP
-permalink: /snmp-design-breaking-changes-coming-part-iii
+description: 'This post talks about the breaking changes in #SNMP Library.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-breaking-changes-coming-part-iii
+tags: .net snmp
+title: '#SNMP Design: Breaking Changes Coming, Part III'
 ---
 > (This post is updated on September 27th heavily.)
 

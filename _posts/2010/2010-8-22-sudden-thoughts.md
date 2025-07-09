@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "突然涌出的回忆 Part 1"
 description: 这篇文章是关于一些关于音乐的回忆。
-tags: Others
-permalink: /突然涌出的回忆-part-1-73fb78b31106
 excerpt_separator: <!--more-->
+layout: post
+permalink: /突然涌出的回忆-part-1-73fb78b31106
+tags: work-life
+title: 突然涌出的回忆 Part 1
 ---
 在自己的Twitter上面写了下面的文字，结果就被人误解了。
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: ".NET Framework Source Code"
 description: This post talks about .NET Framework source code.
-tags: .NET
-permalink: /net-framework-source-code-83cb4bd1bfdf
 excerpt_separator: <!--more-->
+layout: post
+permalink: /net-framework-source-code-83cb4bd1bfdf
+tags: .net visual-studio
+title: .NET Framework Source Code
 ---
 In 2008, Visual Studio team finally offers you some .NET Framework source code under a special license term to enhance your debugging experience.
 

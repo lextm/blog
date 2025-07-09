@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Inno Setup Script Sample for Version Comparison (Advanced Version)
-description: This post talks about an advanced sample Inno Setup script for version comparison.
-tags: Inno-Setup
-permalink: /inno-setup-script-sample-for-version-comparison-advanced-version-c398d0ef18ad
+description: This post talks about an advanced sample Inno Setup script for version
+  comparison.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /inno-setup-script-sample-for-version-comparison-advanced-version-c398d0ef18ad
+tags: inno-setup
+title: Inno Setup Script Sample for Version Comparison (Advanced Version)
 ---
 Compared to an earlier revision, this time I will show how ISPP makes thing much easier.
 <!--more-->

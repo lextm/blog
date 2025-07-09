@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "NAnt Update"
 description: This post announces the release of NAnt 0.86-beta1.
-tags: .NET Mono
-permalink: /nant-update-d02c0e49886d
 excerpt_separator: <!--more-->
+layout: post
+permalink: /nant-update-d02c0e49886d
+tags: .net
+title: NAnt Update
 ---
 When I was developing HardQuery R2 Update 3, I thought I should move to MSBuild completely because NAnt would be no longer active.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Should RemObjects Purchase CodeGear Delphi?"
 description: This post is about whether RemObjects should purchase CodeGear Delphi.
-tags: Delphi
-permalink: /should-remobjects-purchase-codegear-delphi-ce7dace250b1
 excerpt_separator: <!--more-->
+layout: post
+permalink: /should-remobjects-purchase-codegear-delphi-ce7dace250b1
+tags: .net delphi
+title: Should RemObjects Purchase CodeGear Delphi?
 ---
 > This post is triggered by a CodeGear newsgroup thread.
 

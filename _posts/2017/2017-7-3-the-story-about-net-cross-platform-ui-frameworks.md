@@ -4,7 +4,7 @@ description: Discover the best .NET cross-platform UI frameworks for your projec
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-story-about-net-cross-platform-ui-frameworks-dd4a9433d0ea
-tags: .net visual-studio open-source linux windows macos xamarin microsoft jetbrains
+tags: .net visual-studio open-source linux windows macos xamarin microsoft
 title: The Story About .NET Cross Platform UI Frameworks
 ---
 > Disclaimer: All contents are based on my personal observation. Please leave a comment if you find anything incorrect, and I will revise it often.

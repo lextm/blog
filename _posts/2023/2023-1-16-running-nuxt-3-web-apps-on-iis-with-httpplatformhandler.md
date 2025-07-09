@@ -2,7 +2,7 @@
 description: A post about creating a simple Nuxt 3 web app and deploy it on IIS with HttpPlatformHandler
 excerpt_separator: <!--more-->
 layout: post
-tags: azure iis javascript node.js windows httpplatformhandler nuxt
+tags: azure iis windows httpplatformhandler
 title: Running Nuxt 3 Web Apps on IIS with HttpPlatformHandler
 ---
 When Microsoft developed HttpPlatformHandler more than a decade ago to enable non-Microsoft web technologies on Windows/IIS, they didn't know that one day

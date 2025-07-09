@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: WinZip E-Mail Companion"
 description: This post talks about a nice utility from WinZip.
-tags: Windows
-permalink: /product-review-winzip-e-mail-companion-2be55039ccfe
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-winzip-e-mail-companion-2be55039ccfe
+tags: windows
+title: 'Product Review: WinZip E-Mail Companion'
 ---
 I tried this beta software for a few months and now it is already officially released by WinZip. For me, it resolves an important issue that commonly occurs in corporate world.
 <!--more-->

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Fighting With CodeGear Items on CC"
-description: "This post talks about CodeGear items on Code Central."
-tags: Delphi
+title: Fighting With CodeGear Items on CC
+description: This post talks about CodeGear items on Code Central.
+tags: delphi
 permalink: /fighting-with-codegear-items-on-cc-91b9acf8840d
 excerpt_separator: <!--more-->
 ---

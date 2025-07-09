@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Here Comes A New Set of API"
-description: This post talks about the new API of #SNMP.
-tags: SNMP
-permalink: /snmp-design-here-comes-a-new-set-of-api-ededcefba0e0
+description: This post talks about the new API of
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-here-comes-a-new-set-of-api-ededcefba0e0
+tags: .net snmp
+title: '#SNMP Design: Here Comes A New Set of API'
 ---
 To keep you update, I have just published a new build (version number 0.5.010502.335) of #SNMP here. The biggest change is the API it provides. Compared to older builds, this build removes a lot of weak typed classes (such as the over-powerful Universal and SnmpBER created by Malcolm).
 <!--more-->

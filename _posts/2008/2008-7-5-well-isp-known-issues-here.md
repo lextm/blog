@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Well ISP Known Issues Here"
-description: "This post talks about the internet connection issues I have to face at home."
-tags: Google
-permalink: /well-isp-known-issues-here-ff6b6ec0f2e1
+description: This post talks about the internet connection issues I have to face at
+  home.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /well-isp-known-issues-here-ff6b6ec0f2e1
+tags: work-life
+title: Well ISP Known Issues Here
 ---
 I have been forced to give up Windows Live Writer (for my Blogger account), SF.net and SVNBridge (for Alex and #SNMP on CodePlex) at home. According to some rumors, that all ISPs here must limit access to certain Internet materials. Therefore, I am sad.
 

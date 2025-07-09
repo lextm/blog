@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Revival of MSBuild Launch Pad and Its 1.1.2 Release Candidate"
-description: "This post is about the revival of MSBuild Launch Pad and its 1.1.2 release candidate."
-tags: .NET
-permalink: /revival-of-msbuild-launch-pad-and-its-1-1-2-release-candidate-d8a915e8366a
+description: This post is about the revival of MSBuild Launch Pad and its 1.1.2 release
+  candidate.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /revival-of-msbuild-launch-pad-and-its-1-1-2-release-candidate-d8a915e8366a
+tags: .net msbuild
+title: Revival of MSBuild Launch Pad and Its 1.1.2 Release Candidate
 ---
 I haven't been updating mPad for a long time (since June 11, 2011). There was no strong drive because all major features have been implemented (though ugly, they work). I kind of forgot about it till this bug report came a few weeks ago.
 

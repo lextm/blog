@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "SUN Enters Virtualization Field At Last"
 description: This post talks about SUN's virtualization strategy.
-tags: Others
-permalink: /sun-enters-virtualization-field-at-last-35707de66311
 excerpt_separator: <!--more-->
+layout: post
+permalink: /sun-enters-virtualization-field-at-last-35707de66311
+tags: microsoft windows
+title: SUN Enters Virtualization Field At Last
 ---
 When Microsoft acquired Virtual PC in 2003, Virtual PC was not as good as VMware. VMware has been the leader in this field for years. But after so many years, Microsoft finally succeeds to release a clone of VMware flagship product ESX Server as part of the new operating system product Windows Server 2008. In this way stand alone Virtual PC console vanishes, but we all know Microsoft does have good use of the Virtual PC technology this time and leverage it to the extreme.
 

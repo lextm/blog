@@ -3,7 +3,7 @@ description: This post is about what a Visual Studio Code extension should conta
 excerpt_separator: <!--more-->
 layout: post
 permalink: /receipt-of-visual-studio-code-extension-f4fb832fd956
-tags: visual-studio-code javascript
+tags: visual-studio-code
 title: Receipt of Visual Studio Code Extension
 ---
 ![img-description](/images/rst.png){: width="512" }

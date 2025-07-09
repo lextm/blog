@@ -2,7 +2,7 @@
 description: A post about how to create a simple FastAPI web app and host it on IIS with HttpPlatformHandler
 excerpt_separator: <!--more-->
 layout: post
-tags: fastapi iis python windows httpplatformhandler
+tags: iis python windows httpplatformhandler
 title: Running FastAPI Web Apps on IIS with HttpPlatformHandler
 ---
 HttpPlatformHandler can help IIS host Java/Python/Node.js/Go applications, so in this post we wil see how to configure a Python/FastAPI web app on IIS and troubleshoot the common issue.

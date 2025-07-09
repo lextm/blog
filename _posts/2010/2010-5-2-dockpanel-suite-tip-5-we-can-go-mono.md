@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "DockPanel Suite Tip #5: We Could Go Mono"
-description: "This post is about DockPanel Suite Mono support"
-tags: DockPanel-Suite Mono
-permalink: /dockpanel-suite-tip-5-we-could-go-mono-63ee484f77a0
+description: This post is about DockPanel Suite Mono support
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-tip-5-we-could-go-mono-63ee484f77a0
+tags: dockpanel-suite mono windows
+title: 'DockPanel Suite Tip #5: We Could Go Mono'
 ---
 DockPanel Suite was designed for Windows. Its original author and later contributors do not yet port it to Mono. However, so many people including me would like to have a Mono friendly DPS, then how can we achieve that?
 <!--more-->

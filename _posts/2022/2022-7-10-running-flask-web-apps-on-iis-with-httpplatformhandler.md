@@ -2,7 +2,7 @@
 description: A post about how to create a simple Flask web app and host it on IIS with HttpPlatformHandler
 excerpt_separator: <!--more-->
 layout: post
-tags: flask httpplatformhandler python windows iis
+tags: httpplatformhandler python windows iis
 title: Running Flask Web Apps on IIS with HttpPlatformHandler
 ---
 HttpPlatformHandler can help IIS host Java/Python/Node.js/Go applications, so in this post we wil see how to configure a Python/Flask web app on IIS and troubleshoot the common issue.

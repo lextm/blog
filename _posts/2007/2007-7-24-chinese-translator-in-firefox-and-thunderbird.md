@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Chinese Translator In Firefox And Thunderbird"
-description: "This post talks about Chinese translator in Firefox and Thunderbird."
-tags: Others
-permalink: /chinese-translator-in-firefox-and-thunderbird-88ca45c8b3e
+description: This post talks about Chinese translator in Firefox and Thunderbird.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /chinese-translator-in-firefox-and-thunderbird-88ca45c8b3e
+tags: work-life
+title: Chinese Translator In Firefox And Thunderbird
 ---
 If you are learning Chinese, this tool should be a good helper.
 

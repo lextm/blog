@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: A Special Preview"
-description: "This post describes about a special preview build of GrapeVine release."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-a-special-preview-e51d4bbaf9bd
+description: This post describes about a special preview build of GrapeVine release.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-a-special-preview-e51d4bbaf9bd
+tags: .net delphi
+title: 'GrapeVine Voice: A Special Preview'
 ---
 I am planning to release a special GrapeVine Preview. Why? There are several reasons,
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "变老的自己"
-description: "这篇文章探讨了变老这个话题"
-tags: Others
-permalink: /变老的自己-b1a3343856b4
+description: 这篇文章探讨了变老这个话题
 excerpt_separator: <!--more-->
+layout: post
+permalink: /变老的自己-b1a3343856b4
+tags: work-life
+title: 变老的自己
 ---
 应该好好看待变老这个话题。
 

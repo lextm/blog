@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Mono is better now!"
+title: Mono is better now!
 description: This post is about the progress of Mono.
-tags: .NET Mono Linux
+tags: .net mono linux
 permalink: /mono-is-better-now-b629a5598708
 excerpt_separator: <!--more-->
 ---

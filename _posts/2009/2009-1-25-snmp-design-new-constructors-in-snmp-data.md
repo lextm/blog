@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: New Constructors in SNMP Data"
-description: "This post is about the new constructors in SNMP data types."
-tags: SNMP
-permalink: /snmp-design-new-constructors-in-snmp-data-855781525f07
+description: This post is about the new constructors in SNMP data types.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-new-constructors-in-snmp-data-855781525f07
+tags: .net snmp
+title: '#SNMP Design: New Constructors in SNMP Data'
 ---
 Dramatic changes happened today in the repository, but you may not notice. Ha, it is normal because I only touched API you won't use, generally speaking.
 <!--more-->

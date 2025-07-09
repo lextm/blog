@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Latest FAQ Addition"
-description: "This post is about the latest FAQ addition."
-tags: SNMP
-permalink: /snmp-design-latest-faq-addition-af988ee9a64e
+description: This post is about the latest FAQ addition.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-latest-faq-addition-af988ee9a64e
+tags: .net snmp
+title: '#SNMP Design: Latest FAQ Addition'
 ---
 ## 1. Why when I compile the source code an error is displayed about AssemblyInfo task?
 Answer: Please open readme.txt in the source code package to see what is missing on your computer.

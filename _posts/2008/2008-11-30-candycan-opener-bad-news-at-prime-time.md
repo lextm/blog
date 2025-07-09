@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CandyCan Opener: Bad News at Prime Time"
-description: "This post is about my departure from the Code Beautifier Collection project."
-tags: Code-Beautifier-Collection Delphi
-permalink: /candycan-opener-bad-news-at-prime-time-b9f0478bfe78
+description: This post is about my departure from the Code Beautifier Collection project.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /candycan-opener-bad-news-at-prime-time-b9f0478bfe78
+tags: asp.net delphi
+title: 'CandyCan Opener: Bad News at Prime Time'
 ---
 Sorry guys, the bad news comes at last.
 <!--more-->

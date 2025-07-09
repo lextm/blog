@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Naming a Product"
 description: This post talks about how difficult to name products.
-tags: .NET Mono
-permalink: /naming-a-product-66116a87099c
 excerpt_separator: <!--more-->
+layout: post
+permalink: /naming-a-product-66116a87099c
+tags: .net code-beautifier-collection mono
+title: Naming a Product
 ---
 Sometimes it is funny to see how people name products. Yes, if you are not a programmer, what you will think of the relationship among them when you read these names of Silverlight, Moonlight, and Flash?
 <!--more-->

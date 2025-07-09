@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Meet Our Compiler Guys"
-description: "This post is about the new MIB compiler plan."
-tags: SNMP
-permalink: /snmp-design-meet-our-compiler-guys-c17b25c8c56e
+description: This post is about the new MIB compiler plan.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-meet-our-compiler-guys-c17b25c8c56e
+tags: .net snmp
+title: '#SNMP Design: Meet Our Compiler Guys'
 ---
 I should say it is nice to hear from Patrick and Robert this morning. It makes today really special.
 

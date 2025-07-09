@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Must Be TDD"
-description: This post talks about the reason why I start #SNMP with TDD in mind.
-tags: SNMP
-permalink: /snmp-design-must-be-tdd-8223de32099f
+description: This post talks about the reason why I start
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-must-be-tdd-8223de32099f
+tags: snmp
+title: '#SNMP Design: Must Be TDD'
 ---
 I never knew I could deliver a TDD project before I finished reading Kent Beck's book. However, I was wrong.
 

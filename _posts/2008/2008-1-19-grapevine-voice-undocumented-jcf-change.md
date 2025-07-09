@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Undocumented JCF Change"
 description: This post talks about an undocumented JCF change.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-undocumented-jcf-change-54804104e7d
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-undocumented-jcf-change-54804104e7d
+tags: delphi
+title: 'GrapeVine Voice: Undocumented JCF Change'
 ---
 According to Anthony's notes, 2.34 of JCF introduces the following changes,
 

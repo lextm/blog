@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "GrapeVine Voice: Milestone 1 is Coming"
-description: "This post describes about the changes in GrapeVine M1."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-milestone-1-is-coming-14b901b93fe9
+description: This post describes about the changes in GrapeVine M1.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-milestone-1-is-coming-14b901b93fe9
+tags: code-beautifier-collection inno-setup windows
+title: 'GrapeVine Voice: Milestone 1 is Coming'
 ---
-
 Most Vista changes are not hard to overcome. After some digging, there are only two issues left. One is that Expert Manager cannot delete a registry because of UAC or some other security feature of Vista. And the other is a new naming schema for CBC GrapeVine packages.
 
 For the latter, I have just made up my mind. Every package will have a prefix `gv` which stands for GrapeVine. In this way, they can be distinguished from older versions.

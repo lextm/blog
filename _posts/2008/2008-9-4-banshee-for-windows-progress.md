@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Banshee for Windows Progress"
-description: "This post talks about the progress of Banshee for Windows."
-tags: Windows Mono
-permalink: /banshee-for-windows-progress-e65b7cc18392
+description: This post talks about the progress of Banshee for Windows.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /banshee-for-windows-progress-e65b7cc18392
+tags: windows
+title: Banshee for Windows Progress
 ---
 I have been watching the Banshee Media Player for months, but it does not yet support Windows even though in the announcement it will hit Windows soon.
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Compiler Promise from Embarcadero"
-description: "This post is about the promise of the new compiler from Embarcadero."
-tags: Delphi
-permalink: /compiler-promise-from-embarcadero-c0d2eed64fd2
+description: This post is about the promise of the new compiler from Embarcadero.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /compiler-promise-from-embarcadero-c0d2eed64fd2
+tags: .net delphi
+title: Compiler Promise from Embarcadero
 ---
 I still keep an eye on Delphi, though I have already stopped working on Code Beautifier Collection. Therefore, I am quite excited at this announcement . Well, it is a bit weird that such an important announcement is placed in Developer Network as [a normal article](http://dn.codegear.com/article/39174).
 

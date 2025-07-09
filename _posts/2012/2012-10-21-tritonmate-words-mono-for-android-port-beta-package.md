@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: Mono for Android Port Beta Package"
-description: "This post is about the beta package of #SNMP port to Mono for Android."
-tags: SNMP Mono
-permalink: /tritonmate-words-mono-for-android-port-beta-package-21dd784d4655
+description: 'This post is about the beta package of #SNMP port to Mono for Android.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-mono-for-android-port-beta-package-21dd784d4655
+tags: android mono snmp
+title: 'TritonMate Words: Mono for Android Port Beta Package'
 ---
 I hope followers of this blog are not bored by the less and less change sets I submitted to the repository, and today this piece of important news arrives.
 

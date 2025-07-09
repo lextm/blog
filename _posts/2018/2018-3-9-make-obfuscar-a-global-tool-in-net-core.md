@@ -2,7 +2,7 @@
 layout: post
 title: Make Obfuscar A Global Tool in.NET Core
 description: A post about making Obfuscar a .NET Core Global tool.
-tags: .NET
+tags: .net
 permalink: /make-obfuscar-a-global-tool-in-net-core-1cc3ee2cfe30
 excerpt_separator: <!--more-->
 image:

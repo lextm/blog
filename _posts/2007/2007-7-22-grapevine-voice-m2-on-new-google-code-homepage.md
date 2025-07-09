@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "GrapeVine Voice: M2 On New Google Code Homepage"
-description: "This post describes about the new homepage for Code Beautifier Collection I registered on Google Code."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-m2-on-new-google-code-homepage-5f722588bc74
+description: This post describes about the new homepage for Code Beautifier Collection
+  I registered on Google Code.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-m2-on-new-google-code-homepage-5f722588bc74
+tags: work-life code-beautifier-collection
+title: 'GrapeVine Voice: M2 On New Google Code Homepage'
 ---
 This is a new homepage for Code Beautifier Collection I registered on Google Code. At this moment, GrapeVine Milestone 2 is already there. Yep, you can download it fresh there.
 

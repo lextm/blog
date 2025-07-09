@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Harry Potter: Issues About The Official Film Site Screensavers"
-description: "This post talks about some issues I found on the official film site of Harry Potter and the Order of the Phoenix."
-tags: Windows
-permalink: /harry-potter-issues-about-the-official-film-site-screensavers-5ce7b367c5dc
+description: This post talks about some issues I found on the official film site of
+  Harry Potter and the Order of the Phoenix.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /harry-potter-issues-about-the-official-film-site-screensavers-5ce7b367c5dc
+tags: work-life
+title: 'Harry Potter: Issues About The Official Film Site Screensavers'
 ---
-
 I find they provide two screensavers there. However, I cannot install them both. I have to choose between them which is very very hard.
 
 http://www.harrypotterorderofthephoenix.com/

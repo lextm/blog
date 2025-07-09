@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Product Review: ExtractNow"
-description: "This post talks about ExtractNow, a small utility that can extract files from archives."
-tags: Windows
-permalink: /product-review-extractnow-9560d9950904
+description: This post talks about ExtractNow, a small utility that can extract files
+  from archives.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-extractnow-9560d9950904
+tags: work-life
+title: 'Product Review: ExtractNow'
 ---
 This is a small utility that can extract files from archives. Either ZIP, RAR, or IMG format is supported.
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Library Update"
-description: "This post talks about the update of #SNMP library."
-tags: SNMP
-permalink: /snmp-design-library-update-4c705cee683e
+description: 'This post talks about the update of #SNMP library.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-library-update-4c705cee683e
+tags: .net snmp
+title: '#SNMP Design: Library Update'
 ---
 After the Refresh release (1.1), I did change #SNMP basic API again, and some of them are significant,
 

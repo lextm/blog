@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Cisco Joins Eclipse Foundation"
 description: This post talks about the news that Cisco has joined Eclipse Foundation.
-tags: Java
-permalink: /cisco-joins-eclipse-foundation-93521044b04c
 excerpt_separator: <!--more-->
+layout: post
+permalink: /cisco-joins-eclipse-foundation-93521044b04c
+tags: work-life
+title: Cisco Joins Eclipse Foundation
 ---
 Just saw the news that Cisco has joined Eclipse Foundation. Good news. And it is not surprised to know the day has come.
 

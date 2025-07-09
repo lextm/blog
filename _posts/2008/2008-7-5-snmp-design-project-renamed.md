@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Project Renamed"
-description: "This post talks about the renaming of #SNMP project."
-tags: SNMP
-permalink: /snmp-design-project-renamed-b8503ea27506
+description: 'This post talks about the renaming of #SNMP project.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-project-renamed-b8503ea27506
+tags: sharpdevelop snmp
+title: '#SNMP Design: Project Renamed'
 ---
 Today, I changed the project name to Sharp SNMP Suite. Because I am going to complete a MIB browser in 1.0 release, this project is no longer a library only. So from now on, #SNMP Suite = #SNMP Library + #SNMP MIB Browser.
 

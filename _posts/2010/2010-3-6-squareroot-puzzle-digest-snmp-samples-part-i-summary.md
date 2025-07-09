@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "SquareRoot Puzzle: Digest #SNMP Samples, Part 1 Summary"
-description: "This post is about #SNMP sample projects."
-tags: SNMP
-permalink: /squareroot-puzzle-digest-snmp-samples-part-1-summary-aa6e8a834f82
+description: 'This post is about #SNMP sample projects.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /squareroot-puzzle-digest-snmp-samples-part-1-summary-aa6e8a834f82
+tags: .net snmp
+title: 'SquareRoot Puzzle: Digest #SNMP Samples, Part 1 Summary'
 ---
 Many samples are shipped in #SNMP Suite. But why they are that useful?
 <!--more-->

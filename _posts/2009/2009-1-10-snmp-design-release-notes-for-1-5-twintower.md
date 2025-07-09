@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Release Notes for 1.5 (TwinTower)"
-description: "This post is about the release notes of #SNMP 1.5 (TwinTower)."
-tags: SNMP
-permalink: /snmp-design-release-notes-for-1-5-twintower-2de00443601c
+description: 'This post is about the release notes of #SNMP 1.5 (TwinTower).'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-release-notes-for-1-5-twintower-2de00443601c
+tags: .net snmp
+title: '#SNMP Design: Release Notes for 1.5 (TwinTower)'
 ---
 Well, this release takes much longer than we expected even though luckily Steve joined me. But I am sure that it worth the while because finally we have more features implemented in the suite.
 <!--more-->

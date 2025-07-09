@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Windows Live Writer Plugins I Use"
-description: "This post talks about some plugins I use with Windows Live Writer."
-tags: Windows
-permalink: /windows-live-writer-plugins-i-use-603828787534
+description: This post talks about some plugins I use with Windows Live Writer.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /windows-live-writer-plugins-i-use-603828787534
+tags: work-life windows
+title: Windows Live Writer Plugins I Use
 ---
 Windows Live Writer is a good pal for bloggers. As with some small plugins you could enjoy yourself more.
 

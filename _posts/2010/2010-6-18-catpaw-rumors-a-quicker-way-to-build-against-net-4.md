@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CatPaw Rumors: A Quick Way to Build Against .NET 4"
 description: This post is about a quick way to build against .NET 4.
-tags: SNMP
-permalink: /catpaw-rumors-a-quick-way-to-build-against-net-4-88b7fad6d346
 excerpt_separator: <!--more-->
+layout: post
+permalink: /catpaw-rumors-a-quick-way-to-build-against-net-4-88b7fad6d346
+tags: .net snmp
+title: 'CatPaw Rumors: A Quick Way to Build Against .NET 4'
 ---
 Starting from 5.0 release, you can build #SNMP thing against .NET 4 simply via command line.
 <!--more-->

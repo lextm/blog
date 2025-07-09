@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "MonoDevelop on Windows Progress"
-description: "This post is about the progress of MonoDevelop on Windows."
-tags: Windows Mono
-permalink: /monodevelop-on-windows-progress-815557308815
+description: This post is about the progress of MonoDevelop on Windows.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /monodevelop-on-windows-progress-815557308815
+tags: mono windows
+title: MonoDevelop on Windows Progress
 ---
 I just could not help dreaming of testing #SNMP inside MD some day on Windows 7.
 

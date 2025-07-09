@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Arabic Review of CBC?"
-description: "This post talks about a review of CBC in Arabic language."
-tags: Code-Beautifier-Collection Delphi
-permalink: /arabic-review-of-cbc-2dffb549de0e
+description: This post talks about a review of CBC in Arabic language.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /arabic-review-of-cbc-2dffb549de0e
+tags: delphi google
+title: Arabic Review of CBC?
 ---
 When I tried Google Blog Search Beta today, I found a thread mentioned CBC in Arabic language.
 

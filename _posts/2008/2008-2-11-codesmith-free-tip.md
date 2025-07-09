@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CodeSmith Free Tip"
 description: This post talks about the free version of CodeSmith.
-tags: Others
-permalink: /codesmith-free-tip-a057dd4a617f
 excerpt_separator: <!--more-->
+layout: post
+permalink: /codesmith-free-tip-a057dd4a617f
+tags: .net asp.net
+title: CodeSmith Free Tip
 ---
 It is said that CodeSmith is a must for .NET developers. However, even though I have been doing C# for years, I do not use it that frequently. So I prefer the free 2.6 version.
 

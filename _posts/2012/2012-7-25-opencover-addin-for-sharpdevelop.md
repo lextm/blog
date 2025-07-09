@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "OpenCover Addin for SharpDevelop"
-description: "This post is about OpenCover addin for SharpDevelop."
-tags: .NET
-categories: [History, .NET]
-permalink: /opencover-addin-for-sharpdevelop-e5fd5cdadc80
+categories:
+- History
+- .NET
+description: This post is about OpenCover addin for SharpDevelop.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /opencover-addin-for-sharpdevelop-e5fd5cdadc80
+tags: .net sharpdevelop
+title: OpenCover Addin for SharpDevelop
 ---
 Last weekend I was bit of busy. This time I found it too boring to work with PartCover and suffer its well known x64 unfriendliness. I was looking for a long term solution and could not help hacking SharpDevelop to meet my needs. That led to the birth of OpenCover addin for SharpDevelop.
 

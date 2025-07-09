@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Don't Let Windows Forms Bite You"
-description: "This post is about Windows Forms and how to avoid common pitfalls."
-tags: .NET
+title: Don't Let Windows Forms Bite You
+description: This post is about Windows Forms and how to avoid common pitfalls.
+tags: .net
 permalink: /dont-let-windows-forms-bite-you-3561762b22b7
 excerpt_separator: <!--more-->
 ---

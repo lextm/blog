@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: BT Clients"
-description: "This post talks about my experience with BT clients."
-tags: Windows
-permalink: /product-review-bt-clients-68bde888d59d
+description: This post talks about my experience with BT clients.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-bt-clients-68bde888d59d
+tags: azure java
+title: 'Product Review: BT Clients'
 ---
 I used BitComet for years. It runs well on Windows XP. Because it is written in C++ efficiency should be its advantage. However, it fails to run properly on Windows Vista. After so many hangs I gave it up.
 

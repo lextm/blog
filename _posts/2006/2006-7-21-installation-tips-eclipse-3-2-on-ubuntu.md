@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Installation Tips: Eclipse 3.2 on Ubuntu"
-description: "This post talks about how to install Eclipse 3.2 on Ubuntu."
-tags: Linux
+title: 'Installation Tips: Eclipse 3.2 on Ubuntu'
+description: This post talks about how to install Eclipse 3.2 on Ubuntu.
+tags: linux
 permalink: /installation-tips-eclipse-3-2-on-ubuntu-480c239c8491
 excerpt_separator: <!--more-->
 ---

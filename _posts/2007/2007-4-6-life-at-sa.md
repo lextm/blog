@@ -3,7 +3,7 @@ description: This post is about my new job.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /life-at-sa-9ab7492a7797
-tags: others
+tags: work-life
 title: Life at SA
 ---
 I am now blogging to say that I become a member of the Scientific Atlanta. I am working as a Software Engineer.

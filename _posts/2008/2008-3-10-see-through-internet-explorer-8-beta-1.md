@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "See Through Internet Explorer 8 Beta 1"
 description: This post talks about Internet Explorer 8 Beta 1.
-tags: Windows
-permalink: /see-through-internet-explorer-8-beta-1-ffb352e7ba2
 excerpt_separator: <!--more-->
+layout: post
+permalink: /see-through-internet-explorer-8-beta-1-ffb352e7ba2
+tags: windows
+title: See Through Internet Explorer 8 Beta 1
 ---
-
 > Don't hurt the Web. Please use open standards.
 
 Do you remember the words? [I mention it here]({% post_url 2007/2007-4-29-the-wallpaper-for-mozilla-developer-center %}). Mozilla was one of the driving forces of open standards as well as Opera. However, what they gained was incompatibility brought by Microsoft. How many times I navigated to a site and saw elements misaligned in Firefox!

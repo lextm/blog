@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "PowerShell with Oh My Posh as Default Shell on macOS"
-description: A post about how to configure PowerShell with Oh My Posh as your preferred shell on macOS
-tags: PowerShell macOS Visual-Studio-Code
+title: PowerShell with Oh My Posh as Default Shell on macOS
+description: A post about how to configure PowerShell with Oh My Posh as your preferred
+  shell on macOS
+tags: powershell macos visual-studio-code
 excerpt_separator: <!--more-->
 ---
 

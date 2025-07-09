@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: ccitt and zeroDotZero"
-description: "This post talks about the difference between ccitt and zeroDotZero."
-tags: SNMP
-permalink: /snmp-design-ccitt-and-zerodotzero-f87da8b8c3b6
+description: This post talks about the difference between ccitt and zeroDotZero.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-ccitt-and-zerodotzero-f87da8b8c3b6
+tags: snmp windows
+title: '#SNMP Design: ccitt and zeroDotZero'
 ---
 According to comments inside SNMPv2-SMI, zeroDotZero is used as "a value used for null identifiers". However, when I tested #SNMP against Microsoft SNMP agent for Windows Vista Home Basic, I found that this agent returned `ccitt` when the identifier is `null`.
 

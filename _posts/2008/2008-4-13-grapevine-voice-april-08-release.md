@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: April 08 Release"
 description: This post talks about the new release of Code Beautifier Collection.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-april-08-release-6c3b2492ad5d
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-april-08-release-6c3b2492ad5d
+tags: .net code-beautifier-collection delphi
+title: 'GrapeVine Voice: April 08 Release'
 ---
 You may notice that I have just released a new BETA version of Code Beautifier Collection yesterday. And this one is called April 08 Release.
 

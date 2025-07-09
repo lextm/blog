@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Fancy Delphi Applications And More"
 description: This post talks about many fancy applications built in Delphi.
-tags: Delphi
-permalink: /fancy-delphi-applications-and-more-815e84f6c9a
 excerpt_separator: <!--more-->
+layout: post
+permalink: /fancy-delphi-applications-and-more-815e84f6c9a
+tags: delphi windows
+title: Fancy Delphi Applications And More
 ---
 I love Marco Cantu's Fun Side of Delphi and C++Builder series during several Borland Conferences and CodeRage conferences. And now About.com launches a new contest on fancy Delphi applications.
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Time for A Major Number Upgrade"
 description: This post talks about the next major release of Code Beautifier Collection.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-time-for-a-major-number-upgrade-479a85c0b76a
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-time-for-a-major-number-upgrade-479a85c0b76a
+tags: asp.net delphi
+title: 'GrapeVine Voice: Time for A Major Number Upgrade'
 ---
 I was thinking that a minor upgrade to 6.1 can make Delphi 2009 support complete. A few hours later, now I find I am wrong. The current TODO list is much longer.
 

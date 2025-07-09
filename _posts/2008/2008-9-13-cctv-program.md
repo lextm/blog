@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "今天的东方时空主题是什么？"
-description: "这篇文章讨论了今天的东方时空节目。"
-tags: Others
-permalink: /今天的东方时空主题是什么-910d7571cbb1
+description: 这篇文章讨论了今天的东方时空节目。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /今天的东方时空主题是什么-910d7571cbb1
+tags: linux windows
+title: 今天的东方时空主题是什么？
 ---
 (CSDN Sept 13, 2008)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Label Cloud for Blogger"
-description: "This post is about how to add a Label Cloud in Blogger."
-tags: Others
-permalink: /label-cloud-for-blogger-b88787802772
+description: This post is about how to add a Label Cloud in Blogger.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /label-cloud-for-blogger-b88787802772
+tags: work-life google
+title: Label Cloud for Blogger
 ---
 Well, if you notice that a Label Cloud is added in this blog, you may wonder how to create that. It is simple when you follow such an excellent post. :) Enjoy it.
 

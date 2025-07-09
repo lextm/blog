@@ -3,7 +3,7 @@ description: 本文讲述了 Firefox 2.0 Beta 的一些事情。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /firefox-2-0-beta-cool-d46fbe5deb29
-tags: firefox
+tags: open-source
 title: 'Firefox 2.0 Beta: Cool'
 ---
 (CSDN July 19, 2006)

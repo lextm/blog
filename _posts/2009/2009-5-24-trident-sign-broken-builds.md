@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Trident Sign: Broken Builds"
-description: "This post is about broken builds at CodePlex.com."
-tags: SNMP
-permalink: /trident-sign-broken-builds-30f0087a056c
+description: This post is about broken builds at CodePlex.com.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /trident-sign-broken-builds-30f0087a056c
+tags: work-life snmp
+title: 'Trident Sign: Broken Builds'
 ---
 Is it OK to follow #SNMP builds at CodePlex.com? Probably not. The reason is quite simple, that I just can guarantee the builds can be compiled and that's all.
 

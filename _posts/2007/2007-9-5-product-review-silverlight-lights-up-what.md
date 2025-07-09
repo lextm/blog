@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: Silverlight Lights Up What?"
-description: "This post is to review Silverlight 1.0."
-tags: .NET
-permalink: /product-review-silverlight-lights-up-what-1fb2af15444d
+description: This post is to review Silverlight 1.0.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-silverlight-lights-up-what-1fb2af15444d
+tags: .net
+title: 'Product Review: Silverlight Lights Up What?'
 ---
 Silverlight 1.0 is out. I haven't heard something on CSDN. Why? In China, new techniques need a long time to adapt because programmers are working hard on their projects. And I am one of them after April.
 <!--more-->

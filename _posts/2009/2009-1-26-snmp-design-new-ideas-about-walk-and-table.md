@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: New Ideas about Walk and Table"
-description: "This post is about new ideas on how to implement SNMP walk and table."
-tags: SNMP
-permalink: /snmp-design-new-ideas-about-walk-and-table-a9c9113b2229
+description: This post is about new ideas on how to implement SNMP walk and table.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-new-ideas-about-walk-and-table-a9c9113b2229
+tags: microsoft snmp
+title: '#SNMP Design: New Ideas about Walk and Table'
 ---
 I discussed with Steve several times before we shipped TwinTower. We agreed that it is a big task to finish through multiple releases, so TwinTower only contains a new implementation of Walk from Steve.
 <!--more-->

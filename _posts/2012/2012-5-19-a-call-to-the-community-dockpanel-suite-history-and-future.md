@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "A Call to The Community: DockPanel Suite History and Future"
-description: "This post is about the history and future of DockPanel Suite."
-tags: DockPanel-Suite
-categories: [History, .NET]
-permalink: /a-call-to-the-community-dockpanel-suite-history-and-future-ec3b9ab8bdc9
+categories:
+- History
+- .NET
+description: This post is about the history and future of DockPanel Suite.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /a-call-to-the-community-dockpanel-suite-history-and-future-ec3b9ab8bdc9
+tags: dockpanel-suite
+title: 'A Call to The Community: DockPanel Suite History and Future'
 ---
 This post may be revised and finally published to https://github.com/dockpanelsuite/dockpanelsuite/wiki. Please visit there if you want to receive updates.
 

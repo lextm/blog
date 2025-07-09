@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: May Be Another Update"
 description: This post talks about the possible next update of HardQuery.
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-may-be-another-update-c7510c18117a
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-may-be-another-update-c7510c18117a
+tags: code-beautifier-collection delphi
+title: 'HardQuery Report: May Be Another Update'
 ---
 When I released 5.3.3 I thought there was no need to update it again. Yes, I cannot add new features back easily. However, I can port back bug fixes.
 

@@ -3,7 +3,7 @@ description: This post describes the war between Chinese blog service providers.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /chinese-blog-service-providers-war-876f8639fe76
-tags: others
+tags: work-life
 title: Chinese Blog Service Providers' War
 ---
 Take a look at Windows Live Writer's supported weblog list, you will see no Chinese weblog provider there even though they claims themselves best service providers around here. What they are thinking about?

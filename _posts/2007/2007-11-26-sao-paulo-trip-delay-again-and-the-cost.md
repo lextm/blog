@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Sao Paulo Trip Delay Again And The Cost"
 description: This post talks about my delayed trip to Sao Paulo and the cost.
-tags: Others
-permalink: /sao-paulo-trip-delay-again-and-the-cost-6706dd7f9e66
 excerpt_separator: <!--more-->
+layout: post
+permalink: /sao-paulo-trip-delay-again-and-the-cost-6706dd7f9e66
+tags: work-life
+title: Sao Paulo Trip Delay Again And The Cost
 ---
 Have to say I never thought a delay could cost so much. I cancelled my room reservation and flight tickets at weekends, which totally costs more than 200 USD. Yes, luckily my manager said the company would pay it.
 

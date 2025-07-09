@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Ribbon Everywhere?"
-description: "This post talks about Ribbon UI in development tools."
-tags: Windows
-permalink: /ribbon-everywhere-b444365c6cb4
+description: This post talks about Ribbon UI in development tools.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /ribbon-everywhere-b444365c6cb4
+tags: visual-studio windows
+title: Ribbon Everywhere?
 ---
 Microsoft spends four years on Office 2007. Yes, four years is such a long time. However, what makes you WoW? Just Ribbon UI and XML file format are two important things I notice. Even though the new file format is not well treated by users, Ribbon UI has received a lot of reviews.
 <!--more-->

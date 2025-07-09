@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Product Review: InstallAware"
-description: "This post talks about InstallAware, a professional installer solution."
-tags: Windows
-permalink: /product-review-installaware-7d3088d8e806
+description: This post talks about InstallAware, a professional installer solution.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-installaware-7d3088d8e806
+tags: inno-setup windows
+title: 'Product Review: InstallAware'
 ---
 It is so common to distribute software as installers, that so many installation solutions are available in the market.
 

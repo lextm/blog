@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: #SNMP and PowerShell"
-description: "This post is about #SNMP and PowerShell."
-tags: SNMP
-permalink: /tritonmate-words-snmp-and-powershell-df232d4384c5
+description: 'This post is about #SNMP and PowerShell.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-snmp-and-powershell-df232d4384c5
+tags: powershell snmp
+title: 'TritonMate Words: #SNMP and PowerShell'
 ---
 A long time ago there was voices asking whether #SNMP can be used in PowerShell.
 <!--more-->

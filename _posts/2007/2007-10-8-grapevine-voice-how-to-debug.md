@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: How To Debug"
-description: "This post writes about how to debug GrapeVine."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-how-to-debug-8b21849e20b2
+description: This post writes about how to debug GrapeVine.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-how-to-debug-8b21849e20b2
+tags: .net delphi
+title: 'GrapeVine Voice: How To Debug'
 ---
 There are a lot of debuggers I can choose from on Windows. They are,
 

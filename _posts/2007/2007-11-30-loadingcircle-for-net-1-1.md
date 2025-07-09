@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "LoadingCircle for .NET 1.1"
 description: This post talks about my attempt to port LoadingCircle to .NET 1.1.
-tags: Code-Beautifier-Collection Delphi
-permalink: /loadingcircle-for-net-1-1-a6921ccdccb4
 excerpt_separator: <!--more-->
+layout: post
+permalink: /loadingcircle-for-net-1-1-a6921ccdccb4
+tags: .net windows
+title: LoadingCircle for .NET 1.1
 ---
 Do you know that you can easily add a Firefox or IE 7 look LoadingCircle in your .NET applications? Please take a look at [this old CodeProject article](https://www.codeproject.com/Articles/14841/How-to-write-a-loading-circle-animation-in-NET).
 

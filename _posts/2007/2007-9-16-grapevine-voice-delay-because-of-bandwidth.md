@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Delay Because of Bandwidth"
-description: "This post is to announce a delay to ship M5 of GrapeVine."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-delay-because-of-bandwidth-dcbcc6442f50
+description: This post is to announce a delay to ship M5 of GrapeVine.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-delay-because-of-bandwidth-dcbcc6442f50
+tags: work-life code-beautifier-collection delphi
+title: 'GrapeVine Voice: Delay Because of Bandwidth'
 ---
 I have to say running an open source project is not easy. I knew this when I read about open source for the first few months. I never thought I could make money from Code Beautifier Collection. Unexpectedly, this project seemed to provide me some advantages when I applied a job.
 

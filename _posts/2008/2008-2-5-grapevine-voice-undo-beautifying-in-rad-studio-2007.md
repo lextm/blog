@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "GrapeVine Voice: Undo Beautifying in RAD Studio 2007"
-description: This post talks about the change in undo/redo mechanism in RAD Studio 2007.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-undo-beautifying-in-rad-studio-2007-f715e6a121fa
+description: This post talks about the change in undo/redo mechanism in RAD Studio
+  2007.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-undo-beautifying-in-rad-studio-2007-f715e6a121fa
+tags: delphi
+title: 'GrapeVine Voice: Undo Beautifying in RAD Studio 2007'
 ---
 Today another change in RAD Studio is found during my test on CodeBeautifiers Plus. It seems that redo/undo mechanism is updated. Therefore now if you want to undo after Ctrl + W, you must press Ctrl + Z twice.
 

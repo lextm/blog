@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: MIB Parser Milestone"
-description: "This post talks about the progress of #SNMP 0.9 release."
-tags: SNMP
-permalink: /snmp-design-mib-parser-milestone-69dab4e666ca
+description: 'This post talks about the progress of #SNMP 0.9 release.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-mib-parser-milestone-69dab4e666ca
+tags: snmp
+title: '#SNMP Design: MIB Parser Milestone'
 ---
 Just one minute earlier, the #SNMP MIB parser parsed all Net-SNMP bundled MIB documents except RFC1155-SMI.
 

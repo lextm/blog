@@ -2,7 +2,7 @@
 description: This post talks the new HttpPlatformHandler v2 and how it is built.
 excerpt_separator: <!--more-->
 layout: post
-tags: .net httpplatformhandler iis javascript java python node.js go windows
+tags: .net httpplatformhandler iis java python windows
 title: HttpPlatformHandler v2
 ---
 LeXtudio Inc. just released a new product, HttpPlatformHandler v2, which can be considered a new release to replace Microsoft's HttpPlatformHandler v1.x. This post talks about why we build it and how we build it.

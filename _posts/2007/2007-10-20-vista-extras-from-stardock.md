@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Vista Extras From Stardock"
-description: This post talks about some free software from Stardock for Windows Vista users.
-tags: Windows
-permalink: /vista-extras-from-stardock-e3bf903822b
+description: This post talks about some free software from Stardock for Windows Vista
+  users.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /vista-extras-from-stardock-e3bf903822b
+tags: windows
+title: Vista Extras From Stardock
 ---
 Why you install Windows Vista? Most people buy it want to enjoy the beautiful UI. But in fact you can do more than that. A great company Stardock offers you more customization options for free.
 

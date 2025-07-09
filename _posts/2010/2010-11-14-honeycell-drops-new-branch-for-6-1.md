@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "HoneyCell Drops: New Branch for 6.1"
-description: "This post is about the new 6.1 branch for #SNMP."
-tags: SNMP
+title: 'HoneyCell Drops: New Branch for 6.1'
+description: 'This post is about the new 6.1 branch for #SNMP.'
+tags: snmp
 permalink: /honeycell-drops-new-branch-for-6-1-88e3742c0a3d
 excerpt_separator: <!--more-->
 ---

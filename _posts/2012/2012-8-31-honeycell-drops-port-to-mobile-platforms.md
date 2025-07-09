@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HoneyCell Drops: Port to Mobile Platforms"
-description: "This post is about #SNMP port to mobile platforms."
-tags: SNMP
-permalink: /honeycell-drops-port-to-mobile-platforms-9959f6e4b303
+description: 'This post is about #SNMP port to mobile platforms.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /honeycell-drops-port-to-mobile-platforms-9959f6e4b303
+tags: .net snmp
+title: 'HoneyCell Drops: Port to Mobile Platforms'
 ---
 I was trying to port #SNMP Library to Windows Compact Edition (CE), and we still have the .NET Compact Framework (CF) compliant assembly (sharpsnmplib.cf35.dll) in binary distribution, which is a good legacy of that attempt.
 <!--more-->

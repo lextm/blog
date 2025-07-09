@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Normal Behavior: SharePoint Binds to IE"
-description: "This post talks about SharePoint and IE."
-tags: Windows
-permalink: /normal-behavior-sharepoint-binds-to-ie-f6e77819d6b3
+description: This post talks about SharePoint and IE.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /normal-behavior-sharepoint-binds-to-ie-f6e77819d6b3
+tags: microsoft
+title: 'Normal Behavior: SharePoint Binds to IE'
 ---
-
 My team uses a SharePoint site to communicate. The problem is that I cannot use Firefox to enjoy all features of the site. Many features such as discussion can only be available when browsing in IE.
 
 In China, using IE to explore the Internet is proved to be dangerous, and using Firefox or Netscape is recommended by our IT guys. However, except Windows Update there are other ways MS can prevent you from using another web browser.

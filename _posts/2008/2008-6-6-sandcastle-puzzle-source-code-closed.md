@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Sandcastle Puzzle: Source Code Closed"
-description: "This post talks about the removal of Sandcastle from CodePlex.com."
-tags: .NET
-permalink: /sandcastle-puzzle-source-code-closed-cc9c793e35c1
+description: This post talks about the removal of Sandcastle from CodePlex.com.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /sandcastle-puzzle-source-code-closed-cc9c793e35c1
+tags: .net asp.net microsoft
+title: 'Sandcastle Puzzle: Source Code Closed'
 ---
 I was happy to see Microsoft hosted Sandcastle on CodePlex.com. I believed once this half baked NDoc alternative got open source, .NET developers could enjoy happiness that NDoc was bringing in the past.
 

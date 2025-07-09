@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Unity in Compiler Finally"
-description: "This post is about the refactoring of the Compiler."
-tags: SNMP
-permalink: /snmp-design-unity-in-compiler-finally-4aa520053566
+description: This post is about the refactoring of the Compiler.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-unity-in-compiler-finally-4aa520053566
+tags: work-life
+title: '#SNMP Design: Unity in Compiler Finally'
 ---
 If you have time to review our latest Browser source code, you will notice what I have done in order to fit Unity in. I moved nearly all global variables into the IoC container who helps construct every objects based on my configuration file.
 <!--more-->

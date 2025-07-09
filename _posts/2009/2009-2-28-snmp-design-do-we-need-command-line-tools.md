@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Do We Need Command Line Tools?"
-description: "This post is about the command line tools in #SNMP."
-tags: SNMP
-permalink: /snmp-design-do-we-need-command-line-tools-2fbf1c72e82
+description: 'This post is about the command line tools in #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-do-we-need-command-line-tools-2fbf1c72e82
+tags: mono snmp
+title: '#SNMP Design: Do We Need Command Line Tools?'
 ---
 It is sad that Net-SNMP only has command line tools, but they are really powerful and easy to use. Do we need similar tools in #SNMP Suite? Why not? But how?
 <!--more-->

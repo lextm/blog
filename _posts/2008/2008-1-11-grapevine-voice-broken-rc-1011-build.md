@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine Voice: Broken RC 1011 Build"
 description: This post talks about the broken RC 1011 build.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-broken-rc-1011-build-314829bbea70
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-broken-rc-1011-build-314829bbea70
+tags: code-beautifier-collection delphi
+title: 'GrapeVine Voice: Broken RC 1011 Build'
 ---
 The installer of RC 1011 build is broken. A critical library called PSTaskDialog.dll is missing simply because I forgot to update Inno Setup script again. It is sad that I cannot find out how to ensure all required .NET libraries are there in the installer until the users get a runtime exception. This is a .NET limitation blamed by nearly every .NET developers (not a bug of Inno Setup).
 

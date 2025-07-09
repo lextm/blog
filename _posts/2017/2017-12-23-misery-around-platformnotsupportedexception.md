@@ -2,7 +2,7 @@
 layout: post
 title: Misery Around PlatformNotSupportedException
 description: A post about the new pattern for library authors to handle PlatformNotSupportedException.
-tags: Visual-Studio .NET
+tags: visual-studio .net
 permalink: /misery-around-platformnotsupportedexception-1b890c74a08a
 excerpt_separator: <!--more-->
 ---

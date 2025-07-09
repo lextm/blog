@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Microsoft SQL Server Instances"
-description: This post talks about why there are several SQL Server services running on my workstation.
-tags: Microsoft
-permalink: /microsoft-sql-server-instances-14d9f80ef5e9
+description: This post talks about why there are several SQL Server services running
+  on my workstation.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /microsoft-sql-server-instances-14d9f80ef5e9
+tags: microsoft
+title: Microsoft SQL Server Instances
 ---
 I was curious about why there are several SQL Server services running on my workstation. Because there was no problem with the system, I did not spend time on this question but I knew one day I would find the answer. And today, the day comes.
 <!--more-->

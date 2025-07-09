@@ -3,7 +3,7 @@ description: 'This post is about the CodePlex repository corruption of #SNMP.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-bad-luck-repository-corruption-happens-now-1ee9e122e76c
-tags: snmp codeplex
+tags: snmp
 title: 'BigDipper Light: Bad Luck, Repository Corruption Happens Now'
 ---
 If you currently try to clone our repository and experienced errors, please come back later. I am working with CodePlex support now and hope we can recover the repository in the coming days (or weeks).

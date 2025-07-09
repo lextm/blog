@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Trident Sign: Prior to Release Day"
-description: "This post is about the release day of SNMP Suite 3.0."
-tags: Code-Beautifier-Collection Delphi
-permalink: /trident-sign-prior-to-release-day-5c36fa76b8b2
+description: This post is about the release day of SNMP Suite 3.0.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /trident-sign-prior-to-release-day-5c36fa76b8b2
+tags: delphi snmp
+title: 'Trident Sign: Prior to Release Day'
 ---
 After four months, we come to another milestone of #SNMP project, the release day of #SNMP Suite 3.0.
 <!--more-->

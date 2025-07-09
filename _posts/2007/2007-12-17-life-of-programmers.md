@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Life of Programmers"
 description: This post is about life of programmers.
-tags: Delphi
-permalink: /life-of-programmers-8fb1c033a68
 excerpt_separator: <!--more-->
+layout: post
+permalink: /life-of-programmers-8fb1c033a68
+tags: work-life
+title: Life of Programmers
 ---
 Today I finally added Corbin's blog to my list. Although he joined Apple, his posts are still worth reading because his life is amazing.
 <!--more-->

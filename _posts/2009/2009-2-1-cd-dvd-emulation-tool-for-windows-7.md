@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "CD/DVD Emulation Tool for Windows 7"
-description: "This post is about a CD/DVD emulation tool for Windows 7."
-tags: Windows
-permalink: /cd-dvd-emulation-tool-for-windows-7-a168ee51778e
+description: This post is about a CD/DVD emulation tool for Windows 7.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /cd-dvd-emulation-tool-for-windows-7-a168ee51778e
+tags: windows
+title: CD/DVD Emulation Tool for Windows 7
 ---
 I have been testing Windows 7 Public Beta for about a week. It runs really smooth except that Daemon Tools cannot be installed correctly. Windows 7 actually displays a notification when I try to install such software, so I can know it is not yet compatible with this Beta build.
 

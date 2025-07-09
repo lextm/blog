@@ -6,7 +6,7 @@ image:
   path: /images/home-2011.jpg
 layout: post
 permalink: /somewhere-called-home-93e321b37a25
-tags: others
+tags: work-life
 title: Somewhere Called Home
 ---
 Wish I can move in sooner. Yes, a place called home.

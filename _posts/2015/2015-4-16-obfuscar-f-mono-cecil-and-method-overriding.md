@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Obfuscar: F#, Mono.Cecil, and Method Overriding"
-description: "This post is about how Obfuscar handles F# assemblies."
-tags: .NET Mono
+title: 'Obfuscar: F#, Mono.Cecil, and Method Overriding'
+description: This post is about how Obfuscar handles F# assemblies.
+tags: .net mono
 permalink: /obfuscar-f-mono-cecil-and-method-overriding-f91dca4d13ba
 excerpt_separator: <!--more-->
 ---

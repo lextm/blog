@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "GrapeVine Voice: Stronger coreide.bpl"
-description: "This post describes about GrapeVine release and the breaking changes observed."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-stronger-coreide-bpl-b49696307989
+description: This post describes about GrapeVine release and the breaking changes
+  observed.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-stronger-coreide-bpl-b49696307989
+tags: delphi
+title: 'GrapeVine Voice: Stronger coreide.bpl'
 ---
-
 When I switched to CodeGear RAD Studio 2007 IDE (BDS 5), I found that an exception occurred after closing the IDE if CBC was installed. Yep, it seemed that some pluses had bugs.
 
 Today I tried again. After disabling WiseEditor, NFamily, and Utilities pluses, the exception had gone. So I will try to locate which features cause the exception. Luckily CBC has a flexible plug-in architecture, so every feature can be turned on/off easily. I believe soon the bug will be found and fixed.

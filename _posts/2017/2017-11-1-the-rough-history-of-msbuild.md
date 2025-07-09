@@ -4,7 +4,7 @@ description: A post about the rough history of MSBuild and interesting stories b
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-rough-history-of-msbuild-cc72a217fa98
-tags: .net visual-studio mono jetbrains microsoft
+tags: .net visual-studio mono microsoft
 title: The Rough History of MSBuild
 ---
 > Again, [a Stack Overflow question](https://stackoverflow.com/questions/47061820/can-msbuild-binaries-be-used-on-their-own/47062127#47062127) triggers my ideas to write this up.

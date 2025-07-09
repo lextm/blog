@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Product Review: Visual Intercept and SourceGear Vault"
-description: "This post talks about my experience with Visual Intercept and SourceGear Vault."
-tags: Windows
-permalink: /product-review-visual-intercept-and-sourcegear-vault-5c4da5493a07
+description: This post talks about my experience with Visual Intercept and SourceGear
+  Vault.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /product-review-visual-intercept-and-sourcegear-vault-5c4da5493a07
+tags: .net asp.net windows
+title: 'Product Review: Visual Intercept and SourceGear Vault'
 ---
 You can check the result of poll on this blog right now: I am asking if you'd like to use a .NET application. The result shows more people prefer not.
 

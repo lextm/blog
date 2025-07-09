@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Specification Document Draft Published"
-description: "This post is about the specification document for #SNMP."
-tags: SNMP
-permalink: /snmp-design-specification-document-draft-published-14078359972c
+description: 'This post is about the specification document for #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-specification-document-draft-published-14078359972c
+tags: sharpdevelop snmp
+title: '#SNMP Design: Specification Document Draft Published'
 ---
 > This is an invitation to everyone interested in #SNMP.
 

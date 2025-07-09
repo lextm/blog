@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "#SNMP Design: Time for Parser Details, Part Four"
-description: "This post talks about the OID/IID textual form."
-tags: SNMP
+title: '#SNMP Design: Time for Parser Details, Part Four'
+description: This post talks about the OID/IID textual form.
+tags: snmp
 permalink: /snmp-design-time-for-parser-details-part-four-f856d990342a
 excerpt_separator: <!--more-->
 ---

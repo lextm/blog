@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "DockPanel Suite Tip #4: Mix Different Versions"
 description: This post talks about how to mix different versions of DockPanel Suite.
-tags: DockPanel-Suite
-permalink: /dockpanel-suite-tip-4-mix-different-versions-4b09c86f1aa5
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-tip-4-mix-different-versions-4b09c86f1aa5
+tags: dockpanel-suite sharpdevelop
+title: 'DockPanel Suite Tip #4: Mix Different Versions'
 ---
-
 It is quite funny that SharpDevelop 3 uses an old version of DPS (version 2.1). This really helps me locate what changes DPS 2.2 introduces, and at last I find out how to merge these two versions to please myself.
 
 [In this post]({% post_url 2008/2008-2-21-dockpanel-suite-tip-3-make-your-apps-more-visual-studio %}) I said that the tab background colour is darker and from source code I know why and how to make it lighter. Merge a line of 2.1 source code into 2.2 source code and everything goes fine.

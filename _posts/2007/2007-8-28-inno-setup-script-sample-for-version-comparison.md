@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Inno Setup Script Sample for Version Comparison
 description: This post talks about a sample Inno Setup script for version comparison.
-tags: Inno-Setup
-permalink: /inno-setup-script-sample-for-version-comparison-d5ac8f776f1d
 excerpt_separator: <!--more-->
+layout: post
+permalink: /inno-setup-script-sample-for-version-comparison-d5ac8f776f1d
+tags: delphi inno-setup
+title: Inno Setup Script Sample for Version Comparison
 ---
 An important feature that Inno Setup fails to provide is to uninstall old versions before installing a new version. When I prepared Code Beautifier Collection 6.0 Milestone 3, I started to think about this feature. Luckily because I have experienced Pascal script already, I soon found a way.
 <!--more-->

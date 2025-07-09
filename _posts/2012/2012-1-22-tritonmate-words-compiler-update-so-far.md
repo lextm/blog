@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: Compiler Update So Far"
-description: "This post is about the status of the new compiler for #SNMP."
-tags: SNMP
-permalink: /tritonmate-words-compiler-update-so-far-d5050e21d4e6
+description: 'This post is about the status of the new compiler for #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-compiler-update-so-far-d5050e21d4e6
+tags: antlr snmp
+title: 'TritonMate Words: Compiler Update So Far'
 ---
 Here comes some good news on the ANTLR based compiler,
 

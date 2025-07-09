@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "GrapeVine Voice: Source Public"
 description: This post talks about the source code of April 08 Release.
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-voice-source-public-3943fefa8b4c
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-voice-source-public-3943fefa8b4c
+tags: delphi
+title: 'GrapeVine Voice: Source Public'
 ---
-
 It is tonight that I finally publish all source code of April 08 Release.You can check it out following this guide.
 
 http://code.google.com/p/lextudio/source/checkout

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Another Parser Milestone, 1000+"
 description: This post is about the progress of the MIB parser.
-tags: SNMP
-permalink: /snmp-design-another-parser-milestone-1000-ff525619b835
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-another-parser-milestone-1000-ff525619b835
+tags: work-life snmp
+title: '#SNMP Design: Another Parser Milestone, 1000+'
 ---
 On September 11, I received a mail from Robert Arnold that he can provide a bunch of MIB documents. So I asked him to package them to me. All those documents are taken from this web site. Robert wrote some scripts to grab documents from the pages, so I don't need to navigate and copy contents.
 

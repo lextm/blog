@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Team Up"
-description: "This post is about the new member of #SNMP Design team."
-tags: SNMP
-permalink: /snmp-design-team-up-74d4ef676e28
+description: 'This post is about the new member of #SNMP Design team.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-team-up-74d4ef676e28
+tags: snmp
+title: '#SNMP Design: Team Up'
 ---
 Well, I am back. This time I will not only provide news and forum support, but work on both the library and the compiler as well.
 <!--more-->

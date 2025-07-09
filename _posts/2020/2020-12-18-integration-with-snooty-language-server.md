@@ -2,7 +2,7 @@
 layout: post
 title: Integration with Snooty Language Server
 description: A post that announced the reStructuredText Code for Visual Studio extension to migrate from C# based rst-antlr language server to Snooty by MongoDB.
-tags: Visual-Studio-Code
+tags: visual-studio-code
 excerpt_separator: <!--more-->
 image:
   path: /images/marriage-place.jpg

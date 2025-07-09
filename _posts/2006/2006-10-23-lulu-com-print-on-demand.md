@@ -3,7 +3,7 @@ description: 本文描述了 lulu.com 这个站点，它是一个 Print On Deman
 excerpt_separator: <!--more-->
 layout: post
 permalink: /lulu-com-print-on-demand-a93811911f5c
-tags: others
+tags: work-life
 title: 'Lulu.com: Print On Demand'
 ---
 (CSDN Oct 23, 2006)

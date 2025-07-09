@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Flickr Blog this"
 description: This post is about Flickr Blog this feature.
-tags: Others
-permalink: /flickr-blog-this-72e3626b32ed
 excerpt_separator: <!--more-->
+layout: post
+permalink: /flickr-blog-this-72e3626b32ed
+tags: work-life
+title: Flickr Blog this
 ---
 I have been using mail to blogger for a while as blogger.com has been blocked for the reason you know. However, I found it hard to embed images.
 

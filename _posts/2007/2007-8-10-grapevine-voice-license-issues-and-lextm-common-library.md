@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "GrapeVine: License Issues and Lextm Common Library"
-description: "This post talks about GrapeVine license issues."
-tags: Code-Beautifier-Collection Delphi
-permalink: /grapevine-license-issues-and-lextm-common-library-8b9a5e62f01e
+description: This post talks about GrapeVine license issues.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /grapevine-license-issues-and-lextm-common-library-8b9a5e62f01e
+tags: .net code-beautifier-collection delphi
+title: 'GrapeVine: License Issues and Lextm Common Library'
 ---
 I decide to make a small change in CBC license. That is, LeXDK Core library should be under LGPL instead of GPL.
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "RAD Studio OTA Issue Details"
 description: This post describes how I find a bug in RAD Studio OTA.
-tags: Code-Beautifier-Collection Delphi
-permalink: /rad-studio-ota-issue-details-6e111b51c005
 excerpt_separator: <!--more-->
+layout: post
+permalink: /rad-studio-ota-issue-details-6e111b51c005
+tags: .net delphi
+title: RAD Studio OTA Issue Details
 ---
 Now I'd like to introduce how I find this bug.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Windows Live and Google Updates Today"
-description: "This post talks about the latest updates of Windows Live and Google."
-tags: Windows
-permalink: /windows-live-and-google-updates-today-d3db1b82d3ce
+description: This post talks about the latest updates of Windows Live and Google.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /windows-live-and-google-updates-today-d3db1b82d3ce
+tags: work-life windows
+title: Windows Live and Google Updates Today
 ---
 Have you seen the latest version of Windows Live Writer and Messenger? Yes, today their new Betas are out (in one installer). And I am already writing this post in the new Beta of WLW.
 

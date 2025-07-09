@@ -3,7 +3,7 @@ description: This post describes my plan after the holidays.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /back-from-holidays-8f6d806ad988
-tags: others
+tags: work-life
 title: Back from Holidays
 ---
 Last week was a sweet start. However, except enjoying myself I had to work hard on my essay. Luckily, it was done.

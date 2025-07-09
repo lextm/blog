@@ -2,7 +2,7 @@
 description: A post about different ways to define VS Code extension dependencies and which might work best for your case
 excerpt_separator: <!--more-->
 layout: post
-tags: python visual-studio-code javascript typescript
+tags: visual-studio-code
 title: Different Ways to Create VS Code Extension Dependencies
 ---
 If you are developing your own VS Code extensions, you might find a need to specify dependencies on other extensions. There are more than one way to manage such relationship, so this post is going to discuss the pros and cons of each approaches, so that you can easily choose the right one for your case.

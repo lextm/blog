@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: The MIB Compiler GUI"
 description: This post is about how to design the MIB compiler GUI.
-tags: SNMP
-permalink: /snmp-design-the-mib-compiler-gui-219e6495f7a8
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-the-mib-compiler-gui-219e6495f7a8
+tags: .net snmp
+title: '#SNMP Design: The MIB Compiler GUI'
 ---
 If you played with commercial SNMP products for developers, you may notice how they were designed. For example, SilverCreek combines the compiler with the browser while MGSoft splits them into separate executables. Therefore, I think it is time to decide how to design #SNMP Browser and Compiler.
 <!--more-->

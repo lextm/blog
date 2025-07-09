@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "MonoDevelop for Windows"
 description: This post is about MonoDevelop for Windows.
-tags: Mono .NET
-permalink: /monodevelop-for-windows-c99aea1c7590
 excerpt_separator: <!--more-->
+layout: post
+permalink: /monodevelop-for-windows-c99aea1c7590
+tags: .net mono sharpdevelop
+title: MonoDevelop for Windows
 ---
 It is reported that future versions of MonoDevelop will run on Mac OS X and Windows. That is nice news. But I wonder who will use MD on Windows? What more it can bring when SharpDevelop is already there.
 <!--more-->

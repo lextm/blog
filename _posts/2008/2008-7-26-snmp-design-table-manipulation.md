@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "#SNMP Design: Table Manipulation"
-description: "This post talks about the table manipulation in #SNMP."
-tags: SNMP
-permalink: /snmp-design-table-manipulation-6f8353bc9ebc
+description: 'This post talks about the table manipulation in #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /snmp-design-table-manipulation-6f8353bc9ebc
+tags: snmp
+title: '#SNMP Design: Table Manipulation'
 ---
 I believe the table manipulation is one of the hardest things in SNMP world. Therefore, I have tried my best to make it simple for #SNMP users.
 

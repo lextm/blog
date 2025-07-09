@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Overseer: Use It For .NET"
-description: "This post talks about Overseer, a logging tool for .NET."
-tags: .NET
-permalink: /overseer-use-it-for-net-efff10eed378
+description: This post talks about Overseer, a logging tool for .NET.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /overseer-use-it-for-net-efff10eed378
+tags: .net
+title: 'Overseer: Use It For .NET'
 ---
 I loved CodeSite. During the short trial, I found it easy to log most information I needed in a friendly way. But then I turned to C# and .NET and thought that I could not use CodeSite anymore. I was totally wrong, because soon CodeSite added support to .NET.
 <!--more-->
