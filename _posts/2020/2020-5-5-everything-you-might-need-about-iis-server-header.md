@@ -27,6 +27,12 @@ _Figure 1 Normal IIS 200 Response_
 
 > Also note that some security scan might indicates revealing your web server type is an issue and you should remove such Server headers. However, it is really not a solid suggestion, because the server type can be detected from other response behaviors, so you cannot really hide that.
 
+> The screen shot uses Fiddler, but you can use any other HTTP debugging tool such as Postman, curl, or even your browser's developer tools. An option I often use on a Windows Server, however, is to use PowerShell to send HTTP requests and see the response headers. For example,
+>
+> ```powershell
+> Invoke-WebRequest -Uri "https://halfblood.pro" | Select-Object -ExpandProperty Headers
+> ```
+
 ## Alternative Server Header in Some Error Responses
 
 But can IIS return a different Server header? Sure. If we intentionally send a broken request, we can trigger a completely different response Server header like in Figure 2,
