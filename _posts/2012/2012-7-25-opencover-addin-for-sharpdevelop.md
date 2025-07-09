@@ -1,7 +1,5 @@
 ---
-categories: [Programming Languages]
-- History
-- .NET
+categories: [History, .NET]
 description: This post is about OpenCover addin for SharpDevelop.
 excerpt_separator: <!--more-->
 layout: post

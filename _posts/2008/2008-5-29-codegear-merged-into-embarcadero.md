@@ -1,7 +1,5 @@
 ---
-categories: [Miscellaneous]
-- History
-- Delphi
+categories: [History, Delphi]
 description: This post talks about the merger of CodeGear into Embarcadero.
 excerpt_separator: <!--more-->
 layout: post
