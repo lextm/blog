@@ -57,6 +57,12 @@ if token_handle_str:
     logging.warning(f'Request initiated by user {user}')
 ```
 
+Note that the `win32api` and `win32security` modules are part of the `pywin32` package, which can be installed via pip:
+
+```bash
+pip install pywin32
+```
+
 ### Ruby Example
 
 Here is an example of how to access the Windows authentication information in a Ruby web app:
