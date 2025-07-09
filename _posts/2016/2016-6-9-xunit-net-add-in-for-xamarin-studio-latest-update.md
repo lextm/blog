@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "xUnit.NET Add-in for Xamarin Studio: Latest Update"
-description: "This post is about the latest update of xUnit.NET add-in for Xamarin Studio, such as support for Xamarin Studio 6.x."
-tags: .NET Mono
-permalink: /xunit-net-add-in-for-xamarin-studio-latest-update-b9ef69414f54
+description: This post is about the latest update of xUnit.NET add-in for Xamarin Studio, such as support for Xamarin Studio 6.x.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /xunit-net-add-in-for-xamarin-studio-latest-update-b9ef69414f54
+tags: .net mono xamarin xunit
+title: 'xUnit.NET Add-in for Xamarin Studio: Latest Update'
 ---
 In last post I talked about how I made a fork to support Xamarin Studio 5.x series (as well as MonoDevelop 5.x). It was clearly a milestone, but not good enough as Xamarin Studio 6.x was at the door.
 <!--more-->
@@ -21,6 +21,6 @@ Of course, he contributed [another important patch](https://github.com/xunit/xam
 
 And that patch works for both 5.x and 6.x versions of xUnit.NET add-in. Whoa!
 
-In the meantime, Sergey (x2bool) has been kind enough to hand over the origin repo to me (what an honor). All development works in my fork have been upstreamed since then.
+In the meantime, Sergey (x2bool) has been kind enough to hand over the origin repo to me (what an honor). All development works in my fork have been sent to upstream since then.
 
 Now Xamarin Studio 6.0 has finally moved from beta channel to stable channel, and hope you enjoy the xUnit.NET add-in. Hat off to z28wang, and thank him so much for helping me out.

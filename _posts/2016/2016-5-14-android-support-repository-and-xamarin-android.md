@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Android Support Repository and Xamarin.Android"
-description: "This post is about how Android Support Repository works with Xamarin.Android."
-tags: .NET
-permalink: /android-support-repository-and-xamarin-android-4d7de680bcf2
+description: This post is about how Android Support Repository works with Xamarin.Android.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /android-support-repository-and-xamarin-android-4d7de680bcf2
+tags: .net android xamarin
+title: Android Support Repository and Xamarin.Android
 ---
 I have been playing with Xamarin.Android a little bit recently, and discovered some interesting facts about its compilation. This post focuses on the issues and also digs out the details behind the error messages.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "The 2015 of LeXtudio and Me"
 description: This post is about what I have done in 2015.
-tags: Others
-permalink: /the-2015-of-lextudio-and-me-9a920c3ef836
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-2015-of-lextudio-and-me-9a920c3ef836
+tags: others
+title: The 2015 of LeXtudio and Me
 ---
 2015 was a fantastic year for LeXtudio and me. So below is a summary on what were the achievements.
 <!--more-->
@@ -15,7 +15,7 @@ There are several open source projects under the LeXtudio brand, and each of the
 
 ### #SNMP
 
-#SNMP Library has been quiet for a long while after I published its 8.5 release in Feb 2015. But in fact I have been working on a .NET Core 5 port throughout the year, in order to chase what Microsoft has been developing. So if everything turns out to be fine, in early 2016 a new build will be delivered.
+\#SNMP Library has been quiet for a long while after I published its 8.5 release in Feb 2015. But in fact I have been working on a .NET Core 5 port throughout the year, in order to chase what Microsoft has been developing. So if everything turns out to be fine, in early 2016 a new build will be delivered.
 
 Its twin project, #SNMP Pro, continues to grow and has new customers applied trials and purchased. We will definitely see more improvements in 2016.
 
