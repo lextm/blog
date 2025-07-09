@@ -87,3 +87,9 @@ By leveraging `sphinx-polyversion`, we simplified the management of multiple ver
 If you're interested in hosting multiple versions of Sphinx documentation, I recommend giving `sphinx-polyversion` a try. It’s a powerful yet simple tool that could be the solution you're looking for.
 
 > We don't intend to cover all possible features of `sphinx-polyversion` in this post. If you have specific questions or need help with your Sphinx documentation, feel free to reach out to its creator.
+
+## Extending the Solution
+
+If you don't use `poetry` but maybe `uv`, you can still use `sphinx-polyversion` with some modifications. The key is to ensure that the environment is set up correctly for each version of your project. You can create a custom script to handle the environment setup and build process, similar to what `sphinx-polyversion` does.
+
+I left some hints in [this GitHub issue](https://github.com/real-yfprojects/sphinx-polyversion/issues/35) and you might want to check that out.
