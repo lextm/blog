@@ -1,9 +1,9 @@
 ---
 categories: [History, .NET]
-description: A post about the rough history of .NET Framework Reference Source and interesting stories around it.
+description: Explore the evolution of .NET Framework Reference Source from closed source to open source, its impact on developers, and how it relates to modern .NET platforms.
 excerpt_separator: <!--more-->
 layout: post
-tags: .net visual-studio microsoft
+tags: .net visual-studio microsoft open-source windows
 title: The Rough History of .NET Framework Reference Source
 ---
 > Again this post comes from [a Stack Overflow thread](https://stackoverflow.com/questions/65278997/is-it-somehow-possible-to-see-unit-tests-which-covers-microsoft-referencesource).

@@ -1,12 +1,12 @@
 ---
-description: A post about IIS Server header and how to get rid of it with proper steps.
+description: Complete guide to managing IIS Server HTTP headers, including how to remove or modify them for improved security, with detailed explanations of http.sys behavior.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Vancouver Convention Center.
   path: /images/vancouver-convention-center.jpg
 layout: post
 permalink: /everything-you-might-need-about-iis-server-header-58ca268547be
-tags: iis microsoft windows
+tags: iis microsoft windows powershell
 title: Everything You Might Need About IIS Server Header
 ---
 When testing some requests/responses on IIS with a good utility such as Telerik Fiddler, you might discover much more information than using a browser.
