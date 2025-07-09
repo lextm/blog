@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Delphi中安装OCX的最新说明"
-description: "这篇文章讲述了 Delphi 中安装 OCX 的最新说明。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /delphi中安装ocx的最新说明-42cbc1be430e
+description: 这篇文章讲述了 Delphi 中安装 OCX 的最新说明。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /delphi中安装ocx的最新说明-42cbc1be430e
+tags: delphi
+title: Delphi中安装OCX的最新说明
 ---
 (CSDN May 11, 2007)
 

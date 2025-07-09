@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Free CodeSmith"
-description: "This post describes the free version of CodeSmith."
-tags: Others
-permalink: /free-codesmith-2c7ba569b056
+description: This post describes the free version of CodeSmith.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /free-codesmith-2c7ba569b056
+tags: .net
+title: Free CodeSmith
 ---
 Although CodeSmith has turned to be a commercial product, it has a free version 2.6.
 

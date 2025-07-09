@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "ServiceController Extensions"
-description: "This post describes how to get the executable name of a Windows service."
-tags: Windows .NET
-permalink: /servicecontroller-extensions-de5af7a92903
+description: This post describes how to get the executable name of a Windows service.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /servicecontroller-extensions-de5af7a92903
+tags: .net windows
+title: ServiceController Extensions
 ---
-
 In the afternoon I had to do something with Windows services. As a result a better `ServiceController` should be used to know the executable name.
 
 I searched on CodeProject.com. Yes, there is an old article. In the comments section, the technique was mentioned that `System.Management `should be used.

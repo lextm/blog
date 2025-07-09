@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Back from Holidays"
-description: "This post describes my plan after the holidays."
-tags: Code-Beautifier-Collection Delphi
-permalink: /back-from-holidays-8f6d806ad988
+description: This post describes my plan after the holidays.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /back-from-holidays-8f6d806ad988
+tags: others
+title: Back from Holidays
 ---
 Last week was a sweet start. However, except enjoying myself I had to work hard on my essay. Luckily, it was done.
 

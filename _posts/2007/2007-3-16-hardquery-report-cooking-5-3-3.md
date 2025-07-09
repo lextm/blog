@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "HardQuery Report: Cooking 5.3.3"
-description: This post is about the progress of HardQuery, specifically related to migrating from NAnt to MSBuild.
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-cooking-5-3-3-da1bb8fdb78f
+description: This post is about the progress of HardQuery, specifically related to
+  migrating from NAnt to MSBuild.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-cooking-5-3-3-da1bb8fdb78f
+tags: .net code-beautifier-collection
+title: 'HardQuery Report: Cooking 5.3.3'
 ---
 I have to confess that before I started to replace NAnt script with MSBuild script I never thought it costed me so much time.
 

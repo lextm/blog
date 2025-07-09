@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "The Loss Of OptimizeIt"
-description: "This post describes the story of OptimizeIt."
-tags: .NET
-permalink: /the-loss-of-optimizeit-cf0ad18031c
+description: This post describes the story of OptimizeIt.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-loss-of-optimizeit-cf0ad18031c
+tags: java .net
+title: The Loss Of OptimizeIt
 ---
 When Borland acquired OptimizeIt, we saw the new products bundled in JBuilder and Delphi. I never touch the Java piece but it seems to be wonderful. The only piece I tested was Optimizeit Profiler for .NET which was not quite powerful and useful.
 

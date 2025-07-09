@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Why I love taking buses now?"
-description: "This post is about why I love taking buses now."
-tags: Others
-permalink: /why-i-love-taking-buses-now-35ca03865d7c
+description: This post is about why I love taking buses now.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /why-i-love-taking-buses-now-35ca03865d7c
+tags: others
+title: Why I love taking buses now?
 ---
 (CSDN Jan 25, 2007)
 

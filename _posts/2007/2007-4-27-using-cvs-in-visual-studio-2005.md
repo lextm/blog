@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Using CVS in Visual Studio 2005"
-description: "This article introduces how to use CVS in Visual Studio 2005."
-tags: Visual-Studio
-permalink: /using-cvs-in-visual-studio-2005-99a59576e68f
+description: This article introduces how to use CVS in Visual Studio 2005.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /using-cvs-in-visual-studio-2005-99a59576e68f
+tags: visual-studio
+title: Using CVS in Visual Studio 2005
 ---
 I know SVN may take place of CVS some day, but now I guess it still works well. So this time I use CVSNT as my source control server. If you do not know how to get started, there is [a short introduction](http://www.codeproject.com/macro/CVS_with_VSNET.asp) on The Code Project.
 <!--more-->

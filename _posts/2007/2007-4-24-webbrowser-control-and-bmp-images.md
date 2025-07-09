@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "WebBrowser Control and BMP Images"
-description: "This post describes why to open BMP images in a WebBrowser control can be troublesome."
-tags: Windows .NET
-permalink: /webbrowser-control-and-bmp-images-855a5bb4f23f
+description: This post describes why to open BMP images in a WebBrowser control can
+  be troublesome.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /webbrowser-control-and-bmp-images-855a5bb4f23f
+tags: .net windows
+title: WebBrowser Control and BMP Images
 ---
 It is convenient to develop a WinForms application with a WebBrowser component because Word documents and other files can be opened in it. The only problem I found last week was that BMP files cannot be opened inside.
 
