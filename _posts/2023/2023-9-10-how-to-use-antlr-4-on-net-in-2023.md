@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use ANTLR 4 on .NET in 2023
-description: A post about how to use ANTLR 4 on .NET in 2023.
+description: Learn how to use ANTLR 4 on .NET in 2023 with updated runtime and tooling. This guide covers migration from older versions and highlights new features and changes.
 tags: Visual-Studio .NET ANTLR
 excerpt_separator: <!--more-->
 ---
