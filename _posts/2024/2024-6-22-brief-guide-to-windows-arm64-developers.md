@@ -47,7 +47,7 @@ The only exceptions right now are,
 
 * [HttpPlatformHandler v2 from LeXtudio Inc.]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
 * ASP.NET Core module.
-* URL Rewrite module, which has been ported to ARM64 as part of IIS Express. But you need extra steps to extract the bits from IIS Express and apply to IIS.
+* URL Rewrite module, which has been ported to ARM64 as part of IIS Express. But you need [extra steps to extract the bits from IIS Express and apply to IIS](https://github.com/lextm/rewrite-arm64).
 
 ### ASP.NET Core Module for IIS
 
