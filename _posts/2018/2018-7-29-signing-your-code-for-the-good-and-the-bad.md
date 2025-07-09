@@ -1,8 +1,8 @@
 ---
-description: A post about how to sign your code, and why you should do it.
+description: A practical guide to code signing executables and NuGet packages, including certificate installation, signing tools, and special considerations for .NET SDK projects.
 excerpt_separator: <!--more-->
 image:
-  alt: Copyright © Lex Li. Winter-trees and the moon, Montreal.
+  alt: Copyright © Lex Li. Winter-trees and new moon, Montreal.
   path: /images/trees-moon.jpg
 layout: post
 permalink: /signing-your-code-for-the-good-and-the-bad-350b25d2b38d

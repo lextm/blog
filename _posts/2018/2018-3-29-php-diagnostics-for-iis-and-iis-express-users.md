@@ -1,9 +1,9 @@
 ---
-description: A post about the new PHP Diagnostics for IIS and IIS Express and why it is important.
+description: Introduction to PHP Diagnostics in Jexus Manager, a tool that helps diagnose PHP configuration issues on IIS by analyzing settings and providing guidance on proper installation.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /php-diagnostics-for-iis-and-iis-express-users-ba8beeb99f0c
-tags: iis php jexus-manager
+tags: iis php jexus-manager windows
 title: PHP Diagnostics for IIS and IIS Express Users
 ---
 Jexus Manager already has many diagnostics wizards for different purposes,

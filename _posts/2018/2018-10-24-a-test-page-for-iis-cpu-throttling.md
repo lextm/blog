@@ -1,5 +1,5 @@
 ---
-description: A post about how to test IIS CPU throttling feature.
+description: How to create and use a simple ASP.NET test page to simulate CPU usage and effectively test IIS CPU throttling feature for web application resource management.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Autumn leaves, Montreal.

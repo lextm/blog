@@ -1,5 +1,5 @@
 ---
-description: A post about the integration between JetBrains Rider and IIS Express.
+description: Exploring JetBrains Rider's integration with IIS Express, including configuration management, hidden applicationHost.config files, and standard output capturing for debugging.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Autumn time at Columbia University.

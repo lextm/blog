@@ -1,12 +1,12 @@
 ---
-description: 'A post about the new Bouncy Castle extensions for #SNMP Library and why you might need them.'
+description: 'Introducing Bouncy Castle extensions for #SNMP Library that provide pure managed code implementations of encryption algorithms removed from .NET Core, including AES privacy providers.'
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Washington Monument.
   path: /images/washington-monument.jpg
 layout: post
 permalink: /snmp-library-bouncy-castle-extensions-e85333583bb4
-tags: .net snmp
+tags: .net snmp open-source
 title: '#SNMP Library, Bouncy Castle Extensions'
 ---
 Microsoft decided to make a few encryption algorithms obsolete in .NET Core. Everyone knows they did this for good. But the crude fact is that many existing things unfortunately depend on such algorithms, whether you like it or not.

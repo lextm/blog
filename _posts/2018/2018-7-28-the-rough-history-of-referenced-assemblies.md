@@ -1,13 +1,13 @@
 ---
 categories: [History, .NET]
-description: A post about the rough history of referenced assemblies and interesting stories behind them.
+description: A deep dive into the evolution of referenced assemblies in .NET, from .NET Framework 1.x to .NET Core, including their role in target frameworks, SKUs, and cross-platform development.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Clouds reflected in the canal, Montreal.
   path: /images/clouds-canal.jpg
 layout: post
 permalink: /the-rough-history-of-referenced-assemblies-7d752d92c18c
-tags: .net mono msbuild visual-studio
+tags: .net mono msbuild visual-studio microsoft
 title: The Rough History of Referenced Assemblies
 ---
 This post tries to fill the gaps left in the compiler history post. You can find all other posts I wrote in [the index page]({% post_url 2017/2017-11-2-all-in-one-for-the-legends-of-net-materials %}).

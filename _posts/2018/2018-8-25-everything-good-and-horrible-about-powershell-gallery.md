@@ -1,5 +1,5 @@
 ---
-description: A post about my experience on PowerShell Gallery and why I decided to give up.
+description: The challenges and experiences of publishing PowerShell modules to PowerShell Gallery, including account verification issues and PowerShellGet module requirements.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Street at night, Montreal.

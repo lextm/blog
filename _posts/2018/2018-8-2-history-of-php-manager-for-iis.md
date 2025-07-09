@@ -1,6 +1,6 @@
 ---
 categories: [History, IIS]
-description: A post about the history of PHP Manager for IIS and how I got involved.
+description: The complete history of PHP Manager for IIS from its creation by Ruslan Yakushev to its revival as version 2.0, including details on PHP integration with IIS and FastCGI.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Crossroad on rue Wellington, Montreal.

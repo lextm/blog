@@ -1,5 +1,5 @@
 ---
-description: A post about the process model of ASP.NET Core on IIS and why you should know it.
+description: Detailed explanation of ASP.NET Core's execution model on IIS, including the relationship between w3wp.exe and Kestrel, process creation, and debugging considerations.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /a-closer-look-at-asp-net-core-execution-model-b3c332f6ed1

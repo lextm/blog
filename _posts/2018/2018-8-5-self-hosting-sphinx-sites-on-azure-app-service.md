@@ -1,12 +1,12 @@
 ---
-description: A post about how I self-hosted Sphinx sites on Azure App Service.
+description: A comprehensive guide on migrating Sphinx documentation sites from Read The Docs to Azure App Service, including GitHub integration, Google Analytics, and URL rewriting.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Trees near the old port, Montreal.
   path: /images/trees-old-port.jpg
 layout: post
 permalink: /self-hosting-sphinx-sites-on-azure-app-service-a05b9db25e9a
-tags: azure iis visual-studio
+tags: azure iis visual-studio github
 title: Self-Hosting Sphinx Sites on Azure App Service
 ---
 I used to host documentation sites on Read The Docs, and [wrote about the details in previous posts]({% post_url 2015/2015-11-28-dockpanel-suite-docs-site-restructuredtext-and-visual-studio-code %}). But finally it came to an end, as over the weekend I moved all such sites to my own Azure App Service. So this post shows the details behind.

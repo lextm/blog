@@ -1,5 +1,5 @@
 ---
-description: A post about the new screenshot of Jexus Manager and the new features revealed.
+description: Introducing the updated Jexus Manager 12.0.60.0 with improved server type organization, enhanced diagnostic tools, and numerous bug fixes for better IIS management.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Jexus Manager.
