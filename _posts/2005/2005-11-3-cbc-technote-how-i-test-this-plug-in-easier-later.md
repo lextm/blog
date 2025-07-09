@@ -1,5 +1,5 @@
 ---
-description: A post about why I chose C#Builder 1.0 as the debugging host for CBC.
+description: A developer's insight into using C#Builder 1.0 IDE as a lightweight testing environment for Borland Developer Studio plugins, explaining the advantages of faster launch times, simpler debugging, and compatible API structures compared to the more resource-intensive Delphi environments.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-how-i-test-this-plug-in-easier-later-96cd9dafd9da

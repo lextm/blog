@@ -1,9 +1,9 @@
 ---
-description: A post about when to use code beautifiers and how to avoid the pitfalls.
+description: Best practices for using code beautifiers effectively, emphasizing the importance of good manual formatting habits, awareness of tool limitations and potential bugs, and the critical need for regular source code backups when using automated formatting tools.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-use-beautifiers-properly-cd446deaf8e6
-tags: delphi code-beautifier-collection .net
+tags: delphi code-beautifier-collection .net open-source
 title: 'CBC TechNote: Use Beautifiers Properly?'
 ---
 (Written on 2005–10–16; originally published to CSDN on Nov 03, 2005; modified and republished.)

@@ -1,5 +1,5 @@
 ---
-description: A post about why I give up programming competitions.
+description: A personal reflection on why programming competitions might not be worthwhile despite attractive prizes, discussing limitations like strict time constraints, required multitasking, and lack of innovation that make these events less appealing for developers focused on quality and creativity.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /programming-competitions-hard-to-say-i-love-u-b5fa84d2b158

@@ -1,5 +1,5 @@
 ---
-description: 介绍了我参加 Delphi 2006武汉发布会的一些感受。
+description: 作者分享参加武汉Delphi 2006发布会的亲身体验，包括与《Borland传奇》作者李维的交流、Delphi 2006新特性演示、ECO状态机、Together代码分析工具的现场展示，以及对FastMM和FastCode项目的介绍。文章生动描绘了一位开发者对技术大师和新产品的热忱。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /追星行动1-参加delphi-2006发布会见闻-version-0-1-b31b2f64c9ab

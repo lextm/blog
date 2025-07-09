@@ -1,9 +1,9 @@
 ---
-description: A post about why I chose JCF and AStyle as code beautifiers for CBC.
+description: An explanation of the technical decisions behind selecting JEDI Code Format (JCF) and AStyle as the foundation for Code Beautifier Collection, detailing their open-source nature, command-line capabilities, and respective strengths in formatting different programming languages.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-why-i-choose-jcf-and-astyle-b4cf28311f72
-tags: code-beautifier-collection delphi .net
+tags: code-beautifier-collection delphi .net open-source
 title: 'CBC TechNote: Why I choose JCF and AStyle'
 ---
 (Originally published to CSDN on Nov 03, 2005)

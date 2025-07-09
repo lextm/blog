@@ -1,5 +1,5 @@
 ---
-description: A post about the critical bug in CBC 2.2.
+description: An apology to users who downloaded Code Beautifier Collection 2.2, explaining a critical bug that causes error messages when attempting to format files, with assurance that version 2.3 is in development and will fix the issue after thorough testing.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /big-sorry-goes-to-those-who-had-downloaded-cbc-2-2-e8ac2efd3d13
