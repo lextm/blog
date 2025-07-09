@@ -1,5 +1,5 @@
 ---
-description: 本文介绍了2014上海马拉松照片服务。
+description: 本文详细介绍了2014年上海马拉松的专业照片服务，包括拍摄地点、照片规格以及如何获取原片的方式，为参赛者提供高质量的比赛纪念照。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /2014上海马拉松照片服务-e156e6a5c25e

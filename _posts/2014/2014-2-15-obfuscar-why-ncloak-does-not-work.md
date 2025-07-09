@@ -1,9 +1,9 @@
 ---
-description: This post talks about why NCloak does not work.
+description: Analysis of NCloak obfuscator's compatibility issues and evaluation of its features for potential integration with Obfuscar, focusing on code optimization and MSIL manipulation capabilities.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /obfuscar-why-ncloak-does-not-work-f4ed152f06dd
-tags: .net mono
+tags: .net mono obfuscar open-source
 title: 'Obfuscar: Why NCloak Does Not Work'
 ---
 Mono.Cecil is an important library which enables very easy MSIL/CIL manipulation. Upon it several projects are built, both commercial and open source. In obfuscator land, Obfuscar is such a typical example, but it is obviously not the only one.

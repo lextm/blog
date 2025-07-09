@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the future of #SNMP and how it will support Portable Class Library.'
+description: 'Analysis of implementing Portable Class Library (PCL) for #SNMP library to enable cross-platform development across .NET, Xamarin.iOS, and Xamarin.Android platforms.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-and-portable-class-library-52ce3ff6d47

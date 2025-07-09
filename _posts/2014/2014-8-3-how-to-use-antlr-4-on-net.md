@@ -1,9 +1,8 @@
 ---
 layout: post
 title: How to Use ANTLR 4 on .NET
-description: Learn how to effectively use ANTLR 4 on .NET and optimize your parsing
-  experience.
-tags: .net antlr
+description: Complete guide to migrating from ANTLR 3 to ANTLR 4 in .NET projects, including NuGet package configuration, grammar file conversion techniques, and debugging approaches.
+tags: .net antlr visual-studio
 permalink: /how-to-use-antlr-4-on-net-4361915b670f
 excerpt_separator: <!--more-->
 ---

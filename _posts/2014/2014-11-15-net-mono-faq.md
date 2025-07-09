@@ -1,5 +1,5 @@
 ---
-description: 本文是对.NET 开放源代码和 Mono 相关的常见问题的总结。
+description: 关于 .NET 开源和 Mono 项目的常见问题解答，包括两者的关系、微软开源策略的演变、以及 Xamarin 与 Mono 的区别等关键问题的详细解析。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /net-开放源代码和mono相关的常见问题-持续更新中-2e74e039945d

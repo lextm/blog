@@ -1,9 +1,9 @@
 ---
-description: This post is about the recent release cycles of Mono.
+description: Critical examination of Mono project's release cycle challenges, including undocumented stable releases, package availability issues, and practical guidance on selecting stable Mono versions for development.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /observation-on-mono-release-cycle-ad4ef995cd19
-tags: linux mono
+tags: linux mono open-source
 title: Observation on Mono Release Cycle
 ---
 In recently months (I personally think starting from the Xamarin phase), it has been a misery to know which Mono release is stable. This project goes a little in the way of Android, that

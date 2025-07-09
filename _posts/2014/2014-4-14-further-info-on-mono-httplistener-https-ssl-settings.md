@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to configure Mono HttpListener HTTPS/SSL settings.
+description: Practical guide to configuring HTTPS/SSL for Mono's HttpListener on Linux, including certificate preparation, PVK conversion, and port configuration using httpcfg utility.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /further-info-on-mono-httplistener-https-ssl-settings-d4cf0bfc4211

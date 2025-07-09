@@ -1,9 +1,9 @@
 ---
-description: 本文介绍了 .NET Framework 和 Mono 历史上的大事件。
+description: 详细时间线记录了 .NET Framework 和 Mono 项目从 2000 年至 2014 年的重要发展里程碑，包括关键版本发布、公司收购、开源协议变更等重大事件。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /net-framework和mono大事记-初稿-c41fd8a8bc97
-tags: .net asp.net mono xamarin
+tags: .net asp.net mono xamarin microsoft open-source
 title: .NET Framework和Mono大事记（初稿）
 ---
 * June 2000, .NET Framework Beta 发布[1]

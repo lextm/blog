@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了别人家的小孩是我童年时候的梦魇。
+description: 一篇回忆性文章，讲述作者童年时期受到"别人家的孩子"（吴大哥）的影响，以及多年后通过互联网了解到这位前辈创业经历的感悟和思考。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /别人家的小孩-bc0a5face876

@@ -1,9 +1,9 @@
 ---
-description: 本文介绍了 Mono 历史中的一个片段，Novell 公司的崩溃和 Xamarin 公司的诞生。
+description: 本文详细记录了 Mono 项目历史中的重要片段，探讨 Novell 公司的衰落以及 Xamarin 公司如何从中重生，继承 Mono 技术并推动其发展。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /mono历史片段-novell的崩溃和xamarin的浴火重生-bf1dd7b8621b
-tags: .net mono xamarin
+tags: .net mono xamarin open-source
 title: Mono历史片段：Novell的崩溃和Xamarin的浴火重生
 ---
 Novell 是一家神奇的技术公司[1]，它自行开发和收购了很多不错的软件和标准，包括但不限于 NetWare，IPX，WordPerfect，Quattro Pro，Unix，SUSE和Mono。和它曾有心挑战微软的霸权，虽然最后以失败收场，但是在整个开源运动的过程中，它所扮演的角色无可取代，

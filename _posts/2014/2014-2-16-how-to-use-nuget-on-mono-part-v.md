@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to use NuGet on Mono, Part V.
+description: Latest status report on NuGet compatibility with Mono 3.2.7, highlighting specific issues with package restoration and building related to xbuild bugs.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-nuget-on-mono-part-v-e9918bb954c2

@@ -1,9 +1,9 @@
 ---
-description: This post describes how Mono.Cecil and Portable Class Libraries are related.
+description: Technical exploration of compatibility issues between Mono.Cecil and Portable Class Libraries in Obfuscar, including reference assembly problems and proposed solutions.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /obfuscar-mono-cecil-and-portable-class-libraries-40ac70755d50
-tags: .net mono
+tags: .net mono obfuscar open-source
 title: 'Obfuscar: Mono.Cecil and Portable Class Libraries'
 ---
 It must be a pain to see that Mono.Cecil includes PCL support, but you still find PCL breaks Mono.Cecil based utilities, such as Obfuscar. Forgive us, as Microsoft designs it in a horrible way. There is still too much to be changed so as to catch up. Let's see two examples below.
