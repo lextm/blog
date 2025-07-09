@@ -4,7 +4,7 @@ description: This post is about Windows Installer Service Breaking Change on Win
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-installer-service-breaking-change-on-windows-8-93547462fa3a
-tags: windows
+tags: windows microsoft visual-studio
 title: Windows Installer Service Breaking Change on Windows 8
 ---
 Windows Installer team published [a nice blog post](https://learn.microsoft.com/archive/blogs/windows_installer_team/windows-installer-troubleshooting-tips-from-halloween) about how to detect whether Windows Installer is busy with an MSI package.
@@ -16,7 +16,7 @@ And the recommendation was
 Hi guys, why do you change this on Windows 8?
 <!--more-->
 
-I just found that on my Windows 8 Enterprise box I could not install Expression Studio 4 or Windows Phone SDK 7.1, as the setup.exe thinks Windows Installer is busy. So I launched Visual Studio 2012 and wrote the following code,
+I just found that on my Windows 8 Enterprise box I could not install Expression Studio 4 or Windows Phone SDK 7.1, as the `setup.exe` thinks Windows Installer is busy. So I launched Visual Studio 2012 and wrote the following code,
 
 {% gist 3888301 %}
 

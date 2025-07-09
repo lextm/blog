@@ -20,7 +20,7 @@ Besides, many popular Windows applications (Skype, FlashGet and so on) might als
 So for beginners it is puzzling to see which process uses a certain port. But in fact, to locate the process, you only need two simple steps.
 
 ``` bash
-C:\Program Files\Microsoft Visual Studio 9.0\VC>netstat -aon | findstr 161
+netstat -aon | findstr 161
 UDP 0.0.0.0:161 *:* 1620
 UDP [::]:161 *:* 1620
 ```
@@ -28,7 +28,7 @@ UDP [::]:161 *:* 1620
 The command netstat outputs a table with four columns: protocol type (TCP or UDP), source endpoint (IP address:port number), destination endpoint, and process ID. So we know now 1620 is the PID of the process which monitors port 161.
 
 ``` bash
-C:\Program Files\Microsoft Visual Studio 9.0\VC>tasklist /fi "PID eq 1620"
+tasklist /fi "PID eq 1620"
 Image Name PID Session Name Session# Mem Usage
 ========================= ======== ================ =========== ============
 snmp.exe 1620 Services 0 1,180 K

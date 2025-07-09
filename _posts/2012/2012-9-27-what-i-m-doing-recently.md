@@ -3,7 +3,7 @@ description: This post is about what I'm doing recently, the book and the projec
 excerpt_separator: <!--more-->
 layout: post
 permalink: /what-im-doing-recently-71cb38b0d35a
-tags: delphi dockpanel-suite
+tags: work-life
 title: What I'm Doing Recently
 ---
 This blog has been quiet for a while, as I have been pretty busy on several projects, but trapped on an 2007 laptop.

@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讨论了 UNIX 和 Linux 操作系统诞生和壮大的历史故事。
+description: 这篇文章汇编了 UNIX 和 Linux 操作系统诞生和发展的历史相关链接。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /一些链接的汇编-从unix到linux和unix的复兴-2b3ce2d69861
