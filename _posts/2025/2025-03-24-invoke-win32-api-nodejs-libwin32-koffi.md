@@ -28,49 +28,58 @@ npm install libwin32 koffi
 
 While `Koffi` is a powerful library for defining and invoking native functions including Win32 API, `libwin32` simplifies the process by providing pre-defined wrappers for commonly used APIs. This abstraction reduces boilerplate code and makes it easier for developers to get started.
 
-## Example: Comparing libwin32 and Koffi
+## Example: Using libwin32 to Display a Message Box
 
-Here’s a side-by-side comparison of retrieving the current user name using both libraries:
+`libwin32` makes it easy to call Win32 API functions like `MessageBoxW` to display a message box. Here’s an example:
 
-### Using Koffi
+```javascript
+const { MessageBox } = require('libwin32/user32');
+
+try {
+  const result = MessageBox(null, 'Hello, World!', 'Sample Message', 0);
+  console.log(`MessageBox result: ${result}`);
+} catch (error) {
+  console.error('Failed to display the message box:', error);
+}
+```
+
+### Explanation
+
+1. **Function**: `MessageBoxW` is a Win32 API function that displays a modal dialog box containing a message and buttons.
+2. **Parameters**:
+   - `null`: The handle to the owner window (set to `null` for no owner).
+   - `'Hello, World!'`: The message to display.
+   - `'Sample Message'`: The title of the message box.
+   - `0`: The type of buttons and icons to display (e.g., `0` for OK button only).
+3. **Result**: The return value indicates which button the user clicked.
+
+This example demonstrates how `libwin32` simplifies the process of calling Win32 API functions in Node.js.
+
+## Example: Using Koffi to Display a Message Box
+
+If you prefer more control and flexibility, you can use `Koffi` to define and call the `MessageBoxW` function manually. Here’s how:
 
 ```javascript
 const { load } = require('koffi');
 
-// Load the advapi32.dll library
-const advapi32 = load('advapi32.dll');
+// Load the user32.dll library
+const user32 = load('user32.dll');
 
-// Define the GetUserNameW function
-const GetUserNameW = advapi32.func('bool GetUserNameW(void*, void*)');
+// Define the MessageBoxW function
+const MessageBoxW = user32.func('int MessageBoxW(void*, const wchar_t*, const wchar_t*, unsigned int)');
 
-// Allocate a buffer for the user name
-const buffer = Buffer.alloc(256 * 2); // 256 WCHARs (2 bytes each)
-const bufferSize = Buffer.alloc(4); // DWORD (4 bytes)
-bufferSize.writeUInt32LE(256, 0);
-
-// Call the GetUserNameW function
-const result = GetUserNameW(buffer, bufferSize);
-
-if (result) {
-  const userName = buffer.toString('utf16le', 0, bufferSize.readUInt32LE(0) * 2);
-  console.log(`Current user name: ${userName}`);
-} else {
-  console.error('Failed to retrieve the user name.');
-}
+// Call the MessageBoxW function
+const result = MessageBoxW(null, 'Hello, World!', 'Sample Message', 0);
+console.log(`MessageBox result: ${result}`);
 ```
 
-### Using libwin32
+### Explanation
 
-```javascript
-const { GetUserName } = require('libwin32');
+1. **Library Loading**: The `load` function from `Koffi` is used to load the `user32.dll` library, which contains the `MessageBoxW` function.
+2. **Function Definition**: The `func` method is used to define the `MessageBoxW` function, specifying its return type and parameter types.
+3. **Function Call**: The `MessageBoxW` function is called with the required parameters to display a message box.
 
-try {
-  const userName = GetUserName();
-  console.log(`Current user name: ${userName}`);
-} catch (error) {
-  console.error('Failed to retrieve the user name:', error);
-}
-```
+This example demonstrates how `Koffi` provides the flexibility to define and call any Win32 API function, including those not pre-defined in `libwin32`.
 
 ### Key Differences
 
