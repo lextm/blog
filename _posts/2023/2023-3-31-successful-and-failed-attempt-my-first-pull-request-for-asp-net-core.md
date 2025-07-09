@@ -75,7 +75,9 @@ Therefore, to fix the x64 application pool crash, I thought I needed to produce 
 
 A hint called ["Arm64X pure forwarder DLL"](https://learn.microsoft.com/windows/arm/arm64x-build) was then the only option on the table, and I decided to try it out. After producing my own pure forwarders and reorganizing the ASP.NET Core bits in the Program Files folder, I was able to get both the x64 and ARM64 application pools running properly.
 
-> This article had some mistakes in it, so I sent a pull request to fix the contents separately, which was merged and published. You are now reading the fixed version.
+> Note that this article used to have some mistakes in it, so I sent a pull request to fix the contents separately, which was merged and published. You are now reading the fixed version.
+>
+> Recent versions of the Visual C++ linker (`link.exe`) have a bug that can affect the creation of pure forwarder DLLs, which may cause unexpected issues. For more details, see [dotnet/aspnetcore#62585](https://github.com/dotnet/aspnetcore/pull/62585).
 
 ## Out-Of-Process Challenges Remain
 
