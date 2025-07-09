@@ -1,5 +1,5 @@
 ---
-description: This post is about how to access SNI information in C# code.
+description: How to access Server Name Indication (SNI) certificate binding information in C# using HTTP API wrapper developed for Jexus Manager, with code samples.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-sni-support-in-http-api-wrapper-for-c-net-3c56d620b2b2

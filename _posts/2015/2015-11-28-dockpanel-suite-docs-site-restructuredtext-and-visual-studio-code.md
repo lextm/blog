@@ -1,5 +1,5 @@
 ---
-description: This post is about the new docs site for DockPanel Suite, which is built with reStructuredText and Visual Studio Code.
+description: Learn how DockPanel Suite documentation was migrated to Read the Docs using reStructuredText, and how a VS Code extension was developed to support reST editing.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-docs-site-restructuredtext-and-visual-studio-code-d9d5a6b37a0d

@@ -1,5 +1,5 @@
 ---
-description: Gain a deeper understanding of the issue of server certificate disappearance in IIS Manager and discover a comprehensive solution. Learn why this problem occurs and how to resolve it, ensuring the integrity of your certificates. Enhance your IIS management skills and avoid common pitfalls by following a step-by-step process to request and install certificates in IIS, including insights into the role of OpenSSL.
+description: Comprehensive explanation of why SSL certificates disappear in IIS Manager after installation, including the root causes related to certificate private keys and how to properly import certificates using OpenSSL.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-whole-story-of-server-certificate-disappears-in-iis-7-7-5-8-8-5-10-0-after-installing-it-why-b66e802baa38

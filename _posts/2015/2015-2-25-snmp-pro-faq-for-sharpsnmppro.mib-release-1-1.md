@@ -1,5 +1,5 @@
 ---
-description: This post is about some frequently asked questions about SharpSnmpPro.Mib release 1.1.
+description: Frequently asked questions about SharpSnmpPro.Mib 1.1, covering .NET framework requirements, upgrade policies for existing users, and availability of source code.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-faq-for-sharpsnmppro-mib-release-1-1-b68824d9220a

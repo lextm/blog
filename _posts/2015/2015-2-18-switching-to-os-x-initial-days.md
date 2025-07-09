@@ -1,5 +1,5 @@
 ---
-description: This post is about my initial days of switching to OS X.
+description: Personal experience of transitioning to a MacBook Pro from Windows, focusing on configuring Logitech wireless peripherals and resolving mouse lag issues on OS X Yosemite.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /switching-to-os-x-initial-days-54cad828abac

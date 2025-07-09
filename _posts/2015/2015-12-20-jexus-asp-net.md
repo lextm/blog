@@ -1,9 +1,9 @@
 ---
-description: 这片文章分享了关于 Jexus 和 ASP.NET 跨平台开发的一些个人看法，供有兴趣的朋友们参考。
+description: 详细介绍Jexus网站服务器如何实现ASP.NET应用的跨平台部署，以及它与微软ASP.NET 5跨平台方案的区别与优势。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-网站服务器和-asp-net-跨平台开发-e4cac4316352
-tags: .net iis jexus-manager linux windows
+tags: .net iis jexus-manager linux windows asp.net
 title: Jexus 网站服务器和 ASP.NET 跨平台开发
 ---
 一周前受衣明志大哥邀请在烟台市他主办的首届胶东开发者大会上与大家分享了关于 Jexus 和 ASP.NET 跨平台开发的一些个人看法。本文内容基本和当日的演讲一致，局部可能补充了一些额外信息，供有兴趣的朋友们参考。

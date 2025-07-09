@@ -1,5 +1,5 @@
 ---
-description: This post is about how Jexus Manager finds the proper certificate for an HTTPS binding.
+description: Detailed explanation of how IIS handles HTTPS certificate bindings, including IP-based and SNI-based mappings, and how Jexus Manager can help troubleshoot these configurations.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-the-secret-behind-iis-https-bindings-5ad3466a6db5

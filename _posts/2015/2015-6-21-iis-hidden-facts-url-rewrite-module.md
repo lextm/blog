@@ -1,5 +1,5 @@
 ---
-description: This post is about some interesting facts about IIS URL Rewrite module.
+description: Investigation of IIS URL Rewrite module's design differences from built-in IIS features, including interface inconsistencies and schema file issues discovered during Jexus Manager development.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /iis-hidden-facts-url-rewrite-module-55214414ab89

@@ -1,8 +1,8 @@
 ---
-description: 'This post is to announce the plan of #SNMP Library 9.0.'
+description: 'Roadmap for #SNMP Library 9.0 (LordGate), including async/await support, platform updates to .NET 4.5, security cache improvements, and potential .NET Core compatibility.'
 excerpt_separator: <!--more-->
 layout: post
-tags: .net snmp
+tags: .net snmp open-source
 title: 'TritonMate Words: #SNMP 9.0 Plan'
 ---
 \#SNMP Library 8.5 has been published for a while (Feb 22, 2015).

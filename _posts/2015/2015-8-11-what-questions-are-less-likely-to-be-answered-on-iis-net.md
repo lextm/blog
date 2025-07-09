@@ -1,5 +1,5 @@
 ---
-description: This post is about what questions are less likely to be answered on IIS.net forums.
+description: Guide to understanding which types of questions may not get answers on IIS.net forums, including third-party components, Microsoft products on IIS, development issues, and complex troubleshooting scenarios.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /what-questions-are-less-likely-to-be-answered-on-iis-net-49310b254eb9

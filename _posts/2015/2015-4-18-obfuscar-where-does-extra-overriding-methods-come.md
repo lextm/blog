@@ -1,8 +1,8 @@
 ---
-description: This post is about why Obfuscar warns of extra overriding methods and how to resolve that.
+description: Technical analysis of a bug in Obfuscar that creates unintended method override relationships during obfuscation, explaining the root cause and solution strategy.
 excerpt_separator: <!--more-->
 layout: post
-tags: .net mono
+tags: .net mono obfuscar
 title: 'Obfuscar: Where Does Extra Overriding Methods Come'
 ---
 An issue has been reported to me one year ago, but I could not easily fix it as the code base was not quite clear where the bug comes from exactly.

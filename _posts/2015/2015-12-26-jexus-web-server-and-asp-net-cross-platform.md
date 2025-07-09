@@ -1,5 +1,5 @@
 ---
-description: This post is about my opinions on Jexus and ASP.NET cross platform development.
+description: Discover how Jexus Web Server provides a cross-platform solution for hosting ASP.NET applications on Linux with features comparable to IIS on Windows.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-web-server-and-asp-net-cross-platform-7d3c9169a906

@@ -1,5 +1,5 @@
 ---
-description: 'This post is about how I registered #SNMP Library with US government for encryption support.'
+description: 'Guide to registering #SNMP Library with US government for encryption export compliance, including ECCN classification and notification requirements for open source projects.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-library-encryption-and-encryption-registration-2d68d88841bc
