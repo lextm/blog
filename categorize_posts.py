@@ -96,7 +96,7 @@ def update_post_categories(post_path):
                     tag_content = line.split(":", 1)[1].strip()
                     if tag_content.startswith('[') and tag_content.endswith(']'):
                         tag_content = tag_content[1:-1] # Remove brackets
-                    
+
                     # Split tags by spaces
                     raw_tags = tag_content.split()
                     current_tags = [normalize(tag) for tag in raw_tags if tag.strip()]
@@ -116,14 +116,14 @@ def update_post_categories(post_path):
     # Count tag matches for each category to determine the best category
     category_match_count = {}
     matched_tags_by_category = {}
-    
+
     for tag in current_tags:
         if tag in tag_to_category:
             category = tag_to_category[tag]
             if category not in category_match_count:
                 category_match_count[category] = 0
                 matched_tags_by_category[category] = []
-            
+
             category_match_count[category] += 1
             matched_tags_by_category[category].append(tag)
             logging.info(f"Tag '{tag}' mapped to category '{category}' for {post_path}")
@@ -137,7 +137,7 @@ def update_post_categories(post_path):
     # Select the best category (the one with the most matching tags)
     best_category = max(category_match_count.items(), key=lambda x: x[1])[0]
     logging.info(f"Selected best category '{best_category}' for {post_path} based on {category_match_count[best_category]} matching tags: {matched_tags_by_category[best_category]}")
-    
+
     # Format the categories in Jekyll format: [Category1, Category2]
     new_categories_line = f"categories: [{best_category}]\n"
 

@@ -114,13 +114,12 @@ If you encounter issues with port allocation, consider the following troubleshoo
 - **Port Conflicts**: Use tools like `netstat` or `TCPView` to identify port conflicts.
 - **Permissions**: Ensure IIS and your backend app have sufficient permissions to bind to the specified port.
 
-## Further Reading
-
-- [Running Node.js Web Apps on IIS with HttpPlatformHandler]({% post_url 2022/2022-6-11-running-nodejs-web-apps-on-iis-with-httpplatformhandler %})
-- [HttpPlatformHandler v2]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
-
 ## Conclusion
 
 Random ports simplify deployment and enhance security, but fixed ports give you more control when needed. Knowing how to configure both helps you manage your IIS-hosted apps effectively.
 
 Have you used fixed ports with HttpPlatformHandler? Let me know your experience in the comments.
+
+## Related HttpPlatformHandler Articles
+
+> This article is part of a series on using HttpPlatformHandler with IIS. To explore all related articles, please visit the [httpplatformhandler tag page](/tags/httpplatformhandler/) for the complete collection of guides and tutorials.
