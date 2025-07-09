@@ -107,6 +107,10 @@ npm install ffi-napi ref-napi ref-struct-napi
 
 However, they seem to be not working well, so I don't currently have a working sample to show here.
 
+### Go Example
+
+There is [a dedicated package](https://pkg.go.dev/github.com/mfcollins3/windowsauthtoken) for this purpose in Go.
+
 ## Conclusion
 
 This post talks about how to enable Windows authentication for HttpPlatformHandler and how to access the Windows authentication information in your web app. By following the steps in this post, you can enable Windows authentication for your web apps hosted on IIS/Windows and access the Windows authentication information in your web app.
