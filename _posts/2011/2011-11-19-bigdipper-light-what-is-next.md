@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: What Is Next"
-description: "This post is about the next release of #SNMP."
-tags: SNMP
-permalink: /bigdipper-light-what-is-next-12a1945bccb1
+description: 'This post is about the next release of #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-what-is-next-12a1945bccb1
+tags: snmp google
+title: 'BigDipper Light: What Is Next'
 ---
 Recently I submitted several new change sets to the repository, http://code.google.com/p/sharpsnmplib/source/list, which improves #SNMP compatibility with more SNMP devices.
 

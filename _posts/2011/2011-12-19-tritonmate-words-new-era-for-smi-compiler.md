@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: New Era for SMI Compiler"
-description: "This post is about the new approach to develop the SMI compiler."
-tags: SNMP
-permalink: /tritonmate-words-new-era-for-smi-compiler-bbcd83ed9bb9
+description: This post is about the new approach to develop the SMI compiler.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-new-era-for-smi-compiler-bbcd83ed9bb9
+tags: antlr snmp
+title: 'TritonMate Words: New Era for SMI Compiler'
 ---
 I just published a new RC for our 7.5 release. But this is not the most exciting news recently, as finally #SNMP 8.0 codename is finalized, as TritonMate.
 <!--more-->

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: RTM Post"
-description: "This post is about the final release of #SNMP 7.0, or BigDipper."
-tags: SNMP
-permalink: /bigdipper-light-rtm-post-a58eb789173f
+description: 'This post is about the final release of #SNMP 7.0, or BigDipper.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-rtm-post-a58eb789173f
+tags: snmp
+title: 'BigDipper Light: RTM Post'
 ---
 After almost a year, the final release of #SNMP 7.0, or BigDipper, is now available.
 

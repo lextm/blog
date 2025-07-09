@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: Knowledge Base Initialized"
-description: "This post is about the new knowledge base for #SNMP."
-tags: SNMP
-permalink: /bigdipper-light-knowledge-base-initialized-dbf222c1ed3
+description: 'This post is about the new knowledge base for #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-knowledge-base-initialized-dbf222c1ed3
+tags: snmp
+title: 'BigDipper Light: Knowledge Base Initialized'
 ---
 Just started to publish #SNMP articles in KB format, and hope I can publish more of them in the coming weeks.
 

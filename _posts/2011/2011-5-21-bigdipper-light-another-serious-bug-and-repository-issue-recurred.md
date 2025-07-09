@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: Another serious bug and repository issue recurred"
-description: "This post is about the CodePlex repository corruption of #SNMP."
-tags: SNMP
-permalink: /bigdipper-light-another-serious-bug-and-repository-issue-recurred-5eb32ee14187
+description: 'This post is about the CodePlex repository corruption of #SNMP.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-another-serious-bug-and-repository-issue-recurred-5eb32ee14187
+tags: snmp google
+title: 'BigDipper Light: Another serious bug and repository issue recurred'
 ---
 A critical bug was discovered recently and I have to admit this is a "too bad" one.
 

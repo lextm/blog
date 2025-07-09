@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "BigDipper Light: Notes on RC 2"
-description: "This post is about the release notes for #SNMP 7.0 RC 2."
-tags: SNMP
-permalink: /bigdipper-light-notes-on-rc-2-dfee378826b1
+description: 'This post is about the release notes for #SNMP 7.0 RC 2.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /bigdipper-light-notes-on-rc-2-dfee378826b1
+tags: snmp
+title: 'BigDipper Light: Notes on RC 2'
 ---
 Today, I started typing the release notes for our next major release, BigDipper, or 7.0.
 <!--more-->
