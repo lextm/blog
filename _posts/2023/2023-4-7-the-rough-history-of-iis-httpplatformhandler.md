@@ -1,9 +1,9 @@
 ---
 categories: [History, IIS]
-description: This post talks about the rough history of IIS HttpPlatformHandler and the miseries around it.
+description: Explore the complete history of IIS HttpPlatformHandler from its origins to present day, including its relationship with ASP.NET Core, common misconceptions, and guidance for implementing non-Microsoft web technologies on Windows Server and IIS.
 excerpt_separator: <!--more-->
 layout: post
-tags: .net httpplatformhandler iis visual-studio windows
+tags: .net httpplatformhandler iis visual-studio windows microsoft
 title: The Rough History of IIS HttpPlatformHandler
 ---
 Due to various misinformation around this IIS out-of-band component, I think it's worth the while to write about its history so you know what others are talking about and how some of them made mistakes.
