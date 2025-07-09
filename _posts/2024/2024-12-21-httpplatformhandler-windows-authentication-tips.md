@@ -108,96 +108,193 @@ end
 To invoke Win32 API in Node.js apps, the `libwin32` package need to be installed via npm:
 
 ```bash
-npm install libwin32
+npm install koffi
 ```
-
-> Note that you will have to wait for [my pull request](https://github.com/Septh/libwin32/pull/3) to be accepted and merged, or install the package from my fork.
 
 Then Windows authentication information can be accessed by the sample code,
 
 ```javascript
 const express = require('express');
-const win32 = require('libwin32');
+const koffi = require('koffi');
 
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.get('/', (req, res) => {
-    const tokenHandleStr = req.headers['x-iis-windowsauthtoken'];
-    if (!tokenHandleStr) {
-        console.debug('Missing x-iis-windowsauthtoken header');
-        return res.status(400).send('Missing x-iis-windowsauthtoken header');
-    }
+// Define Win32 constants
+const TokenUser = 1; // TOKEN_INFORMATION_CLASS value for TokenUser
 
-    let tokenHandle;
+// Define Win32 API structures and functions
+const kernel32 = koffi.load('kernel32.dll');
+const advapi32 = koffi.load('advapi32.dll');
+
+// Define the CloseHandle function according to Microsoft docs
+// BOOL CloseHandle(HANDLE hObject);
+const closeHandleFn = kernel32.func('bool CloseHandle(void* hObject)');
+
+// Define the GetTokenInformation function according to Microsoft docs
+// BOOL GetTokenInformation(
+//   HANDLE                  TokenHandle,
+//   TOKEN_INFORMATION_CLASS TokenInformationClass,
+//   LPVOID                  TokenInformation,
+//   DWORD                   TokenInformationLength,
+//   PDWORD                  ReturnLength
+// );
+const getTokenInformationFn = advapi32.func(
+    'bool GetTokenInformation(void* TokenHandle, int TokenInformationClass, void* TokenInformation, uint32 TokenInformationLength, void* ReturnLength)'
+);
+
+// Define the LookupAccountSidW function according to Microsoft docs
+// BOOL LookupAccountSidW(
+//   LPCWSTR       lpSystemName,
+//   PSID          Sid,
+//   LPWSTR        Name,
+//   LPDWORD       cchName,
+//   LPWSTR        ReferencedDomainName,
+//   LPDWORD       cchReferencedDomainName,
+//   PSID_NAME_USE peUse
+// );
+const lookupAccountSidWFn = advapi32.func(
+    'bool LookupAccountSidW(void* lpSystemName, void* Sid, void* Name, void* cchName, void* ReferencedDomainName, void* cchReferencedDomainName, void* peUse)'
+);
+
+// Helper function to get user information from token
+function getUserInfoFromToken(tokenHandle) {
     try {
-        tokenHandle = parseInt(tokenHandleStr, 16);
+        // Allocate buffers for token information
+        const buflen = 256; // Increase buffer size
+        const tokenInfo = Buffer.alloc(buflen);
+        const returnLength = Buffer.alloc(4); // DWORD size
 
-        const TokenUser = 1;
-        const returnLengthPtr = Buffer.alloc(8);
+        console.log(`Getting token information for handle: ${tokenHandle}`);
+        
+        // Get token information
+        const tokenInfoResult = getTokenInformationFn(
+            tokenHandle,
+            TokenUser,
+            tokenInfo,
+            buflen,
+            returnLength
+        );
 
-        const result = win32.GetTokenInformation(tokenHandle, TokenUser, null, 0, returnLengthPtr);
-
-        const lastError = win32.GetLastError();
-        if (lastError !== 122) {
-            console.debug('GetTokenInformation failed 1', lastError);
-            return res.status(500).send('GetTokenInformation failed 1');
+        if (!tokenInfoResult) {
+            const error = new Error('GetTokenInformation failed');
+            console.error(error.message);
+            throw error;
         }
 
-        const requiredSize = returnLengthPtr.readUInt32LE(0);
-        console.debug('Required size for token information', requiredSize);
-        if (requiredSize <= 0) {
-            console.debug('Invalid return length', requiredSize);
-            return res.status(500).send('Invalid return length');
+        const returnedLength = returnLength.readUInt32LE(0);
+        console.log(`Token information retrieved. Length: ${returnedLength} bytes`);
+        
+        // The TOKEN_USER structure has a SID pointer at offset 0
+        // We need to read this pointer to get the actual SID
+        const sidPointer = tokenInfo.readBigUInt64LE(0);
+        console.log(`SID pointer extracted: ${sidPointer}`);
+        
+        if (sidPointer === 0n) {
+            console.error('SID pointer is NULL');
+            throw new Error('Invalid SID pointer');
         }
 
-        const tokenInfoBuffer = Buffer.alloc(requiredSize);
-        const actualSizePtr = Buffer.alloc(8);
-        const success = win32.GetTokenInformation(tokenHandle, TokenUser, tokenInfoBuffer, requiredSize, actualSizePtr);
+        // Prepare buffers for LookupAccountSidW
+        const nameBufferSize = 256; // Increase buffer size
+        const domainBufferSize = 256; // Increase buffer size
+        
+        const nameBuffer = Buffer.alloc(nameBufferSize * 2); // UTF-16LE (2 bytes per char)
+        const domainBuffer = Buffer.alloc(domainBufferSize * 2); // UTF-16LE (2 bytes per char)
+        
+        const nameLength = Buffer.alloc(4); // DWORD size
+        nameLength.writeUInt32LE(nameBufferSize, 0);
+        
+        const domainLength = Buffer.alloc(4); // DWORD size
+        domainLength.writeUInt32LE(domainBufferSize, 0);
+        
+        const sidUseType = Buffer.alloc(4); // SID_NAME_USE size
 
-        if (!success) {
-            console.debug('GetTokenInformation failed 2', win32.GetLastError());
-            return res.status(500).send('GetTokenInformation failed 2');
+        console.log('Calling LookupAccountSidW...');
+        
+        // Look up the account SID - use the SID pointer directly
+        const lookupResult = lookupAccountSidWFn(
+            null, // lpSystemName (NULL for local system)
+            BigInt(sidPointer), // Convert to BigInt for consistency
+            nameBuffer,
+            nameLength,
+            domainBuffer,
+            domainLength,
+            sidUseType
+        );
+
+        if (!lookupResult) {
+            // Get the Windows error code
+            const lastError = getLastError();
+            console.error(`LookupAccountSidW failed with error code: ${lastError}`);
+            throw new Error(`LookupAccountSidW failed with error code: ${lastError}`);
         }
 
-        const sidPtr = tokenInfoBuffer.readBigUInt64LE(0);
-        if (!sidPtr) {
-            console.debug('Invalid SID pointer', sidPtr);
-            return res.status(500).send('Invalid SID pointer');
+        // Convert buffers to strings, trim null characters
+        const nameSize = nameLength.readUInt32LE(0);
+        const domainSize = domainLength.readUInt32LE(0);
+        
+        const userName = nameBuffer.toString('utf16le', 0, nameSize * 2).replace(/\0+$/, '');
+        const domainName = domainBuffer.toString('utf16le', 0, domainSize * 2).replace(/\0+$/, '');
+
+        console.log(`User info retrieved - Name: ${userName}, Domain: ${domainName}`);
+        
+        // Close the handle
+        closeHandleFn(tokenHandle);
+
+        return {
+            user: userName,
+            domain: domainName
+        };
+    } catch (error) {
+        // Make sure we close the handle even if there's an error
+        try {
+            if (tokenHandle) {
+                closeHandleFn(tokenHandle);
+            }
+        } catch (closeError) {
+            console.error('Error closing handle:', closeError);
         }
-
-        const nameBuffer = Buffer.alloc(256);
-        const nameLengthPtr = Buffer.alloc(4);
-        const domainBuffer = Buffer.alloc(256);
-        const domainLengthPtr = Buffer.alloc(4);
-        const usePtr = Buffer.alloc(4);
-
-        nameLengthPtr.writeUInt32LE(nameBuffer.length, 0);
-        domainLengthPtr.writeUInt32LE(domainBuffer.length, 0);
-
-        const lookupSuccess = win32.LookupAccountSid(null, sidPtr, nameBuffer, nameLengthPtr, domainBuffer, domainLengthPtr, usePtr);
-        if (!lookupSuccess) {
-            console.debug('LookupAccountSidW failed', win32.GetLastError());
-            return res.status(500).send('LookupAccountSidW failed');
-        }
-
-        const nameLength = nameLengthPtr.readUInt32LE(0) * 2;
-        const domainLength = domainLengthPtr.readUInt32LE(0) * 2;
-
-        const userName = nameBuffer.toString('utf16le', 0, nameLength).replace(/\0+$/, '');
-        const domainName = domainBuffer.toString('utf16le', 0, domainLength).replace(/\0+$/, '');
-
-        console.log(`User: ${userName}, Domain: ${domainName}`);
-        res.send(`User: ${userName}, Domain: ${domainName}`);
+        
+        throw error;
     }
-    catch (error) {
-        console.error('Error processing request', error);
-        res.status(500).send('Internal Server Error');
+}
+
+// Add a function to get the last Windows error
+function getLastError() {
+    try {
+        const getLastErrorFn = kernel32.func('uint32 GetLastError()');
+        return getLastErrorFn();
+    } catch (error) {
+        console.error('Error getting last error code:', error);
+        return -1;
     }
-    finally {
-        if (tokenHandle) {
-            win32.CloseHandle(tokenHandle);
+}
+
+app.get('/', (req, res) => {
+    try {
+        const tokenHeader = req.headers['x-iis-windowsauthtoken'];
+
+        if (!tokenHeader) {
+            return res.status(400).send('No HTTP_X_IIS_WINDOWSAUTHTOKEN header found.');
         }
+
+        // Convert the token from hex to a number
+        const handle = parseInt(tokenHeader, 16);
+        
+        if (isNaN(handle)) {
+            return res.status(400).send('Invalid token format in header.');
+        }
+
+        const userInfo = getUserInfoFromToken(handle);
+        
+        return res.json({
+            status: 'success',
+            data: userInfo
+        });
+    } catch (error) {
+        console.error('Error processing request:', error);
+        return res.status(500).send(`Error: ${error.message}`);
     }
 });
 
