@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Classic ASP on Windows Server 2025"
-description: "This post talks about classic ASP on Windows Server 2025 and its impact."
+title: "Classic ASP with IIS 10 on Windows Server 2025"
+description: "This post talks about how to enable classic ASP with IIS 10 on Windows Server 2025 and its impact."
 tags: Windows IIS
 excerpt_separator: <!--more-->
 ---
