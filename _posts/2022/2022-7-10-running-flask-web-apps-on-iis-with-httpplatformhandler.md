@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Running Flask Web Apps on IIS with HttpPlatformHandler"
 description: A post about how to create a simple Flask web app and host it on IIS with HttpPlatformHandler
-tags: IIS Windows Python Flask HttpPlatformHandler
 excerpt_separator: <!--more-->
+layout: post
+tags: flask httpplatformhandler python windows iis
+title: Running Flask Web Apps on IIS with HttpPlatformHandler
 ---
-
 HttpPlatformHandler can help IIS host Java/Python/Node.js/Go applications, so in this post we wil see how to configure a Python/Flask web app on IIS and troubleshoot the common issue.
 
 It becomes very important for Python developers to learn HttpPlatformHandler, because [Microsoft no longer recommends FastCGI](https://docs.microsoft.com/visualstudio/python/configure-web-apps-for-iis-windows?view=vs-2022#configure-the-fastcgi-handler),

@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "The New Preview Engine from Bosch"
 description: A post about the new preview engine for sphinx from Bosch
-tags: Visual-Studio-Code reStructuredText
 excerpt_separator: <!--more-->
+layout: post
+tags: restructuredtext sphinx visual-studio-code
+title: The New Preview Engine from Bosch
 ---
-
 If you have been a long time user of reStructuredText extension for VS Code, you might have noticed that this project is under significant changes for a while,
 
 - No more frequent release.
