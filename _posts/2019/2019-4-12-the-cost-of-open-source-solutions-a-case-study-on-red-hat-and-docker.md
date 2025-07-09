@@ -1,5 +1,5 @@
 ---
-description: A post about how to calculate the cost of open source solutions such as Docker on Red Hat Linux.
+description: A detailed look at the true costs of enterprise open source solutions, analyzing Red Hat Enterprise Linux and Docker subscriptions for enterprise environments.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Winter trees, Montreal.

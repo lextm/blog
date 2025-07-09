@@ -1,13 +1,13 @@
 ---
 categories: [History, .NET]
-description: A post about the rough history of .NET Core debuggers and interesting stories behind them.
+description: Explore the evolution of .NET Core debuggers from Microsoft, JetBrains, and Samsung, and learn about their licensing considerations and technical capabilities.
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Maison des étudiants - Pavillion E , ETS.
   path: /images/pavillion-e-ets.jpg
 layout: post
 permalink: /the-rough-history-of-net-core-debuggers-b9fb206dc4aa
-tags: .net microsoft visual-studio
+tags: .net microsoft visual-studio mono open-source
 title: The Rough History of .NET Core Debuggers
 ---
 There are several .NET Core debuggers out there from different vendors, and this post covers the major ones and their stories.
