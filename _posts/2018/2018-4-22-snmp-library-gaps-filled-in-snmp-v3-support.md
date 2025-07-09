@@ -1,15 +1,14 @@
 ---
-layout: post
-title: "#SNMP Library, Gaps Filled in SNMP v3 Support"
-description: "A post about the new SNMP v3 privacy support in #SNMP Library and why you might need it."
-tags: Visual-Studio .NET SNMP
-permalink: /snmp-library-gaps-filled-in-snmp-v3-support-3d05774d06b0
+description: 'A post about the new SNMP v3 privacy support in #SNMP Library and why you might need it.'
 excerpt_separator: <!--more-->
 image:
-  path: /images/four-seasons-boston.jpg
   alt: Copyright © Lex Li. Four Seasons, Boston
+  path: /images/four-seasons-boston.jpg
+layout: post
+permalink: /snmp-library-gaps-filled-in-snmp-v3-support-3d05774d06b0
+tags: .net snmp
+title: '#SNMP Library, Gaps Filled in SNMP v3 Support'
 ---
-
 If you have been using #SNMP Library for a while, you should know that our SNMP v3 support has significant gaps, that only DES and AES 128 are supported as privacy protocols.
 <!--more-->
 

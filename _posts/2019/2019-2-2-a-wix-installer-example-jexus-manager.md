@@ -1,15 +1,14 @@
 ---
-layout: post
-title: A WiX Installer Example, Jexus Manager
 description: A post about how I used WiX to create the simple MSI installer for Jexus Manager.
-tags: Visual-Studio Windows-Installer
-permalink: /a-wix-installer-example-jexus-manager-640b6586c27c
 excerpt_separator: <!--more-->
 image:
-  path: /images/ikea-montreal.jpg
   alt: Copyright © Lex Li. IKEA store, Montreal.
+  path: /images/ikea-montreal.jpg
+layout: post
+permalink: /a-wix-installer-example-jexus-manager-640b6586c27c
+tags: visual-studio windows-installer
+title: A WiX Installer Example, Jexus Manager
 ---
-
 Jexus Manager has been shipped as a ZIP package for long. Such a shipping method is very popular, as users can unzip the contents and run from a suitable location immediately. Tools like ILSpy also ship their binaries in this way.
 
 However, the longer you use such an approach, the more issues you observe from logging,

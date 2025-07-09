@@ -1,15 +1,14 @@
 ---
-layout: post
-title: A Test Page for IIS CPU Throttling
 description: A post about how to test IIS CPU throttling feature.
-tags: Visual-Studio .NET IIS
-permalink: /a-test-page-for-iis-cpu-throttling-8813f76c67d
 excerpt_separator: <!--more-->
 image:
-  path: /images/autumn-leaves.jpg
   alt: Copyright © Lex Li. Autumn leaves, Montreal.
+  path: /images/autumn-leaves.jpg
+layout: post
+permalink: /a-test-page-for-iis-cpu-throttling-8813f76c67d
+tags: .net asp.net iis windows
+title: A Test Page for IIS CPU Throttling
 ---
-
 IIS has a feature of [CPU throttling](https://docs.microsoft.com/iis/get-started/whats-new-in-iis-8/iis-80-cpu-throttling-sand-boxing-sites-and-applications) so that you can better control how to respond when a web app uses too much CPU resource.
 
 The detailed settings are fully explored in [this page](https://docs.microsoft.com/iis/configuration/system.applicationhost/applicationpools/add/cpu). However, neither of them gives you enough hint on how to test out the feature, especially how to simulate certain level of CPU usage in your web app (unless you are a programmer yourself).

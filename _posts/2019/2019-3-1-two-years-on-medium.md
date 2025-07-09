@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Two Years on Medium
 description: A post about my experience on Medium so far.
-tags: Blog .NET SNMP
-permalink: /two-years-on-medium-88a5763c9850
 excerpt_separator: <!--more-->
 image:
-  path: /images/tree-branches.jpg
   alt: Copyright © Lex Li. Tree branches, Montreal.
+  path: /images/tree-branches.jpg
+layout: post
+permalink: /two-years-on-medium-88a5763c9850
+tags: others
+title: Two Years on Medium
 ---
-
 I decided to give up my self hosting WordPress and switched to Medium in 2017. It also was the time that I moved from Shanghai to Montreal. While other people decided to move away from Medium, I still love the platform.
 <!--more-->
 

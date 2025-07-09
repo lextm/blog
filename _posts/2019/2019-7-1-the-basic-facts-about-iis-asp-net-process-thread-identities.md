@@ -1,15 +1,14 @@
 ---
-layout: post
-title: The Basic Facts About IIS/ASP.NET Process/Thread Identities
 description: A post about the basic facts about IIS/ASP.NET process/thread identities that can help you understand the root cause of some issues.
-tags: IIS .NET ASP.NET
-permalink: /the-basic-facts-about-iis-asp-net-process-thread-identities-835eaac876a0
 excerpt_separator: <!--more-->
 image:
-  path: /images/cloudy-day-montreal.jpg
   alt: Copyright © Lex Li. A cloudy day in Montreal.
+  path: /images/cloudy-day-montreal.jpg
+layout: post
+permalink: /the-basic-facts-about-iis-asp-net-process-thread-identities-835eaac876a0
+tags: .net asp.net iis windows
+title: The Basic Facts About IIS/ASP.NET Process/Thread Identities
 ---
-
 Developers usually ignore the facts about process/thread identities when application frameworks hide them away. However, some time later in the development/testing problems/issues occur and bite them badly. So this post tries to provide a few basic facts, and hope it might lead you to the right direction.
 <!--more-->
 

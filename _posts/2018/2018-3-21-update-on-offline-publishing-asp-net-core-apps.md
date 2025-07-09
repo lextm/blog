@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Update on Offline Publishing ASP.NET Core Apps
 description: A second post about offline publishing ASP.NET Core apps.
-tags: .NET
-permalink: /update-on-offline-publishing-asp-net-core-apps-e7894a84bd46
 excerpt_separator: <!--more-->
 image:
-  path: /images/linus-bikes.jpg
   alt: Copyright © Lex Li. Linus bikes in Boston.
+  path: /images/linus-bikes.jpg
+layout: post
+permalink: /update-on-offline-publishing-asp-net-core-apps-e7894a84bd46
+tags: .net asp.net
+title: Update on Offline Publishing ASP.NET Core Apps
 ---
-
 I [blogged about how to publish an ASP.NET Core app against an internal NuGet server]({% post_url 2018/2018-2-7-offline-publishing-asp-net-core-apps %}).
 
 A few days ago, Microsoft happened to ship a new release of 2.0.6. Then what kind of things are needed to upgrade your internal infrastructure to support this new release?

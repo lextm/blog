@@ -1,15 +1,14 @@
 ---
-layout: post
-title: New Screenshot of Jexus Manager
 description: A post about the new screenshot of Jexus Manager and the new features revealed.
-tags: Visual-Studio .NET IIS
-permalink: /new-screenshot-of-jexus-manager-b23da44dee1f
 excerpt_separator: <!--more-->
 image:
-  path: /images/jexus-manager.jpg
   alt: Copyright © Lex Li. Jexus Manager.
+  path: /images/jexus-manager.jpg
+layout: post
+permalink: /new-screenshot-of-jexus-manager-b23da44dee1f
+tags: iis jexus-manager
+title: New Screenshot of Jexus Manager
 ---
-
 The screenshot used in Jexus Manager homepage and documentation has just been replaced by the one above. It is time to use this new version, as many important changes are reflected.
 <!--more-->
 
