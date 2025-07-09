@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /the-end-of-mono
 tags: .net linux microsoft mono xamarin open-source
-title: The End of Mono at Microsoft
+title: The End of Mono Chapter at Microsoft
 ---
 > Updated on Aug 27, 2024.
 
