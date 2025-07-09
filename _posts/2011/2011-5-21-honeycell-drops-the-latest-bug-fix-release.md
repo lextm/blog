@@ -1,9 +1,9 @@
 ---
-description: 'This post is about the latest bug fix release of #SNMP.'
+description: 'Important announcement about the latest bug fix release (6.1.1) of #SNMP, addressing critical issues.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-the-latest-bug-fix-release-395c009941ef
-tags: snmp
+tags: snmp .net open-source
 title: 'HoneyCell Drops: The Latest Bug Fix Release'
 ---
 Due to a critical bug (#7217), a new release of #SNMP, version 6.1.1, was just released,

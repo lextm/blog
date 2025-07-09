@@ -1,9 +1,9 @@
 ---
-description: This post is about the new approach to develop the SMI compiler.
-excerpt_separator: <!--more-->
+description: 'Learn about the new approach to developing the SMI compiler using ANTLR for the #SNMP project, including insights and future plans.'
+excerpt_separator: <!--more-->'
 layout: post
 permalink: /tritonmate-words-new-era-for-smi-compiler-bbcd83ed9bb9
-tags: antlr snmp
+tags: antlr snmp .net csharp open-source
 title: 'TritonMate Words: New Era for SMI Compiler'
 ---
 I just published a new RC for our 7.5 release. But this is not the most exciting news recently, as finally #SNMP 8.0 codename is finalized, as TritonMate.

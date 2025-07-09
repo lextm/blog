@@ -1,9 +1,9 @@
 ---
-description: 'This post is about the final release of #SNMP 7.0, or BigDipper.'
+description: 'Announcing the final release of #SNMP 7.0 (BigDipper), including release notes and upcoming plans.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-rtm-post-a58eb789173f
-tags: snmp
+tags: snmp .net csharp open-source
 title: 'BigDipper Light: RTM Post'
 ---
 After almost a year, the final release of #SNMP 7.0, or BigDipper, is now available.
