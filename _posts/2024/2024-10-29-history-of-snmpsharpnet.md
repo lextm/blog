@@ -24,7 +24,7 @@ In its prime, SNMP#NET offered support for *SNMP versions 1, 2c, and 3*, includi
 
 While other projects like #SNMP evolved with updates for newer .NET platforms, improved performance, and additional support for MIB compiler/browser and agent functionalities, SNMP#NET experienced a period of stagnation. After its upgrade to .NET Framework 4.0, updates became infrequent, and the project seemed largely abandoned by its creator. The last official release was version 0.9.4 in April 2014.
 
-## Community Fors and Qingxiao's Efforts
+## Community Forks and Qingxiao's Efforts
 
 A developer named Qingxiao forked the project on GitHub and released versions 0.9.5 and 0.9.6. These updates included minor bug fixes and improvements, but the library still lacked modernization, such as support for .NET Core and optimizations for newer socket implementations introduced in later .NET releases. The NuGet package also remained limited, targeting only .NET Framework 4.0 without any multi-platform support.
 
