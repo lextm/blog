@@ -1,9 +1,9 @@
 ---
-description: This post is about DockPanel Suite recent changes and how easy it is now to generate new themes.
+description: Exploring the significant improvements in DockPanel Suite including new theme generation capabilities, on-the-fly image generation, and Visual Studio theme integration.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-too-many-themes-and-new-goodies-fb4fe55d127e
-tags: dockpanel-suite visual-studio .net
+tags: dockpanel-suite visual-studio .net open-source
 title: 'DockPanel Suite: Too Many Themes and New Goodies'
 ---
 I blogged a few days ago on DockPanel Suite recent changes, but well excitingly there is much more to share this time.

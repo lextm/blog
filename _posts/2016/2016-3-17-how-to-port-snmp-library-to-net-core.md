@@ -1,9 +1,9 @@
 ---
-description: 'This post is about how I port #SNMP Library to .NET Core.'
+description: 'A comprehensive guide to porting #SNMP Library to .NET Core RC1, covering environment setup, project.json configuration, platform targeting, and resolving dependencies for cross-platform compatibility.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-port-snmp-library-to-net-core-878d29074f9c
-tags: .net snmp
+tags: .net snmp microsoft open-source
 title: 'How to Port #SNMP Library to .NET Core'
 ---
 .NET Core is still a moving target, so don't jump on it unless you are kind of crazy at this stage…

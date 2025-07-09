@@ -1,9 +1,9 @@
 ---
-description: This post is about the latest update of xUnit.NET add-in for Xamarin Studio, such as support for Xamarin Studio 6.x.
+description: The latest developments of the xUnit.NET add-in for Xamarin Studio, including support for Xamarin Studio 6.x and improvements to Theory test functionality across multiple platforms.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /xunit-net-add-in-for-xamarin-studio-latest-update-b9ef69414f54
-tags: .net mono xamarin xunit
+tags: .net mono xamarin xunit open-source
 title: 'xUnit.NET Add-in for Xamarin Studio: Latest Update'
 ---
 In last post I talked about how I made a fork to support Xamarin Studio 5.x series (as well as MonoDevelop 5.x). It was clearly a milestone, but not good enough as Xamarin Studio 6.x was at the door.

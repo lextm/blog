@@ -1,9 +1,9 @@
 ---
-description: This post is about the update on reStructuredText and Visual Studio Code.
+description: An evaluation of various reStructuredText extension options for Visual Studio Code, comparing sphinx-based, docutils-based, and rst2mdown-based implementations for documentation accuracy and feature completeness.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /update-on-restructuredtext-and-visual-studio-code-1b23916c4c0f
-tags: restructuredtext visual-studio-code python
+tags: restructuredtext visual-studio-code python open-source
 title: Update on reStructuredText and Visual Studio Code
 ---
 When I started the reStructuredText extension for Visual Studio Code in Nov 2015, I wasn't expect it to be a hot extension in the gallery. But even without an ambition, now it serves >1,700 users, so time to make it better.
