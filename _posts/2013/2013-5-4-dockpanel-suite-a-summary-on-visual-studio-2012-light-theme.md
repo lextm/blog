@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "DockPanel Suite: A Summary on Visual Studio 2012 Light Theme"
-description: "This post talks about the Visual Studio 2012 Light theme of DockPanel Suite."
-tags: DockPanel-Suite
-permalink: /dockpanel-suite-a-summary-on-visual-studio-2012-light-theme-a8391c84c769
+description: This post talks about the Visual Studio 2012 Light theme of DockPanel
+  Suite.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-a-summary-on-visual-studio-2012-light-theme-a8391c84c769
+tags: dockpanel-suite visual-studio
+title: 'DockPanel Suite: A Summary on Visual Studio 2012 Light Theme'
 ---
-
 Previously I have posted about the new theme several times, such as
 
 - [Overall experience]({% post_url 2013/2013-3-22-dockpanel-suite-design-the-theming-experience %})
@@ -110,9 +110,9 @@ However, Microsoft seems to choose such a design in Visual Studio 2010/2012, so 
 
 24 days ago, @dotAge sent us a pull request on GitHub, which he/she claimed contains the original patch by paralleloeter. Both Ryan and I reviewed the pull request, and we could not accept it at that time.
 
-A few hours ago, I was finally passionate enough to continue working on this patch, as hacking on tab colors and resolving #124 have given me enough knowledge on how the strip was designed. So this time I could better control when this close button should appear. Interestingly, it should appears on active tabs, both focused and not focus, and inactive tabs, only when the tab is under mouse. The button also changes color when mouse is hovered. So totally we need to handle five different states.
+A few hours ago, I was finally passionate enough to continue working on this patch, as hacking on tab colors and resolving #124 have given me enough knowledge on how the strip was designed. So this time I could better control when this close button should appear. Interestingly, it should appears on active tabs, both focused and not focused, and inactive tabs, only when the tab is under mouse cursor. The button also changes color when mouse is hovered. So totally we need to handle five different states.
 
-To avoid flickers when either the tab color or the close button state changes, the calls to Invalidate has also been minimized.
+To avoid flickers when either the tab color or the close button state changes, the number of calls to Invalidate has also been minimized.
 
 ## Dock Indicators (Updated: May 11)
 
@@ -132,9 +132,7 @@ In the near future I might investigate on how to tune the architecture so as to 
 
 ## Final Words
 
-Please download and try out the latest Alpha 6 of DockPanel Suite 3.0 and let us know if there is any issue you meet,
-
-https://nuget.org/packages/DockPanelSuite/3.0.0-alpha6
+Please download and try out [the latest Alpha 6 of DockPanel Suite 3.0](https://nuget.org/packages/DockPanelSuite/3.0.0-alpha6) and let us know if there is any issue you meet.
 
 We will keep working hard on this new theme to make it even better. There are only a few minor issues remaining, which should be easy to solve.
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Obfuscar: Slightly Upgraded and 2.0 RC 2"
-description: "This post talks about Obfuscar 2.0 RC 2."
-tags: .NET
-permalink: /obfuscar-slightly-upgraded-and-2-0-rc-2-ba25398933e7
+description: This post talks about Obfuscar 2.0 RC 2.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /obfuscar-slightly-upgraded-and-2-0-rc-2-ba25398933e7
+tags: .net
+title: 'Obfuscar: Slightly Upgraded and 2.0 RC 2'
 ---
 Do you think that I have abandoned this project? No, no, that's not the case. In a few minutes I am going to upload a new build to Obfuscar homepage, which contains many critical bug fixes. They address many typical obfuscation scenarios and important open source libraries. So make sure you visit the download page and check out the latest.
 <!--more-->

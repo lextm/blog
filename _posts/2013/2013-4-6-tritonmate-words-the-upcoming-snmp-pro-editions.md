@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "TritonMate Words: The Upcoming #SNMP Pro Editions"
-description: "This post talks about the upcoming #SNMP Pro editions."
-tags: SNMP
-permalink: /tritonmate-words-the-upcoming-snmp-pro-editions-1b7b38c12c3d
+description: 'This post talks about the upcoming #SNMP Pro editions.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-the-upcoming-snmp-pro-editions-1b7b38c12c3d
+tags: snmp .net
+title: 'TritonMate Words: The Upcoming #SNMP Pro Editions'
 ---
 I have been seriously considering the options to commercialize #SNMP, and the decision finally is as below,
 
@@ -14,8 +14,8 @@ I have been seriously considering the options to commercialize #SNMP, and the de
 
 So what does this mean?
 
-1. Users of #SNMP can now purchase support services from me. Negotiation can go through my mailbox support@lextudio.com. The support services cover both #SNMP open source portion and the upcoming Pro editions.
-1. Users can buy the Pro editions when they are available (no target date yet) or participate in the alpha/beta testing program (start in a few weeks, expected in May, 2013). If you are interested, you can write to support@lextudio.com.
+1. Users of #SNMP can now purchase support services from me. Negotiation can go through [the support team](mailto:support@lextudio.com). The support services cover both #SNMP open source portion and the upcoming Pro editions.
+1. Users can buy the Pro editions when they are available (no target date yet) or participate in the alpha/beta testing program (start in a few weeks, expected in May, 2013). If you are interested, you can write to [the support team](mailto:support@lextudio.com).
 
 Except the two, nothing will change significantly, except that TritonMate will soon be finished due to this strategy shift with all existing changes made.
 

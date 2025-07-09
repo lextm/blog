@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "DockPanel Suite: Difficulties of Integrating Visual Studio 2012 Skin"
-description: "This post talks about the difficulties of integrating Visual Studio 2012 skin into DockPanel Suite."
-tags: DockPanel-Suite
-permalink: /dockpanel-suite-difficulties-of-integating-visual-studio-2012-skin-bf4eb1529cf2
+description: This post talks about the difficulties of integrating Visual Studio 2012
+  skin into DockPanel Suite.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /dockpanel-suite-difficulties-of-integating-visual-studio-2012-skin-bf4eb1529cf2
+tags: dockpanel-suite windows
+title: 'DockPanel Suite: Difficulties of Integrating Visual Studio 2012 Skin'
 ---
 A picture can save me a thousand words :) This week I merged more patches into the new skin branch, and now the sample looks more beautiful. But I really want feedback on the changes I made on the architecture (as we have to allow DockWindow and SplitterControl to be extendable).
 

@@ -1,14 +1,14 @@
 ---
-layout: post
-title: "Jexus Series: Application Pool Setting"
-description: "This post talks about Jexus application pool setting."
-tags: Jexus-Manager
-permalink: /jexus-series-application-pool-setting-7e026fdff6f7
+description: This post talks about Jexus application pool setting.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-series-application-pool-setting-7e026fdff6f7
+tags: iis jexus-manager
+title: 'Jexus Series: Application Pool Setting'
 ---
 Unlike IIS who has full application pool support, Jexus currently only supports a single application pool.
 
-> For more information on Jexus/IIS comparison you can go to https://github.com/jexuswebserver/jexus-contrib/blob/master/comparison.en.md
+> For more information on Jexus/IIS comparison you can go to [this article](https://github.com/jexuswebserver/jexus-contrib/blob/master/comparison.en.md).
 
 To configure IIS application pool, you might follow [this article](http://www.iis.net/configreference/system.applicationhost/applicationpools).
 <!--more-->
@@ -30,4 +30,4 @@ Jexus supports application pool recycle in the following manner,
 
 The Jexus developer promises to expose more in future releases, and then this post might be updated.
 
-For all information on Jexus configuration, please go to https://github.com/jexuswebserver/jexus-contrib/blob/master/readme.en.md
+For all information on Jexus configuration, please go to [this article](https://github.com/jexuswebserver/jexus-contrib/blob/master/readme.en.md).

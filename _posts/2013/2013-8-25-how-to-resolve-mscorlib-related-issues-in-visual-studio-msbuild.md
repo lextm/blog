@@ -1,20 +1,23 @@
 ---
-layout: post
-title: How to Resolve mscorlib Related Issues in Visual Studio/MSBuild
-description: "This post talks about how to resolve mscorlib related issues in Visual Studio/MSBuild."
-tags: Visual-Studio .NET
-permalink: /how-to-resolve-mscorlib-related-issues-in-visual-studio-msbuild-84965aaf6f47
+description: This post talks about how to resolve mscorlib related issues in Visual
+  Studio/MSBuild.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-resolve-mscorlib-related-issues-in-visual-studio-msbuild-84965aaf6f47
+tags: .net visual-studio
+title: How to Resolve mscorlib Related Issues in Visual Studio/MSBuild
 ---
 For many .NET developers, mscorlib is something miserable as they never pay much attention to it. In fact, they should learn about it, especially when Visual Studio and MSBuild report an error about it.
 <!--more-->
 
 ## What is mscorlib?
+
 We might go to [Mono's source code](https://github.com/mono/mono/tree/master/mcs/class/corlib) to see what is mscorlib, as that's better than using a decompiler.
 
 OK. A glance can show you how many namespaces are included (please ignore `Mono.*` which are Mono specific). So when we write in C# `using System;` or `using System.IO;`, usually the consumed classes come from `mscorlib`, not `System.dll`. All .NET assemblies have `mscorlib.dll` as a reference, so it is part of the foundation of Base Class Library.
 
 ## How It Is Referenced By Others Normally?
+
 If you create a new C# project in Visual Studio (such as Windows Console applications), you perhaps don't see a reference to mscorlib.dll. Why? Well, that's because of an MSBuild/CSC trick Microsoft implements.
 
 First, most csproj files do not have `<NoStdLib></NoStdLib>` defined under `<PropertyGroup>`. In this way MSBuild uses the default value of `false` in its execution. This finally translates to [a switch](https://learn.microsoft.com/dotnet/csharp/language-reference/compiler-options/advanced#nostandardlib) of `csc.exe` called `/nostdlib-`.

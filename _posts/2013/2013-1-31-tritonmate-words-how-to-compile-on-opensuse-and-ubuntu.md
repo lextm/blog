@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "TritonMate Words: How to Compile on openSUSE and Ubuntu"
-description: "Finally I learned how to run NuGet on Mono, so below is the updated steps to build #SNMP latest code base on Mono and openSUSE."
-tags: SNMP Linux
-permalink: /tritonmate-words-how-to-compile-on-opensuse-and-ubuntu-f4cf99c83309
+description: 'Finally I learned how to run NuGet on Mono, so below is the updated
+  steps to build #SNMP latest code base on Mono and openSUSE.'
 excerpt_separator: <!--more-->
+layout: post
+permalink: /tritonmate-words-how-to-compile-on-opensuse-and-ubuntu-f4cf99c83309
+tags: .net linux mono snmp
+title: 'TritonMate Words: How to Compile on openSUSE and Ubuntu'
 ---
 Finally I learned how to run NuGet on Mono, so below is the updated steps to build #SNMP latest code base on Mono and openSUSE.
 <!--more-->
@@ -47,4 +48,3 @@ Note that the first step is slightly different on Ubuntu,
 ``` bash
 sudo apt-get install mono-complete git mono-vbnc mono-devel mono-xbuild
 ```
-

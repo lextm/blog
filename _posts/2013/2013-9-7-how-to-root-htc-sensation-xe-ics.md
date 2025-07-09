@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "How to Root HTC Sensation XE (ICS)"
-description: "This post talks about how I rooted HTC Sensation XE with ICS."
-tags: Android
-permalink: /how-to-root-htc-sensation-xe-ics-892ca9881b8c
+description: This post talks about how I rooted HTC Sensation XE with ICS.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-root-htc-sensation-xe-ics-892ca9881b8c
+tags: android
+title: How to Root HTC Sensation XE (ICS)
 ---
 I bought an HTC Sensation XE phone last year. Generally speaking it was a nice model. However, like any old enough model it started to suffer performance issues only after a few months of using. Luckily HTC shipped an upgrade to Android 4.0 (ICS) some time in May and after the upgrade the performance got better.
 
@@ -29,13 +29,13 @@ Recovery only appears when you boot the phone (press volume down and power toget
 
 ## Install HTC Sync and Other Preparation
 
-Please go to http://www.htc.com/www/support/ and download HTC Sync (not Sync Manager). Install it on your Windows so that the necessary drivers are installed to the system.
+Please go to [official support](http://www.htc.com/www/support/) and download HTC Sync (not Sync Manager). Install it on your Windows so that the necessary drivers are installed to the system.
 
 Connect your phone to your PC in USB drive mode and backup your files on the SD card to your PC.
 
 Go to Android Rooted section and download the .zip package for SuperSU if you want to root your phone. Save the package to the root of your SD card, and go back here.
 
-Go to Bootloader S-OFF section and get Ubuntu Live CD and the wire ready. If you are not familiar with Ubuntu, learn about it from http://www.ubuntu.com/ or find a friend to assist.
+Go to Bootloader S-OFF section and get Ubuntu Live CD and the wire ready. If you are not familiar with Ubuntu, learn about it from [the official site](http://www.ubuntu.com/) or find a friend to assist.
 
 Go to CyanogenMod Install section and download the .zip packages for CM 10 and Google Apps. Save the packages to the root of your SD card, and go back here.
 
@@ -61,9 +61,7 @@ After unlocking, you will have to re-enable USB debugging and disable fast boot 
 
 HTC's default recovery ROM does not have any significantly useful feature. So once you unlock your phone, you should flash a custom recovery ROM.
 
-For me, I choose CWM (aka ClockworkMod), a quite famous option,
-
-http://www.clockworkmod.com/rommanager
+For me, I choose CWM (aka ClockworkMod), [a quite famous option](http://www.clockworkmod.com/rommanager).
 
 The version I use was [5.0.2.0 for HTC Sensation](http://download2.clockworkmod.com/recoveries/recovery-clockwork-5.0.2.0-pyramid.img) (which also applies to XE). The download is an .img file (which is the ROM in raw format).
 
@@ -93,7 +91,7 @@ For the first time your phone boots into CWM, and please create a backup via Bac
 
 Well, you might have heard the term root a thousand times but never know what it is. Android is based on Linux. The phone vendor removes the root access from their ROMs, but you can add it back by some hack. As that gives root access back, we call the phone is rooted.
 
-I personally chose SuperSU, http://forum.xda-developers.com/showthread.php?t=1538053. We need to download a .zip package from http://download.chainfire.eu/350/SuperSU/UPDATE-SuperSU-v1.60.zip
+I personally chose [SuperSU](http://forum.xda-developers.com/showthread.php?t=1538053). We need to download a .zip package from [this site](http://download.chainfire.eu/350/SuperSU/UPDATE-SuperSU-v1.60.zip).
 
 To install the .zip package, use CWM *install from zip* menu, and then choose UPDATE-SuperSU-v1.60.zip. Choose *Yes - install ****.zip* option. Once done, go back and select Reboot menu.
 
@@ -109,11 +107,11 @@ My suggestion is that you prepare the wire as indicated, and learn the wire tric
 
 ## CyanogenMod Install
 
-CM is probably the cleanest custom ROM for phones, as it is almost the same as Google's open source code base. For HTC Sensation XE, you can now use CM 10,
+CM is probably the cleanest custom ROM for phones, as it is almost the same as Google's open source code base. For HTC Sensation XE, you can now use [CM 10](http://wiki.cyanogenmod.org/w/Pyramid_Info).
 
-http://wiki.cyanogenmod.org/w/Pyramid_Info
+I am now using [the nightly](http://download.cyanogenmod.org/?type=nightly&device=pyramid). You go straightly downloading the .zip package. You also need to download [Google Apps](http://wiki.cyanogenmod.org/w/Gapps)
 
-I am now using the nightly, http://download.cyanogenmod.org/?type=nightly&device=pyramid. You go straightly downloading the .zip package. You also need to download Google Apps from http://wiki.cyanogenmod.org/w/Gapps (note that we need to download the one for CM 10, not else).
+> Note that we need to download the one for CM 10, not else.
 
 To install CM 10, you need to also boot into CWM, choose "wipe data" and "wipe cache". Then use "install from zip" twice (first for CM 10, and then for Google Apps).
 

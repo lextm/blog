@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Jexus Series: The Configuration System"
-description: "This post talks about Jexus configuration system."
-tags: Jexus-Manager
-permalink: /jexus-series-the-configuration-system-108aa9e471b0
+description: This post talks about Jexus configuration system.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-series-the-configuration-system-108aa9e471b0
+tags: jexus-manager linux
+title: 'Jexus Series: The Configuration System'
 ---
 The Jexus configuration system is more similar to Apache/Nginx, rather than IIS.
 <!--more-->
