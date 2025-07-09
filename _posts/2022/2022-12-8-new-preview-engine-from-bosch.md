@@ -1,8 +1,8 @@
 ---
-description: A post about the new preview engine for sphinx from Bosch
+description: Discover the significant improvements to the reStructuredText VS Code extension with Bosch's new preview engine for Sphinx documentation
 excerpt_separator: <!--more-->
 layout: post
-tags: restructuredtext visual-studio-code
+tags: restructuredtext visual-studio-code open-source
 title: The New Preview Engine from Bosch
 ---
 If you have been a long time user of reStructuredText extension for VS Code, you might have noticed that this project is under significant changes for a while,

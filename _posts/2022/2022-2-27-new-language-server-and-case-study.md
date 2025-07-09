@@ -1,5 +1,5 @@
 ---
-description: A post about the new Esbonio language server and how to troubleshoot issues with it
+description: In-depth look at switching from Snooty to Esbonio language server for reStructuredText in VS Code, with troubleshooting tips for common Sphinx configuration issues
 excerpt_separator: <!--more-->
 layout: post
 tags: python visual-studio-code open-source restructuredtext

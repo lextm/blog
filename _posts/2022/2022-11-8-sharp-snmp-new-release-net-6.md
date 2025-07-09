@@ -1,8 +1,8 @@
 ---
-description: 'A post about new release of #SNMP Library specific to .NET 6.'
+description: 'Exploring the #SNMP Library 12.5 release for .NET 6 with new features including nullable annotations, cancellation token support, and cryptography improvements'
 excerpt_separator: <!--more-->
 layout: post
-tags: .net snmp visual-studio
+tags: .net snmp visual-studio open-source csharp
 title: '#SNMP New Release for .NET 6'
 ---
 .NET 7 is going to be released by Microsoft, but I just got sometime to finally release #SNMP Library 12.5. It has been a release driven mainly by the new features of .NET 6, so below I try to write more on what users should pay attention to.
@@ -28,7 +28,7 @@ Microsoft uses .NET Framework and .NET Core to explore how to better design asyn
 .NET 6 is the first release to add the long missing cancellation token based async API for socket related classes, so finally #SNMP Library can wrap over them to provide essential features like timeout control in async SNMP operations.
 
 > Note that such new API can only be consumed in projects that target .NET 6 and above.
-
+>
 > Also note that in old projects there is really no easy fix. You have to close the socket object to stop async operations.
 
 ## Cryptography Uplift
