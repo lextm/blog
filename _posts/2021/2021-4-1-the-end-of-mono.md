@@ -1,11 +1,10 @@
 ---
 categories: [History, .NET]
-description: A look back on the Mono history can easily tell that it can be a risky
-  platform to use in 2021 and beyond.
+description: Analysis of Mono's declining future as Microsoft transitions to .NET 6 and beyond - understand why Mono-dependent applications face sustainability risks and the timeline of this critical platform shift
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-end-of-mono
-tags: .net linux microsoft mono xamarin
+tags: .net linux microsoft mono xamarin open-source
 title: The End of Mono at Microsoft
 ---
 > Updated on Aug 27, 2024.

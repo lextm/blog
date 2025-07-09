@@ -1,8 +1,8 @@
 ---
-description: A post about ASP.NET Core common issues that you should be aware of
+description: Learn ASP.NET Core through common error scenarios and troubleshooting - from SDK installation to launching your first web application, this hands-on guide helps beginners understand key concepts through practical problem-solving
 excerpt_separator: <!--more-->
 layout: post
-tags: .net asp.net windows
+tags: .net asp.net windows linux macos
 title: ASP.NET Core Crashes and Burns
 ---
 Getting start with ASP.NET Core is in fact easy, if you let it crash and burn. Every errors help you get better understanding of different aspects.
