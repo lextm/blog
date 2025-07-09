@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Compiling Mono: Gtk# 2.99"
-description: "This post talks about how to compile Gtk# 2.99."
-tags: Mono
-permalink: /compiling-mono-gtk-2-99-a6640cfc8cc
+description: This post talks about how to compile Gtk# 2.99.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /compiling-mono-gtk-2-99-a6640cfc8cc
+tags: mono linux
+title: 'Compiling Mono: Gtk# 2.99'
 ---
 I think GTK# 3.0 is coming soon, as Gtk# 2.99 is now in milestone 2. It does introduce some problems if
 

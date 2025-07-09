@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "How to Use NuGet on Mono, Part V"
-description: "This post talks about how to use NuGet on Mono, Part V."
-tags: .NET Mono
-permalink: /how-to-use-nuget-on-mono-part-v-e9918bb954c2
+description: This post talks about how to use NuGet on Mono, Part V.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-use-nuget-on-mono-part-v-e9918bb954c2
+tags: .net mono linux
+title: How to Use NuGet on Mono, Part V
 ---
 [Update: Microsoft starts to officially support Mono, so please simply use latest NuGet executable such as 3.5]
 

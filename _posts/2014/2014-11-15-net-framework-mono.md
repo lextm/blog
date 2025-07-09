@@ -1,12 +1,11 @@
 ---
-layout: post
-title: ".NET Framework和Mono大事记（初稿）"
 description: 本文介绍了 .NET Framework 和 Mono 历史上的大事件。
-tags: .NET Mono
-permalink: /net-framework和mono大事记-初稿-c41fd8a8bc97
 excerpt_separator: <!--more-->
+layout: post
+permalink: /net-framework和mono大事记-初稿-c41fd8a8bc97
+tags: .net asp.net mono xamarin
+title: .NET Framework和Mono大事记（初稿）
 ---
-
 * June 2000, .NET Framework Beta 发布[1]
 * July 19, 2001 Mono项目启动[2]
 * Feb 13, 2002 .NET Framework 1.0 发布[1]
