@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Release 2 Update 1 RC 2 is ready"
-description: "This article is about the upcoming update of CBC."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-release-2-update-1-rc-2-is-ready-bf3d18b015db
+description: This article is about the upcoming update of CBC.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-release-2-update-1-rc-2-is-ready-bf3d18b015db
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Release 2 Update 1 RC 2 is ready'
 ---
 (CSDN Nov 27, 2006)
 

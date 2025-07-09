@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "假期结束"
-description: "这篇文章讲述了假期结束的一些事情。"
-tags: Code-Beautifier-Collection Delphi
-permalink: /假期结束-859b1f0a709f
+description: 这篇文章讲述了假期结束的一些事情。
 excerpt_separator: <!--more-->
+layout: post
+permalink: /假期结束-859b1f0a709f
+tags: others
+title: 假期结束
 ---
 (CSDN Sept 04, 2006)
 

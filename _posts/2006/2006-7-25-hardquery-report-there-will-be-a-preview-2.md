@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: There will be a Preview 2"
-description: "This post talks about HardQuery Preview 2."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-there-will-be-a-preview-2-b5fa50f1de3
+description: This post talks about HardQuery Preview 2.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-there-will-be-a-preview-2-b5fa50f1de3
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: There will be a Preview 2'
 ---
 (CSDN July 25, 2006)
 

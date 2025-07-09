@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "HardQuery Report: May be an Update 1 RC"
-description: This post reports the progress of HardQuery and possibly an Update 1 RC.
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-may-be-an-update-1-rc-20c0a266b428
+description: This post reports the progress of HardQuery and possibly an Update 1
+  RC.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-may-be-an-update-1-rc-20c0a266b428
+tags: code-beautifier-collection delphi
+title: 'HardQuery Report: May be an Update 1 RC'
 ---
 (CSDN Sept 29, 2006)
 

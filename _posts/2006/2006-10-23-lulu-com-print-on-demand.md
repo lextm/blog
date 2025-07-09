@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Lulu.com: Print On Demand"
 description: 本文描述了 lulu.com 这个站点，它是一个 Print On Demand 的站点。
-tags: Code-Beautifier-Collection Delphi
-permalink: /lulu-com-print-on-demand-a93811911f5c
 excerpt_separator: <!--more-->
+layout: post
+permalink: /lulu-com-print-on-demand-a93811911f5c
+tags: others
+title: 'Lulu.com: Print On Demand'
 ---
 (CSDN Oct 23, 2006)
 

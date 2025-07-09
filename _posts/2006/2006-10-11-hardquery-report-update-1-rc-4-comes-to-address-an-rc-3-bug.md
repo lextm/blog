@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: Update 1 RC 4 comes to address an RC 3 bug"
 description: This post reports the progress of HardQuery and Update 1 RC 4.
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-update-1-rc-4-comes-to-address-an-rc-3-bug-4ef2f852fd30
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-update-1-rc-4-comes-to-address-an-rc-3-bug-4ef2f852fd30
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: Update 1 RC 4 comes to address an RC 3 bug'
 ---
 (CSDN Oct 11, 2006)
 

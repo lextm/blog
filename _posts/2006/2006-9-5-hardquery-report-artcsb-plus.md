@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "HardQuery Report: ArtCSB Plus"
-description: "This post describes ArtCSB Plus, a new extension of CBC."
-tags: Code-Beautifier-Collection Delphi
-permalink: /hardquery-report-artcsb-plus-b860adb30f22
+description: This post describes ArtCSB Plus, a new extension of CBC.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /hardquery-report-artcsb-plus-b860adb30f22
+tags: delphi code-beautifier-collection
+title: 'HardQuery Report: ArtCSB Plus'
 ---
 (CSDN Sept 05, 2006)
 

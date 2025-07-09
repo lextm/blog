@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "News: HardQuery Preview 1 is out"
-description: "This post talks about HardQuery Preview 1."
-tags: Code-Beautifier-Collection Delphi
-permalink: /news-hardquery-preview-1-is-out-f32eb717d9ad
+description: This post talks about HardQuery Preview 1.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /news-hardquery-preview-1-is-out-f32eb717d9ad
+tags: delphi code-beautifier-collection
+title: 'News: HardQuery Preview 1 is out'
 ---
 (CSDN July 17, 2006)
 

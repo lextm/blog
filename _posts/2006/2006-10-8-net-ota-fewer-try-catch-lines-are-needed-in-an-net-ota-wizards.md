@@ -1,9 +1,10 @@
 ---
-layout: post
-title: ".NET OTA: Fewer try-catch lines are needed in an .NET OTA wizards"
-description: "This article describes how to use UnhandledExceptionManager to catch unhandled exceptions in .NET OTA wizards."
-tags: Code-Beautifier-Collection Delphi
+description: This article describes how to use UnhandledExceptionManager to catch
+  unhandled exceptions in .NET OTA wizards.
 excerpt_separator: <!--more-->
+layout: post
+tags: delphi code-beautifier-collection .net
+title: '.NET OTA: Fewer try-catch lines are needed in an .NET OTA wizards'
 ---
 (CSDN Oct 08, 2006)
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "News! NixNewNer Update 1 Final is on the way"
-description: "This post talks about NixNewNer Update 1 Final."
-tags: Code-Beautifier-Collection Delphi
-permalink: /news-nixnewner-update-1-final-is-on-the-way-2f0f946179e6
+description: This post talks about NixNewNer Update 1 Final.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /news-nixnewner-update-1-final-is-on-the-way-2f0f946179e6
+tags: delphi code-beautifier-collection
+title: News! NixNewNer Update 1 Final is on the way
 ---
 (CSDN July 03, 2006)
 
