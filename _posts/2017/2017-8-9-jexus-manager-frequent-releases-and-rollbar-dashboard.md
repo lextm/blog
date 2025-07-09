@@ -1,9 +1,9 @@
 ---
-description: This post is about how I use Rollbar to track Jexus Manager issues.
+description: How the implementation of Rollbar error tracking has transformed Jexus Manager development, enabling rapid bug fixes through frequent releases and better understanding of user environments.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-frequent-releases-and-rollbar-dashboard-79afefd6f4ea
-tags: iis jexus-manager windows
+tags: iis jexus-manager windows open-source
 title: 'Jexus Manager: Frequent Releases and Rollbar Dashboard'
 ---
 It is really astonishing that I released 29 builds of Jexus Manager in 24 days. Tons of bugs have been fixed and some new features have shipped.

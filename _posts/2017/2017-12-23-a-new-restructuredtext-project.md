@@ -1,9 +1,9 @@
 ---
-description: A post about the new reStructuredText project for Visual Studio Code that I am working on.
+description: Discover the new reStructuredText project for Visual Studio Code that brings ANTLR v4 based parser, Language Server Protocol support, and more to enhance the reStructuredText editing experience.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /a-new-restructuredtext-project-112e9ae52acb
-tags: .net visual-studio-code restructuredtext
+tags: .net visual-studio-code restructuredtext antlr open-source
 title: A New reStructuredText Project
 ---
 Microsoft/Xamarin uses VSTest to enable cross platform unit testing support for Visual Studio and Visual Studio for Mac. Therefore, I freed myself from maintaining the xUnit.net extension for the latter, and have some time for new adventures.

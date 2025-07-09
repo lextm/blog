@@ -1,5 +1,5 @@
 ---
-description: This post would show you how to resolve the issue that Chrome says HTTPS is not secure for web apps hosted on IIS Express.
+description: Learn why Chrome shows IIS Express HTTPS connections as insecure due to missing SAN extensions, and how to quickly resolve this issue using Jexus Manager to generate and trust proper self-signed certificates.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /why-chrome-says-iis-express-https-is-not-secure-and-how-to-resolve-that-d906a183f0

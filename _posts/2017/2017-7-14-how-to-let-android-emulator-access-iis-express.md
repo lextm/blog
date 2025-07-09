@@ -1,9 +1,9 @@
 ---
-description: This post is about how to let Android emulator access web apps hosted on IIS Express.
+description: A step-by-step guide explaining how to configure IIS Express to allow access from Android emulators, including understanding host binding configurations and creating URL reservations with Jexus Manager.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-let-android-emulator-access-iis-express-f6530a02b1d3
-tags: iis visual-studio windows google jexus-manager
+tags: iis visual-studio windows google jexus-manager android
 title: How to Let Android Emulator Access IIS Express
 ---
 > Jexus Manager can be downloaded from https://jexusmanager.com

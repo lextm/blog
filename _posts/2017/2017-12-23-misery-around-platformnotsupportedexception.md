@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Misery Around PlatformNotSupportedException
-description: A post about the new pattern for library authors to handle PlatformNotSupportedException.
-tags: visual-studio .net
+description: 'Learn about the new pattern for library authors to handle PlatformNotSupportedException in .NET Standard 2.0 libraries, with practical examples from #SNMP Library implementation.'
+tags: visual-studio .net csharp
 permalink: /misery-around-platformnotsupportedexception-1b890c74a08a
 excerpt_separator: <!--more-->
 ---
@@ -17,6 +17,7 @@ It would be rare that a general API like File.ReadAllText throws such exceptions
 <!--more-->
 
 ## The New Pattern
+
 Let's start with some code in #SNMP Library,
 
 ``` csharp
@@ -59,6 +60,7 @@ Therefore, another property `IsSupported` should be added (as the sample code sh
 Thus, if you are maintaining a cross platform .NET library today, make sure you assert the gaps and follow the `IsSupported` + `PlatformNotSupportedException` pattern.
 
 ## The Documentation Issue
+
 Please carefully test compatibility of any underlying API.
 
 In my case, DES luckily is available on almost all major platforms, but unfortunately AES (though available even in .NET Core 1.0) does not support CFB mode, so #SNMP Library has to claim its AES support is broken.
@@ -68,4 +70,5 @@ If I don't test it carefully enough, and blindly follow the documentation (which
 I raised [a GitHub issue](https://github.com/dotnet/docs/issues/4014) to inform Microsoft and hope they can do something soon.
 
 ## Update (Nov 2019)
+
 Microsoft does create a new tool called [.NET API analyzer](https://docs.microsoft.com/dotnet/standard/analyzers/api-analyzer) to help identify places where PlatformNotSupportedException might come out.

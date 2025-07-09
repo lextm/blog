@@ -1,10 +1,10 @@
 ---
 categories: [History, .NET]
-description: A post that summarizes the rough history of the so many C# compilers and interesting stores behind them.
+description: A comprehensive history of the many C# compilers, including Microsoft's C/C++ and Roslyn compilers, Mono's implementation, and other notable alternatives like RemObjects and GNU compilers.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-rough-history-of-the-so-many-c-compilers-f3a85500707c
-tags: .net visual-studio csharp mono
+tags: .net visual-studio csharp mono microsoft open-source
 title: The Rough History of The So Many C# Compilers
 ---
 > Again, this post came from [a Stack Overflow answer](https://stackoverflow.com/questions/22814922/difference-between-c-sharp-compiler-version-and-language-version/46995130#46995130) I gave.
