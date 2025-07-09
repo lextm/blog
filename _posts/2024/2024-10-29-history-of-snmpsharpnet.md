@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 ## Introduction
 
-SNMP#NET is a .NET library developed to simplify the creation of SNMP-based applications. Originally launched during a period when open-source libraries for SNMP in .NET were rare, it became an important tool for developers, though it ultimately saw a decline in updates and support. In this post, we’ll explore the history of SNMP#NET from its early days to its current state.
+SNMP#NET (SnmpSharpNet) is a .NET library developed to simplify the creation of SNMP-based applications. Originally launched during a period when open-source libraries for SNMP in .NET were rare, it became an important tool for developers, though it ultimately saw a decline in updates and support. In this post, we’ll explore the history of SNMP#NET from its early days to its current state.
 
 <!--more-->
 
