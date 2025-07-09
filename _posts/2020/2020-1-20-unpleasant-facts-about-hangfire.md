@@ -34,3 +34,5 @@ If you do want to go a more common way,
 
 * On Windows Server machines, run scheduled tasks in a Windows service application.
 * On a cloud platform such as AWS/Azure, run scheduled tasks in the right service (Lambda or Azure Functions).
+
+  > Azure App Service has a feature called WebJobs, which is also OK for certain simple scenarios.
