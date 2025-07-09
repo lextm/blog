@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Big SORRY goes to those who had downloaded CBC 2.2"
 description: A post about the critical bug in CBC 2.2.
-tags: Code-Beautifier-Collection Delphi
-permalink: /big-sorry-goes-to-those-who-had-downloaded-cbc-2-2-e8ac2efd3d13
 excerpt_separator: <!--more-->
+layout: post
+permalink: /big-sorry-goes-to-those-who-had-downloaded-cbc-2-2-e8ac2efd3d13
+tags: code-beautifier-collection delphi
+title: Big SORRY goes to those who had downloaded CBC 2.2
 ---
 (Originally posted to CSDN on Nov 30, 2005)
 

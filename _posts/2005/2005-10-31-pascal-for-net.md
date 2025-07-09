@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Pascal for .NET――有趣的生物圈
 description: 介绍了用 Pascal 语言开发 .NET 程序的一些工具和它们的有趣故事。
-tags: Code-Beautifier-Collection Delphi
-permalink: /pascal-for-net-有趣的生物圈-8b16b7bca899
 excerpt_separator: <!--more-->
+layout: post
+permalink: /pascal-for-net-有趣的生物圈-8b16b7bca899
+tags: code-beautifier-collection delphi .net
+title: Pascal for .NET――有趣的生物圈
 ---
 (Originally posted to CSDN on Nov 01, 2005)
 

@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Running Nest Web Apps on IIS with HttpPlatformHandler"
 description: A post about creating a simple Nest web app and deploy it on IIS with HttpPlatformHandler
-tags: IIS Windows JavaScript Node.js Nest HttpPlatformHandler
 excerpt_separator: <!--more-->
+layout: post
+tags: iis javascript nest node.js windows httpplatformhandler
+title: Running Nest Web Apps on IIS with HttpPlatformHandler
 ---
-
 When Microsoft developed HttpPlatformHandler more than a decade ago to enable non-Microsoft web technologies on Windows/IIS, they didn't know that one day
 
 * Microsoft can embrace Linux in Azure

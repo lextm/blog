@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "A Primrose Path to Programming"
 description: 介绍了自己学习编程的一些经历
-tags: Code-Beautifier-Collection Delphi
-permalink: /a-primrose-path-to-programming-4aeb1f289b2c
 excerpt_separator: <!--more-->
+layout: post
+permalink: /a-primrose-path-to-programming-4aeb1f289b2c
+tags: delphi windows
+title: A Primrose Path to Programming
 ---
 (Originally published to CSDN on Dec 29, 2005)
 

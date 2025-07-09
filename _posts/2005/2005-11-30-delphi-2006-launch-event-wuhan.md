@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "追星行动1――参加Delphi 2006发布会见闻 Version 0.1"
 description: 介绍了我参加 Delphi 2006武汉发布会的一些感受。
-tags: Code-Beautifier-Collection Delphi
-permalink: /追星行动1-参加delphi-2006发布会见闻-version-0-1-b31b2f64c9ab
 excerpt_separator: <!--more-->
+layout: post
+permalink: /追星行动1-参加delphi-2006发布会见闻-version-0-1-b31b2f64c9ab
+tags: code-beautifier-collection delphi
+title: 追星行动1――参加Delphi 2006发布会见闻 Version 0.1
 ---
 (Originally posted to CSDN on Nov 30, 2005)
 

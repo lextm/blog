@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Brief Guide to Windows ARM64 Developers"
-description: "A comprehensive guide for Windows ARM64 developers, exploring key aspects and considerations. Learn about the possibility of staying with x86/x64 platforms, leveraging ARM64 native development for better performance and efficiency, and specific notes to consider for web apps. Discover how to run IIS or IIS Express on ARM64 devices and utilize out-of-band modules. Get insights on the ASP.NET Core module for IIS and IIS Express, and uncover the potential of Windows ARM64 for your development projects."
-tags: Windows IIS
+description: A comprehensive guide for Windows ARM64 developers, exploring key aspects and considerations. Learn about the possibility of staying with x86/x64 platforms, leveraging ARM64 native development for better performance and efficiency, and specific notes to consider for web apps. Discover how to run IIS or IIS Express on ARM64 devices and utilize out-of-band modules. Get insights on the ASP.NET Core module for IIS and IIS Express, and uncover the potential of Windows ARM64 for your development projects.
 excerpt_separator: <!--more-->
+layout: post
+tags: asp.net iis windows
+title: Brief Guide to Windows ARM64 Developers
 ---
-
 The introduction of ARM64 architecture to Windows has opened up new possibilities for developers. The new ARM64 based Copilot+ PCs on new chipset like Qualcomm Snapdragon X Elite are not only enabling AI related innovations but also providing a platform for traditional developers to explore new opportunities. This post provides a brief guide to Windows ARM64 developers, covering key aspects and considerations.
 <!--more-->
 
