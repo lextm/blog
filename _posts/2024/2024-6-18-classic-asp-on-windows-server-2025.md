@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to enable classic ASP with IIS 10 on Windows Server 2025 and its impact.
+description: "Discover the continued support for classic ASP in Windows Server 2025 despite VBScript deprecation concerns, and learn why modernization should still be considered for long-term application sustainability and security."
 excerpt_separator: <!--more-->
 layout: post
 tags: asp.net iis windows

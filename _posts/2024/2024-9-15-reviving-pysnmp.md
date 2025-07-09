@@ -1,9 +1,9 @@
 ---
 categories: [History, PySNMP]
-description: Discover the journey of reviving PySNMP, a crucial SNMP library, from its dormant state. This post reveals the technical challenges, strategic decisions, and collaborative efforts that brought PySNMP back to life, ensuring its compatibility with modern Python versions and enhancing its functionality for all users.
+description: "Explore the technical journey of reviving PySNMP, a vital Python SNMP library, from dormancy to modern functionality with Python 3.12 support, improved architecture, and strategic enhancements that ensure its future in network management applications."
 excerpt_separator: <!--more-->
 layout: post
-tags: python snmp
+tags: python snmp open-source
 title: 'Reviving PySNMP: Modernizing SNMP for Python, 2022-2024'
 ---
 > I wrote about [PySNMP history here](https://www.pysnmp.com/history) before, but that article was more targeting the audience of PySNMP users. This time I want to share more interesting facts about how PySNMP was revived, bit by bit, and the technical decisions made by me and my team. Thus, it will be a long post, but I hope you will enjoy it.

@@ -1,5 +1,5 @@
 ---
-description: This post talks the new HttpPlatformHandler v2 and how it is built.
+description: "Introducing HttpPlatformHandler v2, a modern open-source replacement for Microsoft's original module that fixes critical limitations, adds IIS Express support, and enables modern web features like SSE for Java, Python, Node.js, and Go applications on Windows/IIS."
 excerpt_separator: <!--more-->
 layout: post
 tags: .net httpplatformhandler iis java python windows

@@ -1,5 +1,5 @@
 ---
-description: A comprehensive guide for Windows ARM64 developers, exploring key aspects and considerations. Learn about the possibility of staying with x86/x64 platforms, leveraging ARM64 native development for better performance and efficiency, and specific notes to consider for web apps. Discover how to run IIS or IIS Express on ARM64 devices and utilize out-of-band modules. Get insights on the ASP.NET Core module for IIS and IIS Express, and uncover the potential of Windows ARM64 for your development projects.
+description: "An essential guide for Windows ARM64 developers working with web applications, covering compatibility options, native development advantages, and critical considerations for running IIS, IIS Express, and various modules on the new ARM64 architecture."
 excerpt_separator: <!--more-->
 layout: post
 tags: asp.net iis windows

@@ -1,5 +1,5 @@
 ---
-description: A post about creating a simple Next.js web app and deploy it on IIS with HttpPlatformHandler
+description: "Learn how to deploy Next.js web applications on IIS using HttpPlatformHandler, including environment configuration, handling dynamic routes, and setting up applications in subfolder scenarios for Windows server environments."
 excerpt_separator: <!--more-->
 layout: post
 tags: iis windows httpplatformhandler

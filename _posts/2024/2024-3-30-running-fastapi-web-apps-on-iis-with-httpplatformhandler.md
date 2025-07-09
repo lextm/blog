@@ -1,5 +1,5 @@
 ---
-description: A post about how to create a simple FastAPI web app and host it on IIS with HttpPlatformHandler
+description: "A step-by-step tutorial on deploying FastAPI applications on IIS using HttpPlatformHandler, the recommended replacement for FastCGI, with detailed configuration and troubleshooting guidance for Windows environments."
 excerpt_separator: <!--more-->
 layout: post
 tags: iis python windows httpplatformhandler

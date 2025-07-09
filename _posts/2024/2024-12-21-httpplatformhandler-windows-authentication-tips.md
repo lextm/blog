@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Windows Authentication Tips for HttpPlatformHandler"
-description: "This post talks about the Windows authentication tips for all HttpPlatformHandler."
-tags: iis
+description: "Learn how to properly enable Windows Authentication for non-Microsoft web applications hosted on IIS using HttpPlatformHandler, including configuration steps and code examples for Python and Ruby applications."
+tags: iis windows httpplatformhandler
 excerpt_separator: <!--more-->
 ---
 

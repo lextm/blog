@@ -1,5 +1,5 @@
 ---
-description: A comprehensive guide for reviewers to test Esbonio VS Code extension, covering environment setup, preparation, testing, typical errors, and more. Learn how to configure virtual environments with pyenv/pipenv, Esbonio settings, and test live preview and auto-completion features.
+description: "A comprehensive guide for reviewers to test Esbonio VS Code extension 0.95.2, covering environment setup, virtual environment configuration, settings adjustment, and troubleshooting to provide valuable feedback for this reStructuredText documentation tool."
 excerpt_separator: <!--more-->
 layout: post
 tags: python visual-studio-code restructuredtext

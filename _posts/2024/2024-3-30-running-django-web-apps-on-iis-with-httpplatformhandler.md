@@ -1,5 +1,5 @@
 ---
-description: A post about how to create a simple Django web app and host it on IIS with HttpPlatformHandler
+description: "Learn how to deploy Django applications on IIS using HttpPlatformHandler instead of the deprecated FastCGI, with detailed instructions for both development and production environments using Uvicorn and WhiteNoise."
 excerpt_separator: <!--more-->
 layout: post
 tags: httpplatformhandler python windows iis

@@ -1,5 +1,5 @@
 ---
-description: Learn how to host multiple versions of Sphinx documentation for your project using `sphinx-polyversion`. This guide covers the limitations of ReadTheDocs, the benefits of `sphinx-polyversion`, and detailed steps for integrating it into your project. Discover how to configure version tags, set up a reverse proxy with nginx, and maintain seamless documentation across different environments. Perfect for teams needing efficient and scalable versioned documentation management.
+description: "Learn how to efficiently host multiple versions of Sphinx documentation using sphinx-polyversion, with practical steps for configuring version tags, setting up nginx reverse proxies, and maintaining documentation across different environments."
 excerpt_separator: <!--more-->
 layout: post
 tags: python restructuredtext
