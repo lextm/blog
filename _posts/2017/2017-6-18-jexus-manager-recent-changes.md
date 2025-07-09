@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "Jexus Manager: Recent Changes"
-description: "This post would show you the most important changes in Jexus Manager."
-tags: Jexus-Manager IIS
-permalink: /jexus-manager-recent-changes-to-save-the-world-ada896d098aa
+description: This post would show you the most important changes in Jexus Manager.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /jexus-manager-recent-changes-to-save-the-world-ada896d098aa
+tags: asp.net iis jexus-manager windows
+title: 'Jexus Manager: Recent Changes'
 ---
-
 You probably noticed that I have been back to work on Jexus Manager due to the adventure on Docker/ASP.NET Core. So finally I can spend some time on the things I planned a while ago. Thus, this post would show you the most important changes.
 
 <!--more-->

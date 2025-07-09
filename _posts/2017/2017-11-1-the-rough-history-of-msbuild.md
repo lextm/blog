@@ -1,13 +1,12 @@
 ---
-layout: post
-title: The Rough History of MSBuild
-description: A post about the rough history of MSBuild and interesting stories behind it.
-tags: Visual-Studio .NET
 categories: [History, .NET]
-permalink: /the-rough-history-of-msbuild-cc72a217fa98
+description: A post about the rough history of MSBuild and interesting stories behind it.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-rough-history-of-msbuild-cc72a217fa98
+tags: .net visual-studio mono jetbrains microsoft
+title: The Rough History of MSBuild
 ---
-
 > Again, [a Stack Overflow question](https://stackoverflow.com/questions/47061820/can-msbuild-binaries-be-used-on-their-own/47062127#47062127) triggers my ideas to write this up.
 
 When I wrote about [C# compilers]({% post_url 2017/2017-10-29-the-rough-history-of-the-so-many-c-compilers %}), it is quite natural that MSBuild must be written some day. So today before my flight from YUL to JFK, let's see if I can finish the task.

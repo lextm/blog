@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "Code Beautifier Collection 2 搬家中…"
 description: 这篇文章是介绍 CBC 2 项目的搬家进度。该项目已经迁移到 GForge 托管网站。
-tags: Code-Beautifier-Collection Delphi
-permalink: /code-beautifier-collection-2-搬家中-36a6adeba7a1
 excerpt_separator: <!--more-->
+layout: post
+permalink: /code-beautifier-collection-2-搬家中-36a6adeba7a1
+tags: code-beautifier-collection delphi
+title: Code Beautifier Collection 2 搬家中…
 ---
 (CSDN April 19, 2006)
 

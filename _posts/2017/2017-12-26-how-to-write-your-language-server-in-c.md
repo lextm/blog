@@ -1,12 +1,11 @@
 ---
-layout: post
-title: How to Write Your Language Server in C#
 description: A post about how to write your own language server in C#. I will use reStructuredText as an example.
-tags: Visual-Studio .NET
-permalink: /how-to-write-your-language-server-in-c-d9302a44f694
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-to-write-your-language-server-in-c-d9302a44f694
+tags: .net restructuredtext visual-studio-code
+title: How to Write Your Language Server in C#
 ---
-
 I just wrote about [my plan]({% post_url 2017/2017-12-23-a-new-restructuredtext-project %}) to enhance reStructuredText extension for Visual Studio Code by adding a language server.
 
 While it is going to be a long road ahead, I already got some initial results. For this post, I would like to share some tips on the Language Server Protocol, so that if you are eager to start your own today as a C# developer, you can do the same.

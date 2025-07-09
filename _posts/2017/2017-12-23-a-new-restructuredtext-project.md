@@ -1,12 +1,11 @@
 ---
-layout: post
-title: A New reStructuredText Project
 description: A post about the new reStructuredText project for Visual Studio Code that I am working on.
-tags: Visual-Studio-Code .NET
-permalink: /a-new-restructuredtext-project-112e9ae52acb
 excerpt_separator: <!--more-->
+layout: post
+permalink: /a-new-restructuredtext-project-112e9ae52acb
+tags: .net visual-studio-code restructuredtext
+title: A New reStructuredText Project
 ---
-
 Microsoft/Xamarin uses VSTest to enable cross platform unit testing support for Visual Studio and Visual Studio for Mac. Therefore, I freed myself from maintaining the xUnit.net extension for the latter, and have some time for new adventures.
 
 Visual Studio Code has been out since 2015, but become one of the most important tools around the globe. I already have [an extension for Visual Studio Code](https://github.com/vscode-restructuredtext/vscode-restructuredtext), so it is time to put more serious work on it, learn something new and build something new. But how?
@@ -17,6 +16,7 @@ Well, digging into the long extension list seems to show me the obvious answer, 
 OK, enough background. Here comes [the new GitHub repo](https://github.com/lextm/restructuredtext-antlr).
 
 ## What does this project offer now?
+
 * An ANTLR v4 based parser (MIT license).
 * A C# based .NET Standard 1.3 library (MIT license).
 * A Language Server for reStructuredText and sphinx (Apache license).
@@ -25,6 +25,7 @@ OK, enough background. Here comes [the new GitHub repo](https://github.com/lextm
 * (future) DocFX integration.
 
 ## Why do you choose C# and ANTLR?
+
 * I am familiar with C#, but not Python (reStructuredText and sphinx are written in Python) or TypeScript/JavaScript.
 * C# is now open source and cross platform, just like Python and TypeScript/JavaScript.
 * I know a little bit ANTLR, but not other frameworks.

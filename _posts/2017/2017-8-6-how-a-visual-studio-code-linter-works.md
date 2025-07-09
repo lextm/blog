@@ -1,12 +1,12 @@
 ---
-layout: post
-title: How A Visual Studio Code Linter Works
-description: This post is about how a Visual Studio Code linter works so that you can develop other linter integration.
-tags: Visual-Studio-Code
-permalink: /how-a-visual-studio-code-linter-works-681c8388b0ea
+description: This post is about how a Visual Studio Code linter works so that you
+  can develop other linter integration.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-a-visual-studio-code-linter-works-681c8388b0ea
+tags: visual-studio-code
+title: How A Visual Studio Code Linter Works
 ---
-
 I blogged about [what a basic Visual Studio Code language extension should contain]({% post_url 2017/2017-5-27-receipt-of-visual-studio-code-extension %}) a few months ago, and today we focus on linter.
 
 <!--more-->

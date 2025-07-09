@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "How This Blog Goes to Medium"
-description: "This post is about how this blog was migrated to Medium."
-tags: Others
-permalink: /how-this-blog-goes-to-medium-1f2b441f59d2
+description: This post is about how this blog was migrated to Medium.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /how-this-blog-goes-to-medium-1f2b441f59d2
+tags: others
+title: How This Blog Goes to Medium
 ---
-
 I used to host my personal blog at different vendors (CSDN, Blogger), and later decided to use a self instance of WordPress. Freedom comes at a price. Now I finally become tired of all the maintenance work and get back to a vendor like Medium.
 <!--more-->
 

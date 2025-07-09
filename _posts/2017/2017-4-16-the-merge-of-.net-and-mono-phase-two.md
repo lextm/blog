@@ -1,12 +1,11 @@
 ---
-layout: post
-title: "The Merge of .NET and Mono: Phase Two"
-description: "This post is about the second phase of the merge of .NET and Mono."
-tags: .NET Mono
-permalink: /the-merge-of-net-and-mono-phase-two-6442efc11331
+description: This post is about the second phase of the merge of .NET and Mono.
 excerpt_separator: <!--more-->
+layout: post
+permalink: /the-merge-of-net-and-mono-phase-two-6442efc11331
+tags: .net mono
+title: 'The Merge of .NET and Mono: Phase Two'
 ---
-
 > You can find [phase one post here]({% post_url 2017/2017-4-16-the-merge-of-.net-and-mono-phase-one %}).
 
 The relationship between Mono and Microsoft .NET teams have been closer and closer in the past few years. We can see Miguel de Icaza showed his appreciation multiple times at different circumstances (C# compiler async/await support, PCL support, and BCL documentation for example).

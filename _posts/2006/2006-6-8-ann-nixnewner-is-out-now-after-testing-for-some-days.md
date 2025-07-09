@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "ANN! NixNewNer is out now after testing for some days"
 description: This post is about the final release of CBC 2 NixNewNer.
-tags: Code-Beautifier-Collection Delphi
-permalink: /ann-nixnewner-is-out-now-after-testing-for-some-days-ab2afb807954
 excerpt_separator: <!--more-->
+layout: post
+permalink: /ann-nixnewner-is-out-now-after-testing-for-some-days-ab2afb807954
+tags: delphi code-beautifier-collection
+title: ANN! NixNewNer is out now after testing for some days
 ---
 (CSDN June 08, 2006)
 
