@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-new-build-and-codeplex-com-bug-d114c1dec027
 tags: work-life
+categories: [Miscellaneous]
 title: '#SNMP Design: New Build and CodePlex.com Bug'
 ---
 I am quite happy that CodePlex creates a snapshot of my every check in. This is really going to hurt some users because I may carelessly or be forced to commit a broken version. In this case I really love CVS or SVN because I can tag out working versions.

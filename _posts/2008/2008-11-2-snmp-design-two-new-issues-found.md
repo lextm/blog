@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-two-new-issues-found-f4f0081a76de
 tags: snmp windows
+categories: [Technologies and Concepts]
 title: '#SNMP Design: Two New Issues Found'
 ---
 Two more #SNMP issues were reported this week. And luckily both of them have workarounds.

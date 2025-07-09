@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-compile-with-antlr-on-linux-mono-4cca2cf7ed27
 tags: antlr linux mono snmp
+categories: [Frameworks and Libraries]
 title: 'TritonMate Words: Compile with ANTLR on Linux/Mono'
 ---
 It is fairly easy to compile #SNMP 7.5 on Windows, as the ANTLR C# runtime contains a MSBuild targets file which provides good enough integration. However, due to [a Mono bug](https://bugzilla.xamarin.com/show_bug.cgi?id=3055), this targets file cannot be loaded by xbuild. Thus, if you download #SNMP 7.5 source code and want to compile it on Linux, you find that it is impossible.

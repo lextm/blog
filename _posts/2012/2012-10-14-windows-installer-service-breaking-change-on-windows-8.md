@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-installer-service-breaking-change-on-windows-8-93547462fa3a
 tags: windows microsoft visual-studio
+categories: [Operating Systems]
 title: Windows Installer Service Breaking Change on Windows 8
 ---
 Windows Installer team published [a nice blog post](https://learn.microsoft.com/archive/blogs/windows_installer_team/windows-installer-troubleshooting-tips-from-halloween) about how to detect whether Windows Installer is busy with an MSI package.

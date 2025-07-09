@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /flags-icons-1851da691b49
 tags: work-life
+categories: [Miscellaneous]
 title: Flags Icons
 ---
 When I tried to find icons for some nations' flags, I came across this web page. Yep, the icons are awesome.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-sad-news-on-linux-support-afe1d22c041a
 tags: linux mono snmp
+categories: [Operating Systems]
 title: 'TritonMate Words: Sad News on Linux Support'
 ---
 Just started to dig on Linux/Mono side, as the changes we made on the 8.0 way are so huge. In a few minutes, a serious problem was found,

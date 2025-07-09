@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /vista-dialog-and-controls-38dba03f3d19
 tags: .net windows
+categories: [Programming Languages]
 title: Vista Dialogs and Controls
 ---
 It is nice to see Windows Vista delivers new dialogs and controls. They are beautifier indeed. However, for .NET developers there is few resource to use. Even if you are using .NET on Vista, Vista Bridge is all that MS provides you.

@@ -3,6 +3,7 @@ layout: post
 title: Make Obfuscar A Global Tool in.NET Core
 description: How to transform Obfuscar into a .NET Core Global Tool, making it easier to install, update, and use across platforms including Windows, macOS, and Linux.
 tags: .net open-source obfuscar
+categories: [Programming Languages]
 permalink: /make-obfuscar-a-global-tool-in-net-core-1cc3ee2cfe30
 excerpt_separator: <!--more-->
 image:

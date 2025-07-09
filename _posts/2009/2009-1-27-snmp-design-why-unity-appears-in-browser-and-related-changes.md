@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-why-unity-appears-in-browser-and-related-changes-6b9a4422bbc1
 tags: work-life snmp
+categories: [Miscellaneous]
 title: '#SNMP Design: Why Unity Appears in Browser and Related Changes'
 ---
 You may doubt why I introduced Unity Application Block in latest builds. Well, the reason is simple, "we need it".

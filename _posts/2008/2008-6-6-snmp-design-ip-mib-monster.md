@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-ip-mib-monster-9a40366c13d8
 tags: snmp visual-studio
+categories: [Technologies and Concepts]
 title: '#SNMP Design: IP-MIB Monster'
 ---
 It is really a challenge to parse IP-MIB. Why? This file contains 185,928 bytes so a lot of definitions. Therefore, after parsing this file, I got 293 more nodes in the MIB tree.

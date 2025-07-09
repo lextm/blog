@@ -3,6 +3,7 @@ description: "A comprehensive guide for reviewers to test Esbonio VS Code extens
 excerpt_separator: <!--more-->
 layout: post
 tags: python visual-studio-code restructuredtext
+categories: [Programming Languages]
 title: "Esbonio VS Code Reviewers' Guide"
 ---
 I have been using the Esbonio extension 0.11 releases for a long while, and finally the 0.95 releases reached a stage where it is ready for reviewers to test out. This guide will be updated from time to time to serve as a comprehensive guide to ensure that reviewers can provide valuable feedback to the development team.

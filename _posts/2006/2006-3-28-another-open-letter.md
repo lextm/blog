@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /又一封公开信-a0e8bc60ec03
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 又一封公开信？
 ---
 (CSDN March 28, 2006)

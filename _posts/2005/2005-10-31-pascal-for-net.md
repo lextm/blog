@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /pascal-for-net-有趣的生物圈-8b16b7bca899
 tags: code-beautifier-collection delphi .net microsoft visual-studio
+categories: [Tools and Platforms]
 title: Pascal for .NET――有趣的生物圈
 ---
 (Originally posted to CSDN on Nov 01, 2005)

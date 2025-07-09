@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /my-last-post-on-touch-mouse-mate-46033bbafa8c
 tags: microsoft windows
+categories: [Companies and Products]
 title: My Last Post on Touch Mouse Mate
 ---
 I started to work on Touch Mouse Mate early this year. The very first change set on GitHub was on Feb 25. I was able to pack the original work done by J5 as 1.4 release, and even added some of my own ideas in 1.5 Beta release.

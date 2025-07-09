@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /why-chrome-says-iis-express-https-is-not-secure-and-how-to-resolve-that-d906a183f0
 tags: iis jexus-manager google
+categories: [Tools and Platforms]
 title: Why Chrome Says IIS Express HTTPS Is Not Secure And How to Resolve That
 ---
 > Jexus Manager can be downloaded from https://www.jexusmanager.com

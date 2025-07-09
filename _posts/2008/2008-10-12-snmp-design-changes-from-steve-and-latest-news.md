@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-changes-from-steve-and-latest-news-2a448a7568a7
 tags: work-life
+categories: [Miscellaneous]
 title: '#SNMP Design: Changes from Steve, and Latest News'
 ---
 Steve have just checked in a few changes on the browser side,

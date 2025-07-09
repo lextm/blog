@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-force-eclipse-xmind-to-run-in-english-48dd5334de90
 tags: work-life
+categories: [Miscellaneous]
 title: How to Force Eclipse/XMind to Run in English
 ---
 It is quite convenient that more and more software vendors provide multi-lingual products. However, I don't think all of them hire good translators. Therefore, in order to understand how to use the tools smartly, I have to pick up English from some configuration dialog.

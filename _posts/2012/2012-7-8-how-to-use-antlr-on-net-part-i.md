@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-antlr-on-net-part-i-599593b68dc4
 tags: .net antlr java
+categories: [Programming Languages]
 title: How to Use ANTLR on .NET, Part I
 ---
 > This will be a series of several articles, as ANTLR 3 is really a complex system. Therefore, please be patience.

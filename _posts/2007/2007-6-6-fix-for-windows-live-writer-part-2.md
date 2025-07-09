@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /fix-for-windows-live-writer-part-2-89608a886f43
 tags: windows
+categories: [Operating Systems]
 title: Fix for Windows Live Writer Part 2
 ---
 If you want to turn on Check Spelling for English in a localized version of WLW, please read this post.

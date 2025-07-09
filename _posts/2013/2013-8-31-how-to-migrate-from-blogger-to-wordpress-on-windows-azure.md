@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-migrate-from-blogger-to-wordpress-on-windows-azure-bcd9322df84a
 tags: azure
+categories: [Tools and Platforms]
 title: How to Migrate from Blogger to WordPress on Windows Azure
 ---
 I used to use a Chinese blogging service called CSDN. As it is a closed system which has no open API I experienced difficulties migrating my posts from it to Blogger.

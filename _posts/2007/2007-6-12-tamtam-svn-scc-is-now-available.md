@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tamtam-svn-scc-is-now-available-c289a6f759bd
 tags: visual-studio
+categories: [Tools and Platforms]
 title: TamTam SVN SCC is Now Available
 ---
 I tried TamTam CVS SCC once. It was great. Now the SVN version is available (after about two months). I love it very much though it is still in Beta. Feel good.

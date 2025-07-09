@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /crossroad-billboard-if-compiler-crashes-8bb2321dbb4b
 tags: powershell snmp windows
+categories: [Tools and Platforms]
 title: 'CrossRoad Billboard: If Compiler Crashes'
 ---
 Hi all,

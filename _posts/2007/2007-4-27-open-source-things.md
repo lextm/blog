@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /上班以来使用的开源东西-c30fde3baa04
 tags: .net java sharpdevelop windows
+categories: [Programming Languages]
 title: 上班以来使用的开源东西
 ---
 (CSDN April 27, 2007)

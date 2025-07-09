@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-report-something-needed-to-be-done-19fe776c41b
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Something needed to be done'
 ---
 (CSDN Sept 25, 2006)

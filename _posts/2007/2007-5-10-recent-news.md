@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /匆匆写就的近况-7261702a4024
 tags: work-life
+categories: [Miscellaneous]
 title: 匆匆写就的近况
 ---
 很幸运的和华工04级的研究生一起毕业离校，有很幸运的和05级一起等待着毕业证。这意味着自己现在的状态就是悬在天地之间，上不着天，下不着地。

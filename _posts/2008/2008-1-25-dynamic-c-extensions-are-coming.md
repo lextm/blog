@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dynamic-c-extensions-are-coming-57eb08d44ef5
 tags: .net python visual-studio
+categories: [Programming Languages]
 title: Dynamic C# Extensions Are Coming
 ---
 DLR enables Python and Ruby on .NET platform. But the Java/Groovy issue comes again. Although IronPython and IronRuby can call C# code, the reverse is not possible now.

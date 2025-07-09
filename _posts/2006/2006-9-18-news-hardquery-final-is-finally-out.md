@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-hardquery-final-is-finally-out-18730d02c929
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: News! HardQuery Final is finally out.
 ---
 (CSDN Sept 18, 2006)

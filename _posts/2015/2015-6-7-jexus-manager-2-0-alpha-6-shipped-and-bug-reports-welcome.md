@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-2-0-alpha-6-shipped-and-bug-reports-welcome-9cf6474ef521
 tags: iis jexus-manager windows web-development
+categories: [Tools and Platforms]
 title: 'Jexus Manager: 2.0 Alpha 6 Shipped and Bug Reports Welcome'
 ---
 After several weeks of hard work, I am glad to announce the immediate availability of Jexus Manager for IIS Express 2.0 Alpha 6.

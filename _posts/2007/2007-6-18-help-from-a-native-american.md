@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /help-from-a-native-american-7f10903475f1
 tags: work-life
+categories: [Miscellaneous]
 title: Help from a Native American
 ---
 In my project at work (PAW) a lot of strings must be standardized. However even after a lot of discussions we found out the terms were not easy to understand.

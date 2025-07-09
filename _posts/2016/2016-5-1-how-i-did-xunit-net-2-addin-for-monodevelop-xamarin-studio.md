@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-i-did-xunit-net-2-addin-for-monodevelop-xamarin-studio-c61029051407
 tags: .net mono xamarin xunit open-source
+categories: [Frameworks and Libraries]
 title: How I Did xUnit.net 2 Addin for MonoDevelop/Xamarin Studio
 ---
 I started [my very first project](https://github.com/lextudio/codebeautifiercollection) to extend Borland Delphi/C#Builder. And then I created an AStyle addin for SharpDevelop, and then [an OpenCover addin]({% post_url 2012/2012-7-25-opencover-addin-for-sharpdevelop %}). And a few months ago, I launched [an extension for Visual Studio Code for reStructuredText users]({% post_url 2015/2015-11-28-dockpanel-suite-docs-site-restructuredtext-and-visual-studio-code %}). So I think except Eclipse/Visual Studio/IntelliJ IDEA, I have touched most of the IDE platforms. And today I finally enter the land of MonoDevelop/Xamarin Studio.

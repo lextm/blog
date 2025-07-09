@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-delphi-style-editor-7e99f5a0de60
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Delphi Style Editor'
 ---
 > This is a post in the 6.0 New Features series, to promote my open source project.

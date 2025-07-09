@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-mib-parser-milestone-69dab4e666ca
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: MIB Parser Milestone'
 ---
 Just one minute earlier, the #SNMP MIB parser parsed all Net-SNMP bundled MIB documents except RFC1155-SMI.

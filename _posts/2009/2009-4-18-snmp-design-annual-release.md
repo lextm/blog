@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-annual-release-8168bc1ca5b2
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: Annual Release'
 ---
 Oh, it's drawing near. As the first change set of #SNMP was alive here on April 26th 2008, I plan to release something important one year later. Well, actually when I started this small project, how could I expect it would grow to be what it looks like today?

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-source-analysis-9eaa8a62a6f4
 tags: sharpdevelop snmp
+categories: [Tools and Platforms]
 title: '#SNMP Design: Source Analysis'
 ---
 I have been using Matt's StyleCop Addin for SharpDevelop for almost two weeks and it is wonderful. So from now on, I am going to enhance #SNMP source files to make the code look better.

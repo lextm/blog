@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-and-portable-class-library-52ce3ff6d47
 tags: .net snmp visual-studio xamarin
+categories: [Programming Languages]
 title: '#SNMP and Portable Class Library'
 ---
 Microsoft introduced Portable Class Library (PCL) a very long time ago, so as to support cross platform code sharing (Windows, Windows Phone, Windows RT, Silverlight initially). Xamarin started to support PCL a few months ago, and fully integrated into Visual Studio. Does that finally solve all code sharing issues? Well, far from perfect yet, especially for #SNMP.

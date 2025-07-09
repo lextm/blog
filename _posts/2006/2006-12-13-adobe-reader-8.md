@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /adobe-reader-8的安装-36cb6dcc493d
 tags: work-life
+categories: [Miscellaneous]
 title: Adobe Reader 8的安装
 ---
 (CSDN Dec 13, 2006)

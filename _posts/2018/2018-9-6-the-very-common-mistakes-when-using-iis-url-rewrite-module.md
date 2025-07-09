@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /the-very-common-mistakes-when-using-iis-url-rewrite-module-a2ab7e4fee59
 tags: iis windows
+categories: [Tools and Platforms]
 title: The Very Common Mistakes When Using IIS URL Rewrite Module
 ---
 IIS URL Rewrite module has been a very important addition to the platform, and gives all kinds of possibilities on how you can take full control of the URLs. When proper rules are created and hosted there, many scenarios that were difficult to achieve are no longer miracles.

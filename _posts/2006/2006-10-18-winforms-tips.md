@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /winforms-tips-两个很简单但是不容易想到的点子-889fdc0ac00
 tags: .net
+categories: [Programming Languages]
 title: 'WinForms Tips: 两个很简单但是不容易想到的点子'
 ---
 (CSDN Oct 18, 2006)

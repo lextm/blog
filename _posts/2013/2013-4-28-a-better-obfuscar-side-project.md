@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-a-better-obfuscar-side-project-ec176ca6a7c3
 tags: .net
+categories: [Programming Languages]
 title: A Better Obfuscar, Side Project
 ---
 Open source developers of .NET platform should not care much about obfuscation of the assemblies, as they even have the source code publicly available. However, if an open source project begins the commercialization, an obfuscator is needed to encrypt the secrets of the code base. That's what this blog post is going to talk about.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-incomplete-agent-demo-5550acc8f1e4
 tags: sharpdevelop snmp
+categories: [Tools and Platforms]
 title: '#SNMP Design: Incomplete Agent Demo'
 ---
 > Update: This post is obsolete. For #SNMP 6+, please read [this new post]({% post_url 2010/2010-11-14-honeycell-drops-snmp-pipeline-and-our-agent-demo %}).

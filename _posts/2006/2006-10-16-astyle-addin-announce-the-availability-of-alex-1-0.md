@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /astyle-addin-announce-the-availability-of-alex-1-0-43ff00cb916f
 tags: sharpdevelop .net
+categories: [Tools and Platforms]
 title: 'AStyle AddIn: Announce the availability of Alex, 1.0'
 ---
 (CSDN Oct 16, 2006)

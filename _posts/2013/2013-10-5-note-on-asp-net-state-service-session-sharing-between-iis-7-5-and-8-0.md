@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /note-on-asp-net-state-service-session-sharing-between-iis-7-5-and-8-0-bfdd9d003395
 tags: .net asp.net iis windows
+categories: [Programming Languages]
 title: Note on ASP.NET State Service Session Sharing Between IIS 7.5 and 8.0
 ---
 Microsoft has many articles to document how to configure ASP.NET state service session sharing, such as [this one](http://msdn.microsoft.com/en-us/library/ms178586.aspx) and [this one](http://support.microsoft.com/kb/313091).

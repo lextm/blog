@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /update-on-xunit-net-extension-of-visual-studio-for-mac-af69457e3441
 tags: .net macos mono visual-studio xamarin xunit open-source
+categories: [Frameworks and Libraries]
 title: Update on xUnit.net Extension of Visual Studio for Mac
 ---
 > It is a long story, but I believe I enjoy the overall progress. So, let's get started.

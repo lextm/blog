@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /what-should-you-check-when-visual-studio-cannot-debug-asp-net-core-projects-4b5db8c5e129
 tags: .net asp.net iis visual-studio
+categories: [Tools and Platforms]
 title: What Should You Check When Visual Studio Cannot Debug ASP.NET Core Projects
 ---
 Debugging is very important a process for developers to learn more about the development environment and the code base. So frustration can be a lot if suddenly your development tool fails to debug.

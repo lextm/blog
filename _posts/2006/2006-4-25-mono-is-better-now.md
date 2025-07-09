@@ -3,6 +3,7 @@ layout: post
 title: Mono is better now!
 description: This post is about the progress of Mono.
 tags: .net mono linux
+categories: [Programming Languages]
 permalink: /mono-is-better-now-b629a5598708
 excerpt_separator: <!--more-->
 ---

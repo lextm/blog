@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-report-use-delphi-2006-to-test-grapevine-now-75458ab97c9f
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'GrapeVine Report: Use Delphi 2006 to test GrapeVine now'
 ---
 (CSDN Jan 04, 2007)

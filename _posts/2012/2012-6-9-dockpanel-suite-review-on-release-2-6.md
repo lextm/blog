@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-review-on-release-2-6-4e5517d8c0b9
 tags: .net asp.net dockpanel-suite
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite: Review on Release 2.6'
 ---
 DockPanel Suite 2.6 is now available in two places,

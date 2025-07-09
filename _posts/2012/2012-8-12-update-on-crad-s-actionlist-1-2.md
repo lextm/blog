@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /update-on-crads-actionlist-1-2-1300b9afbd18
 tags: .net visual-studio
+categories: [Programming Languages]
 title: Update on Crad's ActionList 1.2
 ---
 You probably know that except working on #SNMP and DockPanel Suite, I am also [maintaining Crad's ActionList]({% post_url 2012/2012-4-30-packaging-crad-s-actionlist-for-net-via-nuget %}).

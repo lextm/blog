@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /good-english-a-bridge-that-connect-to-those-who-develop-delphi-112c19b97f62
 tags: work-life
+categories: [Miscellaneous]
 title: 'Good English: A bridge that connects to those who develop Delphi'
 ---
 (CSDN July 20, 2006)

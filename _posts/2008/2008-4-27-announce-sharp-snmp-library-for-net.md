@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /announce-sharp-snmp-library-for-net-e359089cad7f
 tags: .net snmp
+categories: [Programming Languages]
 title: Announce Sharp SNMP Library for .NET
 ---
 I have been working with SNMP on Microsoft.NET platform for months. In order to leave my experience fresh and clear for other developers that might enter this field one day, I wonder what kind of contribution I could do. And here comes it.

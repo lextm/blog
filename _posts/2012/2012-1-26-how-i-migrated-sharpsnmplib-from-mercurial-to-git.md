@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-i-migrated-sharpsnmplib-from-mercurial-to-git-54a19d4419a5
 tags: snmp
+categories: [Technologies and Concepts]
 title: How I Migrated SharpSnmpLib From Mercurial to Git
 ---
 There are tons of articles on this topic. Here I just summarized what I have done.

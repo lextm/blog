@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-meet-our-compiler-guys-c17b25c8c56e
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: Meet Our Compiler Guys'
 ---
 I should say it is nice to hear from Patrick and Robert this morning. It makes today really special.

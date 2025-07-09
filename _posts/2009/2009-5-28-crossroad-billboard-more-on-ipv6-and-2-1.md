@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /crossroad-billboard-more-on-ip-v6-and-2-1-3b924cecacef
 tags: work-life
+categories: [Miscellaneous]
 title: 'CrossRoad Billboard: More on IP v6 and 2.1'
 ---
 Here is the technical details about work item 4016 and release 2.1.

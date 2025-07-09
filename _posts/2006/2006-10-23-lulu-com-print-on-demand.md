@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /lulu-com-print-on-demand-a93811911f5c
 tags: work-life
+categories: [Miscellaneous]
 title: 'Lulu.com: Print On Demand'
 ---
 (CSDN Oct 23, 2006)

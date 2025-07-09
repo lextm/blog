@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpdevelop的astyle插件-6f3b56044526
 tags: .net sharpdevelop
+categories: [Programming Languages]
 title: SharpDevelop的AStyle插件
 ---
 (CSDN Sept 15, 2006)

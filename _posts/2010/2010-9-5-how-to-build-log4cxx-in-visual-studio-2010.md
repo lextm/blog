@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-build-log4cxx-in-visual-studio-2010-a69d9bbd65d7
 tags: visual-studio visual-studio-code
+categories: [Tools and Platforms]
 title: How To Build Log4cxx In Visual Studio 2010
 ---
 Daniel mentioned how he managed to build log4cxx in Visual Studio. However, he did not provide more details. So this blog post serves as a detailed explanation.

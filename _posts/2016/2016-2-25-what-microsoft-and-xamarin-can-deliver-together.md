@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /what-microsoft-and-xamarin-can-deliver-together-221f668884a7
 tags: .net mono visual-studio xamarin microsoft open-source
+categories: [Frameworks and Libraries]
 title: What Microsoft and Xamarin Can Deliver Together
 ---
 I am more than happy to see Microsoft acquired Xamarin a few hours ago, as I have been observed both for a very long time and currently working on a presentation on March 12 to talk about the history behind .NET and Mono in the past 16 years. This merge gives the talk more fun.

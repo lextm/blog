@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-milestone-4-for-delphi-2007-update-2-a1971ce08d69
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Milestone 4 for Delphi 2007 Update 2'
 ---
 I've just notice Update 2 of Delphi 2007 and C++Builder 2007 does not update your Borland.Studio.ToolsAPI.dll. So the version number of it remains 11.0.5000.7128 which is just the same as Delphi 2007 Update 1 and C++Builder 2007.

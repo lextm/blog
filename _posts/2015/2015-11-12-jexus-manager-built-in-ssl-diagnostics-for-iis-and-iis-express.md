@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-built-in-ssl-diagnostics-for-iis-and-iis-express-69128ad1c4fb
 tags: iis jexus-manager windows
+categories: [Tools and Platforms]
 title: 'Jexus Manager: Built-in SSL Diagnostics for IIS and IIS Express'
 ---
 IIS 6 used to have a great troubleshooting tool called SSL Diagnostics (SSL Diag for short). It relied on the ADSI API, so this tool was not made part of IIS 7.

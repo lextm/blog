@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-initial-persist-to-disk-support-in-2-0-alpha-5-a022b5935f64
 tags: iis jexus-manager windows visual-studio
+categories: [Tools and Platforms]
 title: 'Jexus Manager: Initial Persist-to-Disk Support in 2.0 Alpha 5'
 ---
 Visual Studio does provide some basic IIS Express integration, such as opening sites from IIS Express, and exposes a limited set of settings for you to configure,

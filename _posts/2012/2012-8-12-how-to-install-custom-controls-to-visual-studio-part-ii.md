@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-install-custom-controls-to-visual-studio-part-ii-cff4b3227ed3
 tags: .net sharpdevelop visual-studio
+categories: [Tools and Platforms]
 title: How to Install Custom Controls to Visual Studio, Part II
 ---
 > [Part I is here]({% post_url 2012/2012-8-11-how-to-install-custom-controls-to-visual-studio-part-i %})

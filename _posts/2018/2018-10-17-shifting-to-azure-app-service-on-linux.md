@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /shifting-to-azure-app-service-on-linux-b216f4584b03
 tags: azure iis linux python windows php microsoft
+categories: [Tools and Platforms]
 title: Shifting to Azure App Service on Linux
 ---
 Microsoft Azure was built upon Windows and IIS in its early days, which is not surprising. At that time, IIS 7 was shipped with PHP support, and had the capabilities to enable ASP.NET/PHP apps. Later [Microsoft added HttpPlatformHandler](https://azure.microsoft.com/blog/announcing-the-release-of-the-httpplatformhandler-module-for-iis-8/) in 2015, which enabled other languages (Java, Node.JS, Go, Ruby, and Python) on IIS and Windows.

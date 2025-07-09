@@ -3,6 +3,7 @@ layout: post
 title: 'DockPanel Suite: ContextMenuStrip Behaviors'
 description: Detailed analysis of fixing ContextMenuStrip positioning bugs in DockPanel Suite, including screen boundary detection and menu flip implementation for proper UI display.
 tags: .net dockpanel-suite windows
+categories: [Programming Languages]
 permalink: /dockpanel-suite-contextmenustrip-behaviors-bef808f00342
 excerpt_separator: <!--more-->
 ---

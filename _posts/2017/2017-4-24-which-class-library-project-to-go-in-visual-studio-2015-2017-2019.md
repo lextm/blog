@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /which-class-library-project-to-go-in-visual-studio-2015-2017-a48710cf3dff
 tags: .net visual-studio
+categories: [Programming Languages]
 title: Which Class Library Project to Go in Visual Studio 2015/2017/2019/2022
 ---
 You probably often wonder why Microsoft ships so many project templates in Visual Studio 2015/2017/2019/2022.

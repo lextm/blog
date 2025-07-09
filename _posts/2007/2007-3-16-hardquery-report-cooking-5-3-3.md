@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-cooking-5-3-3-da1bb8fdb78f
 tags: .net code-beautifier-collection
+categories: [Programming Languages]
 title: 'HardQuery Report: Cooking 5.3.3'
 ---
 I have to confess that before I started to replace NAnt script with MSBuild script I never thought it costed me so much time.

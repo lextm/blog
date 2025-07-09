@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-milestone-12-and-two-bugs-fee61c5c5c4a
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Milestone 12 and two bugs'
 ---
 (CSDN Sept 13, 2006)

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-missing-feature-3cbbfc556a00
 tags: delphi windows
+categories: [Operating Systems]
 title: 'GrapeVine Voice: Missing Feature'
 ---
 I am a guy who always tries something new. As a result, I want to be notified of every important updates. RSS and Google Reader helps me a lot these days. However, there are still some products fail to provide a RSS source about updates.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-release-2-6-is-coming-release-notes-bf7810a6b66b
 tags: dockpanel-suite
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite: Release 2.6 is Coming (Release Notes)'
 ---
 Dear readers and C# WinForms developers,

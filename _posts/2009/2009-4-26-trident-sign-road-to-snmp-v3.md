@@ -3,6 +3,7 @@ layout: post
 title: 'Trident Sign: Road to SNMP v3'
 description: This post is about the plan to work on SNMP v3 features.
 tags: snmp
+categories: [Technologies and Concepts]
 permalink: /trident-sign-road-to-snmp-v3-6aac30a6040
 excerpt_separator: <!--more-->
 ---

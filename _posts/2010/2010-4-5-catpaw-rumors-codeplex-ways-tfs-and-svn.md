@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-codeplex-ways-tfs-and-svn-1b9aa6a4ab98
 tags: powershell snmp
+categories: [Tools and Platforms]
 title: 'CatPaw Rumors: CodePlex Ways, TFS and SVN'
 ---
 I hate the A vs. B discussion, so I promise this post is not one of that kind.

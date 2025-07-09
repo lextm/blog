@@ -1,5 +1,5 @@
 ---
-categories: [History, PySNMP]
+categories: [Programming Languages]
 description: "Explore the technical journey of reviving PySNMP, a vital Python SNMP library, from dormancy to modern functionality with Python 3.12 support, improved architecture, and strategic enhancements that ensure its future in network management applications."
 excerpt_separator: <!--more-->
 layout: post

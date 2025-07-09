@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-dateandtime-syntax-support-e99abc51bc2f
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Pro: DateAndTime Syntax Support'
 ---
 Well, I blogged about syntax validation [in a previous post]({% post_url 2013/2013-8-18-snmp-pro-syntax-validation-in-sharpsnmppro-mib %}), which should be one of the coolest features for SharpSnmpPro.Mib assembly. But there is an interesting story about that untold.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-release-1-1-is-out-11ddf223eaa7
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Pro: Release 1.1 is Out'
 ---
 You probably noticed that #SNMP Library has just been updated to 8.5 and released finally at NuGet.org.

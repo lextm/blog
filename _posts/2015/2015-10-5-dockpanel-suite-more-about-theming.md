@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-more-about-theming-48864f47892c
 tags: .net dockpanel-suite visual-studio open-source
+categories: [Programming Languages]
 title: 'DockPanel Suite: More About Theming'
 ---
 Ever since I finished integrating the VS 2012 light theme into DPS, we see demands on other themes. The community is much stronger than we thought and new theme authors are now with us.

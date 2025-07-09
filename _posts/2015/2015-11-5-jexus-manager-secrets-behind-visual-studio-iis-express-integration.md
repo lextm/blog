@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-secrets-behind-visual-studio-iis-express-integration-834f88c8e8b
 tags: iis visual-studio jexus-manager windows
+categories: [Tools and Platforms]
 title: 'Jexus Manager: Secrets Behind Visual Studio IIS Express Integration'
 ---
 Visual Studio has shipped IIS Express for a few releases. Behind the scene, there are some changes on the integration, but they are hidden and not documented in details. Without such knowledge, many questions were raised on StackOverflow and IIS/ASP.NET forums. In this post, I will attempt to show you some secrets and hope it helps you understand what are the common issues and their solution.

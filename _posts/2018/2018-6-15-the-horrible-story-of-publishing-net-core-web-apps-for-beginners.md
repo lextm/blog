@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /the-horrible-story-of-publishing-net-core-web-apps-for-beginners-6121662dd8c4
 tags: .net asp.net iis visual-studio microsoft
+categories: [Tools and Platforms]
 title: The Horrible Story of Publishing .NET Core Web Apps For Beginners
 ---
 Generally speaking, ASP.NET Core is cool, and the recent 2.1 release is even cooler with all kinds of new goodies. However, this post is not aiming to praise Microsoft on what they do the best, but the worst currently for ASP.NET Core/IIS beginners.

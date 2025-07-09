@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /some-gaps-in-microsoft-asp-net-iis-stack-and-why-jexus-steps-in-for-the-community-e5a6f79fec99
 tags: .net asp.net iis jexus-manager linux
+categories: [Tools and Platforms]
 title: Some Gaps in Microsoft ASP.NET/IIS Stack and Why Jexus Steps In for The Community
 ---
 > Update: ASP.NET Core 2.0 today is mature enough as the official migration path for ASP.NET 4.x apps on .NET Framework. Thus, spend some time on ASP.NET Core please.

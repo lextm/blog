@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-how-to-debug-8b21849e20b2
 tags: .net delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: How To Debug'
 ---
 There are a lot of debuggers I can choose from on Windows. They are,

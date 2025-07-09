@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-bigface-version-is-out-there-a94ff3b01476
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: CBC BigFace version is out there!
 ---
 (Originally posted to CSDN on Feb 28, 2006)

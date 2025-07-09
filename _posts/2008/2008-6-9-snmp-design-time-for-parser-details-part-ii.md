@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-time-for-parser-details-part-two-f722930f5c8e
 tags: sharpdevelop snmp
+categories: [Tools and Platforms]
 title: '#SNMP Design: Time for Parser Details, Part Two'
 ---
 ## Why TDD really helps?

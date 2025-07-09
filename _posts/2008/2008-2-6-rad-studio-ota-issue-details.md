@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /rad-studio-ota-issue-details-6e111b51c005
 tags: .net delphi
+categories: [Programming Languages]
 title: RAD Studio OTA Issue Details
 ---
 Now I'd like to introduce how I find this bug.

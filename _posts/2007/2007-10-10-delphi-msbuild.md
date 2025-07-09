@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /delphi-的用户们-早点开始享受-msbuild-吧-c7ad9f01c446
 tags: .net delphi
+categories: [Programming Languages]
 title: Delphi 的用户们，早点开始享受 MSBuild 吧
 ---
 (CSDN Oct 10, 2007)

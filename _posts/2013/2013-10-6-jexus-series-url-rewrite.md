@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-url-rewrite-408e97900999
 tags: iis jexus-manager
+categories: [Tools and Platforms]
 title: 'Jexus Series: URL Rewrite'
 ---
 Jexus does not support outbound rules (unlike IIS URL Rewrite module), but it supports simple inbound rules.

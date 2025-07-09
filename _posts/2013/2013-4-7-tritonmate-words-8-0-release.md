@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-8-0-release-fe233a4078c4
 tags: .net snmp mono xamarin
+categories: [Frameworks and Libraries]
 title: 'TritonMate Words: 8.0 Release'
 ---
 While I am busy working on the closed source Compiler Pro, we do have some progress on open source side.

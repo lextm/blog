@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-common-csc-exe-frozen-issue-85bebd48a310
 tags: .net code-beautifier-collection delphi visual-studio
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Common csc.exe Frozen Issue'
 ---
 When I started CBC in 2005, I never thought that there would be so many options I needed to provide. Therefore, it was in 2006 I began to search for preferences management system. And that's why serialization became the solution.

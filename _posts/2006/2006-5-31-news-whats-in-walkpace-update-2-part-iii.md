@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-whats-in-walkpace-update-2-part-iii-e35da8b3a670
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: News! What's in WalkPace Update 2 (Part III)
 ---
 (CSDN May 31, 2006)

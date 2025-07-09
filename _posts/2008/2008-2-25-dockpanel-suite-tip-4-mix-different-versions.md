@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-tip-4-mix-different-versions-4b09c86f1aa5
 tags: dockpanel-suite sharpdevelop
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite Tip #4: Mix Different Versions'
 ---
 It is quite funny that SharpDevelop 3 uses an old version of DPS (version 2.1). This really helps me locate what changes DPS 2.2 introduces, and at last I find out how to merge these two versions to please myself.

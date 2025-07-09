@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /how-to-install-microsoft-cors-module-for-iis-express-7ac24e4c3bc4
 tags: iis microsoft powershell windows
+categories: [Tools and Platforms]
 title: How to Install Microsoft CORS Module for IIS Express
 ---
 Microsoft released an IIS extension called [CORS module](https://blogs.iis.net/iisteam/introducing-iis-cors-1-0) a while ago, as to better help its customers.

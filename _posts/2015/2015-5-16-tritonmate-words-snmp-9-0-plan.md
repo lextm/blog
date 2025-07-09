@@ -3,6 +3,7 @@ description: 'Roadmap for #SNMP Library 9.0 (LordGate), including async/await su
 excerpt_separator: <!--more-->
 layout: post
 tags: .net snmp open-source
+categories: [Programming Languages]
 title: 'TritonMate Words: #SNMP 9.0 Plan'
 ---
 \#SNMP Library 8.5 has been published for a while (Feb 22, 2015).

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-antlr-on-net-part-ii-d6b4514b0970
 tags: .net antlr visual-studio
+categories: [Programming Languages]
 title: How to Use ANTLR on .NET, Part II
 ---
 Environment Setup

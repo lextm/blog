@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-update-on-visual-studio-2012-skin-1dcb4e32fe67
 tags: dockpanel-suite visual-studio
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite: Update on Visual Studio 2012 Skin'
 ---
 We have received patches from @han6man as he/she has attempted to create a new skin for DockPanel Suite that simulates Visual Studio 2012 Light theme. This is really a lot of work though the changes are merely a few lines of new code. So I would like to thank him/her for this great contribution to the community.

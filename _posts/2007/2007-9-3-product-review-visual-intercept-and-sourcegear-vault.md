@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-visual-intercept-and-sourcegear-vault-5c4da5493a07
 tags: .net asp.net windows
+categories: [Programming Languages]
 title: 'Product Review: Visual Intercept and SourceGear Vault'
 ---
 You can check the result of poll on this blog right now: I am asking if you'd like to use a .NET application. The result shows more people prefer not.

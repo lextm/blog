@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-another-serious-bug-and-repository-issue-recurred-5eb32ee14187
 tags: snmp google .net open-source
+categories: [Technologies and Concepts]
 title: 'BigDipper Light: Another serious bug and repository issue recurred'
 ---
 A critical bug was discovered recently and I have to admit this is a "too bad" one.

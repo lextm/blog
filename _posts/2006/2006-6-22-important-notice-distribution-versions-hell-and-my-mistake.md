@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /important-notice-distribution-versions-hell-and-my-mistake-d431d1882b6c
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: Important Notice! Distribution Versions Hell, and My Mistake
 ---
 (CSDN June 22, 2006)

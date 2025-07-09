@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-oh-63-seconds-70998d527347
 tags: linux snmp
+categories: [Operating Systems]
 title: '#SNMP Design: Oh, 63 Seconds!'
 ---
 1465474 milliseconds is a long time to load 1000+ MIB documents into the current browser in #SNMP (see [this post]({% post_url 2008/2008-10-1-snmp-design-the-first-performance-analysis %}). Do you think 24 minutes is a reasonable amount of time? I feel it too long.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /插件架构-a1ac28444cfe
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 插件架构
 ---
 (CSDN Sept 12, 2006)

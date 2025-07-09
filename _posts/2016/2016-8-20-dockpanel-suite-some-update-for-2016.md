@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-some-update-for-2016-f04dd830106d
 tags: dockpanel-suite .net open-source
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite: Some Update for 2016'
 ---
 It is August, and my last post on DockPanel Suite was in December. So I have to admit that too little has happened there, but if you do monitor this project, you should notice significant changes.

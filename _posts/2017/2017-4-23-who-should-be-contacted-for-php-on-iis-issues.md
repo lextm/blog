@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /who-should-be-contacted-for-php-on-iis-issues-c80b90bd365
 tags: iis php windows
+categories: [Tools and Platforms]
 title: Who Should Be Contacted for PHP on IIS Issues
 ---
 It is very important to know how many processes participate in request handling of PHP on IIS.

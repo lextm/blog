@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-prepared-for-first-preview-f7d5334d6d7a
 tags: .net delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: Prepared for First Preview'
 ---
 Delphi for .NET will only support VCL for .NET designer in Highlander, which means WinForms with Delphi for .NET becomes obsolete. So now I am not sure that some assemblies used in CBC can be still used.

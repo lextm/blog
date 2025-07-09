@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-a-simple-updater-is-ready-567efd6d9ef0
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'News: A Simple Updater is ready'
 ---
 (CSDN June 12, 2006)

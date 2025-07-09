@@ -3,6 +3,7 @@ description: A comprehensive chronological overview of my public speaking engage
 excerpt_separator: <!--more-->
 layout: post
 tags: work-life
+categories: [Miscellaneous]
 title: Public Sessions/Programs I Worked On In The Past
 ---
 Seems to be a good time to recap on how many public sessions/programs I worked on in the past few years.

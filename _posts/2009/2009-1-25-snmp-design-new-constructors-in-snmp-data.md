@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-new-constructors-in-snmp-data-855781525f07
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: New Constructors in SNMP Data'
 ---
 Dramatic changes happened today in the repository, but you may not notice. Ha, it is normal because I only touched API you won't use, generally speaking.

@@ -1,5 +1,5 @@
 ---
-categories: [History, .NET]
+categories: [Tools and Platforms]
 description: Explore the complete history of MonoDevelop IDE - from its SharpDevelop origins to its evolution with Unity, Xamarin, and eventual transformation into Visual Studio for Mac.
 excerpt_separator: <!--more-->
 image:

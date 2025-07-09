@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-m3-bug-or-rad-studio-bug-53893c39d016
 tags: work-life delphi
+categories: [Miscellaneous]
 title: 'GrapeVine Voice: M3 Bug or RAD Studio Bug'
 ---
 Tomasz Wawrzyniak (Dear Tom) has been talking with me about M3 installation issues these days. Thanks for his reports, I corrected M3 installer, and also find an important issue in BDS.exe fire again.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-hello-nineheaded-b81b94f3f53
 tags: work-life snmp
+categories: [Miscellaneous]
 title: '#SNMP Design: Hello, NineHeaded'
 ---
 I know Hydra is a snake with nine heads. But do you know the "Bird of Nine Heads"? That is a sacred symbol of my homeland. Therefore, to celebrate the birth of the very first #SNMP full feature release, 0.9, I named this release NineHeaded. And now it is there so why not play with it?

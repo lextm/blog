@@ -3,6 +3,7 @@ layout: post
 title: Expression Studio
 description: This post describes Expression Studio.
 tags: visual-studio .net
+categories: [Tools and Platforms]
 permalink: /expression-studio-fb279f4adde2
 excerpt_separator: <!--more-->
 ---

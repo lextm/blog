@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /powered-by-visual-studio-shell-709b5c7ea7da
 tags: .net visual-studio visual-studio-code
+categories: [Tools and Platforms]
 title: Powered By Visual Studio Shell
 ---
 Finally Microsoft releases something like Eclipse RCP and several projects soon pop up.

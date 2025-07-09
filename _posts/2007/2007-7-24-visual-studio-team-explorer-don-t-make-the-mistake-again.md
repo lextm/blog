@@ -4,6 +4,7 @@ title: 'Visual Studio Team Explorer: Don''t Make The Mistake Again'
 description: This post talks about why I have to install Visual Studio 2005 SP1 and
   Team Explorer again.
 tags: visual-studio
+categories: [Tools and Platforms]
 permalink: /visual-studio-team-explorer-dont-make-the-mistake-again-3273c5621b82
 excerpt_separator: <!--more-->
 ---

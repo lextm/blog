@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /restart-singleton-applications-8619bc5d6375
 tags: .net mono
+categories: [Programming Languages]
 title: Restart Singleton Applications
 ---
 When I talked about .NET internationalisation last time I mentioned that the application should be restarted in order to change UI languages. But that code only works when your application allows multiple instances. If you use any technique to make it singleton (only one application instance in the memory), you find the code I provided failed to restart.

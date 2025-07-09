@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /squareroot-puzzle-digest-snmp-samples-part-1-summary-aa6e8a834f82
 tags: .net snmp
+categories: [Programming Languages]
 title: 'SquareRoot Puzzle: Digest #SNMP Samples, Part 1 Summary'
 ---
 Many samples are shipped in #SNMP Suite. But why they are that useful?

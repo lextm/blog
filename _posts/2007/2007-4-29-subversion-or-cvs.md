@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /subversion-or-cvs-685692774b1c
 tags: sharpdevelop visual-studio
+categories: [Tools and Platforms]
 title: Subversion Or CVS
 ---
 In a latest blog I talked about using CVS with Visual Studio 2005. However, I soon changed my mind and turned to Subversion (SVN). Why?

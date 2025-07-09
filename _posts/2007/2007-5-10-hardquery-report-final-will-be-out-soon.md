@@ -3,6 +3,7 @@ layout: post
 title: 'HardQuery Report: Final Will Be Out Soon'
 description: This post is about the progress of HardQuery.
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 permalink: /hardquery-report-final-will-be-out-soon-c2eea5c16540
 excerpt_separator: <!--more-->
 ---

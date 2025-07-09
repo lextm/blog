@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /first-new-features-on-walkpace-78da92f304b
 tags: delphi sharpdevelop code-beautifier-collection
+categories: [Tools and Platforms]
 title: First new features on WalkPace
 ---
 (Originally posted to CSDN on March 07, 2006)

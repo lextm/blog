@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /environment-preparation-for-sandcastle-and-microsoft-help-2-5dc393d6cd66
 tags: .net visual-studio
+categories: [Programming Languages]
 title: Environment Preparation for Sandcastle and Microsoft Help 2
 ---
 I found it very hard to prepare the environment for building Microsoft Help 2 in Sandcastle, so below are the steps for your reference.

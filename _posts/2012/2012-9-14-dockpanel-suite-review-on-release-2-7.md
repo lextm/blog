@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-review-on-release-2-7-42bb0be582ae
 tags: .net dockpanel-suite
+categories: [Programming Languages]
 title: 'DockPanel Suite: Review on Release 2.7'
 ---
 After three months of further hacking and effective collaboration with some of the contributors, Ryan and I are proud to announce the 2.7 release of DockPanel Suite.

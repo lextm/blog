@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /refactoring-tools-dangerous-c4ce872a5425
 tags: delphi visual-studio
+categories: [Tools and Platforms]
 title: 'Refactoring Tools: Dangerous'
 ---
 The book Refactoring (Martin Fowler) is my favorite. I read it for the first time about four years ago. Since then, I have been refactoring for a long time in different projects with different programming languages (C#, C++, and Delphi).

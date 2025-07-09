@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /寻找被忽视和低估的teechart-pro-from-steema-1b4d255ba814
 tags: .net delphi visual-studio
+categories: [Programming Languages]
 title: 寻找被忽视和低估的TeeChart Pro (from Steema)
 ---
 (Originally posted to CSDN on April 28, 2005)

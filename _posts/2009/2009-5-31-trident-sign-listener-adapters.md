@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-listener-adapters-5ae14aef23c5
 tags: .net snmp
+categories: [Programming Languages]
 title: 'Trident Sign: Listener Adapters'
 ---
 It is a really interesting question why Gendarme think Listener.HandleMessage is a large function. But now I have the answer and today I finally refactored on this function, and designed a few new classes.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /packaging-crads-actionlist-for-net-via-nuget-5c72e77ece94
 tags: .net
+categories: [Programming Languages]
 title: Packaging Crad's ActionList for .NET via NuGet
 ---
 In case you don't know Crad's ActionList for .NET, you can refer to [this article](http://www.codeproject.com/Articles/13879/ActionList-for-NET-2-0).

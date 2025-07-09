@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-latest-faq-addition-af988ee9a64e
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: Latest FAQ Addition'
 ---
 ## 1. Why when I compile the source code an error is displayed about AssemblyInfo task?

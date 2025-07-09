@@ -3,6 +3,7 @@ layout: post
 title: '#SNMP Design: REPORT status'
 description: This post is about the status of REPORT message type support.
 tags: snmp
+categories: [Technologies and Concepts]
 permalink: /snmp-design-report-status-b89550d49b84
 excerpt_separator: <!--more-->
 ---

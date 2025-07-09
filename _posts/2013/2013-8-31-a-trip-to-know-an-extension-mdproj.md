@@ -4,6 +4,7 @@ description: This post talks about how I find out the relationship between Ratio
 layout: post
 permalink: /a-trip-to-know-an-extension-mdproj-ccefe199864a
 tags: visual-studio
+categories: [Tools and Platforms]
 title: A Trip to Know an Extension, mdproj
 ---
 Assume that you just come across a file that ends with mdproj extension. How do you know which software generated it?

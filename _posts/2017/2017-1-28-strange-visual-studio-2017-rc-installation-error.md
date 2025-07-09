@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /strange-visual-studio-2017-rc-installation-error-acdce0000c34
 tags: visual-studio windows
+categories: [Tools and Platforms]
 title: Strange Visual Studio 2017 RC Installation Error
 ---
 I met the issue below,

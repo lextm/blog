@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /port-already-in-use-then-who-uses-it-69c133a456ab
 tags: iis windows
+categories: [Tools and Platforms]
 title: Port Already In Use, Then Who Uses It?
 ---
 It is normal that when you try to run an application on Windows and see "port already in use" error message reported, if this application tries to monitor a TCP or UDP port.

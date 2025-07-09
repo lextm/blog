@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /about-languages-of-this-blog-1fd2d08f9dbb
 tags: work-life
+categories: [Miscellaneous]
 title: About languages of this blog
 ---
 

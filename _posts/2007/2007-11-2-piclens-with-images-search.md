@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /piclens-with-images-search-1aae5e7196fe
 tags: work-life
+categories: [Miscellaneous]
 title: PicLens With Images Search
 ---
 Have to say [PicLens](http://www.piclens.com/) is cool!

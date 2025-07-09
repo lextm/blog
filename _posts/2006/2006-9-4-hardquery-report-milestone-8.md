@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-milestone-8-e089de32a80a
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Milestone 8'
 ---
 (CSDN Sept 04, 2006)

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /假期结束-859b1f0a709f
 tags: work-life
+categories: [Miscellaneous]
 title: 假期结束
 ---
 (CSDN Sept 04, 2006)

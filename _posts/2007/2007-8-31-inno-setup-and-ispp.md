@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /inno-setup-and-ispp-4ca328e5faef
 tags: inno-setup
+categories: [Tools and Platforms]
 title: Inno Setup and ISPP
 ---
 Inno Setup provides 90% features you need to create a standard and powerful installer while 10% features you may want are missing. For me, I hate to hard code version strings in the script and update it several times.

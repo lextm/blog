@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /features-ready-for-cbc-2-nixnewner-70e310238f34
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: Features ready for CBC 2 NixNewNer
 ---
 (CSDN April 21, 2006)

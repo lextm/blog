@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /time-to-net-i-found-it-not-98043f7486d8
 tags: .net delphi code-beautifier-collection
+categories: [Programming Languages]
 title: Time to .NET? I found it not
 ---
 (CSDN May 25, 2006)

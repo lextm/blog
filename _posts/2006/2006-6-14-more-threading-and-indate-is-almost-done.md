@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /more-threading-and-indate-is-almost-done-d4b9e87bd5bf
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: More Threading and InDate is Almost Done
 ---
 (CSDN June 14, 2006)

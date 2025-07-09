@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-finally-5-3-1-is-on-the-way-3d92d36f015b
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Finally 5.3.1 is on the way'
 ---
 (CSDN Dec 20, 2006)

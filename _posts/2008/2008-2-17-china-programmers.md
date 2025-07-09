@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /学习编程-中国程序员入门的怪现象之一-古老的ide-bfbb02e7f63d
 tags: delphi visual-studio
+categories: [Tools and Platforms]
 title: 学习编程：中国程序员入门的怪现象之一――古老的IDE
 ---
 (CSDN Feb 17, 2008)

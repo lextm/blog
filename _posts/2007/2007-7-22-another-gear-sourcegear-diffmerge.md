@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /another-gear-sourcegear-diffmerge-5d3475e4a736
 tags: windows
+categories: [Operating Systems]
 title: 'Another Gear: SourceGear DiffMerge'
 ---
 I have been using WinMerge for a long time and it serves me quite well. And now, after reviewing SourceGear's Vault, I meet DiffMerge. Wish I can see some differences within.

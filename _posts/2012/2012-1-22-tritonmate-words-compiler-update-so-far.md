@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-compiler-update-so-far-d5050e21d4e6
 tags: antlr snmp
+categories: [Frameworks and Libraries]
 title: 'TritonMate Words: Compiler Update So Far'
 ---
 Here comes some good news on the ANTLR based compiler,

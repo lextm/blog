@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /google拼音-当更新如此安静-5639a472c4f1
 tags: windows
+categories: [Operating Systems]
 title: 'Google拼音: 当更新如此安静'
 ---
 (CSDN July 20, 2007)

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-the-first-performance-analysis-fa3b7f884253
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: The First Performance Analysis'
 ---
 I never take a look at performance counters until it is time. And now it is time for #SNMP. According to my latest analysis, it takes about 24 minutes (1465474-milliseconds) to load 1000+ MIB documents in the browser. This is horrible. So where is the bottleneck?

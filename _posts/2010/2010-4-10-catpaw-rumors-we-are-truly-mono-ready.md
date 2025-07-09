@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-we-are-truly-mono-ready-7c2a1d07835d
 tags: .net mono snmp
+categories: [Programming Languages]
 title: 'CatPaw Rumors: We Are Truly Mono Ready :)'
 ---
 From the very beginning of this project, I tried to keep it compliant to both Microsoft .NET and Novell Mono. However, at that time I was a Ubuntu fan and Mono did not work fine on it. Therefore, I had to utilize MoMA on Windows to see which #SNMP pieces can be fully "supported". That's why I can announce the Library supports Mono at that time.

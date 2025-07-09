@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-fight-against-normalized-line-endings-in-git-b5d897e17a07
 tags: dockpanel-suite linux
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite: Fight Against Normalized Line Endings in Git'
 ---
 Git is a nice cross platform source control system. Therefore, it needs to fight against the different line endings of various operating systems (well, because of the death of Mac OS, we only have two dialects right now, CR LF and LF).

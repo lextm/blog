@@ -3,6 +3,7 @@ layout: post
 title: Threading or Pause-Ready BackgroundWorker
 description: This post describes how to make a BackgroundWorker pause-ready.
 tags: .net
+categories: [Programming Languages]
 permalink: /threading-or-pause-ready-backgroundworker-e0813de90f02
 excerpt_separator: <!--more-->
 ---

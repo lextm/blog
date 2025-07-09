@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-planned-release-details-f5ad3c9e5f8b
 tags: .net
+categories: [Programming Languages]
 title: 'BigDipper Light: Planned Release Details'
 ---
 HoneyCell 6.0 is our last release that has some binaries targeting .NET 2.0 SP2. This is because .NET 2.0 SP2 support is not yet expired. As BigDipper is to be released in next May, all 7.0 binaries will be targeting .NET 3.5 SP1 (.NET 2.0 SP2 support expires next April).

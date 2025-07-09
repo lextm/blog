@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-private-beta-is-ready-and-early-access-program-starts-7311b09abd8e
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Pro: Private Beta is Ready and Early Access Program Starts'
 ---
 > Updated: [The EAP has already ended]({% post_url 2013/2013-7-29-snmp-pro-early-access-program-ends %}).

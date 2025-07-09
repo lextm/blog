@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /new-screenshot-of-jexus-manager-b23da44dee1f
 tags: iis jexus-manager
+categories: [Tools and Platforms]
 title: New Screenshot of Jexus Manager
 ---
 The screenshot used in Jexus Manager homepage and documentation has just been replaced by the one above. It is time to use this new version, as many important changes are reflected.

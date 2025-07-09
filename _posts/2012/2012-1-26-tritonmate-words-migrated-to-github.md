@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-migrated-to-github-db7328984126
 tags: snmp
+categories: [Technologies and Concepts]
 title: 'TritonMate Words: Migrated to GitHub'
 ---
 Due to the following reasons, I just converted the repository from Mercurial to Git and host it on GitHub,

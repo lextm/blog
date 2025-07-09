@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-update-for-ios-unified-projects-35272fa4bba0
 tags: mono xamarin snmp
+categories: [Frameworks and Libraries]
 title: '#SNMP Update for iOS Unified Projects'
 ---
 Xamarin has sent me several mails regarding how to update component submissions to latest iOS platform. Thus, I made a few changes recently, which you can find at GitHub.

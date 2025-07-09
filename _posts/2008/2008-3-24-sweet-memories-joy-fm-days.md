@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /sweet-memories-joy-fm-days-d4527f1f3b2c
 tags: work-life
+categories: [Miscellaneous]
 title: 'Sweet Memories: Joy FM Days'
 ---
 China Radio International (CRI) ran a popular program named Joy FM for years. When I was listening to the program, the hosts were Rick and Jade.

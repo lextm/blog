@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /time-to-make-a-community-of-our-own-4ef02a287965
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: Time to Make a Community of Our Own!
 ---
 (CSDN March 23, 2006)

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /nant-update-d02c0e49886d
 tags: .net
+categories: [Programming Languages]
 title: NAnt Update
 ---
 When I was developing HardQuery R2 Update 3, I thought I should move to MSBuild completely because NAnt would be no longer active.

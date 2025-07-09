@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /harry-potter-issues-about-the-official-film-site-screensavers-5ce7b367c5dc
 tags: work-life
+categories: [Miscellaneous]
 title: 'Harry Potter: Issues About The Official Film Site Screensavers'
 ---
 I find they provide two screensavers there. However, I cannot install them both. I have to choose between them which is very very hard.

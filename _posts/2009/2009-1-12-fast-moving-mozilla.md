@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /fast-moving-mozilla-6d25647698db
 tags: open-source
+categories: [Miscellaneous]
 title: Fast Moving Mozilla
 ---
 Well, I know I should not talk too much about Firefox 3.1 or Thunderbird simply because they are still Beta. However, I just couldn't help letting you know how much I love the improvements.

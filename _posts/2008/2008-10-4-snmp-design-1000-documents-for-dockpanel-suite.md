@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-1000-documents-for-dockpanel-suite-c7399068d59d
 tags: dockpanel-suite snmp visual-studio
+categories: [Frameworks and Libraries]
 title: '#SNMP Design: 1000+ Documents for DockPanel Suite'
 ---
 Now #SNMP is not the only one who suffers the performance issue. I have just found DockPanel Suite has a similar issue. For example, I created a simple DockContent derivative that simply contains a RichTextBox to host the MIB documents. Then I followed the usual way to design the main window and let it open 1000+ documents. Wow, it froze there for a long time.

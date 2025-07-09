@@ -3,6 +3,7 @@ layout: post
 title: 'IIS URL Rewrite Tip: Break Free'
 description: Learn how to control rule processing flow in IIS URL Rewrite module by using stopProcessing attribute to break free from cascaded rule execution.
 tags: iis
+categories: [Tools and Platforms]
 permalink: /iis-url-rewrite-tip-break-free-adccdb4b9f2f
 excerpt_separator: <!--more-->
 ---

@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /over-uac-batch-build-on-vista-13d31dee6a5d
 tags: windows
+categories: [Operating Systems]
 title: 'Over UAC: Batch Build On Vista'
 ---
 Because of security concerns, I reactivated UAC on Vista. And now how can I use `make.all.bat` to make a CBC build? In fact, it is quite easy if you become familiar with UAC.

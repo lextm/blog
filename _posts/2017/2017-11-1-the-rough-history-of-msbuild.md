@@ -1,5 +1,5 @@
 ---
-categories: [History, .NET]
+categories: [Tools and Platforms]
 description: A detailed exploration of MSBuild's evolution, from the NANT days through its inclusion in .NET Framework, to its role in Visual Studio and .NET Core, with insights on the open source journey.
 excerpt_separator: <!--more-->
 layout: post

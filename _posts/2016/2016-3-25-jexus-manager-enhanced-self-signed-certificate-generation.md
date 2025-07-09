@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-enhanced-self-signed-certificate-generation-9ff4940d6b07
 tags: iis jexus-manager windows microsoft
+categories: [Tools and Platforms]
 title: 'Jexus Manager: Enhanced Self-Signed Certificate Generation'
 ---
 IIS Manager has a shortcut in Server Certificates page to create self-signed certificates, aka "Create Self-Signed Certificate…" menu item under Actions. By clicking this menu item, a wizard pops up.

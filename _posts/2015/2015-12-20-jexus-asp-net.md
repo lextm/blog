@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-网站服务器和-asp-net-跨平台开发-e4cac4316352
 tags: .net iis jexus-manager linux windows asp.net
+categories: [Tools and Platforms]
 title: Jexus 网站服务器和 ASP.NET 跨平台开发
 ---
 一周前受衣明志大哥邀请在烟台市他主办的首届胶东开发者大会上与大家分享了关于 Jexus 和 ASP.NET 跨平台开发的一些个人看法。本文内容基本和当日的演讲一致，局部可能补充了一些额外信息，供有兴趣的朋友们参考。

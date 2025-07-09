@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /突然涌出的回忆-part-1-73fb78b31106
 tags: work-life
+categories: [Miscellaneous]
 title: 突然涌出的回忆 Part 1
 ---
 在自己的Twitter上面写了下面的文字，结果就被人误解了。

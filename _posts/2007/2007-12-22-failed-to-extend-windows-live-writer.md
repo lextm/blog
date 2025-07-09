@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /failed-to-extend-windows-live-writer-501d5f0e91fa
 tags: .net inno-setup windows
+categories: [Programming Languages]
 title: Failed to Extend Windows Live Writer
 ---
 There is an SDK for extending Windows Live Writer. However, I do not know where to start.

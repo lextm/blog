@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-jzip-a-7-zip-striker-89421a3cb1c4
 tags: java windows
+categories: [Programming Languages]
 title: 'Product Review: jZip, A 7-Zip Striker'
 ---
 I have been using 7-Zip for years. In this way I can save a little money. But after saying goodbye to WinZip or WinRAR, I miss the beautiful manager GUI of archives. The 7-Zip default manager looks simple and ugly which should be considered as a prototype.

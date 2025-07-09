@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-time-for-a-major-number-upgrade-479a85c0b76a
 tags: asp.net delphi
+categories: [Frameworks and Libraries]
 title: 'GrapeVine Voice: Time for A Major Number Upgrade'
 ---
 I was thinking that a minor upgrade to 6.1 can make Delphi 2009 support complete. A few hours later, now I find I am wrong. The current TODO list is much longer.

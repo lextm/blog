@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-using-loggingservice-class-64c6cacc48e4
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Using LoggingService class'
 ---
 CSDN Dec 20, 2006)

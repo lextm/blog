@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /revival-of-loggingservice-functionality-29aef28c75b1
 tags: .net code-beautifier-collection
+categories: [Programming Languages]
 title: Revival of LoggingService Functionality
 ---
 A few years ago, I wrote a class for Code Beautifier Collection named [LoggingService]({% post_url 2006/2006-12-20-hardquery-report-using-loggingservice-class %}). At that time I decided to wrap over log4net.

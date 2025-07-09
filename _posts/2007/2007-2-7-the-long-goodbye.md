@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /the-long-goodbye-c78a0ffeb5fd
 tags: work-life
+categories: [Miscellaneous]
 title: The long goodbye
 ---
 (CSDN Feb 07, 2007)

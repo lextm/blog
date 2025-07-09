@@ -3,6 +3,7 @@ description: Follow my journey of investigating and fixing ASP.NET Core compatib
 excerpt_separator: <!--more-->
 layout: post
 tags: .net iis visual-studio windows microsoft open-source
+categories: [Tools and Platforms]
 title: 'Successful and Failed Attempt: My First Pull Request for ASP.NET Core'
 ---
 I was fortunate enough to be able to contribute to a lot of open source projects, not only the ones I own, but many others as well. I wrote about some of the important stories such as [this one for SharpDevelop]({% post_url 2012/2012-7-25-opencover-addin-for-sharpdevelop %}) and [this one for Mono]({% post_url 2014/2014-5-29-how-to-create-certificates-in-c-via-mono-security %}). There are more such pull requests and I acknowledge that not all of them were accepted due to various reasons. In this post, I will write about my recent experience with ASP.NET Core on Windows 11 ARM64, and my first pull request for the repo.

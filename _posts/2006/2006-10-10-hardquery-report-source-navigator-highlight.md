@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-source-navigator-highlight-53186ae0900e
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Source Navigator Highlight'
 ---
 (CSDN Oct 10, 2006)

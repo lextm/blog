@@ -3,6 +3,7 @@ layout: post
 title: 'Porting #SNMP Library to .NET Core Once Again'
 description: 'Documenting the challenges and solutions encountered when porting #SNMP Library to .NET Core and improvements made using Visual Studio 2017 RC.'
 tags: snmp .net visual-studio microsoft
+categories: [Technologies and Concepts]
 permalink: /porting-snmp-library-to-net-core-once-again-aaa649431215
 excerpt_separator: <!--more-->
 ---

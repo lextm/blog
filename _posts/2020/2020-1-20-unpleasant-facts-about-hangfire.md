@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /unpleasant-facts-about-hangfire-632a3228ff8a
 tags: asp.net iis .net
+categories: [Frameworks and Libraries]
 title: Unpleasant Facts about Hangfire
 ---
 When people choose to use a framework, they are not only enjoying the benefits it brings, but also take ownership of the evil associated. Hangfire is one of such frameworks, so be caution.

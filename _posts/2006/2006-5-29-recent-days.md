@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /最近的生活状态-270478d01187
 tags: work-life
+categories: [Miscellaneous]
 title: 最近的生活状态
 ---
 (CSDN May 29, 2006)

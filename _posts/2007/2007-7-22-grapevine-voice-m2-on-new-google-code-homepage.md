@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-m2-on-new-google-code-homepage-5f722588bc74
 tags: work-life code-beautifier-collection
+categories: [Miscellaneous]
 title: 'GrapeVine Voice: M2 On New Google Code Homepage'
 ---
 This is a new homepage for Code Beautifier Collection I registered on Google Code. At this moment, GrapeVine Milestone 2 is already there. Yep, you can download it fresh there.

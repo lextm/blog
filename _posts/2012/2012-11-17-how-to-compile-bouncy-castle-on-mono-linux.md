@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-compile-bouncy-castle-on-mono-linux-ec90f43eeda7
 tags: .net linux mono
+categories: [Programming Languages]
 title: How to Compile Bouncy Castle on Mono/Linux
 ---
 Bouncy Castle is a good library to perform certificate/encryption related tasks on .NET/Mono. However, it is not obvious how to compile its source code on Mono/Linux. This post will show you how. It applies to,

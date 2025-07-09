@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-under-the-surface-7374b30a15e8
 tags: .net snmp windows
+categories: [Programming Languages]
 title: '#SNMP Design: Under The Surface'
 ---
 How to use #SNMP Library in your applications? I suggest you drag a Manager component into your WinForms or WebForms. This Manager instance allows you to configure default SNMP protocol version to be used and the global timeout count in milliseconds. Then wherever you need to do SNMP operations, simply call Get, Set, or GetTable with appropriate parameters. But what's more? Is it possible to manipulate PDU level data? Is it possible to play with bytes?

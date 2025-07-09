@@ -3,6 +3,7 @@ layout: post
 title: '#SNMP Design: Compiler Design Proposal for CrossRoad'
 description: This post is about the new design of the MIB compiler.
 tags: snmp
+categories: [Technologies and Concepts]
 permalink: /snmp-design-compiler-design-proposal-for-crossroad-8d7c775f3ab8
 excerpt_separator: <!--more-->
 ---

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-important-license-change-for-browser-and-compiler-c2c3562565f9
 tags: work-life
+categories: [Miscellaneous]
 title: '#SNMP Design: Important License Change for Browser and Compiler'
 ---
 I think MIT is a better choice so let's stop using BSD.

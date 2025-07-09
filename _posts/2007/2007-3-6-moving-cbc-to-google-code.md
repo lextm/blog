@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /moving-cbc-to-google-code-6554a356aebc
 tags: code-beautifier-collection
+categories: [Tools and Platforms]
 title: Moving CBC to Google Code
 ---
 I have to confess that GForge is a good place to start hosting an open source project in China. However, its evolution is slow and sometimes insane.

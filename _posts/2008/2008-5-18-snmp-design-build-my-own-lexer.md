@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-build-my-own-lexer-c45cd940e87a
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: Build My Own Lexer'
 ---
 Suddenly I found that MIB support is much harder than other parts. Why? You cannot imagine parsing binary data looks so easy right now.

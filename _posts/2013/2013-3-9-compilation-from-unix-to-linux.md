@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /一些链接的汇编-从unix到linux和unix的复兴-2b3ce2d69861
 tags: linux
+categories: [Operating Systems]
 title: 一些链接的汇编：从UNIX到Linux和UNIX的复兴
 ---
 一篇自己计划中长文章的草稿。

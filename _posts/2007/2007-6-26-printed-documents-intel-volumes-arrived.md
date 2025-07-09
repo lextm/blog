@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /printed-documents-intel-volumes-arrived-2f956bb1d5a5
 tags: work-life
+categories: [Miscellaneous]
 title: 'Printed Documents: Intel Volumes Arrived'
 ---
 I ordered a few volumes of Intel manuals and they arrived today by FedEx. Yes, the manuals are printed and packaged in great condition.

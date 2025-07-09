@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-first-asynchronous-sample-cb5b4cb15dfd
 tags: .net snmp
+categories: [Programming Languages]
 title: 'BigDipper Light: First Asynchronous Sample'
 ---
 Microsoft invents a series of patterns for .NET asynchronous API design. However, no every pattern meet all requirements. For #SNMP, currently the Begin/End pattern is still the most suitable as it can be used in extension methods.

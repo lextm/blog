@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-halfbaked-update-361038bda1cb
 tags: linux snmp windows
+categories: [Operating Systems]
 title: '#SNMP Design: Halfbaked Update'
 ---
 I was out of luck. Last weekend I joined an offsite meeting and had my left elbow badly hurt. And last night I got a fever.

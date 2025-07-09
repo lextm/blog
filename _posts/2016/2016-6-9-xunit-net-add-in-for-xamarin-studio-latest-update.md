@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /xunit-net-add-in-for-xamarin-studio-latest-update-b9ef69414f54
 tags: .net mono xamarin xunit open-source
+categories: [Frameworks and Libraries]
 title: 'xUnit.NET Add-in for Xamarin Studio: Latest Update'
 ---
 In last post I talked about how I made a fork to support Xamarin Studio 5.x series (as well as MonoDevelop 5.x). It was clearly a milestone, but not good enough as Xamarin Studio 6.x was at the door.

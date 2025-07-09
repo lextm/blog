@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-issue-4-and-file-browser-expert-cebd080357bd
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Issue 4 and File Browser Expert'
 ---
 I have found another issue #4 when I played with [File Browser expert](http://projectvalley.com/weblog/2007/10/delphi-2007-file-browser-expert.html). Robin has created a very nice expert while he at first released a bare .dll file. Yes, as an OTA developer I understand how to install it in a glance. But for most Delphi users, installing this expert may not be easy.

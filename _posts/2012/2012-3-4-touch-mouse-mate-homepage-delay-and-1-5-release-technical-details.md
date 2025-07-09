@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-homepage-delay-and-1-5-release-technical-details-4e0b6c212eeb
 tags: work-life windows
+categories: [Miscellaneous]
 title: 'Touch Mouse Mate: Homepage Delay and 1.5 Release Technical Details'
 ---
 Our 1.4 installers are not yet available. CodePlex guys have not yet identified what prevents me from publishing this project, so we have to wait for more days. The good news is that now we have nice progress on version 1.5. Details are provided below.

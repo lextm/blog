@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /should-remobjects-purchase-codegear-delphi-ce7dace250b1
 tags: .net delphi
+categories: [Programming Languages]
 title: Should RemObjects Purchase CodeGear Delphi?
 ---
 > This post is triggered by a CodeGear newsgroup thread.

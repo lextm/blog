@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-use-beautifiers-properly-cd446deaf8e6
 tags: delphi code-beautifier-collection .net open-source
+categories: [Tools and Platforms]
 title: 'CBC TechNote: Use Beautifiers Properly?'
 ---
 (Written on 2005–10–16; originally published to CSDN on Nov 03, 2005; modified and republished.)

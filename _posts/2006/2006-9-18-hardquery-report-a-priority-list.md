@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-a-priority-list-3cc5649c8265
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: A Priority List'
 ---
 (CSDN Sept 18, 2006)

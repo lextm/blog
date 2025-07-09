@@ -3,6 +3,7 @@ description: Discover the significant improvements to the reStructuredText VS Co
 excerpt_separator: <!--more-->
 layout: post
 tags: restructuredtext visual-studio-code open-source
+categories: [Programming Languages]
 title: The New Preview Engine from Bosch
 ---
 If you have been a long time user of reStructuredText extension for VS Code, you might have noticed that this project is under significant changes for a while,

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /隐藏在thinking-in-java中的delphi信息-354525afe646
 tags: delphi java
+categories: [Programming Languages]
 title: 隐藏在Thinking in Java中的Delphi信息
 ---
 (CSDN Jan 08, 2007)

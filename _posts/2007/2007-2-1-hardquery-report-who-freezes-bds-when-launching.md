@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-who-freezes-bds-when-launching-cba788e99b53
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Who freezes BDS when launching'
 ---
 (CSDN Feb 01, 2007)

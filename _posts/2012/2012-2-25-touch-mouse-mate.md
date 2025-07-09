@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-74b8fe2ec7e1
 tags: microsoft windows
+categories: [Companies and Products]
 title: Touch Mouse Mate
 ---
 Here I announce a new open source project I am working on this weekend, named Touch Mouse Mate.

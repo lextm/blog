@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /chinese-translator-in-firefox-and-thunderbird-88ca45c8b3e
 tags: work-life
+categories: [Miscellaneous]
 title: Chinese Translator In Firefox And Thunderbird
 ---
 If you are learning Chinese, this tool should be a good helper.

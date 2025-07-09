@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-user-interface-update-9b308ecd45c
 tags: delphi visual-studio
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: User Interface Update'
 ---
 Did you read [this post]({% post_url 2008/2008-2-18-office-2007-style %}) You might think I use Krypton Toolkit, but in fact I didn't because Krypton Toolkit is not open source.

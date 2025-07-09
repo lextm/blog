@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /slow-no-codeplex-response-98986109bc2d
 tags: microsoft open-source
+categories: [Companies and Products]
 title: Slow/No CodePlex Response
 ---
 As you may know, the Mercurial repository for #SNMP on CodePlex became corrupt a long time ago. CodePlex guys tried to restore it once, but it happened again.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /what-are-they-new-rules-for-installer-distributions-rule-1-df7b0ac42df9
 tags: delphi sharpdevelop .net code-beautifier-collection
+categories: [Tools and Platforms]
 title: What are they? New Rules for installer distributions (Rule 1)
 ---
 (CSDN May 25, 2006)

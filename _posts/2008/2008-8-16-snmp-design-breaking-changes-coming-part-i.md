@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-breaking-changes-coming-part-i-8246379c2d24
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: Breaking Changes Coming, Part I'
 ---
 Every time I read Manager.cs, I feel bad. Like I expressed on the discussion board, I hated overloading functions a little bit. Yes, imagine if you are new to #SNMP, which one of these Get, Set, or GetTable should be called? I thought I could move overloading methods to a separate assembly like the unit tests. However, Extension Method is only a .NET 3.5 feature. In order not to bother those .NET 2.0 guys, I delay this move.

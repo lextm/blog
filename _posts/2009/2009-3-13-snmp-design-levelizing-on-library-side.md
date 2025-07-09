@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-levelizing-on-library-side-7ca59c20a7cb
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: Levelizing on Library Side'
 ---
 > Patrick Smacchia talks a lot about levelizing in his blog. As a fan of NDepend, I followed his advice and started to levelize on the Library side of #SNMP last weekend. Due to a network outage, I could not post about that change last Sunday so here is the post.

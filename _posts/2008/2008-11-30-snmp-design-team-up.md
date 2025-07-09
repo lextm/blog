@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-team-up-74d4ef676e28
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: Team Up'
 ---
 Well, I am back. This time I will not only provide news and forum support, but work on both the library and the compiler as well.

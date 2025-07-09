@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /open-source-licenses-puzzle-d40590fbe2ad
 tags: code-beautifier-collection
+categories: [Tools and Platforms]
 title: Open Source Licenses Puzzle
 ---
 I am not a law school student, so I cannot understand those words. So today when I suddenly came across this link, I found that Code Beautifier Collection may break some rules somewhere.

@@ -3,6 +3,7 @@ description: "A practical guide for deploying Go web applications on IIS using H
 excerpt_separator: <!--more-->
 layout: post
 tags: httpplatformhandler iis windows
+categories: [Tools and Platforms]
 title: Running Go Web Apps on IIS with HttpPlatformHandler
 ---
 HttpPlatformHandler can help IIS host Java/Python/Node.js/Go applications, so in this post we will see how to configure a Go/Echo web app on IIS and troubleshoot the common issue.

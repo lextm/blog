@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-milestone-1-is-coming-14b901b93fe9
 tags: code-beautifier-collection inno-setup windows
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Milestone 1 is Coming'
 ---
 Most Vista changes are not hard to overcome. After some digging, there are only two issues left. One is that Expert Manager cannot delete a registry because of UAC or some other security feature of Vista. And the other is a new naming schema for CBC GrapeVine packages.

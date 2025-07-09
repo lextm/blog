@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-6-0-m6-adapt-to-rad-studio-be694bd1a864
 tags: asp.net delphi
+categories: [Frameworks and Libraries]
 title: 'GrapeVine Voice: 6.0 M6, Adapt to RAD Studio'
 ---
 I released M5 as soon as possible to celebrate the availability of CodeGear RAD Studio 2007, so I did not yet finish all tests on RAD Studio. Maybe that's why M5 has a few annoying bugs including issue 2 on CBC Homepage.

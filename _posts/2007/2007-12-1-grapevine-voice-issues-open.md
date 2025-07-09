@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-issues-open-95b178de64d
 tags: work-life
+categories: [Miscellaneous]
 title: 'GrapeVine Voice: Issues Open'
 ---
 It is until I started to capture new images for GrapeVine that I found out a few small flaws inside. Therefore I think releasing GrapeVine later is a better idea. In this way I can spend more time on the documents to deliver something worth reading.

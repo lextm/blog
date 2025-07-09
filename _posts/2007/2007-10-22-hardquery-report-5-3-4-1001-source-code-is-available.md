@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-5-3-4-1001-source-code-is-available-2461ec88def9
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'HardQuery Report: 5.3.4.1001 Source Code Is Available'
 ---
 This time the source code is available earlier than binary. Why? Because I can no longer compile it on this Dell Inspiron 640m, I have to release the source at first.

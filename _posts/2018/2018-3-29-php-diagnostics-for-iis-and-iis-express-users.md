@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /php-diagnostics-for-iis-and-iis-express-users-ba8beeb99f0c
 tags: iis php jexus-manager windows
+categories: [Tools and Platforms]
 title: PHP Diagnostics for IIS and IIS Express Users
 ---
 Jexus Manager already has many diagnostics wizards for different purposes,

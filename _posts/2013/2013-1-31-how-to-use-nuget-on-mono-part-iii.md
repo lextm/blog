@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-nuget-on-mono-part-iii-bc1d14e79db4
 tags: .net mono linux
+categories: [Programming Languages]
 title: How to Use NuGet on Mono, Part III
 ---
 

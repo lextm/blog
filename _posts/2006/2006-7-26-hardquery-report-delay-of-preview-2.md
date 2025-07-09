@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-delay-of-preview-2-9aed3ac94f1f
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Delay of Preview 2'
 ---
 (CSDN July 26, 2006)

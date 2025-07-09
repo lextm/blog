@@ -3,6 +3,7 @@ layout: post
 title: PowerShell with Oh My Posh as Default Shell on macOS
 description: Complete guide to installing and configuring PowerShell with Oh My Posh on macOS, including iTerm2 setup, Nerd Fonts, and Visual Studio Code integration
 tags: powershell macos visual-studio-code
+categories: [Tools and Platforms]
 excerpt_separator: <!--more-->
 ---
 

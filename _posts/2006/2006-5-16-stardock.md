@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /stardock-创意总能令人兴奋-322658aa432f
 tags: windows
+categories: [Operating Systems]
 title: 'Stardock: 创意总能令人兴奋'
 ---
 (CSDN May 16, 2006)

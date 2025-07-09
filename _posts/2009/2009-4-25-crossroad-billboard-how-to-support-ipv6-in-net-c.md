@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /crossroad-billboard-how-to-support-ip-v6-in-net-c-d579939ce0f0
 tags: .net
+categories: [Programming Languages]
 title: 'CrossRoad Billboard: How to Support IP v6 in .NET/C#'
 ---
 In the past, I thought I needn't do anything to support IP v6. Well, at that moment I knew little of IP v6.

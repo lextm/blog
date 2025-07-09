@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /暑假-不敢奢求的东西-b171469fbcbe
 tags: work-life
+categories: [Miscellaneous]
 title: 暑假：不敢奢求的东西
 ---
 (CSDN July 25, 2006)

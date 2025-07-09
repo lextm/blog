@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-license-change-on-snmp-engine-support-e7410b98e8e
 tags: snmp
+categories: [Technologies and Concepts]
 title: 'TritonMate Words: License Change on SNMP Engine Support'
 ---
 If you follow #SNMP project closely, [you should already know]({% post_url 2012/2012-2-4-tritonmate-words-upcoming-change-to-sharpsnmplib-mib-dll-license %}) that the license for SharpSnmpLib.Mib.dll has been changed from Lesser GPL to BSD 3 Clause.

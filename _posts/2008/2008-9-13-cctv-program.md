@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /今天的东方时空主题是什么-910d7571cbb1
 tags: linux windows
+categories: [Operating Systems]
 title: 今天的东方时空主题是什么？
 ---
 (CSDN Sept 13, 2008)

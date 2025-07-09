@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jbuilder-2007试用版-地震的后遗症-11766f415904
 tags: java
+categories: [Programming Languages]
 title: JBuilder 2007试用版：地震的后遗症
 ---
 (CSDN Dec 27, 2006)

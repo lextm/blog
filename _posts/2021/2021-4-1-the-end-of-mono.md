@@ -1,5 +1,5 @@
 ---
-categories: [History, .NET]
+categories: [Frameworks and Libraries]
 description: Analysis of Mono's declining future as Microsoft transitions to .NET 6 and beyond - understand why Mono-dependent applications face sustainability risks and the timeline of this critical platform shift
 excerpt_separator: <!--more-->
 layout: post

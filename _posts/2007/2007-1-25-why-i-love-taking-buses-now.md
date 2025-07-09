@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /why-i-love-taking-buses-now-35ca03865d7c
 tags: work-life
+categories: [Miscellaneous]
 title: Why I love taking buses now?
 ---
 (CSDN Jan 25, 2007)

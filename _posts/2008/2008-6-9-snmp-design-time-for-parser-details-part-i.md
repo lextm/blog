@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-time-for-parser-details-part-one-4a46ff24093a
 tags: microsoft snmp
+categories: [Companies and Products]
 title: '#SNMP Design: Time for Parser Details, Part One'
 ---
 This morning I changed to version number of #SNMP to 0.9 after checking in latest update on MIB support. Compared to my plan, there is nothing big to add before NineHeaded release.

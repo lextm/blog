@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-user-interface-update-2-18cc87893d4a
 tags: .net code-beautifier-collection delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: User Interface Update 2'
 ---
 Now I am going to tell you Plus Manager is finally meeting my original goal.

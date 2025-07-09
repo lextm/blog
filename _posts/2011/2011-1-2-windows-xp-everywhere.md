@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-xp-everywhere-eecd7661cc58
 tags: windows
+categories: [Operating Systems]
 title: Windows XP Everywhere
 ---
 We all know that Windows XP is a great product. It is so great that sometimes you don't know its existence.

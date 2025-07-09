@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /restructuredtext-extension-broken-in-vscode-1-9-0-3e01952ad155
 tags: visual-studio-code python restructuredtext
+categories: [Programming Languages]
 title: 'reStructuredText Extension: Broken in VS Code 1.9.0'
 ---
 A user reported this issue a few days ago that the extension no longer works after VS Code 1.9.0 release, while I was packing up things before my departure from Shanghai to Montreal. I could not even debug VS Code at that time.

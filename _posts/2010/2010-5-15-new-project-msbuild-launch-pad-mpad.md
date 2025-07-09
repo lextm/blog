@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /new-project-msbuild-launch-pad-mpad-e1ce8c5acb15
 tags: .net msbuild
+categories: [Programming Languages]
 title: 'New Project: MSBuild Launch Pad (mPad)'
 ---
 I used MSBuildShellExtension years ago. It was a nice helper when there was only .NET 2.0. But once .NET 3.5 came, it did not adapt to it as I wished.

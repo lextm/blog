@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-code-templates-760c67c006c8
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: CBC Code Templates
 ---
 (CSDN Jan 31, 2007)

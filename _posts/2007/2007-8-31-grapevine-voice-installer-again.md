@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-installer-again-5e2dba96f20e
 tags: code-beautifier-collection inno-setup
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: Installer Again'
 ---
 When I published this post, I did not expect ISPP changed most of things easily.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /analysis-on-a-snmp-library-memory-leak-report-with-jetbrains-dotmemory-9199f8a98955
 tags: .net snmp
+categories: [Programming Languages]
 title: 'Analysis on a #SNMP Library Memory Leak Report with JetBrains dotMemory'
 ---
 A few days ago, I got a report on possible #SNMP memory leak. The report itself contains very useful information, so that I was confident on reproducing it.

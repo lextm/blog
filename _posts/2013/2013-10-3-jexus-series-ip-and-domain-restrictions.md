@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-ip-and-domain-restrictions-c04db4ff4060
 tags: iis jexus-manager
+categories: [Tools and Platforms]
 title: 'Jexus Series: IP and Domain Restrictions'
 ---
 Jexus does not yet support dynamic IP restriction as IIS 7+ do, but its IP address restriction support is feature complete.

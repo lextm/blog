@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /obfuscar-the-story-behind-inconsistent-virtual-method-obfuscation-state-detected-82c9f8c38667
 tags: .net obfuscar open-source
+categories: [Programming Languages]
 title: 'Obfuscar: The Story Behind "Inconsistent virtual method obfuscation state detected"'
 ---
 "Inconsistent virtual method obfuscation state detected" has been a well-known issue of Obfuscar for a while but users do not seem to fully understand the rationale behind it. This post is going to cover the technical details.

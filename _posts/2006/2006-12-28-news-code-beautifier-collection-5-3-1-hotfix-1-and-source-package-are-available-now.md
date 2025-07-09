@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-code-beautifier-collection-5-3-1-hotfix-1-and-source-package-are-available-now-367dcb1537af
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: News! Code Beautifier Collection 5.3.1 Hotfix 1 and source package are available
   now
 ---

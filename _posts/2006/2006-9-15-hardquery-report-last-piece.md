@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-last-piece-946fb572bfd6
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Last piece?'
 ---
 (CSDN Sept 15. 2006)

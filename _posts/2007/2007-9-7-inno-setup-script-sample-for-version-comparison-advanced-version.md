@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /inno-setup-script-sample-for-version-comparison-advanced-version-c398d0ef18ad
 tags: inno-setup
+categories: [Tools and Platforms]
 title: Inno Setup Script Sample for Version Comparison (Advanced Version)
 ---
 Compared to an earlier revision, this time I will show how ISPP makes thing much easier.

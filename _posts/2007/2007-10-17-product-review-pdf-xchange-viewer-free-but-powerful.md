@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-pdf-xchange-viewer-free-but-powerful-c21fc3722e57
 tags: work-life
+categories: [Miscellaneous]
 title: 'Product Review: PDF-XChange Viewer, Free But Powerful'
 ---
 When Adobe invents PDF format and encourages people to use this format, the reference is available for free. Now you can also download this document from Adobe website. As a result, there are so many PDF related products around the market.

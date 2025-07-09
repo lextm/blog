@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-theme-reloaded-3bb41273d127
 tags: dockpanel-suite visual-studio .net open-source
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite: Theme Reloaded'
 ---
 I blogged about DPS theming a few times, aiming to demonstrate how we ported VS2012 Light theme in, how the related API was refactored, and how themes became separate NuGet packages. But I never expected that today I can blog about two new themes and potentially more from you. So let's get started.

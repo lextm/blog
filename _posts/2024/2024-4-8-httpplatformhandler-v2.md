@@ -3,6 +3,7 @@ description: "Introducing HttpPlatformHandler v2, a modern open-source replaceme
 excerpt_separator: <!--more-->
 layout: post
 tags: .net httpplatformhandler iis java python windows
+categories: [Programming Languages]
 title: HttpPlatformHandler v2
 ---
 LeXtudio Inc. just released a new product, HttpPlatformHandler v2, which can be considered a new release to replace Microsoft's HttpPlatformHandler v1.x. This post talks about why we build it and how we build it.

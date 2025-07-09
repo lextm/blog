@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /iis-express-failures-after-upgrading-to-visual-studio-2015-6dd3d7eabc7a
 tags: iis visual-studio
+categories: [Tools and Platforms]
 title: IIS Express Failures After Upgrading to Visual Studio 2015
 ---
 The following changes in VS 2015 will affect your development if you upgrade from VS 2012/2013,

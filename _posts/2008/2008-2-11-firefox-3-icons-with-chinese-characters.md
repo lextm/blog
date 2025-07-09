@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /firefox-3-icons-with-chinese-characters-95b3806451d4
 tags: open-source windows
+categories: [Miscellaneous]
 title: Firefox 3 Icons With Chinese Characters
 ---
 Now I am looking at new icon sets for major operating systems that probably would ship with Firefox 3 Beta 3 and go to the Final. Oh, they are fabulous.

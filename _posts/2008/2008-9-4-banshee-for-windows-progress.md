@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /banshee-for-windows-progress-e65b7cc18392
 tags: windows
+categories: [Operating Systems]
 title: Banshee for Windows Progress
 ---
 I have been watching the Banshee Media Player for months, but it does not yet support Windows even though in the announcement it will hit Windows soon.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpdevelop-2-2-is-really-there-2b0eec92a4f3
 tags: .net sharpdevelop
+categories: [Programming Languages]
 title: SharpDevelop 2.2 Is Really There
 ---
 I prefer SharpDevelop to Visual Studio 2005 just because SD starts much faster, and everything I need to design a form or type some code is already there.

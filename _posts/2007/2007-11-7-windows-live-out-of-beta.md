@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-out-of-beta-56ad354f1962
 tags: microsoft windows
+categories: [Companies and Products]
 title: 'Windows Live: Out of Beta'
 ---
 Today Windows Live Team in MSFT releases a bunch of Live products, so the beta stage has passed. Nice to see the changes.

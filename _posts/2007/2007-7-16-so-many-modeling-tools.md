@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /so-many-modeling-tools-49349b2dcff6
 tags: java visual-studio
+categories: [Programming Languages]
 title: So Many Modeling Tools
 ---
 I used Together, ROSE, and ModelMaker before. However, now I find Visual Paradigm, Apollo, and Poseidon. What a wonderful world!

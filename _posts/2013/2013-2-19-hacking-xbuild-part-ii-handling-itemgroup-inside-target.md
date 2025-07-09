@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hacking-xbuild-part-ii-handling-itemgroup-inside-target-ccbae2ef6abf
 tags: .net mono
+categories: [Programming Languages]
 title: 'Hacking xbuild: Part II, Handling ItemGroup Inside Target'
 ---
 

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-snmp-libraries-for-net-evaluation-report-e13f25991cad
 tags: .net snmp open-source
+categories: [Programming Languages]
 title: 'Product Review: SNMP Libraries for .NET Evaluation Report'
 ---
 In TCP/IP stack, HTTP, FTP, SMTP, POP, IMAP are popular so you can easily find free libraries to use for those protocols in nearly any language. But to do something about SNMP on .NET the range is quite limited.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-install-custom-controls-to-visual-studio-part-i-39fa7733bb3
 tags: .net visual-studio visual-studio-code windows
+categories: [Tools and Platforms]
 title: How to Install Custom Controls to Visual Studio, Part I
 ---
 I thought this is an easy task as so many components vendors have their fancy installers doing this, but only when I attempted to create one for Crad's ActionList (http://github.com/lextm/actionlistwinforms) I found out how difficult it is to locate all information you need. Therefore, this will be a long post with all information you might need.

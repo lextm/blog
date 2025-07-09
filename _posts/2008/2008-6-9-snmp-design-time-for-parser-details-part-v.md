@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-time-for-parser-details-part-five-39f92e7fdff6
 tags: sharpdevelop snmp
+categories: [Tools and Platforms]
 title: '#SNMP Design: Time for Parser Details, Part Five'
 ---
 What exceptions I may get and what do they mean?

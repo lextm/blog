@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-take-a-break-6915e7d8691c
 tags: microsoft snmp
+categories: [Companies and Products]
 title: '#SNMP Design: Take A Break'
 ---
 Now my 9-day-long vacation is going to end. It is really nice vacation because,

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /receipt-of-visual-studio-code-extension-f4fb832fd956
 tags: visual-studio-code open-source restructuredtext
+categories: [Tools and Platforms]
 title: Receipt of Visual Studio Code Extension
 ---
 ![img-description](/images/rst.png){: width="512" }

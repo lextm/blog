@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-specification-document-draft-published-14078359972c
 tags: sharpdevelop snmp
+categories: [Tools and Platforms]
 title: '#SNMP Design: Specification Document Draft Published'
 ---
 > This is an invitation to everyone interested in #SNMP.

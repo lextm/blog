@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /big-sorry-goes-to-those-who-had-downloaded-cbc-2-2-e8ac2efd3d13
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: Big SORRY goes to those who had downloaded CBC 2.2
 ---
 (Originally posted to CSDN on Nov 30, 2005)

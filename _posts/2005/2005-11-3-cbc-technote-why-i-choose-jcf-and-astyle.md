@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-why-i-choose-jcf-and-astyle-b4cf28311f72
 tags: code-beautifier-collection delphi .net open-source
+categories: [Tools and Platforms]
 title: 'CBC TechNote: Why I choose JCF and AStyle'
 ---
 (Originally published to CSDN on Nov 03, 2005)

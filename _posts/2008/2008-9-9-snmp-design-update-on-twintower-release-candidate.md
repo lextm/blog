@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-update-on-twintower-release-candidate-f2f4a2b53714
 tags: snmp windows
+categories: [Technologies and Concepts]
 title: '#SNMP Design: Update on TwinTower Release Candidate'
 ---
 Steve and I have worked hard to prepare a TwinTower Release Candidate lately (and that's why Steve came across [the Zero Puzzle]({% post_url 2008/2008-9-6-snmp-design-the-puzzle-of-zero %}) and [I fixed it completely]({% post_url 2008/2008-9-8-snmp-design-solving-the-zero-puzzle %}) yesterday). However, there is more to do on the browser side than on the library side, so I am now considering such a plan to release two candidates before the final release,

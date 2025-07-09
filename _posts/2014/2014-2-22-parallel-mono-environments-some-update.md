@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /parallel-mono-environments-some-update-3916d327ec97
 tags: linux mono open-source git
+categories: [Operating Systems]
 title: Parallel Mono Environments, Some Update
 ---
 The Mono guys have [a good guide](http://www.mono-project.com/Parallel_Mono_Environments) on how to set up parallel Mono environment. However, it was pretty old (for Mono 1.* phase). I tried to build up my own paralle Mono environment for the first time a few days ago, so here I documented what are the changes you should pay significant attention to while preparing the same environment for Mono 3.2.8.

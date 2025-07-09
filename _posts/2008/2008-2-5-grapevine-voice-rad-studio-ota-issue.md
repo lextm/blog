@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-rad-studio-ota-issue-4b405586bbf3
 tags: .net delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: RAD Studio OTA Issue'
 ---
 I thought it was a CBC bug at first. However, after debugging I am sure it is another OTA bug.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /installaware-notice-you-may-need-update-again-7c791c38190d
 tags: iis microsoft windows
+categories: [Tools and Platforms]
 title: 'InstallAware Notice: You May Need Update Again'
 ---
 I didn't notice that Microsoft has released MSI 4.5 engine until I received a notice mail from InstallAware. It was happy to get an InstallAware 7 Update for MSI 4.5.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-mib-browser-status-9e4c63fe1619
 tags: work-life
+categories: [Miscellaneous]
 title: '#SNMP Design: MIB Browser Status'
 ---
 Lately I did not update the browser, and of course users met issues with it and posted on the discussion board here. Thank you so much for posting your ideas. They helps me sharp the browser in design.

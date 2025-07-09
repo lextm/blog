@@ -3,6 +3,7 @@ description: 'Exploring the #SNMP Library 12.5 release for .NET 6 with new featu
 excerpt_separator: <!--more-->
 layout: post
 tags: .net snmp visual-studio open-source csharp
+categories: [Programming Languages]
 title: '#SNMP New Release for .NET 6'
 ---
 .NET 7 is going to be released by Microsoft, but I just got sometime to finally release #SNMP Library 12.5. It has been a release driven mainly by the new features of .NET 6, so below I try to write more on what users should pay attention to.

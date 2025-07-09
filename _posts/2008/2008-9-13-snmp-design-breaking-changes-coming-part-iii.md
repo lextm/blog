@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-breaking-changes-coming-part-iii
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: Breaking Changes Coming, Part III'
 ---
 > (This post is updated on September 27th heavily.)

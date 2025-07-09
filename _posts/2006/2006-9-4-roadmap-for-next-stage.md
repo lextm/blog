@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /roadmap-for-next-stage-e36218e454ec
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: Roadmap for Next Stage
 ---
 (CSDN Sept 04, 2006)

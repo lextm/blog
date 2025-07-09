@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /snmp-library-bouncy-castle-extensions-e85333583bb4
 tags: .net snmp open-source
+categories: [Programming Languages]
 title: '#SNMP Library, Bouncy Castle Extensions'
 ---
 Microsoft decided to make a few encryption algorithms obsolete in .NET Core. Everyone knows they did this for good. But the crude fact is that many existing things unfortunately depend on such algorithms, whether you like it or not.

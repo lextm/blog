@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /the-merge-of-net-and-mono-phase-two-6442efc11331
 tags: .net mono
+categories: [Programming Languages]
 title: 'The Merge of .NET and Mono: Phase Two'
 ---
 > You can find [phase one post here]({% post_url 2017/2017-4-16-the-merge-of-.net-and-mono-phase-one %}).

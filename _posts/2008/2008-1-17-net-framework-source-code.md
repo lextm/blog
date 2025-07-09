@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /net-framework-source-code-83cb4bd1bfdf
 tags: .net visual-studio
+categories: [Programming Languages]
 title: .NET Framework Source Code
 ---
 In 2008, Visual Studio team finally offers you some .NET Framework source code under a special license term to enhance your debugging experience.

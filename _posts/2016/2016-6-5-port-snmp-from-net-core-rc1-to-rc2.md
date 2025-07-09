@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /port-snmp-from-net-core-rc1-to-rc2-141207cbe4f
 tags: .net snmp open-source
+categories: [Programming Languages]
 title: 'Port #SNMP from .NET Core RC1 to RC2'
 ---
 You probably read my first post on how to migrate from .NET Framework to .NET Core RC1. Now it is time to update the code base to RC2. [The actual commits](https://github.com/lextudio/sharpsnmplib/commits/netcore5) were made two weeks ago. So this post will cover the necessary details.

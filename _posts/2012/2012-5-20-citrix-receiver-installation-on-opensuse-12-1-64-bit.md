@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /citrix-receiver-installation-on-opensuse-12-1-64-bit-fc20b664928b
 tags: linux
+categories: [Operating Systems]
 title: Citrix Receiver Installation on openSUSE 12.1 64-bit
 ---
 I recently switched to openSUSE 12.1 fully as my desktop failed to serve Windows 7 without hang or crash. One difficulty right now is that I could not install Citrix Receiver as wished by downloading their 64 bit .rpm package [1].

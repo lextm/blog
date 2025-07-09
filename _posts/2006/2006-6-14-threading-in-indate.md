@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /threading-in-indate-28d940bc7503
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: Threading in InDate
 ---
 (June 14, 2006)

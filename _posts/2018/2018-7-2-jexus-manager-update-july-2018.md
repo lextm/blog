@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /jexus-manager-update-july-2018-597ff6bc1483
 tags: .net iis jexus-manager visual-studio windows
+categories: [Tools and Platforms]
 title: Jexus Manager Update July 2018
 ---
 I know Jexus Manager hasn't been updated for a while. There are many reasons, and the biggest one of them is that I was working on some huge changes but I didn't know how easy/difficult it was.

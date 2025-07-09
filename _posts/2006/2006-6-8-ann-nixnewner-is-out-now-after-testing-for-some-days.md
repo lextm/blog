@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /ann-nixnewner-is-out-now-after-testing-for-some-days-ab2afb807954
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: ANN! NixNewNer is out now after testing for some days
 ---
 (CSDN June 08, 2006)

@@ -3,6 +3,7 @@ description: 'This post is about #SNMP 4.0 and NDepend.'
 excerpt_separator: <!--more-->
 layout: post
 tags: snmp
+categories: [Technologies and Concepts]
 title: 'SquareRoot Puzzle: NDepend Check on #SNMP 4.0'
 ---
 Recently I got a license for NDepend Pro. I am going to make good use of this amazing tool.

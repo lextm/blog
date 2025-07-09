@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-the-solution-files-3cf989f268fe
 tags: snmp visual-studio
+categories: [Technologies and Concepts]
 title: 'CatPaw Rumors: The Solution Files'
 ---
 (Updated to latest for our release 5.0 development)

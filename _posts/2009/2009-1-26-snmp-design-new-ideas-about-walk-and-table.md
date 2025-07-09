@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-new-ideas-about-walk-and-table-a9c9113b2229
 tags: microsoft snmp
+categories: [Companies and Products]
 title: '#SNMP Design: New Ideas about Walk and Table'
 ---
 I discussed with Steve several times before we shipped TwinTower. We agreed that it is a big task to finish through multiple releases, so TwinTower only contains a new implementation of Walk from Steve.

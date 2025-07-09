@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-more-mono-support-coming-fb16f90d7c89
 tags: .net mono
+categories: [Programming Languages]
 title: 'CatPaw Rumors: More Mono Support Coming'
 ---
 Do you want to use our browser and compiler on Mono too? Yes, I believe most of you want a modern UI MIB browser and compiler on Mono/openSUSE. So is it possible that we ship something like that?

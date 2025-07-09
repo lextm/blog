@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /separate-net-2-0-3-0-sp1-installers-330e39e03ae1
 tags: .net asp.net visual-studio
+categories: [Programming Languages]
 title: Separate .NET 2.0/3.0 SP1 Installers
 ---
 In the past few months, if you want .NET 2.0/3.0 SP1, the only installer is .NET 3.5 Framework installer. I believe that this is not feasible for everyone. And now at last Microsoft releases separate installers for them.

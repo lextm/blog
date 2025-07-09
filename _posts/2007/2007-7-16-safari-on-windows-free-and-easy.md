@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /safari-on-windows-free-and-easy-1f36a1b58e08
 tags: work-life
+categories: [Miscellaneous]
 title: 'Safari on Windows: Free and Easy'
 ---
 Do you know Safari? Apple's web browser for Mac OS. And now, it can be installed on Windows.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /news-nixnewner-update-1-final-is-on-the-way-2f0f946179e6
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: News! NixNewNer Update 1 Final is on the way
 ---
 (CSDN July 03, 2006)

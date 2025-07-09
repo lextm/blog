@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /what-would-you-like-to-see-in-hardquery-please-post-here-d3e977c3a93d
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: What would you like to see in HardQuery, please post here
 ---
 (CSDN July 19, 2006)

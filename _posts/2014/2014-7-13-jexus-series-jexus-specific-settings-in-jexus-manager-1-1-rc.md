@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-jexus-specific-settings-in-jexus-manager-1-1-rc-d5a10f06cc9
 tags: .net jexus-manager
+categories: [Programming Languages]
 title: 'Jexus Series: Jexus Specific Settings in Jexus Manager 1.1 RC'
 ---
 The RC bits of Jexus Manager 1.1 is now available. It adds a new page so that you can configure Jexus specific settings (which do not have corresponding pages in IIS Manager).

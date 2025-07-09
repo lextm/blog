@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /ann-walkpace-update-1-is-out-9c2bf90138e5
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'ANN: WalkPace Update 1 is out!'
 ---
 (CSDN April 27, 2006)

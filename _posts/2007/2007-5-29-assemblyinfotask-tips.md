@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /assemblyinfotask-tips-5db57caa1c66
 tags: .net visual-studio
+categories: [Programming Languages]
 title: AssemblyInfoTask Tips
 ---
 AssemblyInfoTask is a MSBuild custom task published on GotDotNet.com. In fact, it is written by a MSBuild team member.

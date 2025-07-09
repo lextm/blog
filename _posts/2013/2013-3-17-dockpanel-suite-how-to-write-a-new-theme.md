@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-how-to-write-a-new-theme-573f46197486
 tags: dockpanel-suite visual-studio
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite: How to Write a New Theme'
 ---
 (Originally posted to CSDN on Feb 21, 2006)

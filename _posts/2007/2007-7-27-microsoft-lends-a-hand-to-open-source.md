@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-lends-a-hand-to-open-source-460001aab0da
 tags: microsoft windows
+categories: [Companies and Products]
 title: Microsoft Lends A Hand To Open Source?
 ---
 If you have time, please go and see this page on Microsoft.com, named Open Source at Microsoft.

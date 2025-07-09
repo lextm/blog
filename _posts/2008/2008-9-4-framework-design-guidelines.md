@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /framework-design-guidelines-b2d3f0efd53a
 tags: .net snmp
+categories: [Programming Languages]
 title: Framework Design Guidelines
 ---
 Although Gendarme and FxCop may help to detect design flaws, they are not perfect. Thus, sometimes resorting to a great book like this is unavoidable.

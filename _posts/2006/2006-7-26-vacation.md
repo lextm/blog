@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /假期开始-迷惘和兴奋交织-964503e8ac4d
 tags: work-life
+categories: [Miscellaneous]
 title: 假期开始：迷惘和兴奋交织
 ---
 (CSDN July 26, 2006)

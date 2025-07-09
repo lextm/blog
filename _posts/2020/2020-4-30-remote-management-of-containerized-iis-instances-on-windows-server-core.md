@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /remote-management-of-containerized-iis-instances-on-windows-server-core-f6864c74917f
 tags: iis microsoft windows powershell
+categories: [Tools and Platforms]
 title: Remote Management of Containerized IIS Instances on Windows Server Core
 ---
 You might want to run some applications on a Windows Server Core machine for quick testing. Instead of using a full virtual machine, running a Docker container can be easier. But in the meantime, why not enable IIS remote management so that IIS Manager can be used to tune the settings? However, the steps won't look obvious. In this post, I am going to show you the key steps.

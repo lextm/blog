@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-agent-side-support-update-41b47b2bcea3
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Design: Agent Side Support Update'
 ---
 According to the poll, a moderate amount of developers want to create SNMP agent on .NET. This means I can help them by adding an Agent component in #SNMP. After handing over the browser to Steve, now I have time and energy to focus on the library, so there is no reason to delay new features like this.

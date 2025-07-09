@@ -3,6 +3,7 @@ description: In-depth look at switching from Snooty to Esbonio language server f
 excerpt_separator: <!--more-->
 layout: post
 tags: python visual-studio-code open-source restructuredtext
+categories: [Programming Languages]
 title: New Language Server and Case Study
 ---
 It was around the year end of 2020 that I noticed the existence of the Snooty language server from MongoDB and [integrated it with the reStructuredText extension for VSCode]({% post_url 2020/2020-12-18-integration-with-snooty-language-server %}). After about a year, it's time to move to another language server in this field.

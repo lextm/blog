@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /installaware-runtime-authoring-ec8d08213f1c
 tags: .net windows
+categories: [Programming Languages]
 title: InstallAware Runtime Authoring
 ---
 It is nice to see InstallAware 7 bundled lots of runtimes. As a result, you can easily add .NET runtimes and other into your installer. The magic is that the runtimes can be included in one executable setup.exe if you let IA generate Single File from your project.

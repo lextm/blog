@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /debugging-on-mono-an-xbuild-issue-44cda356cfa1
 tags: linux mono
+categories: [Operating Systems]
 title: 'Debugging on Mono: An xbuild Issue'
 ---
 I just attempted to answer [one StackOverflow question](http://stackoverflow.com/questions/14678414/installing-f-3-windows-xp-using-mono/14679719#14679719) about how to compile F# on Windows with Mono, but failed as there is something I don't know why. However, by using Mono 3.0.3 xbuild I noticed that it seems to support many MSBuild 3.5 goodies. So I decided to test it out to execute ANTLR targets.

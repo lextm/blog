@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /a-wix-installer-example-jexus-manager-640b6586c27c
 tags: visual-studio windows msbuild open-source
+categories: [Tools and Platforms]
 title: A WiX Installer Example, Jexus Manager
 ---
 Jexus Manager has been shipped as a ZIP package for long. Such a shipping method is very popular, as users can unzip the contents and run from a suitable location immediately. Tools like ILSpy also ship their binaries in this way.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-signing-assemblies-1fdc8737cb52
 tags: .net delphi
+categories: [Programming Languages]
 title: 'GrapeVine Voice: Signing Assemblies'
 ---
 Compared to Visual Studio/SharpDevelop, Delphi for .NET lacks a few IDE elements. One of them is the signing support.

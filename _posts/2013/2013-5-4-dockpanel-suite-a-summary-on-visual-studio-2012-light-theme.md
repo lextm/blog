@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-a-summary-on-visual-studio-2012-light-theme-a8391c84c769
 tags: dockpanel-suite visual-studio
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite: A Summary on Visual Studio 2012 Light Theme'
 ---
 Previously I have posted about the new theme several times, such as

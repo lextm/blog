@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-the-logic-behind-tobytes-and-raw-649293790e97
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: The Logic Behind ToBytes and _raw'
 ---
 Well you must notice this thread and my promise there. So in this post I am going to talk about the _raw fields and why they appear in every basic data types.

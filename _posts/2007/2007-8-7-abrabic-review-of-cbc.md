@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /arabic-review-of-cbc-2dffb549de0e
 tags: delphi google
+categories: [Companies and Products]
 title: Arabic Review of CBC?
 ---
 When I tried Google Blog Search Beta today, I found a thread mentioned CBC in Arabic language.

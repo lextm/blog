@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-a-visual-studio-code-linter-works-681c8388b0ea
 tags: visual-studio-code open-source
+categories: [Tools and Platforms]
 title: How A Visual Studio Code Linter Works
 ---
 I blogged about [what a basic Visual Studio Code language extension should contain]({% post_url 2017/2017-5-27-receipt-of-visual-studio-code-extension %}) a few months ago, and today we focus on linter.

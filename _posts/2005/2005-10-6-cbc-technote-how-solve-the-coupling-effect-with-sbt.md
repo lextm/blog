@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-how-to-solve-the-coupling-effect-with-sbt-6fde78543560
 tags: delphi code-beautifier-collection .net
+categories: [Tools and Platforms]
 title: 'CBC TechNote: How to solve the coupling effect with SBT?'
 ---
 (Written on 2005–10–6, originally posted to CSDN on Nov 03, 2005, republished here with some modifications)

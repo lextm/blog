@@ -3,6 +3,7 @@ layout: post
 title: 'Compatibility: Should We Do Something Perfect?'
 description: This post describes the compatibility problem and how to resolve it.
 tags: code-beautifier-collection
+categories: [Tools and Platforms]
 permalink: /compatibility-should-we-do-something-perfect-ac9f9965582b
 excerpt_separator: <!--more-->
 ---

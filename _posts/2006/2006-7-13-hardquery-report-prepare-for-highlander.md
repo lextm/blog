@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-prepare-for-highlander-7b18d63fb452
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Prepare, for Highlander'
 ---
 (CSDN July 13, 2006)

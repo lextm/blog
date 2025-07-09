@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /offline-publishing-asp-net-core-apps-cf22f45158af
 tags: .net asp.net iis
+categories: [Programming Languages]
 title: Offline Publishing ASP.NET Core Apps
 ---
 It is my personal view that Microsoft designed .NET Core/ASP.NET Core with little offline experience in consideration, which makes it quite difficult for an enterprise with firewalls and proxies to fully embrace the technology. Thus, a post like this would discuss the investigation I just finished and hope it can help companies with external network access restrictions to set up their internal environment properly.

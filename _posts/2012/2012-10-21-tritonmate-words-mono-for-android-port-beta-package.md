@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-mono-for-android-port-beta-package-21dd784d4655
 tags: android mono snmp
+categories: [Operating Systems]
 title: 'TritonMate Words: Mono for Android Port Beta Package'
 ---
 I hope followers of this blog are not bored by the less and less change sets I submitted to the repository, and today this piece of important news arrives.

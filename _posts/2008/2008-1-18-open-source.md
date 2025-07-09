@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /对于开源的种种误读-8f5f38d66030
 tags: .net asp.net delphi
+categories: [Programming Languages]
 title: 对于开源的种种误读
 ---
 (CSDN Jan 18, 2008)

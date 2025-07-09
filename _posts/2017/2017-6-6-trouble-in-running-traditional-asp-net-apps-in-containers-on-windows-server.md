@@ -3,6 +3,7 @@ layout: post
 title: Trouble in Running Traditional ASP.NET Apps in Containers on Windows Server 2016
 description: "This post is about how to run traditional ASP.NET apps in containers on Windows Server 2016."
 tags: iis asp.net windows
+categories: [Tools and Platforms]
 permalink: /trouble-in-running-traditional-asp-net-apps-in-containers-on-windows-server-2016-43b755611337
 excerpt_separator: <!--more-->
 ---

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /what-questions-are-less-likely-to-be-answered-on-iis-net-49310b254eb9
 tags: asp.net iis
+categories: [Frameworks and Libraries]
 title: What Questions are Less Likely to Be Answered on IIS.net?
 ---
 Of course questions are welcome on any Microsoft forums, and that's why Microsoft spends so much each year on them. However, some questions won't get the answers you wanted, and even never be processed due to their weird nature at the very beginning. It is OK to post them over and over again, but you should be aware that they are less welcome (or not welcome if I don't pretend to be polite). Why or why will be explained later. Here I only focus on http://forums.iis.net as I am just familiar with IIS.

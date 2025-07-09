@@ -1,5 +1,5 @@
 ---
-categories: [History, .NET]
+categories: [Operating Systems]
 description: A comprehensive analysis of .NET cross-platform UI frameworks, comparing native bindings, custom rendering approaches, and control mapping technologies like Xamarin.Forms, Avalonia, and Uno Platform for desktop and mobile development.
 excerpt_separator: <!--more-->
 layout: post

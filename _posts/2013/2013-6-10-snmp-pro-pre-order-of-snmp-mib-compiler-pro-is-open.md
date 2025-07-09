@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-pre-order-of-snmp-mib-compiler-pro-is-open-fef4ae2456cd
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Pro: Pre-Order of #SNMP MIB Compiler Pro is Open'
 ---
 I did not post recently (for more than two weeks), as I was focused on optimizing the performance and fine tuning the compiler. Now the assembler has been sped up more than 10x, so the latest build takes only about 2 minutes to compile 1000+ files (my previous test samples), while the private beta release takes more than 20 minutes. Besides, the improvements of DockPanel Suite 3.0 Alpha give the compiler a better look.

@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /ota-net-compatibilty-tests-6bf780a81a54
 tags: .net code-beautifier-collection delphi
+categories: [Programming Languages]
 title: OTA/.NET Compatibility Tests
 ---
 (CSDN June 08, 2006)

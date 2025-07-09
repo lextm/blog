@@ -3,6 +3,7 @@ description: Discover how VS Code with Git Graph and GitLens extensions can serv
 excerpt_separator: <!--more-->
 layout: post
 tags: visual-studio-code git github
+categories: [Tools and Platforms]
 title: How I Ended Up with VS Code as Git Client
 ---
 This is a short story on how I gave up all other Git clients and ended up with VS Code as my everyday companion.

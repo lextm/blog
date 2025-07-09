@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /the-success-of-running-monodevelop-7-on-linux-a55f1469b1d1
 tags: linux mono
+categories: [Operating Systems]
 title: The Success of Running MonoDevelop 7 on Linux
 ---
 I still remembered the pain of running MonoDevelop 7 on FlatPak on Linux, but today finally decided to give the alternative way a go, and indeed it worked. So here is the story.

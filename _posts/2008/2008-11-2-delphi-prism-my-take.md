@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /delphi-prism-my-take-3bcb11339c73
 tags: .net delphi
+categories: [Programming Languages]
 title: Delphi Prism, My Take
 ---
 Finally Delphi Prism is officially launched (the announcement was made during PDC 2008). So everyone can read about it here and there . Therefore, I don't need to cut and copy the words here. This post will only express my personal ideas about the changes on Delphi for .NET side.

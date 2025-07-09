@@ -15,6 +15,7 @@ httpplatformhandler
 iis
 inno-setup
 java
+javascript
 jexus-manager
 linux
 macos
@@ -22,6 +23,7 @@ meizu
 microsoft
 mono
 msbuild
+obfuscar
 open-source
 php
 powershell
@@ -29,6 +31,7 @@ python
 restructuredtext
 sharpdevelop
 snmp
+touch-mouse-mate
 visual-studio
 visual-studio-code
 windows

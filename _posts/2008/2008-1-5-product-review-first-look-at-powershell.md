@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-first-look-at-powershell-db413733099a
 tags: powershell windows
+categories: [Tools and Platforms]
 title: 'Product Review: First Look At PowerShell'
 ---
 Last Friday I needed to write a batch file that executes a command several times. I failed because I never fell in love with the syntax. As a guy who started to use PC in Windows 95 and to program in Delphi 7, I always find command lines hard to use and memorize.

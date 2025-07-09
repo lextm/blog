@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-xp-themes-luna-zune-and-royale-14fdcb0e3850
 tags: windows
+categories: [Operating Systems]
 title: 'Windows XP Themes: Luna, Zune And Royale'
 ---
 I have been using Windows XP for what, about 6 years. The default theme Luna looks nice for the first few years but I got tired of it at last. Then I met Royale, a theme for Media Centre. This fancy theme helps my eyes. But tiredness comes again.

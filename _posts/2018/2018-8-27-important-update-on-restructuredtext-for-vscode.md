@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /important-update-on-restructuredtext-for-vscode-efa0d412422f
 tags: restructuredtext visual-studio-code open-source
+categories: [Programming Languages]
 title: Important Update on reStructuredText for VS Code
 ---
 ![img-description](/images/rst-vscode.png)

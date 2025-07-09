@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /code-beautifier-collection-动态-6d7f83ee125a
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: Code Beautifier Collection 动态
 ---
 (CSDN August 13, 2007)

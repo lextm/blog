@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /wireless-connection-setup-in-opensuse-12-1-ccc288d10cbc
 tags: linux
+categories: [Operating Systems]
 title: Wireless Connection Setup in openSUSE 12.1
 ---
 > I am using openSUSE 12.1, but the tip should apply to other recent openSUSE releases.

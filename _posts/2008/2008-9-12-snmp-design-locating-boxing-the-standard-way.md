@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-locating-boxing-the-standard-way-13eb1cecfd6b
 tags: snmp
+categories: [Technologies and Concepts]
 title: '#SNMP Design: Locating Boxing The Standard Way'
 ---
 I bought a lot of C# books this year to investigate under the surface when Effective C# does not provide me more insight. So now the "CLR via C#" is open in front of me, and I am on page 133. The Importance banner for the very first time attracts my attention to ILDasm.exe. Yes, in the past I never use this tool, so I never know how many box instructions are there inside #SNMP.

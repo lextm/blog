@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /new-structure-for-walkpace-final-4fcea361893f
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: New Structure for WalkPace Final
 ---
 (CSDN March 16, 2006)

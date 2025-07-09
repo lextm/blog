@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /难念的经-f920f449ebe0
 tags: work-life
+categories: [Miscellaneous]
 title: 难念的经
 ---
 (CSDN Nov 05, 2006)

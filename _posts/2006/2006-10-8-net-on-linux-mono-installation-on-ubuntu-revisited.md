@@ -4,6 +4,7 @@ title: '.NET on Linux: Mono installation on Ubuntu, Revisited'
 description: This post describes how to install Mono on Ubuntu, and how to fix the
   problem when MonoDevelop cannot run.
 tags: .net linux mono
+categories: [Programming Languages]
 permalink: /net-on-linux-mono-installation-on-ubuntu-revisited-9143dba89b99
 excerpt_separator: <!--more-->
 ---

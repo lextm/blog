@@ -3,6 +3,7 @@ description: "Learn how to efficiently host multiple versions of Sphinx document
 excerpt_separator: <!--more-->
 layout: post
 tags: python restructuredtext
+categories: [Programming Languages]
 title: 'Sphinx Documentation: Hosting Multiple Versions for Your Project'
 ---
 If you are maintaining a project, the best practice is to stick to a single version. It simplifies coding, testing, and hosting documentation. However, in reality, you may need to maintain multiple versions of your project, including the documentation. This post will guide you through how to host multiple versions of Sphinx documentation for your project using `sphinx-polyversion`.

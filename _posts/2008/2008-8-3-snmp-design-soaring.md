@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-soaring-e000d37de4c5
 tags: linux snmp
+categories: [Operating Systems]
 title: '#SNMP Design: Soaring'
 ---
 It is really hard to focus on the browser design because it is a complex task. I got a lot of pains last weekend on the agent profile section, and had to stop to do other stuffs.

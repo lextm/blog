@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-project-group-helper-b7670bd33578
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: Project Group Helper'
 ---
 (CSDN Oct 18, 2006)

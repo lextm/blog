@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-vista-update-bug-cad93850ea19
 tags: iis windows
+categories: [Tools and Platforms]
 title: Windows Vista Update Bug
 ---
 Microsoft added an update of Mobile Intel 965 Express Chipset Family driver to Windows Vista Update on October 3rd. But if you installed this update on Windows Vista Ultimate, I guess you would see blue screen again. However, [the installer from Intel](http://downloadcenter.intel.com/Detail_Desc.aspx?agr=N&ProductID=2880&DwnldID=14580&strOSs=153&OSFullName=Windows%20Vista*%20Home%20Premium,%2032-bit%20version&lang=eng&iid=homepage+dc_gmad_vis) does not have any problem. Yes, I have just helped a teammate to fix this issue.

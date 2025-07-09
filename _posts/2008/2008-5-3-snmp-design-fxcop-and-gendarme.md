@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-fxcop-and-gendarme-8bca59a85563
 tags: mono snmp
+categories: [Frameworks and Libraries]
 title: '#SNMP Design: FxCop and Gendarme'
 ---
 It is really hard to keep rules in mind when drown in the developer passion. I am a human so I can help drowning, too. Therefore, I always asks for help.

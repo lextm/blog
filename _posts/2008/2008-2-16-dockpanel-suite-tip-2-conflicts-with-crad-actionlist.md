@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-tip-2-conflicts-with-crad-action-list-baf8cc207d14
 tags: dockpanel-suite
+categories: [Frameworks and Libraries]
 title: 'DockPanel Suite Tip #2: Conflicts with Crad Action List'
 ---
 I love Crad Action List control. And in every form I create I use this control to provide menu items and tool strip items.

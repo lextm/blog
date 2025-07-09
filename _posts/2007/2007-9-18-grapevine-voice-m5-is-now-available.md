@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-m5-is-now-available-828bbd803d88
 tags: code-beautifier-collection delphi
+categories: [Tools and Platforms]
 title: 'GrapeVine Voice: M5 Is Now Available'
 ---
 CodeGear released RAD Studio 2007 a few days ago. And Delphi 2007 Update 3 was then available, too. They both require a new version of Code Beautifier Collection, which now I happily announce is available at Google Code Homepage.

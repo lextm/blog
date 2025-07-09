@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-service-file-name-56f73788dcb9
 tags: .net windows
+categories: [Programming Languages]
 title: Windows Service File Name
 ---
 When you get a ServiceController instance, how do you know the executable name and path? WMI makes it possible. You can use this GetServicePath function to query service executable name and path.

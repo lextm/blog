@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-eclipse-vs-visual-studio-698403cf8503
 tags: visual-studio
+categories: [Tools and Platforms]
 title: 'Product Review: Eclipse vs. Visual Studio'
 ---
 I subsribed to Slashdot.org last month. Since then I have been enjoying those discussions. What is that latest hot discussion? Check the title and you know it.

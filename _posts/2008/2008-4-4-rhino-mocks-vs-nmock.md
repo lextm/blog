@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /rhino-mocks-vs-nmock-cea2fb93f6e7
 tags: .net sharpdevelop
+categories: [Programming Languages]
 title: Rhino Mocks vs. NMock
 ---
 According to so many posts I read, Rhino Mocks is another hot mock framework for .NET. So beside NMock, today I gave Rhino a try too and got some interesting result.

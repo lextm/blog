@@ -7,6 +7,7 @@ image:
 layout: post
 permalink: /everything-you-might-need-about-iis-server-header-58ca268547be
 tags: iis microsoft windows powershell
+categories: [Tools and Platforms]
 title: Everything You Might Need About IIS Server Header
 ---
 When testing some requests/responses on IIS with a good utility such as Telerik Fiddler, you might discover much more information than using a browser.

@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-syntax-validation-in-sharpsnmppro-mib-aef7a40c9af4
 tags: snmp .net
+categories: [Technologies and Concepts]
 title: '#SNMP Pro: Syntax Validation in SharpSnmpPro.Mib'
 ---
 SMI defines the syntax of MIB documents. One of the most important part of SMI is the syntax that governs the value of an object. For example,

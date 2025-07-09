@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /firefox-3和google拼音-f897870b3b97
 tags: work-life
+categories: [Miscellaneous]
 title: Firefox 3和 Google 拼音
 ---
 (CSDN May 14, 2007)

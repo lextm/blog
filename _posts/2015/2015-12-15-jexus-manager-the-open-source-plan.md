@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-the-open-source-plan-4977676be99e
 tags: .net jexus-manager iis windows open-source github
+categories: [Tools and Platforms]
 title: 'Jexus Manager: The Open Source Plan'
 ---
 I was at Jiaodong Development Conference 2015 last Saturday, giving a talk on Jexus web server. One important announcement I made there, was to open source Jexus Manager source code. It was not a sudden decision, as when I demonstrated this product to geeks such as Scott Hanselman, he really thought that open sourcing it would be a good option.

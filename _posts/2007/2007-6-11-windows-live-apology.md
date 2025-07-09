@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-apology-693b3a39918
 tags: windows
+categories: [Operating Systems]
 title: Windows Live Apology
 ---
 It is approved that Writer Beta 2 was a big disaster to all the users. Although it was a Beta, it hurt the users hard.

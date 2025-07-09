@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-choose-xunit-net-runner-bitness-x86-and-x64-11f1fb540478
 tags: .net macos visual-studio xunit mono open-source
+categories: [Tools and Platforms]
 title: How to Choose xUnit.net Runner Bitness (x86 and x64)
 ---
 You clearly know that xUnit.net has many runners,

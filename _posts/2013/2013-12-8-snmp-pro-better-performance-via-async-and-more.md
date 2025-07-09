@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-better-performance-via-async-and-more-e108ac3499b4
 tags: .net snmp
+categories: [Programming Languages]
 title: '#SNMP Pro: Better Performance via Async and More'
 ---
 At Microsoft MVP Summit a few weeks ago, I sat in [Lucian's Async sessions](http://blogs.msdn.com/b/lucian/archive/2013/11/23/talk-mvp-summit-async-best-practices.aspx) and really enjoyed the contents. (In fact, I were at the same sessions early this February, but at that time I were not able to do much async programming as I wished.) So finally this weekend I started to review #SNMP Pro Editions to see in which parts I could apply the optimization.

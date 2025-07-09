@@ -5,6 +5,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-bytesviewer-yet-another-sample-3c83c897ccf7
 tags: snmp .net
+categories: [Technologies and Concepts]
 title: 'TritonMate Words: BytesViewer, Yet Another Sample'
 ---
 For a very long time, no new samples have been added to #SNMP code base, because the existing samples already demonstrate most of the features a developer might need. However, I think the new comer, named BytesViewer, is a very useful tool, both for learning and troubleshooting.

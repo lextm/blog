@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-toolsapi-5-0-fe0127a56797
 tags: delphi code-beautifier-collection
+categories: [Tools and Platforms]
 title: 'HardQuery Report: ToolsAPI 5.0'
 ---
 Borland.Studio.ToolsAPI.dll is an important reference assembly used by Code Beautifier Collection and other experts. Version 1–4 of it was built against .NET 1.1. And now, version 5 included in Delphi 2007 and C++Builder 2007 is against .NET 2.0.

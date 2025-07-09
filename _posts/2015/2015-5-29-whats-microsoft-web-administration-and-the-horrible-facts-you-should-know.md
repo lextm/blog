@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /whats-microsoft-web-administration-and-the-horrible-facts-you-should-know-b82f2c974da6
 tags: asp.net iis
+categories: [Frameworks and Libraries]
 title: What's Microsoft.Web.Administration and The Horrible Facts You Should Know
 ---
 I know many of you learned about IIS extensibility and came across MWA. There are not so many articles on IIS.net about it (as well as MWM), like [this](http://www.iis.net/learn/develop/extending-the-management-ui/overview-of-mwa-and-mwm-for-iis) and [this](http://www.iis.net/learn/develop/extending-iis-configuration/extending-iis-schema-and-accessing-the-custom-sections-using-mwa).
