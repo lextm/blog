@@ -5,7 +5,7 @@ layout: post
 tags: httpplatformhandler python windows iis
 title: Running Django Web Apps on IIS with HttpPlatformHandler
 ---
-HttpPlatformHandler can help IIS host Java/Python/Node.js/Go applications, so in this post we wil see how to configure a Python/Django web app on IIS and troubleshoot the common issue.
+HttpPlatformHandler can help IIS host Java/Python/Node.js/Go applications, so in this post we will see how to configure a Python/Django web app on IIS and troubleshoot the common issue.
 
 It becomes very important for Python developers to learn HttpPlatformHandler, because [Microsoft no longer recommends FastCGI](https://docs.microsoft.com/visualstudio/python/configure-web-apps-for-iis-windows?view=vs-2022#configure-the-fastcgi-handler),
 

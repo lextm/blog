@@ -5,7 +5,7 @@ layout: post
 tags: httpplatformhandler iis windows
 title: Running Go Web Apps on IIS with HttpPlatformHandler
 ---
-HttpPlatformHandler can help IIS host Java/Python/Node.js/Go applications, so in this post we wil see how to configure a Go/Echo web app on IIS and troubleshoot the common issue.
+HttpPlatformHandler can help IIS host Java/Python/Node.js/Go applications, so in this post we will see how to configure a Go/Echo web app on IIS and troubleshoot the common issue.
 
 <!--more-->
 
@@ -121,7 +121,7 @@ Now let's download and install HttpPlatformHandler on IIS, and add a `web.config
 </configuration>
 ```
 
-With all settings in place, I can go back to IIS Manager and create a site (I chose *:8086 as site binding) to point to `C:\flask-test`. By opening a web browser and navigate to `http://localhost:8086/`, I should now see "Hello, World!". Ah, what happened?
+With all settings in place, I can go back to IIS Manager and create a site (I chose *:8086 as site binding) to point to `C:\test-go`. By opening a web browser and navigate to `http://localhost:8086/`, I should now see "Hello, World!". Ah, what happened?
 
 ## Troubleshooting
 
