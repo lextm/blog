@@ -52,6 +52,6 @@ If you encounter any issues or have suggestions for improvement, please open a n
 
 ---
 
-To explore more on this topic, check out all posts tagged [HttpPlatformHandler](/tags/httpplatformhandler/).
+To explore more on this topic, check out all posts tagged [HttpPlatformHandler]({{ site.baseurl }}//tags/httpplatformhandler/).
 
 *This post documents the journey from user report to feature implementation, and highlights the importance of community feedback in open source projects.*

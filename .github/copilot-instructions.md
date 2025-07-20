@@ -7,7 +7,8 @@
   - Use `<!--more-->` as the excerpt separator after the introductory paragraph.
   - Follow the writing style and structure of previous posts for consistency.
   - When adding backlinks to previous posts, use the correct Jekyll/Liquid link style (e.g., `{% post_url YYYY/MM-DD-title %}`) instead of hardcoded URLs.
-  - If the post is a new addition to an existing post series, add a final section inviting readers to visit the tag page for that series to explore related posts. For example, for HttpPlatformHandler-related posts, add a note like: "To explore more on this topic, check out all posts tagged [HttpPlatformHandler](/tags/httpplatformhandler/)."
+  - If the post is a new addition to an existing post series, add a final section inviting readers to visit the tag page for that series to explore related posts. For example, for HttpPlatformHandler-related posts, add a note like: "To explore more on this topic, check out all posts tagged [HttpPlatformHandler]({{ site.baseurl }}/tags/httpplatformhandler/)."
+  - Use the correct Liquid syntax for links, e.g., `[link text]({{ site.baseurl }}/path/to/resource/)` instead of hardcoded URLs for tags and categories.
   - Use clean and compact Markdown syntax:
     - Use ATX-style headings (`##` for main heading, `###` for subheadings, etc.) with a space after the hash marks. Do not use single hash (`#`) headings due to Jekyll theme requirements.
     - Ensure proper spacing between paragraphs, headings, and lists (one blank line).
