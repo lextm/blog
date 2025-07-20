@@ -90,7 +90,7 @@ This method is especially helpful if you have multiple Python versions installed
 ### Step 6: Using IDLE or VS Code (Optional)
 
 - **IDLE**: Comes with Python. Find it in the Start Menu.
-- **VS Code**: Download from [Visual Studio Code][vscode-download] and install the [Python extension][vscode-python].
+- **VS Code**: Download from [Visual Studio Code][vscode-download] and install the [Python extension][vscode-python]. Then finish this great [get started guide][vscode-python-get-started] to set up Python development.
 
 ### Troubleshooting: Windows Store Python & PATH Issues
 
@@ -121,6 +121,7 @@ Have questions or tips to share? Leave a comment below—your feedback helps oth
 [python-download]: https://www.python.org/downloads/windows/
 [vscode-download]: https://code.visualstudio.com/
 [vscode-python]: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+[vscode-python-get-started]: https://code.visualstudio.com/docs/python/python-quick-start
 [venv-docs]: https://docs.python.org/3/library/venv.html
 [poetry-docs]: https://python-poetry.org/docs/
 [uv-docs]: https://github.com/astral-sh/uv#readme
