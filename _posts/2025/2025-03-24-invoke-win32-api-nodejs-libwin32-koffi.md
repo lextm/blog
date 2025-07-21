@@ -2,7 +2,8 @@
 layout: post
 title: "How to Invoke Win32 API in Node.js with libwin32 and Koffi"
 description: "Learn how to use libwin32 and Koffi to invoke Win32 API in Node.js applications, providing a modern and reliable alternative to ffi-napi."
-tags: nodejs win32-api koffi libwin32
+tags: nodejs windows
+categories: [Tools and Platforms]
 excerpt_separator: <!--more-->
 ---
 

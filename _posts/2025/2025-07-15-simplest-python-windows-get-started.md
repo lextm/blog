@@ -2,8 +2,8 @@
 layout: post
 title: "The Simplest Python on Windows Get Started Guide"
 description: "A step-by-step, beginner-friendly guide to installing and running Python on Windows 10/11, avoiding common pitfalls like the Windows Store version, and getting your first script running in minutes. Perfect for new developers, students, and anyone curious about Python."
-tags: [Python, Windows, Beginner, Guide]
-categories: [Python, Windows]
+tags: python windows
+categories: [Tools and Platforms]
 excerpt_separator: <!--more-->
 ---
 
