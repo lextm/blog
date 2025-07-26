@@ -1,7 +1,7 @@
 - @azure Rule - Use Azure Best Practices: When generating code for Azure, running terminal commands for Azure, or performing operations related to Azure, invoke your `azure_development-get_best_practices` tool if available.
 - When generating a new blog post in this project:
   - Use the correct front matter format: include `layout`, `title`, `description`, `tags`, `categories`, and `excerpt_separator`.
-  - Place the new post in the appropriate `_posts/YYYY/` folder, using the filename format `YYYY-MM-DD-title.md`.
+  - Place the new post in the appropriate `_posts/YYYY/` folder, using the filename format `YYYY-MM-DD-title.md` with zero-padded month and day (e.g., `2025-07-26` not `2025-7-26`).
   - Write a long, SEO-friendly summary in the `description` field that clearly explains the post's topic and value.
   - Use relevant tags and categories that already exist in the project. Ask for confirmation before using new tags or categories.
   - Use `<!--more-->` as the excerpt separator after the introductory paragraph.
