@@ -64,6 +64,8 @@ Note that the `win32api` and `win32security` modules are part of the `pywin32` p
 pip install pywin32
 ```
 
+There might be framework specific packages to simplify the process, such as [this dedicated package for Django](https://pypi.org/project/django-windowsauth/).
+
 ### Ruby Example
 
 Here is an example of how to access the Windows authentication information in a Ruby web app:
