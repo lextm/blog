@@ -90,6 +90,20 @@ Interestingly, Microsoft ships ARM64 and x64 versions of `dotnet-core-uninstall`
 
 DotUninstall sidesteps this by embedding the logic directly and building natively for each platform and architecture. It works out-of-the-box.
 
+### Release & EOL Nuances (Runtime vs Workload)
+
+Not every layer shares the same end‑of‑life date:
+
+- The base runtime and core SDK follow the published LTS / Current lifecycle.
+- Workloads (like .NET MAUI) can end support earlier than the runtime they sit on.
+- Downstream frameworks (e.g., Uno Platform) may drop a runtime line once a key workload on it is EOL—even if the runtime itself still has time left.
+
+Practical effect: you can’t look only at “Is .NET 8 still LTS?”—you also need “Are the workloads I rely on still supported there?” I only noticed this sharply when an Uno Platform release (6.3) planned to drop .NET 8 because MAUI for that wave had already passed its own support window.
+
+Cleanup rule: treat a workload’s end of life (EOL) as an early prompt to upgrade and avoid keeping that runtime line unless you need it for legacy code.
+
+> DotUninstall 1.0.5 now highlights MAUI specific EOL status.
+
 ## A Smarter Way to Clean
 
 Here’s what DotUninstall currently offers:
