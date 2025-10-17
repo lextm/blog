@@ -9,13 +9,41 @@ permalink: /the-basic-facts-about-iis-asp-net-process-thread-identities-835eaac8
 tags: .net asp.net iis windows
 categories: [Programming Languages]
 title: The Basic Facts About IIS/ASP.NET Process/Thread Identities
+mermaid: true
 ---
 Developers usually ignore the facts about process/thread identities when application frameworks hide them away. However, some time later in the development/testing problems/issues occur and bite them badly. So this post tries to provide a few basic facts, and hope it might lead you to the right direction.
 <!--more-->
 
 ## The Process Identity
 
-![img-description](/images/requests-worker-process.png)
+```mermaid
+flowchart LR
+    subgraph PROC[w3wp.exe]
+        direction TB
+        P[[Process Identity: Application Pool Identity]]:::process
+        T1[Thread 1]:::thread
+        I1[Thread Identity: Request User Identity]:::identity
+        T2[Thread 2]:::thread
+        I2[Thread Identity: Request User Identity]:::identity
+        T1 --- I1
+        T2 --- I2
+    end
+
+    R1([HTTP Request 1]) --> T1
+    R2([HTTP Request 2]) --> T2
+
+    linkStyle 0 stroke-width:1;
+    linkStyle 1 stroke-width:1;
+
+    classDef thread fill:#ffffff,stroke:#111,stroke-width:2px;
+    classDef request fill:#ffffff,stroke:#111,stroke-width:2px;
+    classDef identity fill:#f6d56b,stroke:#b8860b,color:#111;
+    classDef process fill:#fff4c2,stroke:#b8860b,color:#111;
+    class T1,T2 thread;
+    class R1,R2 request;
+    class I1,I2 identity;
+    class P process;
+```
 _Figure 1: Two HTTP requests in a single IIS worker process._
 
 We all know that IIS has application pools, and each pools has its own worker processes. So naturally, [the pool identity we choose](https://docs.microsoft.com/iis/configuration/system.applicationhost/applicationpools/add/processmodel#configuration) for a pool is used to initialize the worker processes, as process identity.
