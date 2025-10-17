@@ -1,1 +1,8 @@
-npx --no -- commitlint --edit $1
+#!/bin/sh
+export NVM_DIR="$HOME/.nvm"
+# Load nvm
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+# Set Node version
+command -v nvm >/dev/null 2>&1 && nvm use
+# Run commitlint
+npx --no -- commitlint --edit "$1"
