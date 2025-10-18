@@ -6,13 +6,34 @@ permalink: /a-closer-look-at-asp-net-core-execution-model-b3c332f6ed1
 tags: .net asp.net iis windows
 categories: [Programming Languages]
 title: A Closer Look At ASP.NET Core Execution Model
+mermaid: true
 ---
 It is very important to know what process hosts your web application when it is running on IIS, as often you need to attach to that process, or troubleshoot issues related to process model.
 <!--more-->
 
 However, Microsoft does not yet seem to have a diagram for ASP.NET Core, so I created my own,
 
-![img-description](/images/aspnet-core-processes.png)
+```mermaid
+flowchart LR
+    IN([Incoming HTTP Request])
+
+    subgraph W[w3wp.exe]
+        direction LR
+        MOD[[ASP.NET Core Module]]
+    end
+
+    subgraph D[dotnet.exe]
+        direction LR
+        CORE[[ASP.NET Core]]
+    end
+
+    IN --> MOD --> CORE
+
+    classDef node fill:#ffffff,stroke:#111,stroke-width:2px;
+    class IN,MOD,CORE node;
+    style W fill:#d9ecff,stroke:#111,stroke-width:1.5px;
+    style D fill:#e4d4f1,stroke:#111,stroke-width:1.5px;
+```
 _Figure 1: ASP.NET Core process model (1.x and 2.0/2.1)_
 
 If you recall Microsoft's recommendation on setting up ASP.NET Core apps on IIS, you should immediately know the `w3wp.exe` part.
