@@ -6,6 +6,7 @@ tags: code-beautifier-collection delphi
 categories: [Tools and Platforms]
 permalink: /stopwatch的手术-ecd03c9b6020
 excerpt_separator: <!--more-->
+mermaid: true
 ---
 (CSDN Jan 08, 2007)
 
@@ -138,10 +139,55 @@ namespace Lextm.Diagnostics {
 
 总体来说，重构到模式的确很方便，免去了开头就要一步设计到位的难度。虽然Stopwatch是一个很小的部件，但是看得出来想实现一些更加灵活的测量功能，没有合理的设计是比较复杂和容易出错的。
 
-![img-description](/images/stopwatch-statemachine.png)
+```mermaid
+stateDiagram-v2
+    direction TB
+
+    [*] --> Dead
+
+    Dead --> Working : Start
+    Dead --> Dead : Stop/Suspend/Resume
+
+    Working --> Working : Start/Resume
+    Working --> Dead : Stop
+    Working --> Idle : Suspend
+
+    Idle --> Dead : Stop
+    Idle --> Idle : Start/Suspend
+    Idle --> Working : Resume
+```
 _Figure 1: Stopwatch state machine._
 
-![img-description](/images/stopwatch-classes.png)
+```mermaid
+classDiagram
+    class Stopwatch {
+        +Interval : Integer
+        +Value : Integer
+        -internalState : CustomState
+        +Start()
+        +Stop()
+        +Suspend()
+        +Resume()
+    }
+
+    class CustomState {
+        +GetValue()
+        +GetInterval()
+        +Start(ctx)
+        +Stop(ctx)
+        +Suspend(ctx)
+        +Resume(ctx)
+    }
+
+    class Dead
+    class Idle
+    class Working
+
+    Stopwatch --> CustomState : uses
+    CustomState <|-- Dead
+    CustomState <|-- Idle
+    CustomState <|-- Working
+```
 _Figure 2: Stopwatch classes._
 
 重构的结果如上图，分为五个单元：
