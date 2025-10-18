@@ -9,13 +9,37 @@ permalink: /unpleasant-facts-about-hangfire-632a3228ff8a
 tags: asp.net iis .net
 categories: [Frameworks and Libraries]
 title: Unpleasant Facts about Hangfire
+mermaid: true
 ---
 When people choose to use a framework, they are not only enjoying the benefits it brings, but also take ownership of the evil associated. Hangfire is one of such frameworks, so be caution.
 <!--more-->
 
 ## The Thread Model: Hangfire Threads are Aliens
 
-![img-description](/images/threads-w3wp.png)
+```mermaid
+flowchart LR
+    IIS[IIS Services]
+
+    subgraph W[w3wp.exe]
+        ASP1[ASP.NET Thread]
+        ASP2[ASP.NET Thread]
+        H1[Hangfire Thread]
+        H2[Hangfire Thread]
+    end
+
+    IIS --- ASP1
+    IIS --- ASP2
+
+    classDef asp fill:#f7bed2,stroke:#111,stroke-width:2px;
+    classDef hangfire fill:#d9d9d9,stroke:#111,stroke-width:2px;
+    classDef service fill:#f7bed2,stroke:#111,stroke-width:2px;
+
+    class IIS service;
+    class ASP1,ASP2 asp;
+    class H1,H2 hangfire;
+
+    style W fill:#ffffff,stroke:#111,stroke-width:1.5px;
+```
 _Figure 1: Threads inside w3wp.exe._
 
 Microsoft designs IIS to be a multi-process system, and web applications are hosted in worker processes (w3wp.exe). So if you try to run a typical ASP.NET web application, within the worker process several threads are initialized. IIS/ASP.NET runtime are aware of such threads, so as to assert the health of the application.
