@@ -2,7 +2,7 @@
 layout: post
 title: "Experimental Support for recycleOnFileChange in HttpPlatformHandler v2"
 description: "Discover how the recycleOnFileChange feature—critical for automating process restarts in Node.js, Python, Java, and Go web apps hosted on IIS—was reintroduced in HttpPlatformHandler v2 after user feedback. Learn about the historical connection to ASP.NET Core Module, why this feature matters for non-.NET apps, and how GitHub Copilot accelerated the C++ implementation."
-tags: httpplatformhandler iis nodejs recycleOnFileChange windows
+tags: httpplatformhandler iis node.js windows
 categories: [Tools and Platforms]
 excerpt_separator: <!--more-->
 ---
