@@ -8,8 +8,8 @@ tags: .net visual-studio open-source linux windows macos xamarin microsoft
 title: The Story About .NET Cross Platform UI Frameworks
 ---
 > Disclaimer: All contents are based on my personal observation. Please leave a comment if you find anything incorrect, and I will revise it often.
-
-> Current version was written on June 21, 2025.
+>
+> Current version was revised on Oct 27, 2025.
 
 The .NET ecosystem offers numerous UI frameworks for developing cross-platform GUI applications. This comprehensive guide examines the major frameworks available in 2025, analyzing their approaches, capabilities, and trade-offs to help you make an informed choice for your next project.
 
@@ -88,11 +88,11 @@ GTK has been a portable framework to build desktop apps. Thus, its C# binding GT
 
 However, GTK# applications only truly look and feel native on Linux distributions. When running on macOS or Windows, these applications often appear visually inconsistent with platform conventions and don't integrate seamlessly with system themes. Furthermore, GTK# has significant limitations for mobile development, making it an impractical choice for applications targeting iOS or Android.
 
-> MonoDevelop used GTK# on all platforms initially, and gradually (in Xamarin Studio phase) started to utilize xwt to utilize native controls. Its successor Visual Studio for Mac uses both GTK# and Xamarin.Mac bits (I think). Before its end-of-life, Microsoft was able to port Visual Studio for Mac fully to Xamarin.Mac, which was a great achievement.
+> MonoDevelop used GTK# on all platforms initially, and gradually (in Xamarin Studio phase) started to utilize xwt to render some components with native controls. Thus, its successor Visual Studio for Mac inherited both GTK# and Xamarin.Mac bits. Before its end-of-life, Microsoft was able to port Visual Studio for Mac fully to Xamarin.Mac, which was a great achievement.
 
 Mono's GTK# wrapper is GTK 2 compatible and not yet upgraded to support GTK 3. To explore the full potential of GTK 3, you need to use the NuGet package from [a new repo](https://github.com/GtkSharp/GtkSharp) created by a MonoGame maintainer Harry which fills the gaps.
 
-In recent years, the .NET community has also made progress on GTK4 integration. The [gir.core project](https://github.com/gircore/gir.core) now provides .NET bindings for GTK4, enabling developers to build modern Linux desktop applications with the latest GTK features. While GTK4 .NET integration is still maturing and the ecosystem is smaller than for other frameworks, it is a promising option for those targeting Linux-first or Linux-only scenarios.
+In recent years, the .NET community has also made progress on GTK 4 integration. The [gir.core project](https://github.com/gircore/gir.core) now provides .NET bindings for GTK 4, enabling developers to build modern Linux desktop applications with the latest GTK features. While GTK 4 .NET integration is still maturing and the ecosystem is smaller than for other frameworks, it is a promising option for those targeting Linux-first or Linux-only scenarios.
 
 ### Windows Forms
 
@@ -113,9 +113,9 @@ What's more, Mono's initial WinForms implementation on macOS uses some legacy in
 
 More importantly the design of Windows Forms is suitable for desktop apps, but may be not for mobile platforms (personal opinion clearly). Xamarin guys initially had [an idea to port Windows Forms to iOS](https://tirania.org/blog/archive/2009/Sep-14.html). They gave that up and instead decided to bind natively to Cocoa Touch.
 
-Microsoft started to support Windows Forms on .NET Core 3.0. Officially Microsoft made it available on Windows, but we didn't see anyone seriously ported it to other systems.
+Microsoft started to support Windows Forms on .NET Core 3.0. Officially Microsoft made it available on Windows, and we didn't see anyone seriously ported it to other systems.
 
-In the past few months, Microsoft decided to stop supporting `System.Drawing` on non-Windows platform, due to the poor maintenance status of `libgtkplus`, and Windows Forms on .NET Core is now doomed to be Windows only.
+During .NET 6 development, Microsoft decided to stop supporting `System.Drawing` on non-Windows platform, due to the poor maintenance status of `libgtkplus`, and Windows Forms on .NET Core/.NET is now doomed to be Windows only.
 
 At least Windows Forms is not considered a cross-platform option by Microsoft, and its future for non-Windows platforms is uncertain. However, there is renewed hope for cross-platform Windows Forms: the Mono implementation is now maintained by the WineHQ team, and the very first new Mono release ([6.14.0](https://gitlab.winehq.org/mono/mono/-/releases/mono-6.14.0)) already included updates and fixes for Windows Forms. This collaboration may bring further improvements for running Windows Forms apps on Linux and macOS in the future.
 
@@ -138,13 +138,15 @@ However, this approach has the same disadvantages as Unity/MonoGame: controls do
 >
 > FireMonkey met such issues and its developers have tried to resolve that for a long time.
 >
-> Again (personal opinion) Windows apps should move gradually from Windows Forms/WPF to UWP. So in the near future, UWP would become the "native" solution on Windows.
+> Again (personal opinion) Windows apps should move gradually from Windows Forms/WPF to UWP/WinUI if required. So in the near future, WinUI 3 would become the "native" solution on Windows.
 
 Microsoft started to support WPF on .NET Core 3.0. Officially Microsoft only made it available on Windows, but anyone can attempt to port to other systems.
 
 Mono was trying to port WPF, but that project was not finished due to [lack of resources](https://www.mono-project.com/docs/gui/wpf/). The Mono documentation explains:
 
 > "Windows Presentation Foundation is a complicated beast. Unlike Windows Forms which is a thin wrapper over the native Win32 toolkit, WPF is a complete toolkit and rendering system based on DirectX. Porting WPF to other platforms would be a major effort because there isn't a proper DirectX implementation on Mac or Linux."
+
+While UWP is a closed platform, [WinUI 3 has been open sourced gradually and will be fully available on GitHub](https://github.com/microsoft/microsoft-ui-xaml/discussions/10700). However, porting WinUI 3 itself to non-Windows platforms remains a significant challenge due to its deep integration with Windows-specific technologies, so a compatible solution like Uno Platform is a better choice for cross-platform development.
 
 ### Avalonia UI and Avalonia XPF
 
@@ -161,9 +163,10 @@ As of 2025, Avalonia UI has matured into a production-ready solution for develop
 
 - Modern XAML-based architecture with reactive programming support
 - Flexible styling system inspired by CSS
-- Strong community and commercial backing, including investment from JetBrains
+- Strong community and commercial backing, including support from JetBrains and Devolutions
 - Growing ecosystem of third-party controls and extensions
 - Support for multiple design patterns (MVVM, ReactiveUI, etc.)
+- A healthy revenue structure
 
 Major technology companies have recognized Avalonia's potential, with JetBrains notably deploying it in significant products like Rider. Today, Avalonia UI stands alongside Uno Platform as a premier .NET cross-platform UI framework, with both solutions considered equally viable options for sophisticated applications extending beyond the Windows ecosystem.
 
@@ -181,9 +184,14 @@ The Avalonia team has strategically diversified their offerings to ensure long-t
 
    > "When you purchase Accelerate, you're doing more than unlocking powerful tools. You're directly supporting the continued development of Avalonia itself. Every purchase helps us to fund new features, enhancements, and long-term innovation, ensuring that Avalonia stays the leading cross-platform UI framework for .NET developers."
 
-Recent changes to Avalonia XPF's pricing model have significantly lowered the adoption barrier. After initially launching with a higher price point focused on enterprise customers, the vendor has introduced more flexible licensing options and reduced entry-level pricing tiers in 2025. These changes make the commercial products more accessible to smaller teams and organizations.
+Noticeable changes recently included:
 
-This dual-track development approach raises interesting questions about long-term sustainability. Developers should carefully evaluate both the technical merits and business model when considering Avalonia for long-term projects. The ongoing balancing act between open-source and commercial offerings will likely determine which aspects of the platform receive prioritized development resources.
+- Changes of Avalonia XPF's pricing model have significantly lowered the adoption barrier. After initially launching with a higher price point focused on enterprise customers, the vendor has introduced more flexible licensing options and reduced entry-level pricing tiers in 2025. These changes make the commercial products more accessible to smaller teams and organizations.
+- The potential of shipping foundational components like Wayland backend with AGPL/commercial dual licensing has been hinted in its team blog, but no concrete plans have been announced yet. This could open new revenue streams while maintaining open-source accessibility, but also impact on some users that prefer fully permissive licenses.
+- The discontinuation of Avalonia Accelerate Indie tier and the introduction of Community tier reflect an ongoing effort to balance community support with sustainable funding.
+- The uncertainty around VS Code extension reveals that for a small team, the balance between different audiences (VS, Rider, VS Code) is challenging.
+
+Developers and businesses should carefully evaluate both the technical merits and business model when considering Avalonia for long-term projects, or evaluate alternative frameworks like Uno Platform/OpenSilver that choose a different path.
 
 ### Xamarin.Forms/MAUI
 
@@ -194,13 +202,11 @@ This dual-track development approach raises interesting questions about long-ter
 | OS Native Look and Feel | Always.                 |
 | Third Party Controls    | Growing.                |
 
-
 Xamarin.Forms was originally created for mobile platforms, but has since expanded to support desktop targets such as macOS, WPF, and GTK# backends.
 
 Unlike Unity/MonoGame/WPF/Avalonia who performs custom rendering and emulates OS controls, Xamarin.Forms apps pick up native controls at startup, so all you see is purely native. This kind of UI element mapping makes sure your apps are not different from any other apps written natively.
 
 More importantly, Xamarin.Forms also gives you flexibility to embed native controls whenever necessary, and its pages can also be embedded into native apps. So hopefully it is the most flexible option for you.
-
 
 While Xamarin.Forms was initially designed for mobile apps, it has matured to support many desktop scenarios. However, for complex desktop applications like Office or Visual Studio, other frameworks may be a better fit. For most business and line-of-business apps, Xamarin.Forms remains a flexible and productive choice.
 
@@ -212,8 +218,12 @@ Quite a lot of third party vendors are now offering Xamarin.Forms controls, so t
 - [Infragistics](https://www.infragistics.com/products/xamarin-forms)
 - [DevExpress](https://www.devexpress.com/products/xamarin/)
 
-Microsoft announced [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/), a major upgrade of Xamarin.Forms, as a new option to build cross platform applications. However, due to the pandemic, its delivery was delayed several times. You can play with it on .NET 6/7.
+Microsoft announced [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/), a major upgrade of Xamarin.Forms, as a new option to build cross platform applications. However, due to the pandemic, its delivery was delayed several times. You can play with it on .NET 6/7 and above.
 
+While MAUI has many differences from Xamarin.Forms, the most significant is that
+
+- On macOS its backend is iOS Catalyst (not Xamarin.Mac), which is the officially recommended way to build macOS apps using iOS codebase.
+- On Windows its backend is WinUI 3 (not WPF), which is the officially recommended way to build Windows apps using modern UI framework.
 
 ### MAUI Blazor Hybrid
 
@@ -234,8 +244,6 @@ MAUI Blazor Hybrid works well for teams looking to maximize code reuse across di
 
 > MAUI Blazor Hybrid shares conceptual similarities with React Native, as both frameworks aim to simplify cross-platform development. While their technical approaches differ, they both address the challenge of building applications that run consistently across multiple platforms.
 
-
-
 ### Uno Platform
 
 |                         | Comment                                               |
@@ -247,10 +255,12 @@ MAUI Blazor Hybrid works well for teams looking to maximize code reuse across di
 
 Uno Platform has solidified its position as a leading cross-platform UI solution for .NET developers. It enables the creation of single-codebase applications across multiple platforms using familiar WinUI/UWP APIs and XAML. By 2025, Uno Platform has achieved several significant milestones:
 
-- Full support for .NET 8 with optimized performance across all platforms
+- Full support for .NET 8 and above with optimized performance across all platforms
 - Comprehensive WebAssembly optimizations for web applications
 - Strengthened collaboration with Microsoft, giving it semi-official status in the .NET ecosystem
 - Widespread enterprise adoption for applications requiring consistent experiences across web, desktop, and mobile
+- Strong tooling support with advanced Hot Reload and Hot Design capabilities integrated into major IDEs
+- [Official collaboration with Microsoft on .NET/MAUI tooling](https://platform.uno/blog/announcing-unoplatform-microsoft-dotnet-collaboration/) and ecosystem development announced during .NET 10 timeframe
 
 #### Technical Approach and Architecture
 
@@ -267,7 +277,7 @@ Uno Platform takes a unique approach to cross-platform development:
 
 > Uno supports fully custom rendering upon Skia in its latest release, giving developers more flexibility in creating consistent UIs across platforms.
 
-The Uno team has significantly improved developer productivity through advanced tooling that includes sophisticated Hot Reload capabilities, enhanced XAML editing experiences, and deep integration with major IDEs including Visual Studio, JetBrains Rider, and Visual Studio Code.
+The Uno team has significantly improved developer productivity through advanced tooling that includes sophisticated Hot Reload capabilities, enhanced XAML editing experiences, and deep integration with major IDEs including Visual Studio, JetBrains Rider, and Visual Studio Code. The [Uno Platform Studio](https://platform.uno/studio/) with Hot Design is one step further and offers a visual designer that streamlines UI development and accelerates the design-to-code workflow. Integration with designer tools like Figma further enhances the application development experience.
 
 #### Ecosystem and Industry Support
 
@@ -279,7 +289,7 @@ While Uno Platform maintains its core as open source under the Apache 2.0 licens
 
 1. **Open Source Core**: The main framework remains freely available and open source, ensuring community access and contributions.
 
-2. **Commercial Components**: The team offers premium tools such as the Uno Platform Studio with Hot Design® (their visual designer).
+2. **Commercial Components**: The team offers premium tools such as the Uno Platform Studio with Hot Design (their visual designer).
 
 3. **Professional Support**: Enterprise customers can access various subscription tiers that include priority support, consulting services, and additional tools ([platform.uno/select-subscription](https://platform.uno/select-subscription/)).
 
@@ -298,9 +308,7 @@ Today, Uno Platform and Avalonia UI represent the two preeminent .NET cross-plat
 
 Both are desktop UI frameworks using Xamarin.Forms approach (native control mapping).
 
-
 xwt is a mature project and may have inspired the design of Xamarin.Forms. Eto.Forms is newer and has recently started to support mobile platforms.
-
 
 As of 2025, the two projects have taken divergent paths. The mono/xwt project has seen minimal development activity in recent years, with its assembly versions still marked as "0.1.0.0-prerelease". Meanwhile, Eto.Forms continues active development with a small but dedicated community, powering applications like the MonoGame Pipeline Tool and maintaining integrations with modern technologies such as SkiaSharp. Eto.Forms has a growing ecosystem of third-party libraries and controls, making it a viable option for certain specialized desktop applications. Neither framework has achieved the level of ecosystem maturity, corporate backing, or community adoption of frameworks like MAUI, Avalonia, or Uno Platform, but Eto.Forms remains an option worth considering for cross-platform desktop development.
 
@@ -317,7 +325,7 @@ As of 2025, the two projects have taken divergent paths. The mono/xwt project ha
 
 ## Electron Related Solutions
 
-The landscape of web technologies for desktop development has evolved significantly. Electron continues to power many successful cross-platform applications (VSCode, Azure Data Studio, etc.), and combining it with Blazor has become a viable approach for .NET developers.
+The landscape of web technologies for desktop development has evolved significantly. Electron continues to power many successful cross-platform applications (VS Code, Azure Data Studio, etc.), and combining it with Blazor has become a viable approach for .NET developers.
 
 Several options now exist for this integration:
 
@@ -332,9 +340,9 @@ These approaches allow .NET developers to leverage web UI technologies while sti
 The .NET cross-platform UI landscape continues to evolve in 2025, presenting developers with several approaches to consider:
 
 - **Native bindings** provide excellent platform integration and performance
-- **MAUI/Xamarin.Forms** offer native control mapping with growing ecosystem support
+- **MAUI** offer native control mapping with growing ecosystem support
 - **MAUI Blazor Hybrid** combines web technologies with native capabilities
-- **Avalonia UI & Uno Platform** present robust options for desktop cross-platform development
+- **Avalonia UI & Uno Platform** present robust options for desktop/mobile/web cross-platform development
 
 Framework selection might depend on factors like your team's expertise, target platforms, UI requirements, and long-term goals. Each option has its own advantages and considerations worth exploring.
 
