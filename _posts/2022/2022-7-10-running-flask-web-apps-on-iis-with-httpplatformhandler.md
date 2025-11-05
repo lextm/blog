@@ -19,7 +19,7 @@ It becomes very important for Python developers to learn HttpPlatformHandler, be
 To follow this post, you need to have the following software installed,
 
 * Windows 10 or Windows Server 2016 or later (IIS 10 or later)
-* HttpPlatformHandler v1.2 (from Microsoft) or [v2.0 (from LeXtudio)]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
+* HttpPlatformHandler v1.2 (from Microsoft) or [HTTP Bridge Module for IIS (from LeXtudio)]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
 
 ## Basic Flask Setup
 
@@ -73,6 +73,7 @@ With all settings in place, I can go back to IIS Manager and create a site (I ch
 ## Troubleshooting
 
 ### 0x8007005
+
 Yeah I am not able to see "Hello, World!" but a Bad Gateway error page with the Error Code of `0x80070005`,
 
 ![img-description](/images/python-access-denied.jpeg)
@@ -102,6 +103,7 @@ _Figure 1: Bad Gateway error page of 0x80070005_
 This isn't hard to understand, because anything under `C:\Users\<user name>\` is protected and accessible only by that user account by default, not `IIS_IUSRS`.
 
 ### The Infinite Loading
+
 Once I grant `IIS_IUSRS` read access to `C:\Users\<user name>\AppData\Local\Programs\Python\Python310\python.exe`, the browser seems to work as it is trying to load the web page. However, I notice that now this page takes for ever to load and the `python.exe` process keeps crashing.
 
 No doubt Process Monitor is the best tool to use right now and by using a filter of process name `python.exe` I can see lots of access denied errors on different files in `C:\Users\<user name>\AppData\Local\Programs\Python\Python310\`.
@@ -109,6 +111,7 @@ No doubt Process Monitor is the best tool to use right now and by using a filter
 So I go back and grant `IIS_IUSRS` read access on the whole directory, not just `python.exe`.
 
 ### Switch to Production Application Server
+
 At this moment, a refresh in the web browser leads me to the expected "Hello, World!" message. Now I know that Python/Flask is working.
 
 To move further, I might want to remove the warning of "This is a development server. Do not use it in a production deployment". For that I have to switch to another Python application server, such as waitress.
@@ -147,6 +150,7 @@ With all the help from waitress, I can modify `web.config` as below as final ver
 ## Side Notes
 
 ### Flask Web App Under an IIS Site
+
 With HttpPlatformHandler you can definitely host a Flask web app (such as `/flask`) under an IIS site, but you must understand that IIS/HttpPlatformHandler dispatches requests with full URLs to the Python process, so your route definitions in Flask should include the extra application name.
 
 ``` python
@@ -156,12 +160,15 @@ def hello_world_app():
 ```
 
 ### Flask on Azure App Service
+
 With some minimal changes, you can host such a Python/Flask application on Azure App Service (Windows).
 
 ### Flask on IIS Express
-You can take a look at the [new open source HttpPlatformHandler v2.0 from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
+
+You can take a look at the [new open source HTTP Bridge Module for IIS from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
 
 ### Flask with Socket.IO
+
 You might easily hit issues with WebSocket and Socket.IO if you try to host a Python web app on IIS, as many of the Python package authors might not have a Windows machine for testing. You might find the following links useful, but I didn't see a complete solution yet.
 
 * [Python WebSocket package requires compression to be disabled](https://github.com/python-websockets/websockets/issues/1192)

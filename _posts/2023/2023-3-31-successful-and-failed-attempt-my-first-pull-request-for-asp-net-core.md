@@ -130,7 +130,7 @@ People continued to use the workaround I proposed in `ancm-arm64` to patch their
 
 Of course, those pains are much less if compared to users stuck with Microsoft installers, who can only run ASP.NET Core web apps on IIS with pure ARM64 mode, which excludes all IIS out-of-band components (URL Rewrite module, ARR, etc.) which are currently only available in x86/x64 bitness. Thanks to those users who keep reporting the issues to Microsoft, and by the end of 2024 ASP.NET Core team decided to work on my proposed changes again.
 
-This work was first brought back by Stephen Halter in [this pull request](https://github.com/dotnet/aspnetcore/pull/59481) on Dec 13, 2024 but we had to abandon it, simply because I moved all patches (including IIS Express related patches) to the HttpPlatformHandler v2 repo. So, I created [a new pull request](https://github.com/dotnet/aspnetcore/pull/59483). The review process was much smoother than expected, because many minor issues were found and resolved during my work on HttpPlatformHandler v2.
+This work was first brought back by Stephen Halter in [this pull request](https://github.com/dotnet/aspnetcore/pull/59481) on Dec 13, 2024 but we had to abandon it, simply because I moved all patches (including IIS Express related patches) to the HTTP Bridge Module for IIS repo. So, I created [a new pull request](https://github.com/dotnet/aspnetcore/pull/59483). The review process was much smoother than expected, because many minor issues were found and resolved during my work on HTTP Bridge Module for IIS.
 
 However, we happened to find an important change probably made by the Windows team, who changed the behaviors of `LoadLibrary` call when it tries to load a pure forwarder. So, on certain old versions of Windows ARM64, when `LoadLibrary` sees `aspnetcorev2_outofprocess.dll` in the out-of-process folder, it won't check if the platform specific files are in the same folder. That was why I had to switch from `LoadLibrary` to `LoadLibraryEx`. On the latest Windows ARM64 release, `LoadLibrary` alone works as desired. I guess they just had to fix `LoadLibrary`, because it makes more sense than forcing everyone to switch to `LoadLibraryEx`.
 
@@ -233,7 +233,7 @@ So, if you are building MSI packages for your own software, make sure you plan a
 
 I recently moved my focus to help IIS out-of-band component users on Windows ARM64,
 
-* HttpPlatformHandler v2 (derived from ASP.NET Core module) was my latest achievement that fully supports Windows ARM64.
+* HTTP Bridge Module for IIS (derived from ASP.NET Core module) was my latest achievement that fully supports Windows ARM64.
 * [I created a workaround](https://github.com/lextm/rewrite-arm64) for you to use URL Rewrite module on Windows ARM64.
 
 But Microsoft might ship official Windows ARM64 compatible installers for URL Rewrite module, ARR, etc. in the future. Let's see how soon these improvements might become available.

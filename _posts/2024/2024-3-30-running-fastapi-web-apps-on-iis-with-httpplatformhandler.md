@@ -19,7 +19,7 @@ It becomes very important for Python developers to learn HttpPlatformHandler, be
 To follow this post, you need to have the following software installed,
 
 * Windows 10 or Windows Server 2016 or later (IIS 10 or later)
-* HttpPlatformHandler v1.2 (from Microsoft) or [v2.0 (from LeXtudio)]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
+* HttpPlatformHandler v1.2 (from Microsoft) or [the HTTP Bridge Module for IIS (from LeXtudio)]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
 
 ## Basic FastAPI Setup
 
@@ -82,7 +82,7 @@ Well if you hit any error instead of the JSON response, please refer to [my old 
 
 ## FastAPI on IIS Express
 
-You can take a look at the [new open source HttpPlatformHandler v2.0 from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
+You can take a look at the [new open source HTTP Bridge Module for IIS from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
 
 ## Other Languages on IIS?
 

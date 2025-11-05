@@ -58,7 +58,7 @@ Then how to address the need of such modules if you really cannot get rid of the
 | ARR | You can only use it with x86/x64 application pools. ARM64 application pools will crash. |
 | CORS module | You can only use it with x86/x64 application pools. ARM64 application pools will crash. |
 | URL Rewrite module | Microsoft installer: You can only use it with x86/x64 application pools. ARM64 application pools will crash. |
-| HttpPlatformHandler | * Microsoft installer: You can only use it with x86/x64 application pools. ARM64 application pools will crash. <br>* Open source HttpPlatformHandler v2: Refer to [this post]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}) to install the this. |
+| HttpPlatformHandler | * Microsoft installer: You can only use it with x86/x64 application pools. ARM64 application pools will crash. <br>* Open source HTTP Bridge Module for IIS (an drop-in replacement): Refer to [this post]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}) to install it. |
 | ASP.NET Core module | * Microsoft installer: You can only use it with ARM64 application pools. x86/x64 application pools will crash. <br>* Upcoming installer will fix this. |
 
 More would be added here if I find out. You can also leave a comment with your questions or suggestions.

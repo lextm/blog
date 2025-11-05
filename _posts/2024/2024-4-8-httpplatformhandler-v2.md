@@ -1,23 +1,23 @@
 ---
-description: "Introducing HttpPlatformHandler v2, a modern open-source replacement for Microsoft's original module that fixes critical limitations, adds IIS Express support, and enables modern web features like SSE for Java, Python, Node.js, and Go applications on Windows/IIS."
+description: "Introducing HTTP Bridge Module for IIS, a modern open-source replacement for Microsoft's original module that fixes critical limitations, adds IIS Express support, and enables modern web features like SSE for Java, Python, Node.js, and Go applications on Windows/IIS."
 excerpt_separator: <!--more-->
 layout: post
 tags: .net httpplatformhandler iis java python windows
 categories: [Programming Languages]
-title: HttpPlatformHandler v2
+title: HTTP Bridge Module for IIS
 ---
-LeXtudio Inc. just released a new product, HttpPlatformHandler v2, which can be considered a new release to replace Microsoft's HttpPlatformHandler v1.x. This post talks about why we build it and how we build it.
+LeXtudio Inc. just released a new product, HTTP Bridge Module for IIS which can be considered a replacement for Microsoft's HttpPlatformHandler v1.x. This post talks about why we build it and how we build it.
 <!--more-->
 
-## How to Get HttpPlatformHandler v2?
+## How to Get HTTP Bridge Module for IIS?
 
-If you want to skip a lengthy post, you can check out the source code and installers on [our GitHub repository](https://github.com/lextudio/httpplatformhandlerv2/releases). All changes we make are released under MIT.
+If you want to skip a lengthy post, you can check out the source code and installers on [our GitHub repository](https://github.com/lextudio/httpbridge/releases). All changes we make are released under MIT.
 
 > The current release is marked as v2.0 RC, as we are still testing it in various scenarios and we know a few minor issues might be there. But the module is already stable to handle all the test cases my team have at hand, so we believe it's time that you try it out.
 
-You are welcome to report any issues you find on [GitHub](https://github.com/lextudio/httpplatformhandlerv2/issues) so that we can work on fixing them quickly.
+You are welcome to report any issues you find on [GitHub](https://github.com/lextudio/httpbridge/issues) so that we can work on fixing them quickly.
 
-## Why We Build HttpPlatformHandler v2?
+## Why We Built HTTP Bridge Module for IIS?
 
 > The history of HttpPlatformHandler can be found in [this post]({% post_url 2023/2023-4-7-the-rough-history-of-iis-httpplatformhandler %}).
 
@@ -31,9 +31,9 @@ Ideally Microsoft should release a new version (such as v1.3) of HttpPlatformHan
 
 People started to write about switching to ASP.NET Core module as workaround, but they might quickly find out that the configuration (like the magical `ASPNETCORE_PORT` environment variable) wasn't documented publicly and Microsoft didn't provide any support for such usage.
 
-## How We Build HttpPlatformHandler v2?
+## How We Built HTTP Bridge Module for IIS?
 
-You know that in the past two years I wrote quite [a few blog posts on HttpPlatformHandler]({{ site.baseurl }}{{ site.baseurl }}/tags/httpplatformhandler/), and I have been working on IIS topics for more than a decade (as IIS MVP or not). So why not take the challenging task to build a new version of HttpPlatformHandler? And most importantly, we can make it open-source.
+You know that in the past two years I wrote quite [a few blog posts on HttpPlatformHandler]({{ site.baseurl }}{{ site.baseurl }}/tags/httpplatformhandler/), and I have been working on IIS topics for more than a decade (as IIS MVP or not). So why not take the challenging task to build a refreshed version of the module ourselves? That effort became the HTTP Bridge Module for IIS, and most importantly, we made it open-source from day one.
 
 But clearly Microsoft never released the source code of HttpPlatformHandler, so do we have to start from scratch? Not really. ASP.NET Core module was initially a fork of HttpPlatformHandler itself, now is both open-source and well maintained by Microsoft ASP.NET Core team. So, we started from there by creating a fork of ASP.NET Core module.
 
@@ -41,9 +41,9 @@ You might think all we needed to do is just renaming many things through the cod
 
 > For me personally, this is the second IIS module I derived from ASP.NET Core module, and I still learned something new. It's an interesting journey.
 
-We are happy in the end we are able to keep this new module backward compatible with Microsoft HttpPlatformHandler v1.2 as much as possible. You can install it as a drop-in replacement without any code changes in your `web.config` files. That's why we confidently named it HttpPlatformHandler v2.
+We are happy in the end we are able to keep this new module backward compatible with Microsoft HttpPlatformHandler v1.2 as much as possible. You can install it as a drop-in replacement without any code changes in your `web.config` files. That confidence led to the original "HttpPlatformHandler v2" branding, but now the project continues under the HTTP Bridge Module for IIS name to avoid confusion with Microsoft's original module.
 
-To recap, this v2 module from us provides the following benefits,
+To recap, the HTTP Bridge Module for IIS provides the following benefits,
 
 * Backward compatible with Microsoft HttpPlatformHandler v1.2. You can use it as a drop-in replacement.
 * Bug fixes. SSE and other modern web features should work properly.

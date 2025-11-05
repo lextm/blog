@@ -17,7 +17,7 @@ You can refer to Microsoft’s tutorial on Native AOT ([Native AOT deployment](h
 To follow this post, you need to have the following software installed,
 
 * Windows 10 or Windows Server 2016 or later (IIS 10+)
-* HttpPlatformHandler v1.2 (from Microsoft) or [v2.0 (from LeXtudio)]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
+* HttpPlatformHandler v1.2 (from Microsoft) or [HTTP Bridge Module for IIS (from LeXtudio)]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
 * .NET 9 SDK or later
 
 ## Basic ASP.NET Core Native AOT Setup
