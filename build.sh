@@ -14,6 +14,8 @@ echo "LANG=$LANG"
 echo "LC_ALL=$LC_ALL"
 echo "RUBYOPT=$RUBYOPT"
 
+curl -fsSL https://d2lang.com/install.sh | sh -s --
+
 npm install
 npm run build
 

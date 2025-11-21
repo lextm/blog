@@ -25,3 +25,4 @@ package-lock.json
 _sass/vendors
 assets/js/dist
 .yarn/
+.d2_cache/
