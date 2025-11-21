@@ -6,7 +6,7 @@ permalink: /traditional-asp-net-on-docker-images-1af3b72eeaaf
 tags: .net asp.net iis windows microsoft
 categories: [Programming Languages]
 title: 'Traditional ASP.NET on Docker: Images'
-mermaid: true
+d2: true
 ---
 > Update: due to the recent changes by Microsoft, the actual images can be different, but the way of analyzing the layers should remain the same. You are welcome to write a new blog post to replace this.
 
@@ -45,31 +45,51 @@ ENTRYPOINT ["C:\\ServiceMonitor.exe", "w3svc"]
 
 The Docker image composition can be drawn like below,
 
-```mermaid
-flowchart TB
-    classDef layer fill:#ffffff,stroke:#111,stroke-width:1.5px;
+```d2
+direction: down
 
-    subgraph APP["Final Image"]
-        direction TB
-        AppStep[[Web application with all dependencies]]
-        subgraph ASP["microsoft/aspnet"]
-            direction TB
-            ASPSetup[[ASP.NET]]
-            subgraph IIS["microsoft/iis"]
-                direction TB
-                IISSetup[[IIS]]
-                subgraph WS["windowsservercore"]
-                    direction TB
-                    WSBase[[Windows Server Core]]
-                end
-            end
-        end
-    end
+APP: {
+  label: "Final Image"
+  shape: page
+  grid-rows: 2
 
-    style WS fill:#ffffff,stroke:#111,stroke-width:1.5px;
-    style IIS fill:#ffffff,stroke:#111,stroke-width:1.5px;
-    style ASP fill:#ffffff,stroke:#111,stroke-width:1.5px;
-    style APP fill:#ffffff,stroke:#111,stroke-width:1.5px;
+  AppStep: {
+    label: "Web application with all dependencies"
+    style.fill: honeydew
+  }
+
+  ASP: {
+    label: "microsoft/aspnet"
+    shape: page
+    grid-rows: 2
+
+    ASPSetup: {
+      label: "ASP.NET"
+      style.fill: honeydew
+    }
+
+    IIS: {
+      label: "microsoft/iis"
+      shape: page
+      grid-rows: 2
+
+      IISSetup: {
+        label: "IIS"
+        style.fill: honeydew
+      }
+
+      WS: {
+        label: "windowsservercore"
+        shape: page
+
+        WSBase: {
+          label: "Windows Server Core"
+          style.fill: honeydew
+        }
+      }
+    }
+  }
+}
 ```
 _Figure 1: Docker Image Composition._
 

@@ -6,63 +6,115 @@ permalink: /why-owin-matters-a-lot-for-asp-net-developers-3377d9d15f02
 tags: .net asp.net iis jexus-manager linux
 categories: [Tools and Platforms]
 title: Why OWIN Matters A Lot for ASP.NET Developers
-mermaid: true
+d2: true
 ---
 There are many articles discussing about OWIN even before ASP.NET vNext was announced. So why does it matter? Well, I try to provide a diagram nobody else yet drew.
 <!--more-->
 
-```mermaid
-flowchart LR
-    subgraph HS[Hosts]
-        direction TB
-        HS1[Windows]
-        HS2[Linux]
-        HS3[BSD]
-        HS4[...]
-    end
+```d2
+direction: right
+grid-rows: 5
 
-    subgraph WS[Web Servers]
-        direction TB
-        WS1[IIS]
-        WS2[Jexus]
-        WS3[...]
-    end
+AF: {
+  label: "Application Frameworks"
+  grid-columns: 5
+  MVC: {
+    label: "MVC"
+    style.fill: "#cfe0ff"
+  }
+  WebAPI: {
+    label: "Web API"
+    style.fill: "#cfe0ff"
+  }
+  SignalR: {
+    label: "SignalR"
+    style.fill: "#cfe0ff"
+  }
+  Nancy: {
+    label: "Nancy"
+    style.fill: "#dddddd"
+  }
+  OtherFrameworks: {
+    label: "..."
+    style.fill: "#dddddd"
+  }
+}
 
-    subgraph AD[Server Adapters]
-        direction TB
-        AD1[Host.IIS]
-        AD2[Host.SystemWeb]
-        AD3[Host.Jexus]
-        AD4[...]
-    end
+MW: {
+  label: "OWIN Middleware"
+  grid-columns: 3
+  Katana: {
+    label: "Katana"
+    style.fill: "#cfe0ff"
+  }
+  Nowin: {
+    label: "Nowin"
+    style.fill: "#cfe0ff"
+  }
+  OtherMiddleware: {
+    label: "..."
+    style.fill: "#dddddd"
+  }
+}
 
-    subgraph MW[OWIN Middleware]
-        direction TB
-        MW1[Katana]
-        MW2[Nowin]
-        MW3[...]
-    end
+AD: {
+  label: "Server Adapters"
+  grid-columns: 4
+  HostIIS: {
+    label: "Host.IIS"
+    style.fill: "#cfe0ff"
+  }
+  HostSystemWeb: {
+    label: "Host.SystemWeb"
+    style.fill: "#cfe0ff"
+  }
+  HostJexus: {
+    label: "Host.Jexus"
+    style.fill: "#dddddd"
+  }
+  OtherAdapters: {
+    label: "..."
+    style.fill: "#dddddd"
+  }
+}
 
-    subgraph AF[Application Frameworks]
-        direction TB
-        AF1[MVC]
-        AF2[Web API]
-        AF3[SignalR]
-        AF4[Nancy]
-        AF5[...]
-    end
+WS: {
+  label: "Web Servers"
+  grid-columns: 3
+  IIS: {
+    label: "IIS"
+    style.fill: "#cfe0ff"
+  }
+  Jexus: {
+    label: "Jexus"
+    style.fill: "#dddddd"
+  }
+  OtherWebServers: {
+    label: "..."
+    style.fill: "#dddddd"
+  }
+}
 
-    classDef ms fill:#4d91ff,color:#fff,stroke:#1f4ab8,stroke-width:1.5px;
-    classDef third fill:#d1d1d1,color:#333,stroke:#888,stroke-width:1.5px;
-
-    class AF1,AF2,AF3,MW1,MW2,AD1,AD2,WS1,HS1 ms;
-    class AF4,AF5,MW3,AD3,AD4,WS2,WS3,HS2,HS3,HS4 third;
-
-    style AF fill:#ffffff,stroke:#4d91ff,stroke-width:2px;
-    style MW fill:#ffffff,stroke:#4d91ff,stroke-width:2px;
-    style AD fill:#ffffff,stroke:#4d91ff,stroke-width:2px;
-    style WS fill:#ffffff,stroke:#4d91ff,stroke-width:2px;
-    style HS fill:#ffffff,stroke:#4d91ff,stroke-width:2px;
+HS: {
+  label: "Hosts"
+  grid-columns: 4
+  Windows: {
+    label: "Windows"
+    style.fill: "#cfe0ff"
+  }
+  Linux: {
+    label: "Linux"
+    style.fill: "#dddddd"
+  }
+  BSD: {
+    label: "BSD"
+    style.fill: "#dddddd"
+  }
+  OtherHosts: {
+    label: "..."
+    style.fill: "#dddddd"
+  }
+}
 ```
 _Figure 1: OWIN ecosystem._
 

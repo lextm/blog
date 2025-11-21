@@ -9,25 +9,36 @@ permalink: /samsung-net-core-debugger-and-monodevelop-80a6ea4bcab3
 tags: .net linux mono open-source visual-studio
 categories: [Programming Languages]
 title: Samsung .NET Core Debugger and MonoDevelop
-mermaid: true
+d2: true
 ---
 Visual Studio for Mac has been supporting .NET Core debugging for a while, but MonoDevelop users do not get the same experience. It has been [a well known issue](https://github.com/mono/monodevelop/issues/3764), and mainly due to the fact that Microsoft does not make the core debugger redistributable for non-VS tools.
 <!--more-->
 
 Below is the diagram showing the different components involved,
 
-```mermaid
-flowchart TB
-    VS["Visual Studio for Mac"]
-    EXT["Microsoft's .NET Core Debugger Extension"]
-    PROTO["Microsoft.VisualStudio.Shared.VsCodeDebugProtocol"]
-    UI["vsdbg-ui"]
-    DBG["vsdbg"]
+```d2
+direction: down
 
-    VS --> EXT --> PROTO --> UI --> DBG
+VS: {
+  label: "Visual Studio for Mac"
+}
+EXT: {
+  label: "Microsoft's .NET Core Debugger Extension"
+}
+PROTO: {
+  label: "Microsoft.VisualStudio.Shared.VsCodeDebugProtocol"
+}
+UI: {
+  label: "vsdbg-ui"
+}
+DBG: {
+  label: "vsdbg"
+}
 
-    classDef node fill:#ffffff,stroke:#111,stroke-width:1.5px;
-    class VS,EXT,PROTO,UI,DBG node;
+VS -> EXT
+EXT -> PROTO
+PROTO -> UI
+UI -> DBG
 ```
 _Figure 1: Components for Visual Studio for Mac .NET Core debugging._
 
@@ -35,17 +46,25 @@ Noticeably, vsdbg is the component that only serves Visual Studio (for Windows a
 
 So to create the same debugging experience in MonoDevelop, Samsung's .NET Core debugger should be used, as the diagram below indicates,
 
-```mermaid
-flowchart TB
-    MD["MonoDevelop"]
-    CUST["Custom .NET Core Debugger Extension"]
-    PROTO2["Microsoft.VisualStudio.Shared.VsCodeDebugProtocol"]
-    SAM["netcoredbg"]
+```d2
+direction: down
 
-    MD --> CUST --> PROTO2 --> SAM
+MD: {
+  label: "MonoDevelop"
+}
+CUST: {
+  label: "Custom .NET Core Debugger Extension"
+}
+PROTO2: {
+  label: "Microsoft.VisualStudio.Shared.VsCodeDebugProtocol"
+}
+SAM: {
+  label: "netcoredbg"
+}
 
-    classDef node fill:#ffffff,stroke:#111,stroke-width:1.5px;
-    class MD,CUST,PROTO2,SAM node;
+MD -> CUST
+CUST -> PROTO2
+PROTO2 -> SAM
 ```
 _Figure 2: Components for MonoDevelop .NET Core debugging._
 

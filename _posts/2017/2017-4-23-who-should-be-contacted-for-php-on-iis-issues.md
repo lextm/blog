@@ -7,28 +7,35 @@ permalink: /who-should-be-contacted-for-php-on-iis-issues-c80b90bd365
 tags: iis php windows
 categories: [Tools and Platforms]
 title: Who Should Be Contacted for PHP on IIS Issues
-mermaid: true
+d2: true
 ---
 It is very important to know how many processes participate in request handling of PHP on IIS.
 <!--more-->
 
-```mermaid
-flowchart LR
-    subgraph IIS[IIS/w3wp.exe]
-        FCGI(FastCGI module/iisfcgi.dll)
-    end
-    PHP1[PHP/php-cgi.exe]
-    PHP2[PHP/php-cgi.exe]
-    PHP3[PHP/php-cgi.exe]
-    FCGI --> PHP1
-    FCGI --> PHP2
-    FCGI --> PHP3
-    classDef iis fill:#f7bed2,stroke:#111,stroke-width:2px;
-    classDef module fill:#d8c3f1,stroke:#111,stroke-width:2px;
-    classDef php fill:#bbe1ff,stroke:#111,stroke-width:2px;
-    class IIS iis;
-    class FCGI module;
-    class PHP1,PHP2,PHP3 php;
+```d2
+direction: right
+
+IIS: {
+  label: "IIS / w3wp.exe"
+  direction: down
+  FCGI: {
+    label: "FastCGI module / iisfcgi.dll"
+  }
+}
+
+PHP1: {
+  label: "PHP / php-cgi.exe"
+}
+PHP2: {
+  label: "PHP / php-cgi.exe"
+}
+PHP3: {
+  label: "PHP / php-cgi.exe"
+}
+
+IIS.FCGI -> PHP1
+IIS.FCGI -> PHP2
+IIS.FCGI -> PHP3
 ```
 _Figure 1: Process model of PHP on IIS._
 

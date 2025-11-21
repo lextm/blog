@@ -6,7 +6,7 @@ tags: code-beautifier-collection delphi
 categories: [Tools and Platforms]
 permalink: /stopwatch的手术-ecd03c9b6020
 excerpt_separator: <!--more-->
-mermaid: true
+d2: true
 ---
 (CSDN Jan 08, 2007)
 
@@ -139,54 +139,74 @@ namespace Lextm.Diagnostics {
 
 总体来说，重构到模式的确很方便，免去了开头就要一步设计到位的难度。虽然Stopwatch是一个很小的部件，但是看得出来想实现一些更加灵活的测量功能，没有合理的设计是比较复杂和容易出错的。
 
-```mermaid
-stateDiagram-v2
-    direction TB
+```d2
+direction: down
 
-    [*] --> Dead
+Start: {
+  label: "Start"
+}
 
-    Dead --> Working : Start
-    Dead --> Dead : Stop/Suspend/Resume
+Start -> Dead: "Initialize"
+Dead -> Working: "Start"
+Dead -> Dead: "Stop / Suspend / Resume"
 
-    Working --> Working : Start/Resume
-    Working --> Dead : Stop
-    Working --> Idle : Suspend
+Working -> Working: "Start / Resume"
+Working -> Dead: "Stop"
+Working -> Idle: "Suspend"
 
-    Idle --> Dead : Stop
-    Idle --> Idle : Start/Suspend
-    Idle --> Working : Resume
+Idle -> Dead: "Stop"
+Idle -> Idle: "Start / Suspend"
+Idle -> Working: "Resume"
 ```
 _Figure 1: Stopwatch state machine._
 
-```mermaid
-classDiagram
-    class Stopwatch {
-        +Interval : Integer
-        +Value : Integer
-        -internalState : CustomState
-        +Start()
-        +Stop()
-        +Suspend()
-        +Resume()
-    }
+```d2
+direction: right
 
-    class CustomState {
-        +GetValue()
-        +GetInterval()
-        +Start(ctx)
-        +Stop(ctx)
-        +Suspend(ctx)
-        +Resume(ctx)
-    }
+Stopwatch: {
+  shape: class
 
-    class Dead
-    class Idle
-    class Working
+  +Interval: Integer
+  +Value: Integer
+  -internalState: CustomState
 
-    Stopwatch --> CustomState : uses
-    CustomState <|-- Dead
-    CustomState <|-- Idle
-    CustomState <|-- Working
+  +Start()
+  +Stop()
+  +Suspend()
+  +Resume()
+}
+
+CustomState: {
+  shape: class
+
+  +GetValue()
+  +GetInterval()
+
+  +Start(ctx)
+  +Stop(ctx)
+  +Suspend(ctx)
+  +Resume(ctx)
+}
+
+Dead: {
+  shape: class
+  label: "Dead"
+}
+
+Idle: {
+  shape: class
+  label: "Idle"
+}
+
+Working: {
+  shape: class
+  label: "Working"
+}
+
+Stopwatch -> CustomState: "uses"
+Dead -> CustomState: "extends"
+Idle -> CustomState: "extends"
+Working -> CustomState: "extends"
 ```
 _Figure 2: Stopwatch classes._
 

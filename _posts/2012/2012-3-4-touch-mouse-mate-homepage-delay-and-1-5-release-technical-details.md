@@ -6,7 +6,7 @@ permalink: /touch-mouse-mate-homepage-delay-and-1-5-release-technical-details-4e
 tags: work-life windows
 categories: [Miscellaneous]
 title: 'Touch Mouse Mate: Homepage Delay and 1.5 Release Technical Details'
-mermaid: true
+d2: true
 ---
 Our 1.4 installers are not yet available. CodePlex guys have not yet identified what prevents me from publishing this project, so we have to wait for more days. The good news is that now we have nice progress on version 1.5. Details are provided below.
 <!--more-->
@@ -67,45 +67,55 @@ However, we still need to pay attention to the time difference between the key d
 
 In order to better process the key down/up events, a state machine is constructed (see StateMachine.cs).
 
-```mermaid
-flowchart LR
-    classDef state fill:#ffffff,stroke:#111,stroke-width:1.5px;
-    classDef start fill:#111,color:#fff,stroke:#111,stroke-width:1.5px;
+```d2
+vars: {
+  d2-config: {
+    layout-engine: elk
+  }
+}
+direction: right
 
-    Start((Start))
-    Idle((Idle))
-    LeftDown(("Left down"))
-    RightDown(("Right down"))
-    MiddleDown(("Middle down"))
-    LeftDownPending(("Left down<br/>pending"))
-    RightDownPending(("Right down<br/>pending"))
-    MiddleClickPending(("Middle click<br/>pending"))
+Start: "Start"
+Idle: "Idle"
+LeftDown: "Left down"
+RightDown: "Right down"
+MiddleDown: "Middle down"
+LeftDownPending: "Left down pending"
+RightDownPending: "Right down pending"
+MiddleClickPending: "Middle click pending"
 
-    Start --> Idle
-    Idle -->|Left touch detected| LeftDownPending
-    Idle -->|Right touch detected| RightDownPending
-    MiddleClickPending -->|Move detected| Idle
-    LeftDown -->|Touch up| Idle
-    LeftDownPending -->|Move detected| Idle
-    LeftDownPending -->|Right touch detected| MiddleClickPending
-    LeftDownPending -->|Timeout| LeftDown
-    RightDown -->|Touch up| Idle
-    RightDownPending -->|Move detected| Idle
-    RightDownPending -->|Left touch detected| MiddleClickPending
-    RightDownPending -->|Timeout| RightDown
-    MiddleDown -->|Touch up| Idle
-    MiddleClickPending -->|Timeout| MiddleDown
-
-    class Start start;
-    class Idle,LeftDown,RightDown,MiddleDown,LeftDownPending,RightDownPending,MiddleClickPending state;
-
-    linkStyle 4 stroke:#28a745,color:#28a745,stroke-width:2px;
-    linkStyle 8 stroke:#28a745,color:#28a745,stroke-width:2px;
-    linkStyle 12 stroke:#28a745,color:#28a745,stroke-width:2px;
-
-    linkStyle 7 stroke:#e74c3c,color:#e74c3c,stroke-width:2px;
-    linkStyle 11 stroke:#e74c3c,color:#e74c3c,stroke-width:2px;
-    linkStyle 13 stroke:#e74c3c,color:#e74c3c,stroke-width:2px;
+Start -> Idle: "Initialize"
+Idle -> LeftDownPending: "Left touch detected"
+Idle -> RightDownPending: "Right touch detected"
+MiddleClickPending -> Idle: "Move detected"
+LeftDown -> Idle: {
+  label: "Touch up"
+  style.stroke: "#28a745"
+}
+LeftDownPending -> Idle: "Move detected"
+LeftDownPending -> MiddleClickPending: "Right touch detected"
+LeftDownPending -> LeftDown: {
+  label: "Timeout"
+  style.stroke: "#e74c3c"
+}
+RightDown -> Idle: {
+  label: "Touch up"
+  style.stroke: "#28a745"
+}
+RightDownPending -> Idle: "Move detected"
+RightDownPending -> MiddleClickPending: "Left touch detected"
+RightDownPending -> RightDown: {
+  label: "Timeout"
+  style.stroke: "#e74c3c"
+}
+MiddleDown -> Idle: {
+  label: "Touch up"
+  style.stroke: "#28a745"
+}
+MiddleClickPending -> MiddleDown: {
+  label: "Timeout"
+  style.stroke: "#e74c3c"
+}
 ```
 _Figure 3: Touch State Machine._
 

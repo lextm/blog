@@ -8,7 +8,7 @@ tags: iis windows
 categories: [Tools and Platforms]
 title: 'Self Hosting Series: Why Cannot My Web Server (IIS) Be Reached from Anywhere
   Else?'
-mermaid: true
+d2: true
 ---
 Web servers have become so ordinary when we have so many successful web applications, such as WordPress and so on, and it seems that more and more people would like to do self hosting instead of using a service provider. That's alright. However, what you should learn before hosting a web application on your own machine(s)? What kind of technologies you need to learn? These series of posts aim to provide you some hints on what you should know and try out.
 <!--more-->
@@ -23,24 +23,38 @@ Before we move on, let me make some assumptions about your technical skills. If 
 
 ## The Diagram
 
-```mermaid
-flowchart TB
-    subgraph corp[Corporate/Home Network]
-        direction TB
-        IC([Internal Client])
-        subgraph edge[" "]
-            direction TB
-            GW([Gateway / Proxy / Router])
-        end
-        WS([Web Server/IIS])
-    end
+```d2
+direction: down
 
-    IC -. Internal HTTP .-> WS
-    IC --> GW
-    GW --> WS
-    EXT([External Client]) -->|Internet| GW
+corp: {
+  label: "Corporate/Home Network"
+  direction: down
 
-    style edge fill:transparent,stroke:#ccc,stroke-dasharray:3 3;
+  IC: {
+    label: "Internal Client"
+  }
+
+  edge: {
+    label: " "
+    direction: down
+    GW: {
+      label: "Gateway / Proxy / Router"
+    }
+  }
+
+  WS: {
+    label: "Web Server / IIS"
+  }
+}
+
+EXT: {
+  label: "External Client"
+}
+
+corp.IC -> corp.WS: "Internal HTTP"
+corp.IC -> corp.edge.GW
+corp.edge.GW -> corp.WS
+EXT -> corp.edge.GW: "Internet"
 ```
 _Figure 1: Web server network._
 

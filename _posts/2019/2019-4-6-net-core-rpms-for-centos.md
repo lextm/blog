@@ -9,7 +9,7 @@ permalink: /net-core-rpms-for-centos-1c40862e8166
 tags: .net asp.net linux open-source microsoft
 categories: [Programming Languages]
 title: .NET Core RPMs for CentOS
-mermaid: true
+d2: true
 ---
 It is very important to learn what to install on a CentOS if you want to deploy a .NET Core application or set up a development environment there. So here we quickly go over the necessary details.
 <!--more-->
@@ -24,25 +24,46 @@ The actual package we might install is,
 
 From the diagram below we can see the dependency relationship among the RPM packages.
 
-```mermaid
-flowchart TB
-    SDK[dotnet-sdk-2.2]
-    ASRuntime[aspnetcore-runtime-2.2]
-    Runtime[dotnet-runtime-2.2]
-    HostFxr[dotnet-hostfxr-2.2]
-    Host[dotnet-host]
-    RuntimeDeps[dotnet-runtime-deps-2.2]
-    OpenSSL[openssl-libs]
-    LibICU[libicu]
-    Kerberos[krb5-libs]
+```d2
+direction: down
 
-    SDK --> ASRuntime --> Runtime
-    Runtime --> HostFxr --> Host
-    Runtime --> RuntimeDeps
-    RuntimeDeps --> OpenSSL
-    RuntimeDeps --> LibICU
-    RuntimeDeps --> Kerberos
-    SDK --> Runtime
+SDK: {
+  label: "dotnet-sdk-2.2"
+}
+ASRuntime: {
+  label: "aspnetcore-runtime-2.2"
+}
+Runtime: {
+  label: "dotnet-runtime-2.2"
+}
+HostFxr: {
+  label: "dotnet-hostfxr-2.2"
+}
+Host: {
+  label: "dotnet-host"
+}
+RuntimeDeps: {
+  label: "dotnet-runtime-deps-2.2"
+}
+OpenSSL: {
+  label: "openssl-libs"
+}
+LibICU: {
+  label: "libicu"
+}
+Kerberos: {
+  label: "krb5-libs"
+}
+
+SDK -> ASRuntime
+ASRuntime -> Runtime
+Runtime -> HostFxr
+HostFxr -> Host
+Runtime -> RuntimeDeps
+RuntimeDeps -> OpenSSL
+RuntimeDeps -> LibICU
+RuntimeDeps -> Kerberos
+SDK -> Runtime
 ```
 _Figure 1: .NET Core 2.2 RPM packages for CentOS 7._
 
@@ -74,24 +95,49 @@ sudo yum install openssl-libs libicu krb5-libs
 
 > Note that the packages for Red Hat Enterprise Linux 7 are much more complex, compared to CentOS 7. It is too lengthy to go over all the details, so I only attached its diagram,
 
-```mermaid
-flowchart TB
-    RHRepo[rh-dotnet22]
-    RHSdk[rh-dotnet22-dotnet]
-    RHSdkMeta[rh-dotnet22-dotnet-sdk-2.2]
-    RHSdkVersion[rh-dotnet22-dotnet-sdk-2.2.1xx]
-    RHRuntime[rh-dotnet22-dotnet-runtime-2.2]
-    RHHostFxr[rh-dotnet22-dotnet-hostfxr-2.2]
-    RHHost[rh-dotnet22-dotnet-host]
-    RHLiblcurl[rh-dotnet22-libcurl]
-    RHRuntimeMeta[rh-dotnet22-runtime]
+```d2
+direction: down
 
-    RHRepo --> RHSdk --> RHSdkMeta --> RHSdkVersion --> RHRuntime --> RHHostFxr --> RHHost --> RHRuntimeMeta
-    RHRepo --> RHRuntimeMeta
-    RHSdkVersion --> RHRuntimeMeta
-    RHRuntime --> RHRuntimeMeta
-    RHRuntime --> RHLiblcurl
-    RHLiblcurl --> RHRuntimeMeta
-    RHHostFxr --> RHRuntimeMeta
+RHRepo: {
+  label: "rh-dotnet22"
+}
+RHSdk: {
+  label: "rh-dotnet22-dotnet"
+}
+RHSdkMeta: {
+  label: "rh-dotnet22-dotnet-sdk-2.2"
+}
+RHSdkVersion: {
+  label: "rh-dotnet22-dotnet-sdk-2.2.1xx"
+}
+RHRuntime: {
+  label: "rh-dotnet22-dotnet-runtime-2.2"
+}
+RHHostFxr: {
+  label: "rh-dotnet22-dotnet-hostfxr-2.2"
+}
+RHHost: {
+  label: "rh-dotnet22-dotnet-host"
+}
+RHLiblcurl: {
+  label: "rh-dotnet22-libcurl"
+}
+RHRuntimeMeta: {
+  label: "rh-dotnet22-runtime"
+}
+
+RHRepo -> RHSdk
+RHSdk -> RHSdkMeta
+RHSdkMeta -> RHSdkVersion
+RHSdkVersion -> RHRuntime
+RHRuntime -> RHHostFxr
+RHHostFxr -> RHHost
+RHHost -> RHRuntimeMeta
+RHRepo -> RHRuntimeMeta
+RHSdkVersion -> RHRuntimeMeta
+RHRuntime -> RHRuntimeMeta
+RHRuntime -> RHLiblcurl
+RHLiblcurl -> RHRuntimeMeta
+RHHostFxr -> RHRuntimeMeta
 ```
 _Figure 2: .NET Core 2.2 RPM packages for RHEL 7._
