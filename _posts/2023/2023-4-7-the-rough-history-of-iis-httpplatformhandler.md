@@ -79,9 +79,9 @@ There are a few noticeable things we can observe from ASP.NET Core module source
 
 So, HttpPlatformHandler is still fully supported by Microsoft, and its latest release v1.2 from 2015 supports all latest Windows releases. If you are hosting Python/Ruby/Go/Java/Node.js applications on IIS, give it a try and feel how simple it is to set up everything around it.
 
-## HttpPlatformHandler v2.0 by LeXtudio
+## HTTP Bridge Module for IIS by LeXtudio
 
-LeXtudio Inc. just released a new product, HttpPlatformHandler v2, which is a a drop-in replacement for Microsoft HttpPlatformHandler v1.2 but offer more features and bugfixes. You are welcome to give it a try.
+LeXtudio Inc. just released a new product, HTTP Bridge Module for IIS, which is a drop-in replacement for Microsoft HttpPlatformHandler v1.2 but offers more features and bugfixes. You are welcome to give it a try.
 
 This post talks about why we build it and how we build it. You can find more details in [this post]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
 
@@ -93,7 +93,7 @@ HttpPlatformHandler is also enabled on Azure App Service (Windows) by default, s
 
 ### HttpPlatformHandler on IIS Express
 
-This special requirement is now for the first time covered by the [new open source HttpPlatformHandler v2.0 from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
+This special requirement is now for the first time covered by the [new open source HTTP Bridge Module for IIS from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
 
 > If you do prefer Microsoft HttpPlatformHandler v1.2, I also created the necessary PowerShell scripts to help enable that on IIS Express. You can find them on [my GitHub repository](https://github.com/lextm/iisexpress-httpplatformhandler).
 
@@ -106,7 +106,7 @@ When deciding between HttpPlatformHandler and ASP.NET Core Module:
 - Use HttpPlatformHandler for non-ASP.NET Core applications (Python, Node.js, Ruby, Go, Java, etc.)
 - Use ASP.NET Core Module specifically for ASP.NET Core applications
 
-With LeXtudio's HttpPlatformHandler v2.0 now available, the future of this technology looks promising, ensuring Windows Server remains a viable hosting platform for diverse web technologies.
+With LeXtudio's HTTP Bridge Module for IIS now available, the future of this technology looks promising, ensuring Windows Server remains a viable hosting platform for diverse web technologies.
 
 ## References
 

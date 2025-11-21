@@ -19,7 +19,7 @@ It becomes very important for Python developers to learn HttpPlatformHandler, be
 To follow this post, you need to have the following software installed,
 
 * Windows 10 or Windows Server 2016 or later (IIS 10 or later)
-* HttpPlatformHandler v1.2 (from Microsoft) or [v2.0 (from LeXtudio)]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
+* HttpPlatformHandler v1.2 (from Microsoft) or [HTTP Bridge Module for IIS (from LeXtudio)]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
 
 ## Basic Django Setup
 
@@ -156,7 +156,7 @@ You can choose other application server other than Uvicorn, but the key is to us
 
 ## Django on IIS Express
 
-You can take a look at the [new open source HttpPlatformHandler v2.0 from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
+You can take a look at the [new open source HTTP Bridge Module for IIS from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
 
 ## Other Languages on IIS?
 

@@ -63,7 +63,7 @@ Clearly you can easily move this web app to Azure App Service (Windows) with min
 
 ### Nuxt 3 on IIS Express
 
-You can take a look at the [new open source HttpPlatformHandler v2.0 from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
+You can take a look at the [new open source HTTP Bridge Module for IIS from LeXtudio]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}).
 
 ## Other Languages on IIS?
 

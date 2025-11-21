@@ -46,7 +46,7 @@ Since most of [IIS out-of-band modules from Microsoft]({% post_url 2017/2017-9-8
 
 The only exceptions right now are,
 
-* [HttpPlatformHandler v2 from LeXtudio Inc.]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
+* [HTTP Bridge Module for IIS from LeXtudio Inc. to replace HttpPlatformHandler]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %})
 * ASP.NET Core module.
 
 Except them, URL Rewrite module from IIS Express might be used if you are willing to take [extra steps to extract the bits from IIS Express and apply to IIS](https://github.com/lextm/rewrite-arm64) and accept a few limitations.
@@ -73,7 +73,7 @@ For IIS Express, you can launch the command line differently to enter each mode.
 
 ### IIS Express Out-Of-Band Modules
 
-* HttpPlatformHandler v2 is available for ARM64 devices, so you can use it with IIS Express.
+* HTTP Bridge Module for IIS is available for ARM64 devices, so you can use it to replace HttpPlatformHandler with IIS Express.
 * ASP.NET Core module ARM64 build is bundled, but x86/x64 builds are not. The upcoming new installers will fix this.
 * URL Rewrite module is bundled by default.
 
