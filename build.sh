@@ -7,6 +7,8 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export RUBYOPT="-E utf-8"
 export LC_CTYPE=en_US.UTF-8
+# Ensure locally installed CLI tools (like d2) are on PATH
+export PATH="$HOME/.local/bin:$PATH"
 
 # Verify encoding settings
 echo "Environment variables:"
@@ -14,7 +16,9 @@ echo "LANG=$LANG"
 echo "LC_ALL=$LC_ALL"
 echo "RUBYOPT=$RUBYOPT"
 
-curl -fsSL https://d2lang.com/install.sh | sh -s --
+if ! command -v d2 >/dev/null 2>&1; then
+  curl -fsSL https://d2lang.com/install.sh | sh -s --
+fi
 
 npm install
 npm run build
