@@ -5,5 +5,25 @@
   <section id="toc-wrapper" class="invisible position-sticky ps-0 pe-4 pb-4">
     <h2 class="panel-heading ps-3 pb-2 mb-0">{{- site.data.locales[include.lang].panel.toc -}}</h2>
     <nav id="toc"></nav>
+    <!-- TOC Begin -->
+    <div style="margin: 64px 0 0 0">
+      <div style="text-align: center; font-size: small; margin: 4px; color: gray">Advertisement</div>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8730896881590248"
+      crossorigin="anonymous"></script>
+      <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-8730896881590248"
+      data-ad-slot="7892811542"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+    <!-- TOC End -->
+
   </section>
+
+  <!-- toc.js will be loaded at medium priority -->
+  <script src="{{ site.data.assets[origin].toc.js | relative_url }}"></script>
 {% endif %}

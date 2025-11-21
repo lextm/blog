@@ -6,4 +6,11 @@ permalink: /404.html
 
 {% include lang.html %}
 
-<p class="lead">{{ site.data.locales[lang].not_found.statement }}</p>
+<div class="lead">
+  <p>{{ site.data.locales[lang].not_found.statement }}</p>
+  <p>Due to several rounds of site migration, the old link you used does not work any more.</p>
+  <p>You might enter keywords in search box above to quickly locate the actual post.</p>
+  <p>Alternatively, you can open <a href="{{ site.baseurl }}/archives/">the archives to navigate through all the posts</a>.</p>
+</div>
+
+{% include advertisement.html %}

@@ -1,0 +1,56 @@
+# Broad Categories for Blog Tags
+
+- Programming Languages
+  - .net
+  - csharp
+  - java
+  - python
+  - javascript
+  - php
+  - restructuredtext
+
+- Frameworks and Libraries
+  - asp.net
+  - xamarin
+  - mono
+  - dockpanel-suite
+  - antlr
+
+- Tools and Platforms
+  - visual-studio
+  - visual-studio-code
+  - azure
+  - git
+  - github
+  - powershell
+  - iis
+  - jexus-manager
+  - httpplatformhandler
+  - xunit
+  - code-beautifier-collection
+  - inno-setup
+  - msbuild
+  - obfuscar
+  - sharpdevelop
+  - touch-mouse-mate
+
+- Operating Systems
+  - windows
+  - linux
+  - macos
+  - android
+
+- Technologies and Concepts
+  - snmp
+
+- Companies and Products
+  - microsoft
+  - google
+  - meizu
+
+- History
+
+- Miscellaneous
+  - work-life
+  - open-source
+  - home-assistant
