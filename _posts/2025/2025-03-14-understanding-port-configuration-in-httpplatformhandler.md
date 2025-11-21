@@ -48,7 +48,7 @@ Here, `%HTTP_PLATFORM_PORT%` is automatically set by HttpPlatformHandler at runt
 
 Sometimes you need a fixed port. For example, when debugging or integrating with other services that expect a specific port.
 
-Starting from HTTP Bridge Module for IIS, you can specify a fixed port easily. Just update your `web.config` like this:
+Starting from [HTTP Bridge Module for IIS]({% post_url 2024/2024-4-8-httpplatformhandler-v2 %}), you can specify a fixed port easily. Just update your `web.config` like this:
 
 ```xml
 <configuration>
