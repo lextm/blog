@@ -1,5 +1,8 @@
 ---
 description: "Discover the continued support for classic ASP in Windows Server 2025 despite VBScript deprecation concerns, and learn why modernization should still be considered for long-term application sustainability and security."
+image:
+  path: /images/chilly-day-city-hall-toronto.jpg
+  alt: Copyright © Lex Li. Chilly day at Toronto City Hall.
 excerpt_separator: <!--more-->
 layout: post
 tags: asp.net iis windows

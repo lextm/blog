@@ -1,5 +1,8 @@
 ---
 description: "A comprehensive guide to deploying Nest.js applications on IIS using HttpPlatformHandler, with step-by-step instructions for configuration, environment setup, and troubleshooting common issues for Windows server environments."
+image:
+  path: /images/flight-landing-over-ontario-lake.jpg
+  alt: Copyright © Lex Li. Flight landing over Lake Ontario, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: iis windows httpplatformhandler

@@ -2,6 +2,9 @@
 layout: post
 title: "How to Invoke Win32 API in Node.js with libwin32 and Koffi"
 description: "Learn how to use libwin32 and Koffi to invoke Win32 API in Node.js applications, providing a modern and reliable alternative to ffi-napi."
+image:
+  path: /images/lights-with-red-background.jpg
+  alt: Copyright © Lex Li. Lights displayed over red background, Toronto.
 tags: node.js windows
 categories: [Tools and Platforms]
 excerpt_separator: <!--more-->

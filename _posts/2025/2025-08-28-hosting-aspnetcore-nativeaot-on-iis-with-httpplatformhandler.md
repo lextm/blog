@@ -2,6 +2,9 @@
 layout: post
 title: "Running ASP.NET Core NativeAOT Web Apps on IIS with HttpPlatformHandler"
 description: "Step-by-step guide to run ASP.NET Core NativeAOT apps behind IIS using HttpPlatformHandler, including web.config, publish commands, and troubleshooting tips."
+image:
+  path: /images/sunset-over-cn-tower.jpg
+  alt: Copyright © Lex Li. Sunset over CN Tower, Toronto.
 tags: iis httpplatformhandler windows .net
 categories: [Tools and Platforms]
 excerpt_separator: <!--more-->

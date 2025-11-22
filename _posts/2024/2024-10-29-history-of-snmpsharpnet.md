@@ -2,6 +2,9 @@
 layout: post
 title: "The Brief History of SNMP#NET"
 description: "Explore the evolution of SNMP#NET (SnmpSharpNet), a once-prominent .NET library for SNMP development, from its early days to its current state and why you might consider alternatives like #SNMP for modern network management applications."
+image:
+  path: /images/sunset-reflections.jpg
+  alt: Copyright © Lex Li. Sunset reflections over the condo buildings, Toronto.
 tags: snmp .net open-source
 categories: [Technologies and Concepts]
 excerpt_separator: <!--more-->

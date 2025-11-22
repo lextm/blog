@@ -1,5 +1,8 @@
 ---
 description: "Discover the history behind the misleading 'WebSockets is unsupported' error in ASP.NET applications and learn how to properly configure your web.config file to enable WebSocket functionality, even in newer .NET Framework versions."
+image:
+  path: /images/rainy-day-union-station.jpg
+  alt: Copyright © Lex Li. Rainy day at Union Station, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: asp.net iis windows

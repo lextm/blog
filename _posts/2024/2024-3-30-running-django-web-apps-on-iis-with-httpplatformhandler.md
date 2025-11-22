@@ -1,5 +1,8 @@
 ---
 description: "Learn how to deploy Django applications on IIS using HttpPlatformHandler instead of the deprecated FastCGI, with detailed instructions for both development and production environments using Uvicorn and WhiteNoise."
+image:
+  path: /images/love-park-toronto.jpg
+  alt: Copyright © Lex Li. Love Park installation, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: httpplatformhandler python windows iis

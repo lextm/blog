@@ -1,5 +1,8 @@
 ---
 description: The evolution of my technical blog from 2005 to present, chronicling its journey from CSDN to Blogger, WordPress, Medium, and finally to Jekyll on GitHub Pages and Cloudflare Pages, with reflections on blogging milestones.
+image:
+  path: /images/doves-at-dufferin-mall.jpg
+  alt: Copyright © Lex Li. Doves flying near Dufferin Mall, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: work-life

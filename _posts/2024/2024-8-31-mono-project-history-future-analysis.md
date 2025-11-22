@@ -1,5 +1,8 @@
 ---
 description: "An in-depth analysis of Microsoft's announcement about the Mono Project's transfer to WineHQ, examining its historical significance in cross-platform .NET development, technological evolution, and future prospects under new stewardship."
+image:
+  path: /images/sunset-near-long-branch.jpg
+  alt: Copyright © Lex Li. Sunset near Long Branch, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: .net microsoft mono xamarin

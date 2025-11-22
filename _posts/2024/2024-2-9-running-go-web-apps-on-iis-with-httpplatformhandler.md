@@ -1,5 +1,8 @@
 ---
 description: "A practical guide for deploying Go web applications on IIS using HttpPlatformHandler, covering Go/Echo setup, proper application configuration, and troubleshooting common permission and path issues in Windows environments."
+image:
+  path: /images/doves-over-roy-thomson-hall.jpg
+  alt: Copyright © Lex Li. Doves flying over Roy Thomson Hall, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: httpplatformhandler iis windows

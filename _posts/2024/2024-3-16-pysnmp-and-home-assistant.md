@@ -1,5 +1,8 @@
 ---
 description: "An inside look at how the PySNMP team collaborated with Home Assistant developers to resolve compatibility issues with PySNMP 6.0, fixing critical bugs in SNMP integration and addressing long-standing problems with Opaque type handling."
+image:
+  path: /images/neighborhood-bellevue.jpg
+  alt: Copyright © Lex Li. Neighborhood scene in Bellevue at sunset.
 excerpt_separator: <!--more-->
 layout: post
 tags: home-assistant python snmp open-source

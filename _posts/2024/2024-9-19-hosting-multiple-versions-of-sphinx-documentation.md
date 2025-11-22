@@ -1,5 +1,8 @@
 ---
 description: "Learn how to efficiently host multiple versions of Sphinx documentation using sphinx-polyversion, with practical steps for configuring version tags, setting up nginx reverse proxies, and maintaining documentation across different environments."
+image:
+  path: /images/hiking-day-birds.jpg
+  alt: Copyright © Lex Li. Birds soaring on a clear hiking day, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: python restructuredtext

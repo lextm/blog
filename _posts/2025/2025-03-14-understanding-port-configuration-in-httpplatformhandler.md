@@ -2,6 +2,9 @@
 layout: post
 title: "Understanding Port Configuration in HttpPlatformHandler"
 description: "Learn how HttpPlatformHandler allocates random ports for backend applications, and how to configure fixed ports for better control."
+image:
+  path: /images/view-from-tommy-thompson-park-toronto.jpg
+  alt: Copyright © Lex Li. Downtown view from Tommy Thompson Park, Toronto.
 tags: iis httpplatformhandler windows
 categories: [Tools and Platforms]
 excerpt_separator: <!--more-->

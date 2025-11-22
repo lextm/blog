@@ -1,5 +1,8 @@
 ---
 description: "Learn how to deploy Next.js web applications on IIS using HttpPlatformHandler, including environment configuration, handling dynamic routes, and setting up applications in subfolder scenarios for Windows server environments."
+image:
+  path: /images/canada-place-vancouver.jpg
+  alt: Copyright © Lex Li. Canada Place and the Vancouver waterfront.
 excerpt_separator: <!--more-->
 layout: post
 tags: iis windows httpplatformhandler

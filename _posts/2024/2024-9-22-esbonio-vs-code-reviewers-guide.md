@@ -1,5 +1,8 @@
 ---
 description: "A comprehensive guide for reviewers to test Esbonio VS Code extension 0.95.2, covering environment setup, virtual environment configuration, settings adjustment, and troubleshooting to provide valuable feedback for this reStructuredText documentation tool."
+image:
+  path: /images/purple-hearts-over-aquarium.jpg
+  alt: Copyright © Lex Li. Purple heart lights over the aquarium wall.
 excerpt_separator: <!--more-->
 layout: post
 tags: python visual-studio-code restructuredtext

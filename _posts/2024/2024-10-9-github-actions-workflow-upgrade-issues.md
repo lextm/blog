@@ -1,5 +1,8 @@
 ---
 description: "Learn how to efficiently update GitHub Actions in your workflows with a Python script that automatically checks for newer versions, helping you maintain compatibility with current Node.js runtimes and keep your CI/CD processes running smoothly."
+image:
+  path: /images/flight-toward-asia.jpg
+  alt: Copyright © Lex Li. Flight heading toward Asia above the clouds.
 excerpt_separator: <!--more-->
 layout: post
 tags: github python

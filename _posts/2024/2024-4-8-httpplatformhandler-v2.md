@@ -1,5 +1,8 @@
 ---
 description: "Introducing HTTP Bridge Module for IIS, a modern open-source replacement for Microsoft's original module that fixes critical limitations, adds IIS Express support, and enables modern web features like SSE for Java, Python, Node.js, and Go applications on Windows/IIS."
+image:
+  path: /images/cn-tower-shadow.jpg
+  alt: Copyright © Lex Li. CN Tower casting a long shadow across Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: .net httpplatformhandler iis java python windows

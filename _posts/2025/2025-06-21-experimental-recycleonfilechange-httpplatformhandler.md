@@ -2,6 +2,9 @@
 layout: post
 title: "Experimental Support for recycleOnFileChange in HTTP Bridge Module for IIS"
 description: "Discover how the recycleOnFileChange feature—critical for automating process restarts in Node.js, Python, Java, and Go web apps hosted on IIS—was reintroduced in HTTP Bridge Module for IIS after user feedback. Learn about the historical connection to ASP.NET Core Module, why this feature matters for non-.NET apps, and how GitHub Copilot accelerated the C++ implementation."
+image:
+  path: /images/rush-hours-union-station.jpg
+  alt: Copyright © Lex Li. Rush hours inside Union Station, Toronto.
 tags: httpplatformhandler iis node.js windows
 categories: [Tools and Platforms]
 excerpt_separator: <!--more-->

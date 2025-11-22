@@ -1,5 +1,8 @@
 ---
 description: "A step-by-step tutorial on deploying FastAPI applications on IIS using HttpPlatformHandler, the recommended replacement for FastCGI, with detailed configuration and troubleshooting guidance for Windows environments."
+image:
+  path: /images/leaves-glen-rd-bridge.jpg
+  alt: Copyright © Lex Li. Autumn leaves near Glen Road pedestrian bridge, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: iis python windows httpplatformhandler
