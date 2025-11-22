@@ -1,5 +1,5 @@
 ---
-categories: [Programming Languages]
+categories: [History, .NET]
 description: Explore the evolution of .NET Core debuggers from Microsoft, JetBrains, and Samsung, and learn about their licensing considerations and technical capabilities.
 excerpt_separator: <!--more-->
 image:

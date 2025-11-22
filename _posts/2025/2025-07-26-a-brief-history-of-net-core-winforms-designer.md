@@ -6,7 +6,7 @@ image:
   path: /images/cleaning-telus-building.jpg
   alt: Copyright © Lex Li. Cleaning crew on Telus building facade, Toronto.
 tags: .net visual-studio microsoft
-categories: [Programming Languages and Frameworks]
+categories: [History, .NET]
 excerpt_separator: <!--more-->
 ---
 

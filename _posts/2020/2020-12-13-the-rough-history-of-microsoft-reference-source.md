@@ -1,5 +1,5 @@
 ---
-categories: [Programming Languages]
+categories: [History, .NET]
 description: Explore the evolution of .NET Framework Reference Source from closed source to open source, its impact on developers, and how it relates to modern .NET platforms.
 excerpt_separator: <!--more-->
 layout: post

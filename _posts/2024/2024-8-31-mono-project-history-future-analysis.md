@@ -6,7 +6,7 @@ image:
 excerpt_separator: <!--more-->
 layout: post
 tags: .net microsoft mono xamarin
-categories: [Frameworks and Libraries]
+categories: [History, .NET]
 title: "Another Monkey: Analysis of the Mono Project History and Future Based on Microsoft Announcement"
 ---
 > "You must have heard tales about him. Some say he helped Tang Monk fetch the Scriptures, was granted Buddhahood, and stayed on Mount Lingshan thereafter. Some say it was not him who was granted Buddhahood. The real him was already dead on the journey to the West. Some say the journey never happened. He's nothing but a monkey who lives in some storyteller's tall tale. But now, you will hear a tale which no one has ever known." — *Black Myth: Wukong*

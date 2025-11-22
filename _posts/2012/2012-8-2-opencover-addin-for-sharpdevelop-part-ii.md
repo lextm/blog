@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 permalink: /opencover-addin-for-sharpdevelop-part-ii-e29554bc28ef
 tags: sharpdevelop
-categories: [Tools and Platforms]
+categories: [History, .NET]
 title: OpenCover Addin for SharpDevelop, Part II
 ---
 You probably heard that I upgraded the existing PartCover addin to support OpenCover, and last weekend I finished all the tasks. So now you can grab it and play with it from my fork,

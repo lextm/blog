@@ -1,5 +1,5 @@
 ---
-categories: [Tools and Platforms]
+categories: [History, .NET]
 description: A deep dive into the evolution of referenced assemblies in .NET, from .NET Framework 1.x to .NET Core, including their role in target frameworks, SKUs, and cross-platform development.
 excerpt_separator: <!--more-->
 image:

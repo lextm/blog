@@ -1,5 +1,5 @@
 ---
-categories: [Programming Languages]
+categories: [History, .NET]
 description: A comprehensive history of the many C# compilers, including Microsoft's C/C++ and Roslyn compilers, Mono's implementation, and other notable alternatives like RemObjects and GNU compilers.
 excerpt_separator: <!--more-->
 layout: post
