@@ -2,12 +2,15 @@
 layout: post
 title: "Get started with Python on Windows using uv"
 description: "Learn how to install uv on Windows, manage CPython versions, bootstrap a project, add dependencies, and run scripts with uv run and uv sync."
+image:
+  path: /images/office-lights-downtown-toronto.jpg
+  alt: Copyright © Lex Li. Office lights glowing over downtown Toronto at dusk.
 tags: [python, windows, tooling]
 categories: [tools]
 excerpt_separator: "<!--more-->"
 ---
 
-This short guide shows how to use `uv` on Windows to manage Python versions, create a tiny virtual environment, and run a small script. `uv` is a lightweight utility that makes it easy to install specific Python builds and set up per-project environments without heavy installers. If you prefer the classic tooling approach, see [my earlier walkthrough that sticks to the traditional Python workflow]({% post_url 2025/07-15-simplest-python-windows-get-started %}).
+This short guide shows how to use `uv` on Windows to manage Python versions, create a tiny virtual environment, and run a small script. `uv` is a lightweight utility that makes it easy to install specific Python builds and set up per-project environments without heavy installers. If you prefer the classic tooling approach, see [my earlier walkthrough that sticks to the traditional Python workflow]({% post_url 2025/2025-07-15-simplest-python-windows-get-started %}).
 
 <!--more-->
 
