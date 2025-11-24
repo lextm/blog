@@ -1,5 +1,8 @@
 ---
 description: Announcing DockPanel Suite 3.1.0 with theme separation, .NET Core 3.1 support, and SDK-style project format - plus important information about the future of this popular WinForms docking library
+image:
+  path: /images/wires-tower-north-toronto.jpg
+  alt: Copyright © Lex Li. Utility wires in North Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: .net dockpanel-suite visual-studio windows open-source

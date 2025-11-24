@@ -1,5 +1,8 @@
 ---
 description: How to use AsmSpy to verify assembly dependencies and prevent runtime issues related to version conflicts in .NET applications
+image:
+  path: /images/hong-kong-habour.jpg
+  alt: Copyright © Lex Li. Hong Kong harbour.
 excerpt_separator: <!--more-->
 layout: post
 tags: .net iis php visual-studio

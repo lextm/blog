@@ -1,6 +1,9 @@
 ---
 categories: [History, .NET]
 description: Explore the evolution of .NET Framework Reference Source from closed source to open source, its impact on developers, and how it relates to modern .NET platforms.
+image:
+  path: /images/glass-ceiling-cleaner.jpg
+  alt: Copyright © Lex Li. Worker cleaning a glass ceiling facade at CIBC Square, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: .net visual-studio microsoft open-source windows

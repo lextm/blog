@@ -1,5 +1,8 @@
 ---
 description: Discover the significant improvements to the reStructuredText VS Code extension with Bosch's new preview engine for Sphinx documentation
+image:
+  path: /images/highway-407-station-inside.jpg
+  alt: Copyright © Lex Li. Inside Highway 407 TTC station, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: restructuredtext visual-studio-code open-source

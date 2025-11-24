@@ -1,5 +1,8 @@
 ---
 description: Learn how to effectively use ANTLR 4 in .NET projects in 2023 with updated runtime packages, migration guidance, and tooling changes from older versions. Discover key differences between Antlr4.Runtime.Standard and the legacy Antlr4.Runtime packages.
+image:
+  path: /images/cn-tower-sunset.jpg
+  alt: Copyright © Lex Li. Sunset sky behind the CN Tower, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: .net antlr visual-studio csharp

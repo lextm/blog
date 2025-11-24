@@ -1,5 +1,8 @@
 ---
 description: In-depth look at switching from Snooty to Esbonio language server for reStructuredText in VS Code, with troubleshooting tips for common Sphinx configuration issues
+image:
+  path: /images/reader-on-kew-balmy-beach.jpg
+  alt: Copyright © Lex Li. Reader on Kew-Balmy Beach, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: python visual-studio-code open-source restructuredtext

@@ -1,5 +1,8 @@
 ---
 description: Step-by-step guide for deploying Nuxt 3 web applications on Windows IIS using HttpPlatformHandler, including sample project setup, configuration, and troubleshooting tips for Node.js applications on Microsoft's web server.
+image:
+  path: /images/ey-building-toronto.jpg
+  alt: Copyright © Lex Li. EY building facade in downtown Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: azure iis windows httpplatformhandler

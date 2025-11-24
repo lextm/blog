@@ -2,6 +2,9 @@
 layout: post
 title: .NET Framework Lifecycle Changes
 description: Essential guide to .NET Framework support policy changes in 2022 - learn which versions are reaching end-of-life, migration options, and timeline planning for both .NET Framework 4.x and 3.5 SP1
+image:
+  path: /images/birds-over-lake-tommy-thompson-park.jpg
+  alt: Copyright © Lex Li. Birds flying over the lake at Tommy Thompson Park, Toronto.
 tags: windows .net microsoft
 categories: [History, .NET]
 excerpt_separator: <!--more-->

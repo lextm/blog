@@ -1,5 +1,8 @@
 ---
 description: Discover how VS Code with Git Graph and GitLens extensions can serve as a powerful cross-platform Git client that rivals standalone applications like GitKraken, SmartGit, and TortoiseGit
+image:
+  path: /images/summer-sunset-over-td-building.jpg
+  alt: Copyright © Lex Li. Summer sunset over TD building, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: visual-studio-code git github

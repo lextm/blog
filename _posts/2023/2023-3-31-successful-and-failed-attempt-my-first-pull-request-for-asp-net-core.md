@@ -1,5 +1,8 @@
 ---
 description: Follow my journey of investigating and fixing ASP.NET Core compatibility issues with Windows 11 ARM64, including the technical challenges of creating a pull request for Microsoft's ASP.NET Core repository and developing a workaround for ARM64 systems.
+image:
+  path: /images/downtown-view-from-fort-york.jpg
+  alt: Copyright © Lex Li. Downtown Toronto skyline viewed from Fort York.
 excerpt_separator: <!--more-->
 layout: post
 tags: .net iis visual-studio windows microsoft open-source

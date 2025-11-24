@@ -1,6 +1,9 @@
 ---
 categories: [History, .NET]
 description: Analysis of Mono's declining future as Microsoft transitions to .NET 6 and beyond - understand why Mono-dependent applications face sustainability risks and the timeline of this critical platform shift
+image:
+  path: /images/cloud-reflection-mississauga.jpg
+  alt: Copyright © Lex Li. Cloud reflections on glass towers in Mississauga.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-end-of-mono

@@ -2,6 +2,9 @@
 layout: post
 title: "Windows Authentication Tips for HttpPlatformHandler"
 description: "Learn how to properly enable Windows Authentication for non-Microsoft web applications hosted on IIS using HttpPlatformHandler, including configuration steps and code examples for Python and Ruby applications."
+image:
+  path: /images/cn-tower-dark-clouds.jpg
+  alt: Copyright © Lex Li. CN Tower under dark clouds in Toronto.
 tags: iis windows httpplatformhandler
 categories: [Tools and Platforms]
 excerpt_separator: <!--more-->

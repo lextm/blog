@@ -1,5 +1,8 @@
 ---
 description: Learn ASP.NET Core through common error scenarios and troubleshooting - from SDK installation to launching your first web application, this hands-on guide helps beginners understand key concepts through practical problem-solving
+image:
+  path: /images/view-woodbine-beach.jpg
+  alt: Copyright © Lex Li. Remote view of Woodbine Beach, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: .net asp.net windows linux macos

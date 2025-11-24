@@ -1,5 +1,8 @@
 ---
 description: Complete guide for hosting Flask Python web applications on IIS using HttpPlatformHandler with troubleshooting tips and production configuration
+image:
+  path: /images/lady-in-red-cineplex-dundas.jpg
+  alt: Copyright © Lex Li. Lady in red inside Cineplex cinema, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: httpplatformhandler python windows iis microsoft

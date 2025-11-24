@@ -1,5 +1,8 @@
 ---
 description: Troubleshooting guide for Microsoft.Web.Administration version conflicts between IIS and IIS Express - learn how to properly reference version 7.0.0.0 vs 7.9.0.0 in your .NET applications
+image:
+  path: /images/brookfield-place-entrance.jpg
+  alt: Copyright © Lex Li. Entrance of Brookfield Place in downtown Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: .net iis windows microsoft

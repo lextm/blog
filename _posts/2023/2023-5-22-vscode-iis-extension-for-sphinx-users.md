@@ -1,5 +1,8 @@
 ---
 description: Learn how to use the Visual Studio Code IIS extension to easily host and test Sphinx documentation sites locally with IIS Express. Follow a step-by-step guide for installation, configuration, and usage of this helpful extension for documentation developers.
+image:
+  path: /images/cn-tower-reflection-delta-hotel.jpg
+  alt: Copyright © Lex Li. CN Tower reflected on Delta Hotel glass, Toronto.
 excerpt_separator: <!--more-->
 layout: post
 tags: iis python visual-studio-code windows restructuredtext
