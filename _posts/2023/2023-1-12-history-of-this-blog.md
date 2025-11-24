@@ -25,7 +25,7 @@ Managing my own WordPress server was still a pain, so after landing on Canada in
 I chose Jekyll in the summer of 2020, and migrated most hot posts from Medium to this new Jekyll based site. Many old posts had to be left on Medium at https://medium.com/lextm, simply because
 
 * I wrote too many, >1000, and to migrate all I need a lot of time.
-* [the Jekyll theme](https://github.com/barryclark/jekyll-now) I chose wasn't well maintained. I need to find a better one.
+* [the Jekyll Now theme](https://github.com/barryclark/jekyll-now) I chose wasn't well maintained. I need to find a better one.
 
 But anyway, I kept this blog alive. And another noticeable change was that I changed the URL to https://halfblood.pro, which I think matching the blog name very well.
 
@@ -38,6 +38,12 @@ Finally last December I found a lot of free slots to migrate the remaining posts
 
 OK. That's enough for a flashback.
 
-This time the Chirpy theme matches all my expectation, so let's see how many more years I will enjoy blogging.
+This time a few things matche all my expectations,
+
+* [The Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy)
+* Blog source code hosted on [GitHub](https://github.com/lextm/blog)
+* Blog site hosted on [Cloudflare](https://jekyll-theme-chirpy-ams.pages.dev/) and bind to my custom domain.
+
+So, let's see how many more years I will enjoy blogging.
 
 Happy new year 🍭 and stay tuned.
