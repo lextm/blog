@@ -15,6 +15,167 @@ The .NET ecosystem offers numerous UI frameworks for developing cross-platform G
 
 <!--more-->
 
+## Inheritance Relationship Among Frameworks
+
+Some relationships among these frameworks can be illustrated as below,
+
+```d2
+direction: down
+
+WinForms: {
+  label: "Windows Forms (Microsoft)"
+  style: {
+    fill: "#ffe5e0"
+    stroke: "#0078d4"
+  }
+}
+WPF: {
+  label: "WPF (Microsoft)"
+  style: {
+    fill: "#ffe5e0"
+    stroke: "#0078d4"
+  }
+}
+Silverlight: {
+  label: "Silverlight (Microsoft)"
+  style: {
+    fill: "#ffe5e0"
+    stroke: "#0078d4"
+    stroke-dash: 6
+  }
+}
+Moonlight: {
+  label: "Moonlight (Mono)"
+  style: {
+    fill: "#e0f0ff"
+    stroke-dash: 6
+  }
+}
+OpenSilver: {
+  label: "OpenSilver (OSS)"
+  style: {
+    fill: "#e0f0ff"
+  }
+}
+UWP: {
+  label: "UWP (Microsoft)"
+  style: {
+    fill: "#ffe5e0"
+    stroke: "#0078d4"
+  }
+}
+WinUI: {
+  label: "WinUI 3 (Microsoft)"
+  style: {
+    fill: "#ffe5e0"
+    stroke: "#0078d4"
+  }
+}
+Avalonia_UI: {
+  label: "Avalonia UI (Avalonia)"
+  style: {
+    fill: "#e0f0ff"
+  }
+}
+Avalonia_XPF: {
+  label: "Avalonia XPF (Avalonia)"
+  style: {
+    fill: "#e0f0ff"
+  }
+}
+Uno: {
+  label: "Uno Platform (Uno)"
+  style: {
+    fill: "#e0f0ff"
+  }
+}
+Xamarin_Forms: {
+  label: "Xamarin.Forms (Microsoft)"
+  style: {
+    fill: "#e0f0ff"
+    stroke: "#0078d4"
+  }
+}
+MAUI: {
+  label: ".NET MAUI (Microsoft)"
+  style: {
+    fill: "#e0f0ff"
+    stroke: "#0078d4"
+  }
+}
+Blazor: {
+  label: "Blazor (Microsoft)"
+  style: {
+    fill: "#e0f0ff"
+    stroke: "#0078d4"
+  }
+}
+MAUI_Blazor: {
+  label: "MAUI Blazor Hybrid (Microsoft)"
+  style: {
+    fill: "#e0f0ff"
+    stroke: "#0078d4"
+  }
+}
+XWT: {
+  label: "xwt (Mono)"
+  style: {
+    fill: "#e0f0ff"
+  }
+}
+
+Eto_Forms: {
+  label: "Eto.Forms (OSS)"
+  style: {
+    fill: "#e0f0ff"
+  }
+}
+
+GTK: {
+  label: "GTK# (OSS)"
+  style: {
+    fill: "#e0f0ff"
+  }
+}
+
+MonoMac: {
+  label: "MonoMac (Mono)"
+  style: {
+   fill: "#ecc9ed"
+   stroke-dash: 6
+  }
+}
+
+DotNet_macOS: {
+  label: ".NET for macOS (Microsoft)"
+  style: {
+   fill: "#ecc9ed"
+  }
+}
+
+WPF -> Silverlight: "derived subset"
+Silverlight -> Moonlight: "open source implementation"
+Moonlight -> OpenSilver: "modern successor"
+Silverlight -> OpenSilver: "modern successor"
+WPF -> UWP: "platform successor"
+UWP -> WinUI: "succeeded by"
+WinUI -> Uno: "API-compatible cross-platform"
+WPF -> Avalonia_XPF: "WPF compatibility layer"
+Avalonia_UI -> Avalonia_XPF: "shared rendering engine"
+WinUI -> MAUI: "Windows backend"
+Xamarin_Forms -> MAUI: "evolved into"
+MAUI -> MAUI_Blazor: "hosts Blazor WebView"
+Blazor -> MAUI_Blazor: "special hosting"
+XWT -> Xamarin_Forms: "inspired approach"
+WinForms -> Eto_Forms: "Windows backend"
+WPF -> Eto_Forms: "Windows backend"
+MonoMac -> DotNet_macOS: "evolved into"
+Gtk -> Xamarin_Forms: "Linux backend"
+Gtk -> Eto_Forms: "Linux backend"
+Gtk -> MAUI: "Linux backend"
+```
+Figure 1: Inheritance Relationships Among .NET UI Frameworks.
+
 ## Native Bindings
 
 In modern .NET development, we can create cross-platform applications using C# while easily sharing non-UI code through .NET Standard and .NET Core libraries. The native bindings approach has historically been considered optimal, as it allows applications to leverage platform-specific controls and third-party libraries to achieve full OS integration.
