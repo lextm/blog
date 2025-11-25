@@ -24,167 +24,276 @@ vars: {
   d2-config: {
     layout-engine: elk
   }
+  colors: {
+    win: "#ffe5e0"
+    mac: "#ecc9ed"
+    cross: "#e0f0ff"
+    ms: "#0078d4"
+  }
+
+  d2-legend: {
+    framework-a: {
+      label: "Windows only"
+      style: {
+        fill: ${colors.win}
+      }
+    }
+    framework-b: {
+      label: "macOS only"
+      style: {
+        fill: ${colors.mac}
+      }
+    }
+    framework-c: {
+      label: "cross platform"
+      style: {
+        fill: ${colors.cross}
+      }
+    }
+    framework-d: {
+      label: "deprecated"
+      style: {
+        stroke-dash: 6
+      }
+    }
+
+    framework-a -> framework-b: "successor"
+    framework-a <-> framework-b: "API-compatible" {
+      style.stroke: red
+      style.stroke-dash: 4
+    }
+    framework-a -> framework-b: "backend provider" {
+      style: {stroke-dash: 4}
+      target-arrowhead.shape: circle
+    }
+    framework-a -> framework-b: "somehow related" {
+      style: {stroke-dash: 4}
+    }
+  }
 }
 direction: down
 
 WinForms: {
   label: "Windows Forms (Microsoft)"
   style: {
-    fill: "#ffe5e0"
-    stroke: "#0078d4"
+    fill: ${colors.win}
+    stroke: ${colors.ms}
   }
 }
 WPF: {
   label: "WPF (Microsoft)"
   style: {
-    fill: "#ffe5e0"
-    stroke: "#0078d4"
+    fill: ${colors.win}
+    stroke: ${colors.ms}
+  }
+}
+UWP: {
+  label: "UWP (Microsoft)"
+  style: {
+    fill: ${colors.win}
+    stroke: ${colors.ms}
+  }
+}
+WinUI: {
+  label: "WinUI 3 (Microsoft)"
+  style: {
+    fill: ${colors.win}
+    stroke: ${colors.ms}
+  }
+}
+MonoMac: {
+  label: "MonoMac (Mono)"
+  style: {
+    fill: ${colors.mac}
+    stroke-dash: 6
+  }
+}
+DotNet_macOS: {
+  label: ".NET for macOS (Microsoft)"
+  style: {
+    fill: ${colors.mac}
   }
 }
 Silverlight: {
   label: "Silverlight (Microsoft)"
   style: {
-    fill: "#ffe5e0"
-    stroke: "#0078d4"
+    fill: ${colors.cross}
+    stroke: ${colors.ms}
     stroke-dash: 6
   }
 }
 Moonlight: {
   label: "Moonlight (Mono)"
   style: {
-    fill: "#e0f0ff"
+    fill: ${colors.cross}
     stroke-dash: 6
   }
 }
 OpenSilver: {
   label: "OpenSilver (OSS)"
   style: {
-    fill: "#e0f0ff"
-  }
-}
-UWP: {
-  label: "UWP (Microsoft)"
-  style: {
-    fill: "#ffe5e0"
-    stroke: "#0078d4"
-  }
-}
-WinUI: {
-  label: "WinUI 3 (Microsoft)"
-  style: {
-    fill: "#ffe5e0"
-    stroke: "#0078d4"
+    fill: ${colors.cross}
   }
 }
 Avalonia_UI: {
   label: "Avalonia UI (Avalonia)"
   style: {
-    fill: "#e0f0ff"
+    fill: ${colors.cross}
   }
 }
 Avalonia_XPF: {
   label: "Avalonia XPF (Avalonia)"
   style: {
-    fill: "#e0f0ff"
+    fill: ${colors.cross}
   }
 }
 Uno: {
   label: "Uno Platform (Uno)"
   style: {
-    fill: "#e0f0ff"
+    fill: ${colors.cross}
   }
 }
 Xamarin_Forms: {
   label: "Xamarin.Forms (Microsoft)"
   style: {
-    fill: "#e0f0ff"
-    stroke: "#0078d4"
+    fill: ${colors.cross}
+    stroke: ${colors.ms}
+    stroke-dash: 6
   }
 }
 MAUI: {
   label: ".NET MAUI (Microsoft)"
   style: {
-    fill: "#e0f0ff"
-    stroke: "#0078d4"
+    fill: ${colors.cross}
+    stroke: ${colors.ms}
   }
 }
 Blazor: {
   label: "Blazor (Microsoft)"
   style: {
-    fill: "#e0f0ff"
-    stroke: "#0078d4"
+    fill: ${colors.cross}
+    stroke: ${colors.ms}
   }
 }
 MAUI_Blazor: {
   label: "MAUI Blazor Hybrid (Microsoft)"
   style: {
-    fill: "#e0f0ff"
-    stroke: "#0078d4"
+    fill: ${colors.cross}
+    stroke: ${colors.ms}
   }
 }
 XWT: {
   label: "xwt (Mono)"
   style: {
-    fill: "#e0f0ff"
+    fill: ${colors.cross}
     stroke-dash: 6
   }
 }
-
 Eto_Forms: {
   label: "Eto.Forms (OSS)"
   style: {
-    fill: "#e0f0ff"
+    fill: ${colors.cross}
   }
 }
-
 GTK: {
   label: "GTK# (OSS)"
   style: {
-    fill: "#e0f0ff"
+    fill: ${colors.cross}
   }
 }
 
-MonoMac: {
-  label: "MonoMac (Mono)"
+WPF -> Avalonia_UI: "inspired approach" {
+  style: {stroke-dash: 4}
+}
+WPF -> Silverlight: "derived subset" {
+  style: {stroke-dash: 4}
+}
+Silverlight <-> Moonlight: {
+  style.stroke: red
+  style.stroke-dash: 4
+}
+Silverlight -> OpenSilver
+Moonlight -> OpenSilver
+WPF -> UWP: "inspired approach" {
+  style: {stroke-dash: 4}
+}
+UWP -> WinUI
+WinUI <-> Uno: {
   style: {
-    fill: "#ecc9ed"
-    stroke-dash: 6
+    stroke: red
+    stroke-dash: 4
   }
 }
-
-DotNet_macOS: {
-  label: ".NET for macOS (Microsoft)"
+WPF -> Avalonia_XPF
+Avalonia_UI <-> Avalonia_XPF: "shared rendering engine" {
   style: {
-    fill: "#ecc9ed"
+    stroke: orange
+    stroke-dash: 4
   }
 }
-
-WPF -> Silverlight: "derived subset"
-Silverlight -> Moonlight: "open source implementation"
-Moonlight -> OpenSilver: "modern successor"
-Silverlight -> OpenSilver: "modern successor"
-WPF -> UWP: "platform successor"
-UWP -> WinUI: "succeeded by"
-WinUI -> Uno: "API-compatible cross-platform"
-WPF -> Avalonia_XPF: "WPF compatibility layer"
-Avalonia_UI -> Avalonia_XPF: "shared rendering engine"
-WinUI -> MAUI: "Windows backend"
-Xamarin_Forms -> MAUI: "evolved into"
-MAUI -> MAUI_Blazor: "hosts Blazor WebView"
-Blazor -> MAUI_Blazor: "special hosting"
-XWT -> Xamarin_Forms: "inspired approach"
-WinForms -> Eto_Forms: "Windows backend"
-WPF -> Eto_Forms: "Windows backend"
-WPF -> XWT: "Windows backend"
-MonoMac -> DotNet_macOS: "evolved into"
-MonoMac -> xwt: "macOS backend"
-MonoMac -> Xamarin_Forms: "macOS backend"
-MonoMac -> Eto_Forms: "macOS backend"
-DotNet_macOS -> Eto_Forms: "macOS backend"
-Gtk -> Xamarin_Forms: "Linux backend"
-Gtk -> Eto_Forms: "Linux backend"
-Gtk -> MAUI: "Linux backend"
-Gtk -> XWT: "Linux backend"
+WinUI -> MAUI: {
+  style: {stroke-dash: 6}
+  target-arrowhead.shape: circle
+}
+Xamarin_Forms -> MAUI
+MAUI -> MAUI_Blazor: "hosting" {
+  style: {stroke-dash: 4}
+}
+Blazor -> MAUI_Blazor: "embedded" {
+  style: {stroke-dash: 4}
+}
+XWT -> Xamarin_Forms: "inspired approach" {
+  style: {stroke-dash: 4}
+}
+WinForms -> Eto_Forms: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+WPF -> Eto_Forms: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+WPF -> XWT: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+WPF -> Xamarin_Forms: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+MonoMac -> DotNet_macOS
+MonoMac -> XWT: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+MonoMac -> Xamarin_Forms: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+MonoMac -> Eto_Forms: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+DotNet_macOS -> Eto_Forms: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+GTK -> Xamarin_Forms: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+GTK -> Eto_Forms: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+GTK -> MAUI: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+GTK -> XWT: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
 ```
 Figure 1: Inheritance Relationships Among .NET UI Frameworks.
 
