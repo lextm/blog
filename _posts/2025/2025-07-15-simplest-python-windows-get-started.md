@@ -120,7 +120,7 @@ There are many popular tools to explore:
 - **poetry**: Modern dependency and packaging manager for Python ([docs][poetry-docs]).
 - **uv**: A fast Python package installer and environment manager ([docs][uv-docs]).
 
-But personally I think `uv` is a complete solution for all your needs and the easiest way to get started with Python on Windows, so I wrote [a separate guide about it]({% post_url 2025/2025-01-26-uv-python-windows-get-started %}).
+But personally I think `uv` is a complete solution for all your needs and the easiest way to get started with Python on Windows, so I wrote [a separate guide about it]({% post_url 2025/2025-11-22-getting-started-python-uv-windows %}).
 
 ### Conclusion
 
