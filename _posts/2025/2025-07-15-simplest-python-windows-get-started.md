@@ -16,6 +16,8 @@ Getting started with Python on Windows can be confusing, especially with multipl
 
 <!--more-->
 
+BTW, you can skip this post and jump to my [latest guide on using `uv` for Python on Windows]({% post_url 2025/2025-11-22-getting-started-python-uv-windows %}), which provides a modern and streamlined approach for all your Python needs.
+
 ### Why Use Python on Windows?
 
 Python is a powerful, easy-to-learn programming language used for automation, data analysis, web development, and more. Windows users can take advantage of Python’s versatility for both personal and professional projects.
@@ -95,6 +97,10 @@ This method is especially helpful if you have multiple Python versions installed
 - **IDLE**: Comes with Python. Find it in the Start Menu.
 - **VS Code**: Download from [Visual Studio Code][vscode-download] and install the [Python extension][vscode-python]. Then finish this great [get started guide][vscode-python-get-started] to set up Python development.
 
+### Why not `py`?
+
+The `py` launcher is a convenient way to manage multiple Python versions on Windows. However, it might not be installed by default with all Python installations, especially if you choose a custom installation. Besides, learning a tool with very limited capabilities means that you need to find and learn another tool later when you want to do more advanced things.
+
 ### Troubleshooting: Windows Store Python & PATH Issues
 
 If you see errors like “Python not found” or a Microsoft Store window opens when you type `python`, you may have the Windows Store “app execution alias” enabled. To fix:
@@ -107,13 +113,14 @@ If you see errors like “Python not found” or a Microsoft Store window opens 
 
 Once you're comfortable running Python scripts, you'll want to learn about virtual environments. Virtual environments let you isolate project dependencies, making your Python work more reliable and organized.
 
-Popular tools to explore next:
+There are many popular tools to explore:
 
+- **pyenv-win**: Manage multiple Python versions on Windows ([docs][pyenv-win-docs]).
 - **venv**: Built-in tool for creating virtual environments ([docs][venv-docs]).
 - **poetry**: Modern dependency and packaging manager for Python ([docs][poetry-docs]).
 - **uv**: A fast Python package installer and environment manager ([docs][uv-docs]).
 
-These tools help you avoid dependency conflicts and keep your projects tidy. Check out their documentation to level up your Python workflow!
+But personally I think `uv` is a complete solution for all your needs and the easiest way to get started with Python on Windows, so I wrote [a separate guide about it]({% post_url 2025/2025-01-26-uv-python-windows-get-started %}).
 
 ### Conclusion
 
@@ -127,4 +134,5 @@ Have questions or tips to share? Leave a comment below—your feedback helps oth
 [vscode-python-get-started]: https://code.visualstudio.com/docs/python/python-quick-start
 [venv-docs]: https://docs.python.org/3/library/venv.html
 [poetry-docs]: https://python-poetry.org/docs/
+[pyenv-win-docs]: https://github.com/pyenv-win/pyenv-win
 [uv-docs]: https://github.com/astral-sh/uv#readme
