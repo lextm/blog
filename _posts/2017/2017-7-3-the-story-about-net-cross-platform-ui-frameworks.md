@@ -108,6 +108,14 @@ MonoMac: {
     stroke-dash: 6
   }
 }
+Xamarin_Mac: {
+  label: "Xamarin.Mac (Microsoft)"
+  style: {
+    fill: ${colors.mac}
+    stroke: ${colors.ms}
+    stroke-dash: 6
+  }
+}
 DotNet_macOS: {
   label: ".NET for macOS (Microsoft)"
   style: {
@@ -261,16 +269,25 @@ WPF -> Xamarin_Forms: {
   style: {stroke-dash: 4}
   target-arrowhead.shape: circle
 }
-MonoMac -> DotNet_macOS
+MonoMac -> Xamarin_Mac
+Xamarin_Mac -> DotNet_macOS
 MonoMac -> XWT: {
   style: {stroke-dash: 4}
   target-arrowhead.shape: circle
 }
-MonoMac -> Xamarin_Forms: {
+Xamarin_Mac -> XWT: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+Xamarin_Mac -> Xamarin_Forms: {
   style: {stroke-dash: 4}
   target-arrowhead.shape: circle
 }
 MonoMac -> Eto_Forms: {
+  style: {stroke-dash: 4}
+  target-arrowhead.shape: circle
+}
+Xamarin_Forms -> Eto_Forms: {
   style: {stroke-dash: 4}
   target-arrowhead.shape: circle
 }
