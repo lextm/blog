@@ -20,6 +20,11 @@ The .NET ecosystem offers numerous UI frameworks for developing cross-platform G
 Some relationships among these frameworks can be illustrated as below,
 
 ```d2
+vars: {
+  d2-config: {
+    layout-engine: elk
+  }
+}
 direction: down
 
 WinForms: {
@@ -121,6 +126,7 @@ XWT: {
   label: "xwt (Mono)"
   style: {
     fill: "#e0f0ff"
+    stroke-dash: 6
   }
 }
 
@@ -141,15 +147,15 @@ GTK: {
 MonoMac: {
   label: "MonoMac (Mono)"
   style: {
-   fill: "#ecc9ed"
-   stroke-dash: 6
+    fill: "#ecc9ed"
+    stroke-dash: 6
   }
 }
 
 DotNet_macOS: {
   label: ".NET for macOS (Microsoft)"
   style: {
-   fill: "#ecc9ed"
+    fill: "#ecc9ed"
   }
 }
 
@@ -169,10 +175,16 @@ Blazor -> MAUI_Blazor: "special hosting"
 XWT -> Xamarin_Forms: "inspired approach"
 WinForms -> Eto_Forms: "Windows backend"
 WPF -> Eto_Forms: "Windows backend"
+WPF -> XWT: "Windows backend"
 MonoMac -> DotNet_macOS: "evolved into"
+MonoMac -> xwt: "macOS backend"
+MonoMac -> Xamarin_Forms: "macOS backend"
+MonoMac -> Eto_Forms: "macOS backend"
+DotNet_macOS -> Eto_Forms: "macOS backend"
 Gtk -> Xamarin_Forms: "Linux backend"
 Gtk -> Eto_Forms: "Linux backend"
 Gtk -> MAUI: "Linux backend"
+Gtk -> XWT: "Linux backend"
 ```
 Figure 1: Inheritance Relationships Among .NET UI Frameworks.
 
