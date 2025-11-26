@@ -109,6 +109,11 @@ If you see errors like “Python not found” or a Microsoft Store window opens 
 2. Turn off the toggles for `python.exe` and `python3.exe` (They might show as App Installer items).
 3. Always use the full path to your installed Python, or launch from the Start Menu.
 
+> Note that there are more complicated errors related such settings, like
+> ```
+> Command '['X:\\Users\\xxxx\\AppData\\Local\\Microsoft\\WindowsApps\\python.EXE', '-EsSc', 'import sys; print(sys.executable)']' returned non-zero exit status 9009.
+> ```
+
 ### Next Steps: Virtual Environments and Better Python Management
 
 Once you're comfortable running Python scripts, you'll want to learn about virtual environments. Virtual environments let you isolate project dependencies, making your Python work more reliable and organized.
