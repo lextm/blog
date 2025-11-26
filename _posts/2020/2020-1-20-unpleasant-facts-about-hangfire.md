@@ -11,7 +11,7 @@ categories: [Frameworks and Libraries]
 title: Unpleasant Facts about Hangfire
 d2: true
 ---
-When people choose to use a framework, they are not only enjoying the benefits it brings, but also take ownership of the evil associated. Hangfire is one of such frameworks, so be caution.
+When people choose to use a framework, they are not only enjoying the benefits it brings, but also take ownership of the evil associated. Hangfire is one of such frameworks with problematic default configuration, so be caution.
 <!--more-->
 
 ## The Thread Model: Hangfire Threads are Aliens
@@ -58,11 +58,12 @@ Well, [Hangfire documentation](https://docs.hangfire.io/en/latest/deployment-to-
 
 ## The Recommended Approaches
 
-If you don't mind all issues brought by Hangfire, keep using it.
+If you don't mind all issues brought by the default Hangfire configuration, keep using it.
 
-If you do want to go a more common way,
+If you do want to go a more reliable way,
 
-* On Windows Server machines, run scheduled tasks in a Windows service application.
+* Hangfire [allows you to run Hangfire server in a separate process](https://docs.hangfire.io/en/latest/background-processing/placing-processing-into-another-process.html), which is a better approach.
+* You can develop your own Windows service application on Windows Server machines to run scheduled tasks if you like.
 * On a cloud platform such as AWS/Azure, run scheduled tasks in the right service (Lambda or Azure Functions).
 
   > Azure App Service has a feature called WebJobs, which is also OK for certain simple scenarios.
