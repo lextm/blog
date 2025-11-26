@@ -9,7 +9,7 @@ title: The Story About .NET Cross Platform UI Frameworks
 ---
 > Disclaimer: All contents are based on my personal observation. Please leave a comment if you find anything incorrect, and I will revise it often.
 >
-> Current version was revised on Oct 27, 2025.
+> Current version was revised on Nov 25, 2025.
 
 The .NET ecosystem offers numerous UI frameworks for developing cross-platform GUI applications. This comprehensive guide examines the major frameworks available in 2025, analyzing their approaches, capabilities, and trade-offs to help you make an informed choice for your next project.
 
@@ -613,14 +613,12 @@ As of 2025, the two projects have taken divergent paths. The mono/xwt project ha
 
 > **Some Incomplete Information on Qt**
 >
-> I don't do much Qt programming, so my knowledge of this cross platform framework is limited.
+> I don't do much Qt programming, so my knowledge of this cross platform framework is limited. It is also not quite well supported on .NET/Mono due to the following challenges,
 >
-> It is also not quite well supported on .NET/Mono due to the following challenges,
->
-> - Its API is C++ based so very hard to wrap in C#/.NET. That's why libraries such as QtSharp cannot map all the functionality.
+> - Its API is C++ based so very hard to wrap in C#/.NET. That's why libraries such as QtSharp cannot easily map all the functionality.
 > - I cannot comment much on its rendering effect, but it seems to use custom rendering.
 > - Interestingly that Qt guys do develop their own markup language called QML.
-> - You might use QtSharp to develop a Qt app, and a new project called [Qml.Net](https://github.com/pauldotknopf/Qml.Net) is another option.
+> - You might use QtSharp to develop a Qt app, or [Qml.Net](https://github.com/pauldotknopf/Qml.Net) but neither of them is mature enough or up-to-date with the latest Qt releases.
 
 ## Electron Related Solutions
 
