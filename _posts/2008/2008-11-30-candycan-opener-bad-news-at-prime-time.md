@@ -3,7 +3,7 @@ description: This post is about my departure from the Code Beautifier Collection
 excerpt_separator: <!--more-->
 layout: post
 permalink: /candycan-opener-bad-news-at-prime-time-b9f0478bfe78
-tags: asp.net delphi
+tags: asp.net delphi code-beautifier-collection open-source
 categories: [Frameworks and Libraries]
 title: 'CandyCan Opener: Bad News at Prime Time'
 ---

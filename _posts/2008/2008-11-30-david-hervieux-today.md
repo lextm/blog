@@ -12,7 +12,7 @@ Well, it is always sad to say goodbye, especially when I have to stop my work on
 
 So I navigated to SBT page again, and found a link to Devolutions inc . This is David's own company and provides free products as well as a few commercial utilities.
 
-At last on LinkedIn, I found David's profile . Hope he is not surprised to received such a mail :)
+At last on LinkedIn, I found David's profile. Hope he is not surprised to received such a mail :)
 
 ``` text
 Hi David,
