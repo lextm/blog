@@ -6,7 +6,7 @@ image:
   alt: DotUninstall Social Preview.
   path: https://github.com/lextudio/dotuninstall/raw/main/social-preview.png
 tags: .net microsoft
-categories: [Programming Languages and Frameworks]
+categories: [Tools and Platforms]
 excerpt_separator: <!--more-->
 ---
 

@@ -6,7 +6,7 @@ image:
   path: /images/office-lights-downtown-toronto.jpg
   alt: Copyright © Lex Li. Office lights glowing over downtown Toronto at dusk.
 tags: python windows
-categories: [tools]
+categories: [Tools and Platforms]
 excerpt_separator: "<!--more-->"
 ---
 
