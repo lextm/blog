@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Get started with Python on Windows using uv"
+title: "Get Started with Python on Windows Using uv"
 description: "Learn how to install uv on Windows, manage CPython versions, bootstrap a project, add dependencies, and run scripts with uv run and uv sync."
 image:
   path: /images/office-lights-downtown-toronto.jpg
   alt: Copyright © Lex Li. Office lights glowing over downtown Toronto at dusk.
-tags: [python, windows, tooling]
+tags: python windows
 categories: [tools]
 excerpt_separator: "<!--more-->"
 ---
