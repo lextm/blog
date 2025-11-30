@@ -14,6 +14,8 @@ You might often try to install latest .NET bits like SDKs and runtimes on your W
 
 <!--more-->
 
+> Here .NET 8.0.3 is just an example. You might see other versions like .NET 8.x, .NET 9.x, and .NET 10.x. The missing component could be `dotnet-host`, `dotnet-hostfxr`, `dotnet-runtime`, or `aspnetcore-runtime`, depending on what you are installing or uninstalling.
+
 ## Why Windows suddenly wants an MSI
 
 Every .NET runtime, hosting bundle, or desktop runtime for Windows is ultimately installing tons of MSI packages. The EXE you download from Microsoft is a Burn bootstrapper that chains several MSIs (host, hostfxr, runtime, and sometimes ASP.NET Core module). During installation, Windows Installer copies each MSI into the default cache such as `C:\ProgramData\Package Cache\{ProductCode}\`. If that cache entry is deleted (by cleanup tools, manual disk scrubs, or drive restores), any later repair, update, or uninstall will prompt for the original MSI.
