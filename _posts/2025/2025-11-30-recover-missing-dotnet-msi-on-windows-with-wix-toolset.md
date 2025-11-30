@@ -50,4 +50,4 @@ You can find the extracted MSIs in the `.\cached` folder now. Note that [you can
 
 ## Side Note
 
-Now you know how to extract MSIs from .NET installers, you might still wonder why the cached MSIs are missing in the first place. The reason is that many disk cleanup tools (including built-in Disk Cleanup utility) consider those cached MSIs as temporary files, and delete them to free up disk space. And if you are not sure whether a cleanup tool will delete those cached MSIs, you'd better avoid it completely, or back them up to another location before running the cleanup.
+Now you know how to extract MSIs from .NET installers, you might still wonder why the cached MSIs are missing in the first place. The reason is that third party disk cleanup tools consider those cached MSIs as temporary files, and delete them to free up disk space. And if you are not sure whether a cleanup tool will delete those cached MSIs, you'd better avoid it completely, or back them up to another location before running the cleanup.
