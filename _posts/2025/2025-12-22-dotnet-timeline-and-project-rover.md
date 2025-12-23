@@ -5,6 +5,9 @@ description: "Project Rover 是作者在为《.NET 传奇》查资料与整理�
 tags: .net open-source macos linux windows
 categories: [Tools and Platforms]
 excerpt_separator: "<!--more-->"
+image:
+	path: https://github.com/lextudio/ProjectRover/blob/master/projectrover-social-v6.png?raw=true
+	alt: Project Rover
 ---
 
 其实2024年底开始，自己就进入了《.NET 传奇》第二版的写作阶段，也在自己的微信公众号上稍微做了一点点预告。但是2025年间发生了太多计划之外的变故，心情也随着这些起起伏伏，写书的进展就不像第一版那样一气呵成。不过临近年底，终于还是把书的整体框架和大部分章节内容都整理出来了，也顺便孵化了几个有意思的项目，这里就给大家做一下介绍。
