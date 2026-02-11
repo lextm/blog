@@ -6,7 +6,7 @@ image:
   path: /images/competitiveness-prosperity.jpg
 layout: post
 permalink: /how-i-set-up-visual-studio-code-remote-with-multipass-on-macos-674ce00956d1
-tags: linux macos visual-studio-code ubuntu
+tags: linux macos visual-studio-code
 categories: [Operating Systems]
 title: How I Set Up Visual Studio Code Remote with Multipass on macOS
 ---
