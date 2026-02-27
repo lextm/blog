@@ -6,7 +6,7 @@ tags: .net open-source macos linux windows
 categories: [Tools and Platforms]
 excerpt_separator: "<!--more-->"
 image:
-  path: https://github.com/lextudio/ProjectRover/raw/master/projectrover-social-v6.png
+  path: https://github.com/lextudio/ProjectRover/raw/master/images/social.png
   alt: Project Rover Social Preview
 ---
 
