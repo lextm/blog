@@ -5,9 +5,6 @@ description: "This post shares the real engineering story behind Obfuscar 3.0: w
 tags: .net csharp open-source obfuscar
 categories: [Programming Languages]
 excerpt_separator: "<!--more-->"
-image:
-  path: /images/obfuscar-in-ilspy.png
-  alt: Obfuscar inspected in ILSpy.
 ---
 
 If you have followed Obfuscar for a while, you probably remember that 2.2 lasted much longer than many people expected. It kept receiving practical fixes, and I also wrote about some details along the way, such as [global tool support]({% post_url 2018/2018-3-9-make-obfuscar-a-global-tool-in-net-core %}) and [local-variable expectations]({% post_url 2022/2022-12-27-obfuscar-question-on-local-variables %}).
