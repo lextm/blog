@@ -5,6 +5,9 @@ description: "Microsoft’s push for modern .NET networking (ASP.NET Core/Kestre
 tags: .net snmp open-source csharp
 categories: [Programming Languages]
 excerpt_separator: "<!--more-->"
+image:
+  path: /images/cibc-square-after-rain.jpg
+  alt: Copyright © Lex Li. CIBC Square after rain in Toronto.
 ---
 
 The v12 line of #SNMP Library has been reliable for years. It was already modernized in the 12.5 era when Microsoft improved the runtime significantly in .NET 6, and for most users it simply worked. So why did we decide to do v13 at all?
