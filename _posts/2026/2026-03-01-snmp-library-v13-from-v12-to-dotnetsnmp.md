@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#SNMP Library 13.0: Why v13 Matters in the Age of Modern .NET Networking"
+title: "C# SNMP Library 13.0: Why v13 Matters in the Age of Modern .NET Networking"
 description: "Microsoft’s push for modern .NET networking (ASP.NET Core/Kestrel) made a new foundation practical for v13, enabled SNMP over TCP, and turned a risky rewrite into a meaningful step forward."
 tags: .net snmp open-source csharp
 categories: [Programming Languages]
@@ -10,7 +10,7 @@ image:
   alt: Copyright © Lex Li. CIBC Square after rain in Toronto.
 ---
 
-The v12 line of #SNMP Library has been reliable for years. It was already modernized in the 12.5 era when Microsoft improved the runtime significantly in .NET 6, and for most users it simply worked. So why did we decide to do v13 at all?
+The v12 line of C# SNMP Library has been reliable for years. It was already modernized in the 12.5 era when Microsoft improved the runtime significantly in .NET 6, and for most users it simply worked. So why did we decide to do v13 at all?
 
 Over the last few years, Microsoft has poured real effort into modern networking on .NET. If you build services on ASP.NET Core and Kestrel, you’ve seen it: better performance, better diagnostics, better primitives, and a clearer path for building high-throughput network servers without living in a swamp of legacy APIs.
 
@@ -59,16 +59,16 @@ Since v13 was built upon DotNetSnmp with its own set of public APIs, we have to 
 
 The final performance story is better than I expected: v13 shows major gains in almost all measured paths.
 
-In the full matrix runs, representative `v13 beta 2` numbers versus local v12 showed:
+In the full matrix runs, representative `v13 beta 2` numbers versus v12 showed:
 
-- `ParseV1`: about `-76.87%` latency, `-83.49%` allocation
-- `ParseV2`: about `-76.22%` latency, `-83.52%` allocation
-- `ParseV3Auth`: about `-50.99%` latency, `-69.57%` allocation
-- `ParseMixedBatch`: about `-72.57%` latency, `-77.69%` allocation
-- `DataFactoryV2`: about `-92.51%` latency, `-92.73%` allocation
-- `EncodeV2Get`: about `-38.49%` latency, `-73.02%` allocation
-
-Yes, there was an early SNMPv3 authenticated parse hotspot during migration. But once profiling identified repeated key-localization work in the auth/priv path, a localized-key cache fixed that bottleneck and brought v13 back to expected performance levels.
+| Test Name | Latency | Allocation |
+|-----------|---------|-----------|
+| ParseV1 | -76.87% | -83.49% |
+| ParseV2 | -76.22% | -83.52% |
+| ParseV3Auth | -50.99% | -69.57% |
+| ParseMixedBatch | -72.57% | -77.69% |
+| DataFactoryV2 | -92.51% | -92.73% |
+| EncodeV2Get | -38.49% | -73.02% |
 
 The practical takeaway is clear: this rewrite did not just modernize architecture. It also delivered measurable speed and allocation improvements where users spend most of their runtime.
 
