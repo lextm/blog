@@ -1,5 +1,6 @@
 - When generating a new blog post in this project:
 
+  - No need to call tools to build the pages with jekyll or run a local server. Just create the markdown file with the correct front matter and content, and it will be picked up by the build process when merged.
   - Use the correct front matter format: include `layout`, `title`, `description`, `tags`, `categories`, and `excerpt_separator`.
   - Place the new post in the appropriate `_posts/YYYY/` folder, using the filename format `YYYY-MM-DD-title.md` with zero-padded month and day (e.g., `2025-07-26` not `2025-7-26`).
   - Write a long, SEO-friendly summary in the `description` field that clearly explains the post's topic and value.
@@ -28,3 +29,4 @@
       ```
 
     - For external images, `path` can be a full URL.
+    - Follow images-posts.md guidelines for image selection and record keeping.
