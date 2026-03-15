@@ -26,7 +26,7 @@ This open source [MediaPlayer](https://github.com/wieslawsoltes/MediaPlayer) pro
 
 [ProDataGrid](https://github.com/wieslawsoltes/ProDataGrid) is a fork that addresses gaps many desktop developers encounter. Maintained by Wiesław Šoltés under the MIT license, it evolves independently from Avalonia’s built-in DataGrid. [TreeDataGrid](https://github.com/wieslawsoltes/TreeDataGrid) is another component in the same ecosystem.
 
-The inclusion of ProDiagnostics, an open source DevTools, matters too, because debugging layout, binding, and control behavior is where teams spend the most time in complex Avalonia codebases. ProDiagnostics includes features like 3D exploded view, unexpected sophistication for what started as a community fork.
+The inclusion of ProDiagnostics DevTools matters too, because debugging layout, binding, and control behavior is where teams spend the most time in complex Avalonia codebases. ProDiagnostics includes features like 3D exploded view, unexpected sophistication for what started as a community fork.
 
 ### Visual Studio extension
 
