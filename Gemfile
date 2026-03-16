@@ -6,6 +6,9 @@ gemspec
 
 gem "html-proofer", "~> 5.0", group: :test
 
+# Retry middleware for Faraday (silences advisory message)
+gem 'faraday-retry'
+
 platforms :windows, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
