@@ -389,6 +389,24 @@ main {
   text-align: center;
 }
 
+/* d2 */
+.d2-diagram {
+  overflow: auto;
+  text-align: center;
+
+  svg {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.d2-error {
+  color: var(--bs-danger);
+  font-size: 0.9rem;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
 /* MathJax */
 mjx-container {
   overflow-y: hidden;

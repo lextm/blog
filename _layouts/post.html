@@ -122,6 +122,10 @@ script_includes:
   {% endif %}
 
   <div class="content">
+    {% if page.snmp_banner or page.tags contains "SNMP" or page.tags contains "snmp" %}
+      {% include snmp-banner.html %}
+    {% endif %}
+
     {{ content }}
   </div>
 
@@ -175,4 +179,5 @@ script_includes:
     <!-- .post-tail-bottom -->
   </div>
   <!-- div.post-tail-wrapper -->
+  {% include advertisement.html %}
 </article>

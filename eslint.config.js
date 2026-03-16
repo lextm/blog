@@ -27,6 +27,8 @@ export default defineConfig([
         Theme: 'readonly',
         dayjs: 'readonly',
         mermaid: 'readonly',
+        d2: 'readonly',
+        D2: 'readonly',
         tocbot: 'readonly',
         swconf: 'readonly'
       }
