@@ -20,13 +20,15 @@ This post is a straightforward map of options. It focuses on practical tools you
 
 The community has already shipped viable alternatives for several common gaps. Many of these projects are in active use and are being maintained.
 
-### MediaPlayer, DataGrid, TreeDataGrid and DevTools
+### MediaPlayer, DataGrid, TreeDataGrid, PackagingTools and DevTools
 
 This open source [MediaPlayer](https://github.com/wieslawsoltes/MediaPlayer) provides media playback building blocks for Avalonia, with multiple backend options and a reusable sample application layer.
 
 [ProDataGrid](https://github.com/wieslawsoltes/ProDataGrid) is a fork that addresses gaps many desktop developers encounter. Maintained by Wiesław Šoltés under the MIT license, it evolves independently from Avalonia’s built-in DataGrid. [TreeDataGrid](https://github.com/wieslawsoltes/TreeDataGrid) is another component in the same ecosystem.
 
-The inclusion of ProDiagnostics DevTools matters too, because debugging layout, binding, and control behavior is where teams spend the most time in complex Avalonia codebases. ProDiagnostics includes features like 3D exploded view, unexpected sophistication for what started as a community fork.
+If you want flexibility and easiness to publish your app to multiple platforms in various formats, [PackagingTools](https://github.com/wieslawsoltes/PackagingTools) is there to help and free you from paying for a commercial packaging solution. It supports most popular formats like MSIX, AppImage, and more.
+
+The inclusion of ProDiagnostics DevTools matters too, because debugging layout, binding, and control behavior is where teams spend the most time in complex Avalonia codebases. ProDiagnostics includes features like remote control and 3D exploded view, unexpected sophistication for what started as a community fork.
 
 ### Visual Studio extension
 
