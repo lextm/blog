@@ -42,6 +42,8 @@ It can be useful for developers who prefer an open, community-maintained extensi
 
 The fork gains users because it is open, responsive, and does not require registration. There is also ongoing work in the ecosystem on alternative language-server approaches, which is the kind of infrastructure that can benefit everyone when it is shared.
 
+Wiesław Šoltés doesn't only write the new and modern AXAML language server, but also a new Hot Reload engine, live previewer, and MCP server. [He plans to bundle all in a new open-source extension for Visual Studio Code to replace this fork](https://github.com/wieslawsoltes/XamlToCSharpGenerator), so the future looks much brighter.
+
 ### What if hitting issues?
 
 When you hit a blocker with any of these tools, you can file issues and contribute fixes via pull requests. These projects are community-driven and typically move on community timelines rather than a commercial roadmap.
