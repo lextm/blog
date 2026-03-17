@@ -6,8 +6,8 @@ tags: .net open-source documentation
 categories: [Tools and Platforms]
 excerpt_separator: <!--more-->
 image:
-  path: /images/documentation.png
-  alt: "API Documentation illustration"
+  path: /images/cn-tower-through-glass-raindrop.jpg
+  alt: Copyright © Lex Li. CN Tower seen through glass and raindrops, Toronto.
 ---
 
 A few community projects in the Avalonia ecosystem started using Lunet for .NET documentation generation, so I began experimenting with it for C# SNMP Library. I quickly realized that while Lunet can extract and shape API-oriented content, it doesn't solve the broader problem of how .NET projects can generate documentation that is easy to customize. Lunet itself is a broader static site and documentation tool built around Scriban templates, not just an API extractor, and in my experiments I still found its theming and customization story too limited for what I wanted.
