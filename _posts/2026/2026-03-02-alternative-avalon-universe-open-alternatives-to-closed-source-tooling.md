@@ -28,45 +28,59 @@ This open source [MediaPlayer](https://github.com/wieslawsoltes/MediaPlayer) pro
 
 The inclusion of ProDiagnostics DevTools matters too, because debugging layout, binding, and control behavior is where teams spend the most time in complex Avalonia codebases. ProDiagnostics includes features like remote control and 3D exploded view, unexpected sophistication for what started as a community fork.
 
-### Visual Studio extension
+### Legacy Visual Studio/VS Code extensions
+
+#### Visual Studio
 
 [AXAML Viewer](https://marketplace.visualstudio.com/items?itemName=SuessLabs.Avalonia-Lite-VS) is an open fork of the legacy Visual Studio extension.
 
 It can be useful for developers who prefer an open, community-maintained extension rather than a registered or paid workflow.
 
-### VS Code extension
+#### VS Code
 
 [VS Code Tools for AXAML](https://marketplace.visualstudio.com/items?itemName=lextudio.vscode-axaml) continues development in the open. It has addressed [many issues](https://github.com/lextudio/vscode-axaml/issues/1) that users reported over time.
 
 The fork gains users because it is open, responsive, and does not require registration. There is also ongoing work in the ecosystem on alternative language-server approaches, which is the kind of infrastructure that can benefit everyone when it is shared.
 
-Wiesław Šoltés doesn't only write the new and modern AXAML language server, but also a new Hot Reload engine, live previewer, and MCP server. [He plans to bundle all in a new open-source extension for Visual Studio Code to replace this fork](https://github.com/wieslawsoltes/XamlToCSharpGenerator), so the future looks much brighter.
+### AXSG Tooling
+
+[AXSG Tooling is shipping a new extension](https://marketplace.visualstudio.com/items?itemName=wieslawsoltes.axsg-language-server), but right now it needs projects to fully migrate to AXSG to work.
+
+XAML Source Generator (XSG) is relatively a new concept. Uno Platform and MAUI are exploring it heavily. [Wiesław Šoltés is building an open-source AXSG implementation that targets the open source Avalonia framework.](https://github.com/wieslawsoltes/XamlToCSharpGenerator) Like the default XamlX/XamlIl tooling, AXSG is pluggable and can be used in parallel with the existing XAML toolchain. It is designed to be a drop-in replacement for the XAML compilation step, generating C# code directly from AXAML files. This doesn't only bring in a new and modern AXAML language server, but also a new Hot Reload engine, live previewer, and MCP server.
+
+AXSG started with VS Code, but we can see a clear way to support Visual Studio and Rider as well. The architecture is designed to be flexible and adaptable to different IDEs and build systems.
 
 ### What if hitting issues?
 
 When you hit a blocker with any of these tools, you can file issues and contribute fixes via pull requests. These projects are community-driven and typically move on community timelines rather than a commercial roadmap.
 
-## Emerging alternatives to Avalonia
+### What about fragmentation?
+
+If “fragmentation” means “anything not authored or approved by the vendor,” what does open source mean in practice?
+
+People make real decisions based on what’s publicly supported and where investment is going. If official tooling is moving toward closed or registered paths, it’s natural that the community explores alternatives. That isn’t hostility. It’s how open ecosystems adapt.
+
+## Emerging alternative frameworks to Avalonia
 
 If you are evaluating whether Avalonia is still the right choice, consider these frameworks:
+
+### MAUI
+
+Microsoft's [MAUI](https://dotnet.microsoft.com/en-us/maui) remains a solid choice for cross-platform desktop and mobile development. It has commercial backing, clear licensing (MIT). Microsoft continues to improve it in each major .NET release, and XSG based tooling is being developed to enrich the MAUI ecosystem.
+
+### WPF
+
+For Windows-only applications, [WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) remains mature and stable. It will not run on Linux or macOS, but if your target is Windows, the ecosystem is deep and well-documented. The XSG tooling for WPF is also possible, but depends on anyone's willingness to support it in the open.
+
+### Uno Platform
+
+If registration isn't a problem for you, or you can work without commercial tooling, [Uno Platform](https://platform.uno/) is another option for building cross-platform applications with a single codebase.
 
 ### MewUI
 
 [MewUI](https://dev.to/al6uiz/i-wanted-to-ship-a-gui-without-the-net-runtime-two-months-with-mewui-a-cross-platform-ui-17ae) is an AI-native cross-platform UI framework built around NativeAOT. It ships a single executable without requiring a .NET runtime installation, targets minimal deployment size, and already supports GDI, Direct2D, and OpenGL backends with Linux (X11) integration.
 
-MewUI represents a different philosophy: lightweight and NativeAOT-first. For small tools and utilities, it may be worth evaluating alongside Avalonia, Uno Platform, or MAUI.
-
-### MAUI
-
-Microsoft's [MAUI](https://dotnet.microsoft.com/en-us/maui) remains a solid choice for cross-platform desktop and mobile development. It has commercial backing, clear licensing (MIT). Microsoft continues to improve it in each major .NET release.
-
-### WPF
-
-For Windows-only applications, [WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) remains mature and stable. It will not run on Linux or macOS, but if your target is Windows, the ecosystem is deep and well-documented.
-
-### Uno Platform
-
-If registration isn't a problem for you, or you can work without commercial tooling, [Uno Platform](https://platform.uno/) is another option for building cross-platform applications with a single codebase.
+MewUI represents a different philosophy: lightweight, C# markup, and NativeAOT-first. For small tools and utilities, it may be worth evaluating alongside others.
 
 ## What you can do
 
@@ -76,8 +90,8 @@ If registration isn't a problem for you, or you can work without commercial tool
 - **DataGrid users:** Evaluate [ProDataGrid](https://github.com/wieslawsoltes/ProDataGrid) for your grid needs.
 - **TreeDataGrid users:** Migrate to [TreeDataGrid](https://github.com/wieslawsoltes/TreeDataGrid) for your tree grid needs.
 - **Dev Tools users:** Switch to ProDiagnostics, and see the magic it offers.
-- **New projects:** Consider whether Avalonia is still the right choice, or whether MewUI, MAUI, or WPF better fit your needs.
-- **Contributors:** The fork ecosystem needs maintainers, testers, and documentation writers. Even small contributions help establish these projects.
+- **New projects:** Consider whether Avalonia is still the right choice, or whether MAUI, WPF, Uno Platform, or MewUI better fit your needs.
+- **Contributors:** The fork ecosystem needs maintainers, testers, and advocates. Even tiny contributions help establish these projects.
 
 ## Closing thoughts
 
