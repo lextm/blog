@@ -10,9 +10,9 @@ image:
   alt: "VS Code Tools for WPF visual designer showing XAML editing and design-time preview"
 ---
 
-When VS Code first emerged as a serious development environment for .NET, it was designed with modern .NET in mind. Over time, a broader ecosystem of developers—working with .NET Framework, WPF, and other mature but "legacy" technologies—tried to use VS Code but found themselves navigating a fragmented tooling landscape. They faced competing extensions, unclear guidance about what to install, and gaps where no tool existed at all.
+When VS Code first emerged as a serious development environment for .NET, it was designed with modern .NET in mind. Over time, a broader ecosystem of developers (working with .NET Framework, WPF, and other mature but "legacy" technologies) tried to use VS Code but found themselves navigating a fragmented tooling landscape. They faced competing extensions, unclear guidance about what to install, and gaps where no tool existed at all.
 
-This fragmentation had consequences. Developers working on mature frameworks lost autonomy—locked into Visual Studio not because the framework needed it, but because the ecosystem around the framework made it the only practical choice. SharpDevelop 4 was a good alternative in the past, but it was archived and no longer maintained. The ecosystem of tools that once supported WPF development outside of Visual Studio had withered away, leaving a single dominant option. This is unhealthy for any ecosystem, but especially for mature frameworks like WPF that still have large user bases and active development.
+This fragmentation had consequences. Developers working on mature frameworks lost autonomy. They are locked into Visual Studio not because the framework needed it, but because the ecosystem around the framework made it the only practical choice. SharpDevelop 4 was a good alternative in the past, but it was archived and no longer maintained. The ecosystem of tools that once supported WPF development outside of Visual Studio had withered away, leaving a single dominant option. This is unhealthy for any ecosystem, but especially for mature frameworks like WPF that still have large user bases and active development.
 
 But that story is changing. This post explains how the fragmentation across modern .NET tooling created ecosystem confusion, how XAML support became a separate desert, and how assembling community-built components creates the integrated WPF experience that was missing.
 
@@ -58,7 +58,7 @@ VS Code provides syntax highlighting for XAML, but that's it. No IntelliSense fo
 
 Over the years, various projects attempted to fill this gap:
 
-- **OpenSilver** built a web-based XAML designer (targeting Silverlight API initially and filling WPF gaps bit by bit). It works for some scenarios but lacks full WPF-specific knowledge. Its developers intended to help WPF developers, but more to migrate to OpenSilver than to support WPF itself.
+- **OpenSilver** built a web-based XAML designer (targeting Silverlight API initially, filling WPF gaps bit by bit, but still a subset of WPF right now). It works for some scenarios but lacks full WPF-specific knowledge. Its developers intended to help WPF developers, but more to migrate to OpenSilver than to support WPF itself.
 - **Community language server experiments** tried to provide XAML IntelliSense by parsing XML and understanding type systems. Without framework-specific knowledge, the results were clunky and unreliable. One XML schema based attempt was nice for basic syntax but failed to understand WPF's complex property system, attached properties, and design-time behaviors.
 - **Individual extension attempts** tried to solve pieces of the problem. None matured into a comprehensive solution.
 
@@ -92,7 +92,7 @@ It's not lite integration we achieved. We innovated on the communication protoco
 
 ### Component 2: XSG Language Server for WPF XAML Semantics
 
-The extension integrates a custom build of [XSG Language Server](https://github.com/wieslawsoltes/XamlToCSharpGenerator) to provide semantic understanding of WPF XAML:
+The extension starts its WPF specific language server from a custom build of [XSG Language Server](https://github.com/wieslawsoltes/XamlToCSharpGenerator) to provide semantic understanding of WPF XAML:
 
 - Real-time XAML validation
 - IntelliSense for elements and properties
@@ -119,7 +119,7 @@ This is the opposite of vendor lock-in. The WPF extension is assembled from piec
 
 > **The component reuse pattern**: When you build tools from community components, you reduce duplication, increase surface area for contribution, and create clearer boundaries where different maintainers can focus on their specialty. The downside is integration complexity. But for mature, proven components, that trade-off is worth it.
 
-## Part 4: .NET Framework Support—WPF Developers Matter
+## Part 4: .NET Framework WPF Developers Matter
 
 VS Code Tools for WPF was built specifically for .NET Framework 4.0+, not as an afterthought to modern .NET support. This matters.
 
@@ -128,6 +128,10 @@ WPF applications remain in active development across enterprises. Thousands of t
 VS Code Tools for WPF demonstrates that building for .NET Framework developers is worth doing. It shows that mature frameworks can be tools-agnostic when the ecosystem commits to making them so. It proves that community-built components can fill the gaps that official tooling abandons.
 
 That's not a small statement.
+
+## Part 5: VB.NET and F# Developer Matter
+
+Even though VB.NET and F# developer communities are smaller than C#, they still deserve good tooling. The extension's architecture allows for support for VB.NET and F# XAML development to grow by extending XSG for WPF Toolset toward those languages. This is a long-term goal, and we already started exploring it.
 
 ## Getting Started with VS Code Tools for WPF
 
