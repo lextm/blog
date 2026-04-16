@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alternative Avalon Universe: Open Alternatives to Avalonia Accelerate"
+title: "Alternative Avalon Universe: Open Alternatives to Closed-Source Tooling"
 description: "A practical guide to community-built open alternatives for Avalonia development. Covers VS Code and Visual Studio extensions, DataGrid solutions, and emerging frameworks that offer clear licensing and governance."
 tags: .net open-source visual-studio visual-studio-code
 categories: [Tools and Platforms]
@@ -66,11 +66,15 @@ If you are evaluating whether Avalonia is still the right choice, consider these
 
 ### MAUI
 
-Microsoft's [MAUI](https://dotnet.microsoft.com/en-us/maui) remains a solid choice for cross-platform desktop and mobile development. It has commercial backing, clear licensing (MIT). Microsoft continues to improve it in each major .NET release, and XSG based tooling is being developed to enrich the MAUI ecosystem.
+Microsoft's [MAUI](https://dotnet.microsoft.com/en-us/maui) remains a solid choice for cross-platform desktop and mobile development. It has commercial backing, clear licensing (MIT). Microsoft continues to improve it in each major .NET release, and XSG based tooling is being developed to enrich the MAUI ecosystem:
+
+- [Simpler XAML syntax](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/) by Microsoft in .NET 10
+- [C# Expressions in XAML](https://github.com/dotnet/maui/blob/main/docs/specs/XamlCSharpExpressions.md) by Microsoft in .NET 11
+- [GTK4 based Linux support](https://github.com/Redth/Maui.Gtk) by a MAUI team member
 
 ### WPF
 
-For Windows-only applications, [WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) remains mature and stable. It will not run on Linux or macOS, but if your target is Windows, the ecosystem is deep and well-documented. The XSG tooling for WPF is also possible, but depends on anyone's willingness to support it in the open.
+For Windows-only applications, [WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) remains mature and stable. It will not run on Linux or macOS, but if your target is Windows, the ecosystem is deep and well-documented. [The XSG tooling for WPF is also being developed](https://github.com/lextudio/wxsg), but depends on anyone's willingness to support it in the open.
 
 ### Uno Platform
 
