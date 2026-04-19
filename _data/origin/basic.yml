@@ -11,9 +11,6 @@ toc:
 fontawesome:
   css: /assets/lib/fontawesome-free/css/all.min.css
 
-search:
-  js: /assets/lib/simple-jekyll-search/simple-jekyll-search.min.js
-
 mermaid:
   js: /assets/lib/mermaid/mermaid.min.js
 
