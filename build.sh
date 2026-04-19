@@ -77,4 +77,5 @@ else
 fi
 
 # Index site with Pagefind for client-side search (runs after Jekyll completes)
-npx pagefind --site _site
+# Continue build even if pagefind fails (fallback: search won't work but site deploys)
+npx pagefind --site _site || echo "Warning: Pagefind indexing failed, search may not work"
