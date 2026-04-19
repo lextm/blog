@@ -75,3 +75,6 @@ if [ "$FAST" -eq 1 ]; then
 else
   JEKYLL_ENV=production bundle exec jekyll build
 fi
+
+# Index site with Pagefind for client-side search (runs after Jekyll completes)
+npx pagefind --site _site
