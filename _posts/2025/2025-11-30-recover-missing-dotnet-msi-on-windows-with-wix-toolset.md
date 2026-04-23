@@ -26,6 +26,17 @@ The design of Windows Installer troubles many users, and now you cannot install 
 
 Since Microsoft used WiX Toolset 3.x before .NET 10 to build the installers, you can use the same tool to pull the embedded container apart.
 
+### Download from GitHub
+
+1. Follow [this link](https://github.com/wixtoolset/wix3/releases/download/wix3141rtm/wix314-binaries.zip) to download WiX Toolset 3.14 from GitHub.
+2. Extract the zip file and find `dark.exe` in the `bin` folder.
+
+   ```cmd
+   "C:\wix314-binaries\dark.exe" dotnet-hosting-8.0.3-win.exe -x .\cached
+   ```
+
+### (Alternative) Download via winget
+
 1. Install WiX Toolset 3.14 (`winget install WiXToolset.WixToolset`) and verify that it has been properly installed (default: `C:\Program Files (x86)\WiX Toolset v3.14\bin`).
 2. Extract the contents from the bootstrapper:
 
