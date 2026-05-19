@@ -1,5 +1,5 @@
 ---
-description: This post is about undocumented changes in Delphi IDE OTA.
+description: Describes undocumented Delphi IDE OTA changes and why they matter for developers.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /weird-or-not-undocumented-changes-in-ota-648b47d2db58

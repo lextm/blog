@@ -1,5 +1,5 @@
 ---
-description: This post is about the progress of HardQuery.
+description: Updates on HardQuery RC 5 and explains why the final release will ship later in April.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-rc-5-is-out-and-the-final-will-be-available-late-in-april-22bf25edde59

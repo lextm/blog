@@ -1,5 +1,5 @@
 ---
-description: This post is about whether RemObjects should purchase CodeGear Delphi.
+description: Discusses whether RemObjects should acquire CodeGear Delphi and compares the two Pascal toolchains.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /should-remobjects-purchase-codegear-delphi-ce7dace250b1

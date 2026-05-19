@@ -1,6 +1,5 @@
 ---
-description: This post reports the progress of HardQuery and changes in Source Navigator
-  feature.
+description: Reports HardQuery progress and details the new Source Navigator highlight feature.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-source-navigator-highlight-53186ae0900e

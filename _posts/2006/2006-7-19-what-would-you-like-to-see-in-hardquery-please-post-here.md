@@ -1,5 +1,5 @@
 ---
-description: This post talks how end users might request new features in HardQuery.
+description: Invites HardQuery users to request new features and share their feedback.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /what-would-you-like-to-see-in-hardquery-please-post-here-d3e977c3a93d

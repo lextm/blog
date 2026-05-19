@@ -1,5 +1,5 @@
 ---
-description: This post is about how to use Eclipse to make LaTeX documents.
+description: Explains how to use Eclipse for LaTeX document authoring and its workflow.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /latex-things-can-now-be-done-by-using-eclipse-9633f07255ef

@@ -1,5 +1,5 @@
 ---
-description: This post describes how different features are prioritized in HardQuery.
+description: Explains how HardQuery feature priorities are chosen and the rationale behind them.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-a-priority-list-3cc5649c8265

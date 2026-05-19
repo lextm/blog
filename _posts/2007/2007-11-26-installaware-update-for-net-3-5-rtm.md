@@ -1,5 +1,5 @@
 ---
-description: This post announces the release of InstallAware Update for .NET 3.5 RTM.
+description: Announces the InstallAware update for .NET 3.5 RTM and the quick release timing after VS 2008 RTM.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /installaware-update-for-net-3-5-rtm-e24d9b90a99b

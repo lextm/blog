@@ -1,6 +1,5 @@
 ---
-description: This post talks about ExtractNow, a small utility that can extract files
-  from archives.
+description: Reviews ExtractNow, a lightweight utility for extracting ZIP, RAR, and IMG archives.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-extractnow-9560d9950904

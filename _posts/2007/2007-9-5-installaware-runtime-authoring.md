@@ -1,5 +1,5 @@
 ---
-description: This post is about how to author InstallAware runtimes.
+description: Explains how to author InstallAware runtimes and bundle .NET installers into a single executable.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /installaware-runtime-authoring-ec8d08213f1c

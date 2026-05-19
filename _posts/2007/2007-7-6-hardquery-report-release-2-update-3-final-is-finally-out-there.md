@@ -1,5 +1,5 @@
 ---
-description: This post describes about HardQuery Report Release 2 Update 3.
+description: Announces HardQuery Report Release 2 Update 3 final and summarizes the implemented improvements.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-release-2-update-3-final-is-finally-out-there-b0835b9e84b7

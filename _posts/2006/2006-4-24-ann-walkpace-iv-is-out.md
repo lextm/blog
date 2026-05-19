@@ -1,5 +1,5 @@
 ---
-description: This post is about the final release of CBC 2 WalkPace.
+description: Announces the final release of CBC 2 WalkPace IV and its availability.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /ann-walkpace-iv-is-out-b57762d4b90

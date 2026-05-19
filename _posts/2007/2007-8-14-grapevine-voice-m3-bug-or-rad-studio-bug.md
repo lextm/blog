@@ -1,6 +1,5 @@
 ---
-description: This post talks about a bug in M3 installer, and also a bug related to
-  BDS.exe.
+description: Describes an M3 installer bug and a related BDS.exe issue found during GrapeVine testing.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-m3-bug-or-rad-studio-bug-53893c39d016

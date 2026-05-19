@@ -1,5 +1,5 @@
 ---
-description: This post describes the progress of HardQuery.
+description: Updates on HardQuery progress and the release of Milestone 8.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-milestone-8-e089de32a80a

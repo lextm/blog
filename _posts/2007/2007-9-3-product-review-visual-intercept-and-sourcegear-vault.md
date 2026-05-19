@@ -1,6 +1,5 @@
 ---
-description: This post talks about my experience with Visual Intercept and SourceGear
-  Vault.
+description: Reviews Visual Intercept and SourceGear Vault from the author's experience with .NET version control.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-visual-intercept-and-sourcegear-vault-5c4da5493a07

@@ -1,5 +1,5 @@
 ---
-description: This post talks about the Live Help feature in HardQuery.
+description: Describes HardQuery's Live Help feature and its planned improvements.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-live-help-feature-1a4f715bb324

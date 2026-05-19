@@ -1,5 +1,5 @@
 ---
-description: This post is about the latest build of N3 Update 1 RC 2.
+description: Announces that NixNewNer Update 1 RC 2 is ready and includes useful new features.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-nixnewner-update-1-rc-2-is-ready-8812b6fbcfae

@@ -1,5 +1,5 @@
 ---
-description: This post is about the contents inside the installer of CBC 2.0.
+description: Explains the contents included inside the CBC 2.0 installer and the use of Inno Setup.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /what-are-they-contents-inside-the-installer-rule-2-2cbdc7a9159f

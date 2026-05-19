@@ -1,5 +1,5 @@
 ---
-description: This post is about Plus File Format Version 2.
+description: Announces that Plus File Format Version 2 is ready and available today.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-plus-file-format-version-2-is-ready-9c21c653da0f

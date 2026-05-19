@@ -1,5 +1,5 @@
 ---
-description: This post is about NixNewNer Update 1 RC 3.
+description: Announces NixNewNer Update 1 RC 3 availability and highlights the latest build.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-nixnewner-update-1-rc-3-is-available-e843d2da79fb

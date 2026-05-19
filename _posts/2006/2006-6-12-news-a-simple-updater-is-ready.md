@@ -1,5 +1,5 @@
 ---
-description: This post is about the new feature that can update CBC automatically.
+description: Announces the new automatic updater feature for CBC and explains how it works.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-a-simple-updater-is-ready-567efd6d9ef0

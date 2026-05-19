@@ -1,5 +1,5 @@
 ---
-description: This post is about threading in .NET and the new feature InDate.
+description: Covers .NET threading details and the nearly completed InDate feature.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /more-threading-and-indate-is-almost-done-d4b9e87bd5bf

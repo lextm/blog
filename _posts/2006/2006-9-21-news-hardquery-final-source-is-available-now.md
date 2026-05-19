@@ -1,5 +1,5 @@
 ---
-description: This post describes that the source code of HardQuery is available now.
+description: Announces that HardQuery final source code is available now and explains why it was released separately.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-hardquery-final-source-is-available-now-b8bdcdc11e5

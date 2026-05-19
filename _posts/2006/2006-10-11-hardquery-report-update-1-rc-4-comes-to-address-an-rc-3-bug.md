@@ -1,5 +1,5 @@
 ---
-description: This post reports the progress of HardQuery and Update 1 RC 4.
+description: Describes HardQuery Update 1 RC 4 and how it fixes an RC 3 bug.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-update-1-rc-4-comes-to-address-an-rc-3-bug-4ef2f852fd30

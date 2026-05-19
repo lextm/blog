@@ -1,5 +1,5 @@
 ---
-description: This post is about the status of CBC and the future of CBC community.
+description: Discusses CBC's current status and the vision for building its own community.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /time-to-make-a-community-of-our-own-4ef02a287965

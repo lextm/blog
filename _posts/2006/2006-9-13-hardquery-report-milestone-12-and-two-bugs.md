@@ -1,5 +1,5 @@
 ---
-description: This post reports the progress of HardQuery.
+description: Summarizes HardQuery progress with Milestone 12 and the two fixed bugs.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-milestone-12-and-two-bugs-fee61c5c5c4a

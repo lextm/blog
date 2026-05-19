@@ -1,5 +1,5 @@
 ---
-description: This post is about the status of CBC WalkPace and it features.
+description: Updates on CBC WalkPace status and confirms the release is ready to ship.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /walkpace-is-ready-to-ship-7fed5643f114

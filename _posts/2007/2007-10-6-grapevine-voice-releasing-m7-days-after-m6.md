@@ -1,5 +1,5 @@
 ---
-description: This post announces the release of GrapeVine M7.
+description: Announces GrapeVine M7 release shortly after M6 and outlines the update notes.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-releasing-m7-days-after-m6-ecc2354d73f6

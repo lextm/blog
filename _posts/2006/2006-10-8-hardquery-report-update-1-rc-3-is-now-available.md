@@ -1,5 +1,5 @@
 ---
-description: This post reports the progress of HardQuery and Update 1 RC 3.
+description: Reports HardQuery progress and announces the availability of Update 1 RC 3.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-update-1-rc-3-is-now-available-810369046a6e

@@ -1,6 +1,5 @@
 ---
-description: This post reports the progress of HardQuery and possibly an Update 1
-  RC.
+description: Reports HardQuery progress and suggests that an Update 1 RC may be coming.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-may-be-an-update-1-rc-20c0a266b428

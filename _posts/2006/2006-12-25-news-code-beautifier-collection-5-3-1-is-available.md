@@ -1,5 +1,5 @@
 ---
-description: This post announces the availability of Code Beautifier Collection 5.3.1.
+description: Announces that Code Beautifier Collection 5.3.1 is available for download.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-code-beautifier-collection-5-3-1-is-available-c285e5e71511
