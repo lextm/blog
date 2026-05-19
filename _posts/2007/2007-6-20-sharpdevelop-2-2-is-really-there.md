@@ -1,5 +1,5 @@
 ---
-description: This post describes the new version of SharpDevelop.
+description: Announces SharpDevelop 2.2 and highlights its improved WinForms parsing and performance.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpdevelop-2-2-is-really-there-2b0eec92a4f3

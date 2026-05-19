@@ -1,5 +1,5 @@
 ---
-description: This post talks about my delayed trip to Brazil and Harry Potter 7.
+description: Shares the delay of a Brazil trip and thoughts on bringing the Chinese Harry Potter 7 edition.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /brazil-trip-delay-harry-potter-7-fe8cfcf20158

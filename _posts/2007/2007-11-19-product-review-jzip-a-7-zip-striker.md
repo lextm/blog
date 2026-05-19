@@ -1,5 +1,5 @@
 ---
-description: This post is about jZip, a 7-Zip tool.
+description: Reviews jZip as a 7-Zip front-end and explains why its GUI is a strong alternative.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-jzip-a-7-zip-striker-89421a3cb1c4

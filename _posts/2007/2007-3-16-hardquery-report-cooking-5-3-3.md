@@ -1,6 +1,5 @@
 ---
-description: This post is about the progress of HardQuery, specifically related to
-  migrating from NAnt to MSBuild.
+description: Reports HardQuery 5.3.3 progress and details the migration from NAnt to MSBuild.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-cooking-5-3-3-da1bb8fdb78f

@@ -1,5 +1,5 @@
 ---
-description: This post describes two articles worth reading if you are a .NET developer.
+description: Recommends two must-read articles for .NET developers and explains why they are valuable.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /in-case-you-dont-know-b5b8846541df

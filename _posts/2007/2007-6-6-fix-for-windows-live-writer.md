@@ -1,6 +1,5 @@
 ---
-description: This post describes how to fix the problem that Windows Live Writer consumes
-  100% CPU.
+description: Explains how to fix the Windows Live Writer issue that causes 100% CPU usage.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /fix-for-windows-live-writer-52eaf7bdfcb3

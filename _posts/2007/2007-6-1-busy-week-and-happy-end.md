@@ -1,5 +1,5 @@
 ---
-description: This post describes my busy week.
+description: Recaps a busy week of hardware setup, broadband installation, and preparing CBC 5.3.3.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /busy-week-and-happy-end-c9c795b7db43

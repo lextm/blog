@@ -1,6 +1,5 @@
 ---
-description: This post describes why to open BMP images in a WebBrowser control can
-  be troublesome.
+description: Explains why BMP images can be problematic in a WinForms WebBrowser control and how to handle them.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /webbrowser-control-and-bmp-images-855a5bb4f23f

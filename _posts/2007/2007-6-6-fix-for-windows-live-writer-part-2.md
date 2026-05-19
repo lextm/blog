@@ -1,6 +1,5 @@
 ---
-description: This post describes how to enable spell checking for English in a localized
-  version of Windows Live Writer.
+description: Explains how to enable English spell checking in a localized Windows Live Writer install.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /fix-for-windows-live-writer-part-2-89608a886f43

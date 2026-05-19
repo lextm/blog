@@ -1,5 +1,5 @@
 ---
-description: This post describes Popfly Explorer, an Add-in for Visual Studio Express.
+description: Introduces Popfly Explorer for Visual Studio Express and how it makes uploading projects easy.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /popfly-explorer-add-in-for-visual-studio-express-495637f47aa3

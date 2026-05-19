@@ -1,6 +1,5 @@
 ---
-description: This post describes that HardQuery Report 5.3.2.1125 can work with C++Builder
-  2007.
+description: Confirms HardQuery Report 5.3.2.1125 compatibility with C++Builder 2007 and how it was tested.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-5-3-2-1125-can-work-with-c-builder-2007-20da732d0e71

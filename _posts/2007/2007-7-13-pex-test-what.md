@@ -1,5 +1,5 @@
 ---
-description: This post talks about Pex, a new test framework from Microsoft Research.
+description: Introduces Pex, the new Microsoft Research test framework, and shares first impressions of its capabilities.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /pex-test-what-bb2186df5203

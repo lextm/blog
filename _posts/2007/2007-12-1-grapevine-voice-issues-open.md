@@ -1,5 +1,5 @@
 ---
-description: This post talks about that I have found some issues in GrapeVine.
+description: Discusses newly discovered GrapeVine issues and the decision to delay release for better quality.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-issues-open-95b178de64d

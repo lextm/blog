@@ -1,5 +1,5 @@
 ---
-description: This post is about the new roadmap of NixNewNer.
+description: Introduces NixNewNer's new roadmap and outlines upcoming development plans.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /i-think-nixnewner-is-on-the-way-482c5707705d

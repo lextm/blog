@@ -1,5 +1,5 @@
 ---
-description: This post reports the status of HardQuery.
+description: Reports HardQuery status and readiness for the upcoming Highlander release cycle.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-ready-for-highlander-2d08b71b33d4

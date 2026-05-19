@@ -1,5 +1,5 @@
 ---
-description: This post talks about my experience with BT clients.
+description: Shares experience using BT clients like BitComet and Azureus and their stability on Windows.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-bt-clients-68bde888d59d

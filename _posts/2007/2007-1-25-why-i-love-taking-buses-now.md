@@ -1,5 +1,5 @@
 ---
-description: This post is about why I love taking buses now.
+description: Explains why bus travel has become enjoyable and productive, even during long commutes.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /why-i-love-taking-buses-now-35ca03865d7c

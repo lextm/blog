@@ -1,5 +1,5 @@
 ---
-description: This post talks about an issue I met when uninstalling CBC.
+description: Describes an Inno Setup uninstall issue with CBC and the troubleshooting process used to diagnose it.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-inno-setup-issue-f54bda333a1b

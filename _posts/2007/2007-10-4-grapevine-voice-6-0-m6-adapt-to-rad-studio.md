@@ -1,5 +1,5 @@
 ---
-description: This post is to announce M6 of GrapeVine.
+description: Announces GrapeVine M6 and explains its compatibility updates for RAD Studio.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-6-0-m6-adapt-to-rad-studio-be694bd1a864

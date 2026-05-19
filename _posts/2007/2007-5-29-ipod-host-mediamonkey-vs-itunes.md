@@ -1,5 +1,5 @@
 ---
-description: This post compares MediaMonkey and iTune.
+description: Compares MediaMonkey and iTunes as iPod hosts and highlights the pros of each.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /ipod-host-mediamonkey-vs-itunes-d72da8cd1697

@@ -1,5 +1,5 @@
 ---
-description: This post talks about a review of CBC in Arabic language.
+description: Discusses discovering an Arabic-language review of CBC and comparing it to Delphi Formatter Expert.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /arabic-review-of-cbc-2dffb549de0e

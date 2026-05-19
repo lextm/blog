@@ -1,5 +1,5 @@
 ---
-description: This post reports the progress of HardQuery and its second release.
+description: Reports HardQuery progress and confirms that Release 2 final is now under extensive testing.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-the-release-2-final-is-under-testing-now-6874698912d7

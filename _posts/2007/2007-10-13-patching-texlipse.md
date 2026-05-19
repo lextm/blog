@@ -1,5 +1,5 @@
 ---
-description: This post talks about tuning skills to configure LaTeX environment.
+description: Shares tuning techniques for configuring Texlipse and working with LaTeX on Windows Vista.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /patching-texlipse-ec5908768adf

@@ -1,5 +1,5 @@
 ---
-description: This post describes about the last issue blocking Milestone 2 build.
+description: Describes the last blocking issue for GrapeVine Milestone 2 and the fix progress ahead of release.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-last-issue-on-milestone-2-da46970957bc

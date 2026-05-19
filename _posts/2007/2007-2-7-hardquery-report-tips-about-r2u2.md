@@ -1,5 +1,5 @@
 ---
-description: This post is about R2U2.
+description: Shares tips about the upcoming R2U2 release and the plan to publish documentation after the build.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-tips-about-r2u2-bf5261aad8e4
