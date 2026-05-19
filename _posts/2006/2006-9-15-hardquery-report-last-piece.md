@@ -1,5 +1,5 @@
 ---
-description: This post reports the progress of HardQuery.
+description: Reports the latest progress on HardQuery and what remains to be completed.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-last-piece-946fb572bfd6

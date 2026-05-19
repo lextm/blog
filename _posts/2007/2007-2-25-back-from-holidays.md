@@ -1,5 +1,5 @@
 ---
-description: This post describes my plan after the holidays.
+description: Outlines my plans and priorities after returning from the holidays.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /back-from-holidays-8f6d806ad988

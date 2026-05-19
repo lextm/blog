@@ -1,5 +1,5 @@
 ---
-description: This post talks about the Chinese New Year present.
+description: A Chinese New Year present story reflecting on family and holiday gifts.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-chinese-new-year-present-65b2ae9fdfc8

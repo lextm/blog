@@ -1,5 +1,5 @@
 ---
-description: This post is about CursorFX.
+description: Announces CursorFX as a modern alternative to CursorXP and highlights its preview features.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cursorfx-is-coming-to-replace-cursorxp-2337a5211c5f

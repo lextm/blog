@@ -1,5 +1,5 @@
 ---
-description: This post talks about many fancy applications built in Delphi.
+description: A look at several fancy Delphi applications and the impressive user experiences they demonstrate.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /fancy-delphi-applications-and-more-815e84f6c9a

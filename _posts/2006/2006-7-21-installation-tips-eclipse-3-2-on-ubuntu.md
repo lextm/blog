@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Installation Tips: Eclipse 3.2 on Ubuntu'
-description: This post talks about how to install Eclipse 3.2 on Ubuntu.
+description: Provides step-by-step installation tips for Eclipse 3.2 on Ubuntu and addresses common configuration issues.
 tags: linux
 categories: [Operating Systems]
 permalink: /installation-tips-eclipse-3-2-on-ubuntu-480c239c8491

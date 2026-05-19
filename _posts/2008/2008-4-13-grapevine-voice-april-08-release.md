@@ -1,5 +1,5 @@
 ---
-description: This post talks about the new release of Code Beautifier Collection.
+description: Announces the April 2008 release of Code Beautifier Collection and summarizes the new features included.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-april-08-release-6c3b2492ad5d

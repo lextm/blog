@@ -1,5 +1,5 @@
 ---
-description: This post talks about that csc.exe may freeze when deserializing preferences.
+description: Describes a csc.exe freeze when deserializing preferences and how to diagnose it.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-common-csc-exe-frozen-issue-85bebd48a310

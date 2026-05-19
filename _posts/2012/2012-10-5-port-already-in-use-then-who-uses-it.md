@@ -1,5 +1,5 @@
 ---
-description: This post is about how to find out which process uses a certain port.
+description: How to identify which process is using a specific port on Windows by analyzing netstat output.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /port-already-in-use-then-who-uses-it-69c133a456ab

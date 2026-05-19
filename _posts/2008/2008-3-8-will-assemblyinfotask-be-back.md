@@ -1,5 +1,5 @@
 ---
-description: This post talks about the fate of AssemblyInfoTask.
+description: Discusses whether AssemblyInfoTask will return and the challenges around its recovery.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /will-assemblyinfotask-be-back-1fc09eddcd9d

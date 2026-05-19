@@ -1,5 +1,5 @@
 ---
-description: This post talks about the move from Delphi Hours to Delphi.org.
+description: Explains the move from Delphi Hours to Delphi.org and the reasoning behind the site migration.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /moving-from-delphi-hours-to-delphi-org-4afeb6a7e918

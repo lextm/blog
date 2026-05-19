@@ -1,5 +1,5 @@
 ---
-description: This post is about the final release of CBC 2 NixNewNer.
+description: Announces the final release of CBC 2 NixNewNer after days of testing.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /ann-nixnewner-is-out-now-after-testing-for-some-days-ab2afb807954

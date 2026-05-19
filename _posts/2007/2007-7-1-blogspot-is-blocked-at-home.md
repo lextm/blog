@@ -1,5 +1,5 @@
 ---
-description: This post describes that Blogspot.com is blocked in China.
+description: Reports that Blogspot.com is blocked in China and the impact on blogging access.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /blogspot-is-blocked-at-home-1a9572fe530d

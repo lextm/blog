@@ -1,5 +1,5 @@
 ---
-description: This post is about the latest build of N3 Update 1 RC.
+description: Shares the latest N3 Update 1 RC build details and how to test it.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /rc-if-you-want-to-test-2c15c57ee120

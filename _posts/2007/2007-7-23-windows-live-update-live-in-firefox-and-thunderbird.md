@@ -1,6 +1,5 @@
 ---
-description: This post talks about Windows Live Update and it doesn't yet work with
-  Firefox and Thunderbird.
+description: Describes Windows Live Update compatibility issues with Firefox and Thunderbird.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-update-live-in-firefox-and-thunderbird-da3faaa4657a

@@ -1,5 +1,5 @@
 ---
-description: This post is about moving CBC from GForge to Google Code.
+description: Describes moving CBC from GForge to Google Code and the reasons behind the migration.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /moving-cbc-to-google-code-6554a356aebc

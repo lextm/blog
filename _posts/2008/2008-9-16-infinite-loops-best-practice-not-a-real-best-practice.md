@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to write an infinite loop in .NET.
+description: Why writing an infinite loop in .NET is not a real best practice, and what happens when it consumes CPU resources.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /infinite-loops-best-practice-not-a-real-best-practice-e47b8922f445

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C# SQLite for Windows Phone
-description: This post is about csharp-sqlite for Windows Phone.
+description: How to use the C# SQLite port on Windows Phone, including setup and compatibility notes.
 tags: .net
 categories: [Programming Languages]
 permalink: /c-sqlite-for-windows-phone-13878d482809

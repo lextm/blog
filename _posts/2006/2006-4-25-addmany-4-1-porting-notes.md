@@ -1,5 +1,5 @@
 ---
-description: This post is about the porting of AddMany 4.1 to CBC 2.
+description: Notes on porting AddMany 4.1 to CBC 2, including compatibility issues and migration strategies.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /addmany-4-1-porting-notes-eace63c85cae

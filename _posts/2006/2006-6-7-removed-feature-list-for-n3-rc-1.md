@@ -1,5 +1,5 @@
 ---
-description: This post is about the removed features in N3 RC 1.
+description: Lists the features removed from N3 RC 1 and explains the reasons for their exclusion.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /removed-feature-list-for-n3-rc-1-589771f3662d

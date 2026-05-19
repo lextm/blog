@@ -1,6 +1,5 @@
 ---
-description: This post is about how to resolve issues when you have two network adapters
-  installed.
+description: How to resolve network issues when two adapters are installed by adjusting gateway settings and Windows routing.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /two-network-adapters-issues-resolution-7d9e80034b59

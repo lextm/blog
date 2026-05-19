@@ -1,5 +1,5 @@
 ---
-description: This post talks about my preparation for .NET Framework 2.0.
+description: Describes the preparation work for .NET Framework 2.0 in the HardQuery project and what the team is doing to adapt.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-prepare-for-highlander-7b18d63fb452

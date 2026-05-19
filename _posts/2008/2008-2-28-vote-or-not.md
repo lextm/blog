@@ -1,5 +1,5 @@
 ---
-description: This post talks about the vote.
+description: Discusses whether to vote or not and examines the considerations behind participating in elections.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /vote-or-not-7b864142f2f5

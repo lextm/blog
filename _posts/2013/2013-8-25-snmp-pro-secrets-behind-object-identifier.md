@@ -1,5 +1,5 @@
 ---
-description: This post talks about the secrets behind OBJECT IDENTIFIER.
+description: "Explains the secrets behind SNMP `OBJECT IDENTIFIER` handling in #SNMP Pro, with practical insights for MIB developers."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-secrets-behind-object-identifier-ff242fd4474e

@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to promote open source projects.
+description: Offers advice on promoting open source projects and attracting contributors within the SNMP community.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /promoting-open-source-projects-863ad2f838dc

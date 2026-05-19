@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是介绍 CBC 2 项目的进度和遇到的性能问题。
+description: 介绍 CBC 2 项目的进度和遇到的性能问题，以及优化过程中的调优经验。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tuning-skills-needed-5e563c20b137

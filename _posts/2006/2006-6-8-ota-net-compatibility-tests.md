@@ -1,5 +1,5 @@
 ---
-description: This post is about the compatibility tests of OTA for .NET.
+description: Reports compatibility tests for OTA and .NET, showing which combinations work and which fail.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /ota-net-compatibilty-tests-6bf780a81a54

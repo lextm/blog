@@ -1,5 +1,5 @@
 ---
-description: This post talks about the progress of Banshee for Windows.
+description: Updates on the Windows port of Banshee and the progress made toward Windows support.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /banshee-for-windows-progress-e65b7cc18392

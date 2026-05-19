@@ -1,5 +1,5 @@
 ---
-description: This post is about a new bug and its hotfix.
+description: Describes a new bug in the project and the hotfix implemented to resolve it.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-new-bug-and-its-hotfix-f817484853c

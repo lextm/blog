@@ -1,5 +1,5 @@
 ---
-description: This post talks about the license change of Alex.
+description: Announces Alex license change to MIT and explains what the new permissive license means for users.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /alex-license-changed-to-mit-f89171174dbe

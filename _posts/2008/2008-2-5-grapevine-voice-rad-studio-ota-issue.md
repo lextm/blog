@@ -1,5 +1,5 @@
 ---
-description: This post talks about a RAD Studio OTA issue.
+description: Describes a RAD Studio OTA issue in GrapeVine Voice and how it affects extension deployment.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-rad-studio-ota-issue-4b405586bbf3

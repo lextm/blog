@@ -1,5 +1,5 @@
 ---
-description: This post talks about the release of SharpSnmpPro.Mib assembly.
+description: Announces the SharpSnmpPro.Mib assembly release and describes its MIB-to-C# compilation features, trial licensing, and .NET 4.0 requirements.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-sharpsnmppro-mib-assembly-released-7789ae356e5a

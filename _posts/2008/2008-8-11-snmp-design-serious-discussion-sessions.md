@@ -1,5 +1,5 @@
 ---
-description: This post talks about the serious discussion sessions on CodePlex.
+description: Updates from serious SNMP design discussion sessions on CodePlex and what the project is learning from the community.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-serious-discussion-sessions-5a26c93aca30

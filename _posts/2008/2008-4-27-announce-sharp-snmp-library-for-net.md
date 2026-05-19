@@ -1,5 +1,5 @@
 ---
-description: This post talks about the new project Sharp SNMP Library for .NET.
+description: Announces Sharp SNMP Library for .NET, outlining the project goals and its integration with .NET applications.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /announce-sharp-snmp-library-for-net-e359089cad7f

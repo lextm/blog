@@ -1,5 +1,5 @@
 ---
-description: This post reports the progress of HardQuery and possibly a second release.
+description: Reports HardQuery progress and explains how Release 2 may replace Update 1.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-release-2-takes-place-of-update-1-1c26ab8a9617

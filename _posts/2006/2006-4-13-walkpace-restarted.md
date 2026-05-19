@@ -1,5 +1,5 @@
 ---
-description: This post is about the restart of CBC 2.5 WalkPace.
+description: Announces the restart of CBC 2.5 WalkPace development and what to expect from the revived project.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /walkpace-restarted-50fe0b708c79

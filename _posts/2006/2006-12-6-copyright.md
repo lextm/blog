@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了我遭遇作品被盗版的感觉。
+description: 这篇文章讲述了作者遭遇作品被盗版的心情和应对思考。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /遭遇-盗版-的感觉-e447b73576ee

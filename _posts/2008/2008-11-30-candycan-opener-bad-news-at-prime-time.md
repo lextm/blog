@@ -1,5 +1,5 @@
 ---
-description: This post is about my departure from the Code Beautifier Collection project.
+description: Announces my departure from the Code Beautifier Collection project and explains the reasons behind the decision.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /candycan-opener-bad-news-at-prime-time-b9f0478bfe78

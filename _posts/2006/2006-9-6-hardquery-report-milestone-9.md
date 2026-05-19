@@ -1,5 +1,5 @@
 ---
-description: This post describes the changes in HardQuery M9.
+description: Describes the changes delivered in HardQuery Milestone 9 and the impact on feature development.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-milestone-9-916b92b0796a

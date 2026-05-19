@@ -1,5 +1,5 @@
 ---
-description: This post is about the problems of .NET Framework.
+description: Discusses the problems of the .NET Framework and why it did not meet expectations.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /time-to-net-i-found-it-not-98043f7486d8

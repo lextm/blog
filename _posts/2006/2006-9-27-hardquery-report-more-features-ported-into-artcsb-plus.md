@@ -1,5 +1,5 @@
 ---
-description: This post reports the progress of HardQuery.
+description: Reports HardQuery progress and details new features ported into ArtCSB Plus.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-more-features-ported-into-artcsb-plus-3f40f0c52ee2

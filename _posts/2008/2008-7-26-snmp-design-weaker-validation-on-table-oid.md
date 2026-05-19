@@ -1,5 +1,5 @@
 ---
-description: This post talks about the validation on table OID.
+description: Examines weaker validation rules for table OIDs in SNMP design and why the change was introduced.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-weaker-validation-on-table-oid-b34c0c4d9e00

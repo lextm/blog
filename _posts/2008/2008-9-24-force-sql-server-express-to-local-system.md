@@ -1,6 +1,5 @@
 ---
-description: This post talks about the  SQL Server issue that troubles me a lot in
-  the past.
+description: Describes a troublesome SQL Server Express issue and how to force the service to run under Local System.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /force-sql-server-express-to-local-system-3e52f628b23c

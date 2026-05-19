@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了Adobe Reader 8的安装。
+description: 这篇文章记录了 Adobe Reader 8 的安装过程和遇到的问题。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /adobe-reader-8的安装-36cb6dcc493d

@@ -1,5 +1,5 @@
 ---
-description: This post talks about the new release for Delphi 2009.
+description: Announces that Delphi 2009 is coming and previews the expected release changes.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-delphi-2009-is-coming-188071447b6f

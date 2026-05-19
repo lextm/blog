@@ -1,5 +1,5 @@
 ---
-description: This post is about the new rules for CBC installer.
+description: Explains the new installer distribution rules for CBC, starting with Rule 1 and the reasoning behind it.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /what-are-they-new-rules-for-installer-distributions-rule-1-df7b0ac42df9

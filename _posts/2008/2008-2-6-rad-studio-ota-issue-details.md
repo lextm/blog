@@ -1,5 +1,5 @@
 ---
-description: This post describes how I find a bug in RAD Studio OTA.
+description: Describes how a RAD Studio OTA bug was discovered and the debugging process used to isolate it.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /rad-studio-ota-issue-details-6e111b51c005

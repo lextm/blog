@@ -1,5 +1,5 @@
 ---
-description: This post is about how to design the MIB compiler GUI.
+description: Design notes for the MIB compiler GUI, including feature plans for module management and browser integration.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-the-mib-compiler-gui-219e6495f7a8

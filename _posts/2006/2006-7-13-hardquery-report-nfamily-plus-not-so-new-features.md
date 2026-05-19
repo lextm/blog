@@ -1,5 +1,5 @@
 ---
-description: This post talks about NFamily Plus, a few new features with it.
+description: Shares NFamily Plus updates and the new features introduced in this release.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-nfamily-plus-not-so-new-features-6bcf14061e86

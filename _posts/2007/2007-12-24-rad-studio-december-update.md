@@ -1,5 +1,5 @@
 ---
-description: This post is about my experience of installing December Update.
+description: Describes my experience installing the RAD Studio December Update and its installer behavior.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /rad-studio-december-update-22b7202e444e

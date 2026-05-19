@@ -1,6 +1,5 @@
 ---
-description: This post described how we should patch NuGet so that it works better
-  on Mono.
+description: How to patch and debug NuGet on Mono, including source build diagnostics and troubleshooting Mono assembly loader errors.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-nuget-on-mono-part-iv-65d6349aa5dc

@@ -1,5 +1,5 @@
 ---
-description: This post is about how to transform T4 files (.tt) without Visual Studio.
+description: How to transform T4 `.tt` templates without Visual Studio using Mono text transformation tools.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-transform-t4-files-tt-without-visual-studio-d9042165a0eb

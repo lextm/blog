@@ -1,5 +1,5 @@
 ---
-description: This post talks about my experience of using Ubuntu 6.06 Dapper Drake.
+description: Shares my experience with Ubuntu 6.06 Dapper Drake and the release's strengths.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /ubuntu-6-06-dapper-drake-wish-i-could-use-you-more-24cbd42145

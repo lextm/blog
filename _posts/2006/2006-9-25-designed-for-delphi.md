@@ -1,5 +1,5 @@
 ---
-description: 本文描述了 Delphi 那边 Designed for Delphi 这个项目的情况
+description: 本文描述了 Delphi 版 Designed for Delphi 项目的进展和当前状况。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /designed-for-delphi-5907552db4fc

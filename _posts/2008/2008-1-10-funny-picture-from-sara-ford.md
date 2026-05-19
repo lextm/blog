@@ -1,5 +1,5 @@
 ---
-description: This post is about a funny picture taken at CodeMash.
+description: Shares a funny picture from CodeMash and the story behind the event.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /funny-picture-from-sara-ford-1aa65fbc559c

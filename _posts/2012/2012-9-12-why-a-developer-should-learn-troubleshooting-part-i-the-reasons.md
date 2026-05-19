@@ -1,5 +1,5 @@
 ---
-description: This post is about why a developer should learn troubleshooting skills.
+description: Explains why developers need troubleshooting skills, with practical reasons based on .NET and IIS experience.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /why-a-developer-should-learn-troubleshooting-part-i-the-reasons-bfccd3cf5529

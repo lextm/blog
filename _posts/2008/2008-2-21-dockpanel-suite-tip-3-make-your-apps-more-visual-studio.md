@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to make DockPanel Suite more like Visual Studio.
+description: Explains how to make DockPanel Suite applications look and behave more like Visual Studio by adjusting UI elements and themes.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-tip-3-make-your-apps-more-visual-studio-da921c4f92cb

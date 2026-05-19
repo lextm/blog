@@ -1,6 +1,5 @@
 ---
-description: This post talks about some free software from Stardock for Windows Vista
-  users.
+description: Introduces free Stardock utilities that enhance Windows Vista customization.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /vista-extras-from-stardock-e3bf903822b

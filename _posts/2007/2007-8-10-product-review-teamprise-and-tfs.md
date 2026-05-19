@@ -1,6 +1,5 @@
 ---
-description: This post talks about Teamprise, a standalone Java client for TFS built
-  on Eclipse RCP.
+description: Reviews Teamprise, the standalone Eclipse RCP client for Team Foundation Server.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-teamprise-and-tfs-2cbfc148f1b8

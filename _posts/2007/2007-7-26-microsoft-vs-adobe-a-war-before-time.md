@@ -1,5 +1,5 @@
 ---
-description: This post talks about the competition between Microsoft and Adobe.
+description: Discusses the emerging competition between Microsoft and Adobe as their products overlap.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-vs-adobe-a-war-before-time-9f4b04528753

@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to create checked menu items.
+description: Shows how to create checked menu items in GrapeVine Voice and explains the implementation details.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-checked-menu-items-a33bb0aa51c4

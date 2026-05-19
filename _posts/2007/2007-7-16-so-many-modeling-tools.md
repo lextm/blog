@@ -1,5 +1,5 @@
 ---
-description: This post talks about some modeling tools I have used.
+description: Reviews several modeling tools I have used and compares their strengths.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /so-many-modeling-tools-49349b2dcff6

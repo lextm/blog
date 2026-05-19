@@ -1,5 +1,5 @@
 ---
-description: This post is about the latest FAQ addition.
+description: Announces the latest SNMP design FAQ additions and summarizes new documentation updates for developers.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-latest-faq-addition-af988ee9a64e

@@ -1,6 +1,5 @@
 ---
-description: This post talks about how I migrated from Blogger to WordPress on Windows
-  Azure.
+description: Practical steps for migrating a Blogger blog to WordPress on Windows Azure, including MySQL host setup, database credentials, and Azure deployment tips.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-migrate-from-blogger-to-wordpress-on-windows-azure-bcd9322df84a

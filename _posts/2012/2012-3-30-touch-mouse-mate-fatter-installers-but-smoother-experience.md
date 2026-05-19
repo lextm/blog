@@ -1,5 +1,5 @@
 ---
-description: This post is about the latest news of Touch Mouse Mate.
+description: Explains why Touch Mouse Mate installers became larger and how the smoother installation experience justifies the tradeoff.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-fatter-installers-but-smoother-experience-62030cdf0c90

@@ -1,5 +1,5 @@
 ---
-description: This post talks about a bug of Windows Vista Update.
+description: Covers a Windows Vista Update bug affecting Intel graphics drivers and its troubleshooting.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-vista-update-bug-cad93850ea19

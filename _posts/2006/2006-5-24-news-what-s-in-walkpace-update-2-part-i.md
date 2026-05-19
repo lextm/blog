@@ -1,5 +1,5 @@
 ---
-description: This post is about the latest news of Code Beautifier Collection.
+description: Introduces WalkPace Update 2 for Code Beautifier Collection and previews its major enhancements.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-whats-in-walkpace-update-2-part-i-e1958b8a824e

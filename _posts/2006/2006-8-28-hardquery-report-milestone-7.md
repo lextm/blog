@@ -1,5 +1,5 @@
 ---
-description: This post describes the changes in Milestone 7.
+description: Summarizes the changes in HardQuery Milestone 7 and the progress made toward the next release.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-milestone-7-885d5c0841b5

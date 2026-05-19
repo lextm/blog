@@ -1,5 +1,5 @@
 ---
-description: This post talks about further delay of 6.0 Final release.
+description: Explains the further delay of GrapeVine 6.0 final release and what issues still need to be resolved.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-further-delay-769dcb171683

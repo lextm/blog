@@ -1,5 +1,5 @@
 ---
-description: This post talks about the next major release of Code Beautifier Collection.
+description: Explains the rationale for a major version upgrade of Code Beautifier Collection and the expected changes.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-time-for-a-major-number-upgrade-479a85c0b76a

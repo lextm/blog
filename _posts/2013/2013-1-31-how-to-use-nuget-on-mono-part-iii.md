@@ -1,5 +1,5 @@
 ---
-description: This post shows how to find out that Microsoft.Build.dll is missing.
+description: How to identify and resolve missing `Microsoft.Build.dll` issues on Mono, including package discovery and xbuild dependency guidance.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-nuget-on-mono-part-iii-bc1d14e79db4

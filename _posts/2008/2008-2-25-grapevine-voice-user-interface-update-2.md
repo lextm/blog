@@ -1,5 +1,5 @@
 ---
-description: This article shows the new user interface of GrapeVine Voice.
+description: Shows the new GrapeVine Voice user interface update, including Vista-aware tree view improvements.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-user-interface-update-2-18cc87893d4a

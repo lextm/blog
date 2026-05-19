@@ -1,5 +1,5 @@
 ---
-description: This post talks about the difference between ccitt and zeroDotZero.
+description: Compares CCITT and zeroDotZero naming conventions in SNMP and explains the practical differences.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-ccitt-and-zerodotzero-f87da8b8c3b6

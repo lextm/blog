@@ -1,5 +1,5 @@
 ---
-description: This post talks about the changes in 6.0 Update 1.
+description: Reviews the changes in GrapeVine 6.0 Update 1 and the remaining development progress.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-issue-4-revisited-once-more-9fb06f8d6638

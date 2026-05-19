@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to handle unhandled exceptions.
+description: Revisits unhandled exception handling in Delphi applications and explains improved error management practices.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-unhandled-exceptions-revisited-part-ii-c9972b3f8478

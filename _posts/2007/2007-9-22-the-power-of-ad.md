@@ -1,5 +1,5 @@
 ---
-description: This post talks about the power of advertisements.
+description: Reflects on the power of advertising for Code Beautifier Collection and lessons from Google Analytics.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-power-of-ad-dc0d4c5ac7c9

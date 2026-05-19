@@ -1,5 +1,5 @@
 ---
-description: This post is about the latest performance analysis of the MIB parser.
+description: Performance analysis of the MIB parser, showing optimization work that reduced load time from 63 seconds to around 20-30 seconds.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-oh-63-seconds-70998d527347

@@ -1,5 +1,5 @@
 ---
-description: This post is about the improvement in MIB parser.
+description: Describes extended MIB parser improvements in SNMP design and the enhanced parsing capabilities.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-parsing-extended-483997023960

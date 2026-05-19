@@ -1,5 +1,5 @@
 ---
-description: This post talks about the poll result.
+description: Shares the SNMP design poll results and interprets developer feedback from the survey.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-poll-result-a323261f192

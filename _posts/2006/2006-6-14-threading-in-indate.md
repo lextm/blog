@@ -1,5 +1,5 @@
 ---
-description: This post is about .NET multi-threading used in InDate feature.
+description: Discusses .NET multi-threading techniques used in the InDate feature.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /threading-in-indate-28d940bc7503

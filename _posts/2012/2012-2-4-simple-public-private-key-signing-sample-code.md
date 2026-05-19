@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simple Public/Private Key Signing Sample Code
-description: This post is about a simple sample for public/private key signing.
+description: Sample code for public/private key signing, including PVK/CER/PFX generation and Windows SDK compatibility notes.
 tags: iis
 categories: [Tools and Platforms]
 permalink: /simple-public-private-key-signing-sample-code-6f95d19fdbc

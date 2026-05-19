@@ -1,5 +1,5 @@
 ---
-description: This post talks about the new icons for Firefox 3.
+description: Discusses the new Firefox 3 icons featuring Chinese characters and the localization design choices behind them.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /firefox-3-icons-with-chinese-characters-95b3806451d4

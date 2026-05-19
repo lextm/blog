@@ -1,5 +1,5 @@
 ---
-description: This post is about N3 Update 1 RC 5.
+description: Announces the release of N3 Update 1 RC 5 and highlights its notable improvements.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-n3-update-1-rc-5-is-there-already-9d281506d0bf

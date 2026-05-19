@@ -1,6 +1,5 @@
 ---
-description: This post talks about how I find out the relationship between Rational
-  XDE and mdproj extension.
+description: Investigates the `.mdproj` extension and explains how Rational XDE uses it for UML model projects with Visual Studio integration.
 layout: post
 permalink: /a-trip-to-know-an-extension-mdproj-ccefe199864a
 tags: visual-studio

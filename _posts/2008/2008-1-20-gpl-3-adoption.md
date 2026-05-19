@@ -1,5 +1,5 @@
 ---
-description: This post describes the latest GPL 3 adoption.
+description: Discusses the latest GPL 3 adoption and what it means for open-source licensing and project compatibility.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /gpl-3-adoption-afb01e83114f

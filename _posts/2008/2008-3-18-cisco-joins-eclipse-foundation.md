@@ -1,5 +1,5 @@
 ---
-description: This post talks about the news that Cisco has joined Eclipse Foundation.
+description: Reports on Cisco joining the Eclipse Foundation and discusses the implications for open source collaboration.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cisco-joins-eclipse-foundation-93521044b04c

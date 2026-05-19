@@ -1,5 +1,5 @@
 ---
-description: This post shows how to use NuGet on Mono.
+description: A practical guide to running NuGet on Mono, including package installation, certificate setup, and Mono-specific compatibility workarounds.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-nuget-on-mono-part-i-8d2cd63bd1e0

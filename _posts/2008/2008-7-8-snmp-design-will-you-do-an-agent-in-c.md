@@ -1,6 +1,5 @@
 ---
-description: This post is a poll to see how many C# developers are doing SNMP agent
-  development.
+description: Polls C# developers about SNMP agent development and gauges interest in creating managed SNMP agents.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-will-you-do-an-agent-in-c-31af397da12a

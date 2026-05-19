@@ -1,5 +1,5 @@
 ---
-description: This post talks about Obfuscar 2.0 RC 2.
+description: Obfuscar 2.0 RC 2 fixes for nested type obfuscation and generic instance method handling, with examples from DockPanel Suite and Unity.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /obfuscar-slightly-upgraded-and-2-0-rc-2-ba25398933e7

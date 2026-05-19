@@ -1,5 +1,5 @@
 ---
-description: This post describes the war between Chinese blog service providers.
+description: Examines the competition among Chinese blog service providers and their market claims.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /chinese-blog-service-providers-war-876f8639fe76

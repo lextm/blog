@@ -1,6 +1,5 @@
 ---
-description: This post talks about how to troubleshoot web server (IIS) connection
-  issues with complex network setup.
+description: Network troubleshooting for self-hosted IIS web servers, covering why a server may be unreachable from outside the local network and what checks to perform.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /self-hosting-series-why-cannot-my-web-server-iis-be-reached-from-anywhere-else-8da0e0b252ef

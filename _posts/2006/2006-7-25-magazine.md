@@ -1,5 +1,5 @@
 ---
-description: 本文描述了自己暑假的计划。
+description: 本文描述了作者暑假的计划安排以及当时希望实现的目标。
 excerpt_separator: <!--more-->
 layout: post
 permalink: /暑假-不敢奢求的东西-b171469fbcbe

@@ -1,5 +1,5 @@
 ---
-description: This post is about my new blog at MSDN Blogs.
+description: Announcing my new MSDN Blogs site and sharing the experience of starting a Microsoft-focused blog chapter.
 excerpt_separator: <!--more-->
 layout: post
 tags: work-life microsoft

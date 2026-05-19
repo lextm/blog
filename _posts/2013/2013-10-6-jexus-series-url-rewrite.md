@@ -1,5 +1,5 @@
 ---
-description: This post talks about Jexus URL Rewrite.
+description: How Jexus implements inbound URL rewrite rules and how to translate IIS URL Rewrite rules into Jexus configuration.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-url-rewrite-408e97900999

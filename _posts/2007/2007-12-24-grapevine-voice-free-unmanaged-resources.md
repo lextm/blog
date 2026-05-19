@@ -1,5 +1,5 @@
 ---
-description: This post is about how to free up unmanaged resources.
+description: Explains how to free unmanaged resources in C# and avoid runtime exceptions.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-free-unmanaged-resources-2bd41102062a
