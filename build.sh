@@ -7,6 +7,15 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export RUBYOPT="-E utf-8"
 export LC_CTYPE=en_US.UTF-8
+# Prefer rbenv-managed Ruby for Jekyll and Bundler compatibility.
+if command -v rbenv >/dev/null 2>&1; then
+  export PATH="$HOME/.rbenv/bin:$PATH"
+  eval "$(rbenv init -)"
+elif [ -d "/opt/homebrew/opt/ruby@3.4/bin" ]; then
+  export PATH="/opt/homebrew/opt/ruby@3.4/bin:$PATH"
+  export GEM_HOME="$HOME/.gem/ruby/3.4.0"
+  export GEM_PATH="/opt/homebrew/opt/ruby@3.4/lib/ruby/gems/3.4.0:$GEM_HOME"
+fi
 # Ensure locally installed CLI tools (like d2) are on PATH
 export PATH="$HOME/.local/bin:$PATH"
 
