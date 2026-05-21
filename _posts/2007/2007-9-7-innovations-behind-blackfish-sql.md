@@ -1,6 +1,5 @@
 ---
-description: This post talks about the innovations behind Blackfish SQL that compiles
-  Java source code to C#.
+description: "Examines Blackfish SQL's Java-to-C# innovations and why the product was renamed."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /innovations-behind-blackfish-sql-718909bb010c

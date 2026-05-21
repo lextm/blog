@@ -1,6 +1,5 @@
 ---
-description: This post talks about my experience with Visual C# 2008 Express Beta
-  2.
+description: "Reviews Visual C# 2008 Express Beta 2 and explains why it's a better choice than 2005 for Vista."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-visual-c-2008-express-beta-2-95aaafc1148efb

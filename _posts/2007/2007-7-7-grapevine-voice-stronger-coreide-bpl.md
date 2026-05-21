@@ -1,6 +1,5 @@
 ---
-description: This post describes about GrapeVine release and the breaking changes
-  observed.
+description: "Describes GrapeVine compatibility issues with RAD Studio 2007 and finding the root cause."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-stronger-coreide-bpl-b49696307989

@@ -1,5 +1,5 @@
 ---
-description: This post describes the story of OptimizeIt.
+description: "Recounts the author's experience with OptimizeIt and the transition to other profilers."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-loss-of-optimizeit-cf0ad18031c

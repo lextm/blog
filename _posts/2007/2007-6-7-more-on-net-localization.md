@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More on .NET Localization
-description: This post describes more tips on .NET localization.
+description: Shares further .NET localization tips and recommends resources for handling internationalization properly.
 tags: .net
 categories: [Programming Languages]
 permalink: /more-on-net-localization-da1d4edfc0ba

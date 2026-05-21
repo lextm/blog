@@ -1,5 +1,5 @@
 ---
-description: This post describes my anti-virus choice.
+description: "Discusses choosing an antivirus product for a new Dell notebook and the author's preference for Kaspersky."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /anti-virus-trouble-d22c83ae2334

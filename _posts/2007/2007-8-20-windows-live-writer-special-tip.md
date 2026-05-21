@@ -1,5 +1,5 @@
 ---
-description: This post talks about a special tip for Windows Live Writer.
+description: "Shares a special workaround when Windows Live Writer cannot access Blogspot due to ISP filtering."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-writer-special-tip-13fbf9ddfdb4

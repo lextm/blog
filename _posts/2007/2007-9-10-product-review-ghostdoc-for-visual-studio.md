@@ -1,5 +1,5 @@
 ---
-description: This post talks about GhostDoc for Visual Studio.
+description: "Reviews GhostDoc for Visual Studio and its automatic XML comment generation features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-ghostdoc-for-visual-studio-7bb2925c469f

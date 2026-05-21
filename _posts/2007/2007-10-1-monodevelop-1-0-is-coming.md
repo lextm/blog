@@ -1,5 +1,5 @@
 ---
-description: This post talks about MonoDevelop 1.0.
+description: Looks ahead to the upcoming MonoDevelop 1.0 release and its new feature-complete milestone.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /monodevelop-1-0-is-coming-bf1c79170e48

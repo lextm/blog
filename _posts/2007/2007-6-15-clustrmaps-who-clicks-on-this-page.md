@@ -1,5 +1,5 @@
 ---
-description: This post describes how to see who clicks on this blog with ClustrMaps.
+description: "Explains how to use ClustrMaps to discover blog visitors' geographic origins."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /clustrmaps-who-clicks-on-this-page-883a2f3d30cf

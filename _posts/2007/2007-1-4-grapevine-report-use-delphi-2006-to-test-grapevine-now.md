@@ -1,5 +1,5 @@
 ---
-description: This post reports the progress of GrapeVine.
+description: "Reports GrapeVine development progress and plans to test it with Delphi 2006."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-report-use-delphi-2006-to-test-grapevine-now-75458ab97c9f

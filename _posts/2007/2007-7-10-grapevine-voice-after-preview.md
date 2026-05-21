@@ -1,5 +1,5 @@
 ---
-description: This post describes about the changes after GrapeVine Preview.
+description: "Summarizes post-preview changes for GrapeVine and the plan toward Milestone 1."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-after-preview-e225b8c640f8

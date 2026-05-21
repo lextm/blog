@@ -1,5 +1,5 @@
 ---
-description: This post announces the release of IMS 4.0.
+description: "Notes the release of IMS 4.0 and the author's experience with its Personal edition."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /clearcontext-update-676c77d86c03

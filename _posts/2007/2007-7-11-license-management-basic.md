@@ -1,5 +1,5 @@
 ---
-description: This post describes how to develop a license management system for shareware.
+description: "Explains the basics of building a license management system for shareware applications."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /license-management-basic-e126ab09cb81

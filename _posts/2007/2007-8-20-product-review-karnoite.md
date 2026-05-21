@@ -1,5 +1,5 @@
 ---
-description: This post talks about Karvonite, a .NET object persistence library.
+description: "Reviews Karvonite as a lightweight .NET persistence library alternative before LINQ."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-karvonite-de33d25e6212

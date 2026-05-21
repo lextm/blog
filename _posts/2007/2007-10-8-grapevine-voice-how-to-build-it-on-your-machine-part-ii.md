@@ -1,5 +1,5 @@
 ---
-description: This post is part ii on how to build GrapeVine on your machine.
+description: "Continues the GrapeVine build guide with updates for SharpDevelop 3.0 and .NET 3.5 requirements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-how-to-build-it-on-your-machine-part-ii-a6f1c5577e76

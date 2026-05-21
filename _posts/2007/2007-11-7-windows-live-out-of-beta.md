@@ -1,5 +1,5 @@
 ---
-description: This post talks about that Windows Live products are out of beta.
+description: "Notes Windows Live’s move out of beta and offers practical advice for upgrading from beta builds."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-out-of-beta-56ad354f1962

@@ -1,5 +1,5 @@
 ---
-description: This post talks about a limitation of InstallAware MSIcode.
+description: "Details a limitation in InstallAware MSIcode that prevents implementing loop-based wait behavior."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /installaware-msicode-limitation-e2e6c6aedeb

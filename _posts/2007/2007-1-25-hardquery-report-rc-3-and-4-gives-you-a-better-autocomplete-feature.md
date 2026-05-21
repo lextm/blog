@@ -1,5 +1,5 @@
 ---
-description: This post is about the progress of HardQuery.
+description: "Updates HardQuery progress and introduces better autocomplete support in RC 3 and 4."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-rc-3-and-4-gives-you-a-better-autocomplete-feature-6cffcfbe9180

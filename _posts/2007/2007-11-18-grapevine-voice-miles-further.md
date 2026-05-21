@@ -1,5 +1,5 @@
 ---
-description: This post talks about the future of GrapeVine.
+description: "Reflects on GrapeVine M10 stability and plans to pause feature work and focus on testing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-miles-further-442cc280d861

@@ -1,6 +1,5 @@
 ---
-description: This post describes that after installing Microsoft Office Compatibility
-  Pack, my Office XP can open Office 2007 format files.
+description: "Shares how Office XP gained support for Office 2007 formats after installing the Compatibility Pack."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-office-compatibility-pack-turn-it-on-again-1548e87d6dd2

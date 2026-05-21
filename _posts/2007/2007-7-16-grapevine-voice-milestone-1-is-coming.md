@@ -1,5 +1,5 @@
 ---
-description: This post describes about the changes in GrapeVine M1.
+description: "Describes GrapeVine Milestone 1 changes, including Vista compatibility and package naming updates."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-milestone-1-is-coming-14b901b93fe9

@@ -1,6 +1,5 @@
 ---
-description: This post describes the latest news from CodeGear on using C++ libraries
-  with C++Builder.
+description: Summarizes a CodeGear broadcast on using modern C++ libraries with C++Builder 2006.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /latest-bcb-broadcast-from-codegear-c9b9403a56e4

@@ -1,5 +1,5 @@
 ---
-description: This post describes about a special preview build of GrapeVine release.
+description: "Describes a special GrapeVine preview build and the reasons certain features are temporarily unavailable."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-a-special-preview-e51d4bbaf9bd

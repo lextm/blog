@@ -1,5 +1,5 @@
 ---
-description: This post is to announce a delay to ship M5 of GrapeVine.
+description: "Explains GrapeVine M5 release delay caused by slow internet bandwidth and download issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-delay-because-of-bandwidth-dcbcc6442f50

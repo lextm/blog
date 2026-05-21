@@ -1,5 +1,5 @@
 ---
-description: This post talks about how difficult to name products.
+description: "Reflects on product naming challenges and the confusing similarity between Silverlight, Moonlight, and Flash."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /naming-a-product-66116a87099c

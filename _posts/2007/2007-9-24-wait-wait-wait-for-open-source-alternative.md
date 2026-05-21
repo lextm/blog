@@ -1,5 +1,5 @@
 ---
-description: This post talks about my experience with PDFCreator and CutePDF Writer.
+description: "Compares PDFCreator and CutePDF Writer and explains when open source alternatives shine."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /wait-wait-wait-for-open-source-alternative-7a4b1ae961c6

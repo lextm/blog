@@ -1,6 +1,5 @@
 ---
-description: This post talks about the installation experience changes in Code Beautifier
-  Collection.
+description: Reviews historical installer changes for Code Beautifier Collection and the evolving install workflow.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-installation-experience-changes-part-i-8928cd2e56a3

@@ -1,5 +1,5 @@
 ---
-description: This post reports a problem when launching CBC in Delphi 2006.
+description: "Reports a CBC bug that freezes Delphi 2006 during startup."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-who-freezes-bds-when-launching-cba788e99b53

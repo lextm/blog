@@ -1,5 +1,5 @@
 ---
-description: This post talks about a sample Inno Setup script for version comparison.
+description: "Shows an Inno Setup script sample for version comparison and uninstalling old releases."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /inno-setup-script-sample-for-version-comparison-d5ac8f776f1d

@@ -1,5 +1,5 @@
 ---
-description: This post talks about my trip to Brazil and Harry Potter 7.
+description: "Describes a planned business trip to Brazil and worries about receiving Harry Potter 7 before departure."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /brazil-trip-and-harry-potter-7-57e5eb615d24

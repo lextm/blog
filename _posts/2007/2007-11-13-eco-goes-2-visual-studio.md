@@ -1,5 +1,5 @@
 ---
-description: This post talks about ECO's move to Visual Studio.
+description: "Discusses ECO's transition to Visual Studio and its implications for .NET ORM users."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /eco-goes-2-visual-studio-451ee5ce9bdc

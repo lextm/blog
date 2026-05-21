@@ -1,5 +1,5 @@
 ---
-description: This post talks about Google's attack on Eclipse and Java.
+description: "Analyzes Google's strategy of compiling Java to Dalvik bytecode for Android and its impact on Eclipse and Java."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /googles-attack-on-eclipse-and-java-982c1f54e536

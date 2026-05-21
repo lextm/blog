@@ -1,6 +1,5 @@
 ---
-description: This post is to announce that I will move some functions out of TypingSpeeder
-  and re-implement them using Live Templates.
+description: "Announces plans to move TypingSpeeder functionality to Delphi Live Templates for a better coding experience."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-more-live-templates-edee1e446e9e

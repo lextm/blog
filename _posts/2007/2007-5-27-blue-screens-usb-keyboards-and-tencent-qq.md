@@ -1,5 +1,5 @@
 ---
-description: This post describes the problem of Blue Screens on Windows XP and Vista.
+description: "Describes Blue Screen issues on XP and Vista caused by Tencent QQ and USB keyboards."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /blue-screens-usb-keyboards-and-tencent-qq-94a83ab2dbd5

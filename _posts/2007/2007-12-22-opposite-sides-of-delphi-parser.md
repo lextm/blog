@@ -1,5 +1,5 @@
 ---
-description: This post is about Delphi parsers.
+description: "Discusses native Delphi parsers and the challenges of building .NET Delphi parsing tools."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /opposite-sides-of-delphi-parser-c9599d515ff7

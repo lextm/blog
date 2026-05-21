@@ -1,5 +1,5 @@
 ---
-description: This post describes some tools to help on .NET localization.
+description: "Recommends tools that help reduce the pain of .NET localization in Visual Studio."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /localization-helpers-8510baf738e1

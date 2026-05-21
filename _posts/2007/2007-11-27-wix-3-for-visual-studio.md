@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WiX 3 for Visual Studio
-description: This post is about WiX 3, which is just integrated into Visual Studio.
+description: "Covers WiX 3 integration into Visual Studio and why it matters for MSI authoring."
 tags: visual-studio windows
 categories: [Tools and Platforms]
 permalink: /wix-3-for-visual-studio-864fa40b001b

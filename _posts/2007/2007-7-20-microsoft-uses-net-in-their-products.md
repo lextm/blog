@@ -1,5 +1,5 @@
 ---
-description: This post talks about how Microsoft uses .NET in their products.
+description: "Explores evidence that Microsoft uses .NET in its own products despite past myths."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-uses-net-in-their-products-5443b2aa4b2

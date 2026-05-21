@@ -1,6 +1,5 @@
 ---
-description: This post talks about how to use make.all.bat on Windows Vista with UAC
-  enabled.
+description: "Explains how to run make.all.bat on Windows Vista with UAC enabled and build CBC successfully."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /over-uac-batch-build-on-vista-13d31dee6a5d

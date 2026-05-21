@@ -1,5 +1,5 @@
 ---
-description: This post talks about DXCore for Visual Studio.
+description: "Discusses DXCore for Visual Studio and the influence it may have on future GrapeVine architecture."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-dxcore-for-visual-studio-258b665a996e

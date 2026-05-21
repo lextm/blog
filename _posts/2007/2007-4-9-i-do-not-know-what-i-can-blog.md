@@ -1,5 +1,5 @@
 ---
-description: This post is about impact of my new job.
+description: "Explains how a new job affected the author's blogging plans and content frequency."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /i-do-not-know-what-i-can-blog-73c6d4a98bb

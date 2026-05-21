@@ -1,5 +1,5 @@
 ---
-description: This post talks about the new features of WiseEditor and NFamily.
+description: "Covers WiseEditor and NFamily improvements and plans for UI and bug fixes in the next release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-1-0-and-0-9-wiseeditor-and-nfamily-cc4b51210503

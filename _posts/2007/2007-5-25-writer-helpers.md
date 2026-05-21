@@ -1,5 +1,5 @@
 ---
-description: This post describes some plug-ins for Windows Live Writer.
+description: "Recommends useful Windows Live Writer plugins for smileys, tables, and code formatting."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /writer-helpers-48d211511bd9

@@ -1,5 +1,5 @@
 ---
-description: This post is about my graduation.
+description: "Celebrates graduation from HUST and the author's move to a software engineering career in Shanghai."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /graduated-3b7647ff0ac8

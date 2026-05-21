@@ -1,5 +1,5 @@
 ---
-description: This post is to review Silverlight 1.0.
+description: "Reviews Silverlight 1.0 and explains why the author is waiting for .NET support in version 1.1."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-silverlight-lights-up-what-1fb2af15444d

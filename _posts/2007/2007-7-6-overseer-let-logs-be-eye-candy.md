@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overseer, Let Logs Be Eye-Candy
-description: This post describes a free logging tool for .NET.
+description: "Introduces Overseer for .NET as a free alternative to make logs more visual and easier to analyze."
 tags: .net
 categories: [Programming Languages]
 permalink: /overseer-let-logs-be-eye-candy-50f3462fe4bd

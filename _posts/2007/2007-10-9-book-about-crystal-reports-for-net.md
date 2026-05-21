@@ -1,5 +1,5 @@
 ---
-description: This post talks about a book on Crystal Reports for .NET.
+description: "Recommends a Crystal Reports for .NET book and shares the difficulty of obtaining it in China."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /book-about-crystal-reports-for-net-5580101a3dfb

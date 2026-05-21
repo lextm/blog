@@ -1,5 +1,5 @@
 ---
-description: This post talks about a GrapeVine issue reported by a CEO from Israel.
+description: "Reports GrapeVine issue #5 raised by an Israeli CEO and links to the published workaround."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-issue-5-report-from-isreal-93361cd1ef30

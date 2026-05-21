@@ -1,5 +1,5 @@
 ---
-description: This post is about Doc-O-Matic Express.
+description: "Reviews Doc-O-Matic Express as an easier documentation tool for generating LeXDK references."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-doc-o-matic-express-a951211347f5

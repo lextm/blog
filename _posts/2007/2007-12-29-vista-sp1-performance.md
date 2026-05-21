@@ -1,5 +1,5 @@
 ---
-description: This post is about Windows Vista SP1 performance.
+description: "Shares disappointment with Windows Vista SP1 RC performance and compares it to RTM behavior."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /vista-sp1-performance-d66b85d22f19

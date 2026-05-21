@@ -1,5 +1,5 @@
 ---
-description: This post describes how to use CBC Code Templates.
+description: "Explains how to install and use CBC Code Templates for XML comment and C# code productivity."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-code-templates-760c67c006c8

@@ -1,5 +1,5 @@
 ---
-description: This post is about extending Windows Live Writer.
+description: "Describes the challenge of extending Windows Live Writer with its SDK and plugin API."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /failed-to-extend-windows-live-writer-501d5f0e91fa

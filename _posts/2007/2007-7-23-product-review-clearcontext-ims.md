@@ -1,6 +1,5 @@
 ---
-description: This post talks about ClearContext, an Outlook extension that improves
-  productivity.
+description: "Reviews ClearContext IMS for Outlook and how it helps users manage email more efficiently."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-clearcontext-ims-4f5ce4dcb4f

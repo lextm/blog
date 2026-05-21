@@ -1,6 +1,5 @@
 ---
-description: This post talks about why there are several SQL Server services running
-  on my workstation.
+description: "Explains why multiple Microsoft SQL Server instances can run on one workstation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-sql-server-instances-14d9f80ef5e9

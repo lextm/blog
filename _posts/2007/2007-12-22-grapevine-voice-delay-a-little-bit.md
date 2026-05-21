@@ -1,5 +1,5 @@
 ---
-description: This posts announces the delay of GrapeVine Final.
+description: Announces a short delay for GrapeVine Final due to RAD Studio 2007 tooling changes.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-delay-a-little-bit-a02ac9e20b67

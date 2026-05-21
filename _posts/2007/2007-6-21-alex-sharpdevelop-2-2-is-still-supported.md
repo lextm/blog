@@ -1,6 +1,5 @@
 ---
-description: This post describes that Alex 1.0 still works fine with SharpDevelop
-  2.2.
+description: "Confirms Alex 1.0 remains compatible with SharpDevelop 2.2 despite version changes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /alex-sharpdevelop-2-2-is-still-supported-151a6fc6216a

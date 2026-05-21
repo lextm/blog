@@ -1,5 +1,5 @@
 ---
-description: This post talks about Chinese translator in Firefox and Thunderbird.
+description: "Introduces a Chinese translator extension for Firefox and Thunderbird."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /chinese-translator-in-firefox-and-thunderbird-88ca45c8b3e

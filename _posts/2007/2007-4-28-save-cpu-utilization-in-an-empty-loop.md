@@ -1,5 +1,5 @@
 ---
-description: This post describes how to save CPU utilization in an empty loop.
+description: "Explains how to reduce CPU usage in an empty loop by adding Thread.Sleep."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /save-cpu-utilization-in-an-empty-loop-e9b4a265d874

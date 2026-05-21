@@ -1,5 +1,5 @@
 ---
-description: This post talks about a GrapeVine hack during installation.
+description: "Describes an installer hack for GrapeVine to support all-user installation via bds.exe modification."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-installer-hack-840558857a23

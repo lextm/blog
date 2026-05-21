@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to use ISPP for .NET developers.
+description: "Provides an Inno Setup Preprocessor tip for .NET developers and highlights version attribute handling."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /inno-setup-preprocessor-tip-for-net-developers-a4bece8d7349

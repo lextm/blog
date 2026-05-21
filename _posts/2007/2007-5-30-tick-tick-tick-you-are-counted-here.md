@@ -1,5 +1,5 @@
 ---
-description: This post describes how to count the visitors to your blog.
+description: "Shares a new blog visitor counter and explains why tracking site hits can be motivating."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tick-tick-tick-you-are-counted-here-646d0ecc981b

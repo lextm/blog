@@ -1,5 +1,5 @@
 ---
-description: This post is about the problems of Alex with SharpDevelop 3.0.
+description: "Describes compatibility problems between the Alex add-in and SharpDevelop 3.0 alpha."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /alex-problems-with-sharpdevelop-3-0-23660f73fb7a

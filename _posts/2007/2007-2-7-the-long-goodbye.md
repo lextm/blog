@@ -1,5 +1,5 @@
 ---
-description: This post announces the goodbye to CSDN.
+description: "Announces the author's departure from CSDN due to dissatisfaction with the service."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-long-goodbye-c78a0ffeb5fd

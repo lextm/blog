@@ -1,5 +1,5 @@
 ---
-description: This post describes how to remove viruses from U Disk.
+description: "Describes removing viruses from a USB drive and recommends safe recovery steps."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /viruses-from-u-disk-92f9f71ec3aa

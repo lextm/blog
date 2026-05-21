@@ -1,5 +1,5 @@
 ---
-description: This post talks about SharePoint and IE.
+description: "Explains SharePoint's dependence on Internet Explorer and the browser limitations encountered."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /normal-behavior-sharepoint-binds-to-ie-f6e77819d6b3

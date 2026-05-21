@@ -1,6 +1,5 @@
 ---
-description: This post talks about that there are totally three major groups working
-  on cross platform Object Pascal.
+description: "Introduces the three major groups driving cross-platform Object Pascal development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cross-platform-object-pascal-part-i-e4d73af87646

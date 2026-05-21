@@ -1,5 +1,5 @@
 ---
-description: This post compares Delphi and Chrome.
+description: "Compares Delphi and Chrome approaches to cross-platform Object Pascal development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cross-platform-object-pascal-part-ii-6d3ac47874e7

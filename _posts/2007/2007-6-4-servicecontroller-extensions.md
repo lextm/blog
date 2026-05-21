@@ -1,5 +1,5 @@
 ---
-description: This post describes how to get the executable name of a Windows service.
+description: Shows how to extend ServiceController to obtain a Windows service executable name on .NET.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /servicecontroller-extensions-de5af7a92903

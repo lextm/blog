@@ -1,5 +1,5 @@
 ---
-description: This post is about a nice wallpaper for Mozilla Developer Center.
+description: "Shares a favorite Mozilla Developer Center wallpaper and why it makes the desktop nicer."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-wallpaper-for-mozilla-developer-center-36420430e1d6

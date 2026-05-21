@@ -1,5 +1,5 @@
 ---
-description: This post talks about my delayed trip to Sao Paulo and the cost.
+description: "Recaps the expense of a delayed Sao Paulo trip and the uncertainty of booking accommodations."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sao-paulo-trip-delay-again-and-the-cost-6706dd7f9e66

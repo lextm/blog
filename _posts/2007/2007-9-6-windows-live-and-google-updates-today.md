@@ -1,5 +1,5 @@
 ---
-description: This post talks about the latest updates of Windows Live and Google.
+description: "Summarizes today’s Windows Live and Google updates, including WLW Beta and Google Reader improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-and-google-updates-today-d3db1b82d3ce

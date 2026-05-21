@@ -1,5 +1,5 @@
 ---
-description: This post talks about my attempt to port LoadingCircle to .NET 1.1.
+description: "Describes porting a LoadingCircle animation control to .NET 1.1."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /loadingcircle-for-net-1-1-a6921ccdccb4

@@ -1,5 +1,5 @@
 ---
-description: This post is about InstallAware and why it is better than Inno Setup.
+description: "Compares InstallAware to Inno Setup and explains why a commercial installer may offer advantages."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-installaware-advantages-over-inno-setup-f39f8d9c9f2

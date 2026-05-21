@@ -1,5 +1,5 @@
 ---
-description: This post describes why/how I have to switch to MiCTeX from CTeX.
+description: "Explains switching from CTeX to MiCTeX on Vista due to font and CJK support issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /mictex-beyond-ctex-e2df20d4b8c0

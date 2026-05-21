@@ -1,6 +1,5 @@
 ---
-description: This post talks about an advanced sample Inno Setup script for version
-  comparison.
+description: "Shows an advanced Inno Setup sample script for version comparison using ISPP."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /inno-setup-script-sample-for-version-comparison-advanced-version-c398d0ef18ad

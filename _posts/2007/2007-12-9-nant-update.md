@@ -1,5 +1,5 @@
 ---
-description: This post announces the release of NAnt 0.86-beta1.
+description: "Announces NAnt 0.86-beta1 and reflects on whether NAnt remains relevant."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /nant-update-d02c0e49886d

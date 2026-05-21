@@ -1,5 +1,5 @@
 ---
-description: This post talks about the Golden Shield.
+description: "Advises Chinese site owners to test their site against the Golden Shield accessibility restrictions."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /shield-test-for-your-site-dc672a27b4a6

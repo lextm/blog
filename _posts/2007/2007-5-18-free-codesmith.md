@@ -1,5 +1,5 @@
 ---
-description: This post describes the free version of CodeSmith.
+description: "Introduces the free version of CodeSmith 2.6 for .NET developers."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /free-codesmith-2c7ba569b056

@@ -1,5 +1,5 @@
 ---
-description: This post describes about Borland.Studio.ToolsAPI.dll 5.0.
+description: "Explains why Borland.Studio.ToolsAPI.dll 5.0 matters for HardQuery and .NET compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-toolsapi-5-0-fe0127a56797

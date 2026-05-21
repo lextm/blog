@@ -1,5 +1,5 @@
 ---
-description: This post describes two extensions for Visual Studio.
+description: "Highlights two useful Visual Studio extensions: CoolCommand and BuildConsole."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cool-tools-for-vs-19896742ca5

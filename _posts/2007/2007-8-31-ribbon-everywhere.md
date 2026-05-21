@@ -1,5 +1,5 @@
 ---
-description: This post talks about Ribbon UI in development tools.
+description: "Discusses Ribbon UI spreading into development tools and the debate over its usefulness."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /ribbon-everywhere-b444365c6cb4

@@ -1,5 +1,5 @@
 ---
-description: This post talks about Windows Live Writer's support for Blogger.com.
+description: "Celebrates Windows Live Writer Beta 3 adding Blogger.com login support for blocked users."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-writer-welcomes-blogger-com-25a634d35435

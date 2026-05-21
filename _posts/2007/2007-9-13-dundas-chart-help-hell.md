@@ -1,5 +1,5 @@
 ---
-description: This post talks about the low quality help materials of Dundas Chart.
+description: "Critiques Dundas Chart's poor help documentation and compares it to better charting tools."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dundas-chart-help-hell-9cebbb2c5621

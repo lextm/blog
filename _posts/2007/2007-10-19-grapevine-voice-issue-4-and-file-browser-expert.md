@@ -1,5 +1,5 @@
 ---
-description: This post talks about issue 4 and File Browser Expert.
+description: "Describes GrapeVine issue 4 related to File Browser Expert installation support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-issue-4-and-file-browser-expert-cebd080357bd

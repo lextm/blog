@@ -1,6 +1,5 @@
 ---
-description: This post talks about that it is possible to emulate those Vista only
-  dialogs on Windows XP.
+description: "Explains how to emulate Vista-style dialogs on Windows XP for use in GrapeVine."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-vista-dialogs-on-windows-xp-7cb7af841c1b

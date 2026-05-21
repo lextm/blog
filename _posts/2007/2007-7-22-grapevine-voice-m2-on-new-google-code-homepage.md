@@ -1,6 +1,5 @@
 ---
-description: This post describes about the new homepage for Code Beautifier Collection
-  I registered on Google Code.
+description: "Introduces the new Google Code homepage for Code Beautifier Collection Milestone 2."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-m2-on-new-google-code-homepage-5f722588bc74

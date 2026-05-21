@@ -1,5 +1,5 @@
 ---
-description: This post is about my new job.
+description: "Announces the author's new position at Scientific Atlanta and the start of his software engineering career."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /life-at-sa-9ab7492a7797

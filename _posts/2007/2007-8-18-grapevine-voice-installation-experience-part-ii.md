@@ -1,5 +1,5 @@
 ---
-description: This post talks about the installation experience of GrapeVine build.
+description: Continues the GrapeVine installation experience series with MSI and registry insights.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-installation-experience-part-ii-b2899f34a18d

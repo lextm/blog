@@ -1,5 +1,5 @@
 ---
-description: This post describes a free anti-virus solution from Grisoft.
+description: "Recommends AVG free antivirus and related security tools from Grisoft."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /free-anti-virus-solution-from-grisoft-d4d2ee24726e

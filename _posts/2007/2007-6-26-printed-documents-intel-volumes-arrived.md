@@ -1,6 +1,5 @@
 ---
-description: This post describes that I ordered a few volumes of Intel manuals and
-  they arrived today by FedEx.
+description: "Announces the arrival of printed Intel manuals and considers publishing CBC documentation in print."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /printed-documents-intel-volumes-arrived-2f956bb1d5a5

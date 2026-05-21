@@ -1,5 +1,5 @@
 ---
-description: This post describes my busy month ahead.
+description: Describes a busy month starting with new project assignments and the challenges of maintaining legacy code.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /busy-month-starts-2520a3d046f6

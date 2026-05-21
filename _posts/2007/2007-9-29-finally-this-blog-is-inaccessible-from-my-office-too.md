@@ -1,5 +1,5 @@
 ---
-description: This post is to reveal that my blog is inaccessible even from my office.
+description: "Reports that the author's blog is now blocked at the office as well, and how WLW still works."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /finally-this-blog-is-inaccessible-from-my-office-too-4f4df4f2e7b

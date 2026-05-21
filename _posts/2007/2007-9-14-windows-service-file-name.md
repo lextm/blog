@@ -1,6 +1,5 @@
 ---
-description: This post talks about how to get Windows Service executable name and
-  path.
+description: "Explains how to query a Windows service executable name and path using WMI."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-service-file-name-56f73788dcb9

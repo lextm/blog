@@ -1,5 +1,5 @@
 ---
-description: This post talks about Overseer, a logging tool for .NET.
+description: "Reviews Overseer for .NET as an open-source logging alternative to CodeSite."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /overseer-use-it-for-net-efff10eed378

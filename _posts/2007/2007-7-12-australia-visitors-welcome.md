@@ -1,5 +1,5 @@
 ---
-description: This post welcomes the Australia visitors to my blog.
+description: "Welcomes Australian visitors to the blog and celebrates global readership."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /australia-visitors-welcome-c1854ba098a6

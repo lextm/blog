@@ -1,5 +1,5 @@
 ---
-description: This post talks about a free tool from TechSmith, called Jing.
+description: "Reviews Jing, TechSmith’s free screen capture tool, and explains why it can replace CamStudio."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /techsmith-goes-crazy-jing-shines-9354dc8736c8

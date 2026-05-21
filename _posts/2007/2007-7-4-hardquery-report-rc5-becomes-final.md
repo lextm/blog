@@ -1,5 +1,5 @@
 ---
-description: This post describes about HardQuery Report RC5.
+description: "Recaps HardQuery RC5 and explains why it may be treated as the final release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-rc5-becomes-final-29c846689852

@@ -1,5 +1,5 @@
 ---
-description: This post talks about the benefits of registering your purchased products.
+description: "Explains the extra benefits vendors provide to registered product users, including Delphi and Visual Studio add-ons."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-registration-extras-a649425ff8ea

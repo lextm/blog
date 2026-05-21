@@ -1,5 +1,5 @@
 ---
-description: This post announces the release of GrapeVine M10.
+description: "Announces GrapeVine M10 and fixes related to the M9 installer bug."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-now-10-just-1-mile-further-63a4c3b41fcc

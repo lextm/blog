@@ -1,6 +1,5 @@
 ---
-description: This post talks about some issues I found on the official film site of
-  Harry Potter and the Order of the Phoenix.
+description: "Reports usability issues on the official Harry Potter film site, especially the screensaver downloads."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /harry-potter-issues-about-the-official-film-site-screensavers-5ce7b367c5dc

@@ -1,6 +1,5 @@
 ---
-description: This post describes why manual refactoring is much safer than using refactoring
-  tools.
+description: "Explains why manual refactoring can be safer than using automated refactoring tools."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /refactoring-tools-dangerous-c4ce872a5425

@@ -1,5 +1,5 @@
 ---
-description: This post talks about Google's Summer of Code.
+description: "Celebrates Google Summer of Code and highlights its benefits for Mono and open source development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /summer-of-code-googles-plan-533c901a066e

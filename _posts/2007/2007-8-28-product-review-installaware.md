@@ -1,5 +1,5 @@
 ---
-description: This post talks about InstallAware, a professional installer solution.
+description: "Reviews InstallAware as a professional installer solution for distributing software."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-installaware-7d3088d8e806

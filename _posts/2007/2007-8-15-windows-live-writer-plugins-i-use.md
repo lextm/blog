@@ -1,5 +1,5 @@
 ---
-description: This post talks about some plugins I use with Windows Live Writer.
+description: "Lists Windows Live Writer plugins the author uses to improve blogging productivity."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-writer-plugins-i-use-603828787534

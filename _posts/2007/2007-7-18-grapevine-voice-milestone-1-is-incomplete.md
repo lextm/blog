@@ -1,5 +1,5 @@
 ---
-description: This post describes about the incomplete Milestone 1 build.
+description: "Explains why GrapeVine Milestone 1 remains incomplete due to Vista UAC and registry issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-milestone-1-is-incomplete-56c49ab6d78a

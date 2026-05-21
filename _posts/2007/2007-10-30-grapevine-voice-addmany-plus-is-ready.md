@@ -1,5 +1,5 @@
 ---
-description: This post announces the release of AddMany Plus.
+description: "Announces the revival of AddMany Plus and plans for code cleanup and testing before release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-addmany-plus-is-ready-108400f4d7b6

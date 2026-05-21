@@ -1,6 +1,5 @@
 ---
-description: This post announces that I removed Azureus and now turned FlashGet to
-  be the default BT Client.
+description: "Announces switching from Azureus to FlashGet as the default BT client for better download performance."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /flashget-as-default-bt-client-df341af02170

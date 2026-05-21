@@ -1,5 +1,5 @@
 ---
-description: This post is about Delphi 2007 Videos.
+description: "Highlights Delphi 2007 beta videos and encourages community feedback."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /delphi-2007-videos-3d89a8ae7be4

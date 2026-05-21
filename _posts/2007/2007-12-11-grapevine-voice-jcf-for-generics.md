@@ -1,5 +1,5 @@
 ---
-description: This post is about JCF's support for generics.
+description: "Announces JCF support for Delphi generics and plans to include it in GrapeVine 6.0 Final."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-jcf-for-generics-51269640c9f6

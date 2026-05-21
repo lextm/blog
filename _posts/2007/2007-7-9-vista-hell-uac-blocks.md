@@ -1,5 +1,5 @@
 ---
-description: This post describes why Vista blocks CBC from saving settings.
+description: "Explains how Vista UAC blocks CBC from saving settings and why a user-folder move is needed."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /vista-hell-uac-blocks-f293a5fbc3a7

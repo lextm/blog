@@ -1,5 +1,5 @@
 ---
-description: This post describes the availability of TamTam SVN SCC.
+description: "Announces TamTam SVN SCC availability and notes its beta status and SVN requirements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tamtam-svn-scc-is-now-available-c289a6f759bd

@@ -1,5 +1,5 @@
 ---
-description: This post talks about Danny Thorpe's new job.
+description: "Discusses Danny Thorpe's departure from Microsoft and new role at CoolIris."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-same-old-brand-new-danny-1ef5b561ab5b

@@ -1,5 +1,5 @@
 ---
-description: This post is about open source licenses puzzle.
+description: "Discusses a licensing puzzle in Code Beautifier Collection involving GPL and MPL compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /open-source-licenses-puzzle-d40590fbe2ad

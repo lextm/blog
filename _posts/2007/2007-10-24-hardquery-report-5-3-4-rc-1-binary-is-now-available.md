@@ -1,5 +1,5 @@
 ---
-description: This post announces the release of HardQuery 5.3.4 RC 1 binaries.
+description: "Announces HardQuery 5.3.4 RC 1 binaries and the challenges of compiling the source across .NET versions."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-5-3-4-rc-1-binary-is-now-available-dc1a0e75ea67

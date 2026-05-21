@@ -1,5 +1,5 @@
 ---
-description: This post describes some must-haves for Office 2007 users.
+description: "Lists must-have tips and add-ins for users adapting to the Office 2007 ribbon UI."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /office-2007-users-must-haves-e36b230e1379

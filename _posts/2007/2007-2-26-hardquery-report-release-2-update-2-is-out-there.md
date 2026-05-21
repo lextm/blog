@@ -1,5 +1,5 @@
 ---
-description: This post is about the progress of HardQuery.
+description: "Announces HardQuery 5.3.2 Release 2 availability and highlights File Aid and InDate updates."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-release-2-update-2-is-out-there-33dfea87d4f7

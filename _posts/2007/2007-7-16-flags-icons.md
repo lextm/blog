@@ -1,5 +1,5 @@
 ---
-description: This post talks about some flags icons found over the internet.
+description: "Highlights a set of beautiful national flag icons discovered online."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /flags-icons-1851da691b49

@@ -1,5 +1,5 @@
 ---
-description: This post is about InstallShield 2008.
+description: Reviews InstallShield 2008 installer quality and its new preview and validation features.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-installshield-2008-e80bed2f9336

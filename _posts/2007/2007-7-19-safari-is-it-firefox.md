@@ -1,5 +1,5 @@
 ---
-description: This post talks about Safari and Firefox.
+description: "Compares Safari to Firefox and questions how Google treats browser compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /safari-is-it-firefox-575190f8f312

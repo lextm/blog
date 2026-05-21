@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to build HardQuery source code on your machine.
+description: "Explains how to build HardQuery locally with MSBuild and proper tool installation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-how-to-build-it-on-your-machine-8659b530e522

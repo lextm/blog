@@ -1,5 +1,5 @@
 ---
-description: This post talks about my experiences with Interwise.
+description: "Shares experiences attending Interwise online training sessions and the challenges of international connectivity."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /interwise-experiences-e3a86afe1a25

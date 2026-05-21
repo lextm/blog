@@ -1,5 +1,5 @@
 ---
-description: This post is about my wishes for 2008.
+description: "Shares holiday wishes for 2008 and excitement for Code Beautifier Collection 6.0 Final."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /merry-xmas-happy-new-year-cf9c5ec7208f

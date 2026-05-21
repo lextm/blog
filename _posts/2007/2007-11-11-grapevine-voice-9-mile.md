@@ -1,5 +1,5 @@
 ---
-description: This post announces the release of GrapeVine M9.
+description: "Announces GrapeVine M9 and highlights the return of AddMany Plus and installer changes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-9-mile-8f951330da6a

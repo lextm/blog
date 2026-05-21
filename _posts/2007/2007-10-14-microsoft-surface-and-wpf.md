@@ -1,5 +1,5 @@
 ---
-description: This post talks about Microsoft Surface and WPF.
+description: "Highlights Microsoft Surface as a WPF-powered product and the role of .NET in its innovation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-surface-and-wpf-b7647ff0b94f

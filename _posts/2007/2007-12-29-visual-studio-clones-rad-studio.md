@@ -1,5 +1,5 @@
 ---
-description: This post is about features Visual Studio clones from RAD Studio.
+description: "Explains how Visual Studio 2008 adopted features already present in RAD Studio."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /visual-studio-clones-rad-studio-c8aba372adc3

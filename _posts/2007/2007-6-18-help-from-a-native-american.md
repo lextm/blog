@@ -1,5 +1,5 @@
 ---
-description: This post describes how I got help from a native American.
+description: "Describes getting clarity on standardizing project terminology with help from a native English speaker."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /help-from-a-native-american-7f10903475f1

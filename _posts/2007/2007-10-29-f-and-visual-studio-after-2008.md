@@ -1,5 +1,5 @@
 ---
-description: This post talks about the future of F# and Visual Studio.
+description: "Looks ahead to F# and Visual Studio post-2008, and considers potential impacts on C# developers."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /f-and-visual-studio-after-2008-bd188bf6c0a3

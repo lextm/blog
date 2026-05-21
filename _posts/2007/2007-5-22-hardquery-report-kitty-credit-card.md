@@ -1,5 +1,5 @@
 ---
-description: This post describes my first credit card.
+description: "Shares the author's first credit card purchase and plans to continue development on a new Dell notebook."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /kitty-credit-card-1cc7e1da33ab

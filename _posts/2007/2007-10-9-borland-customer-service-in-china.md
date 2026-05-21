@@ -1,5 +1,5 @@
 ---
-description: This post talks about my experience with Borland Customer Service.
+description: "Describes the author's Borland customer service experience in China and the license installation challenges."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /borland-customer-service-in-china-f1e4f4e2583f

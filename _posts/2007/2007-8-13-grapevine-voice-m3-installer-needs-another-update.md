@@ -1,5 +1,5 @@
 ---
-description: This post is to update M3 installer.
+description: "Announces a new GrapeVine M3 installer update and asks users to reinstall the corrected build."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-m3-installer-needs-another-update-7cabf2769635

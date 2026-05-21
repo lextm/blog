@@ -1,5 +1,5 @@
 ---
-description: This post describes my new Dell Inspiron 640m.
+description: "Shares the arrival of a Dell Inspiron 640m and plans to build HardQuery on it."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-dell-inpiron-640m-2f561ad3cf15

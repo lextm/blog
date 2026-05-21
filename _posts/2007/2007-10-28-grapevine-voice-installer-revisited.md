@@ -1,6 +1,5 @@
 ---
-description: This post talks about CodeGear's installer and Code Beautifier Collection's
-  installation experience.
+description: "Discusses CodeGear installer challenges and the installation experience for Code Beautifier Collection."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-installer-revisited-183ac61b6026

@@ -1,5 +1,5 @@
 ---
-description: This post is to reveal a potential new feature in Code Beautifier Collection
+description: Proposes a missing update notification feature for Code Beautifier Collection and explains the value of RSS feeds.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-missing-feature-3cbbfc556a00

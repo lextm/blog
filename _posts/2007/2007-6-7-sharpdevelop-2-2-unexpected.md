@@ -1,5 +1,5 @@
 ---
-description: This post describes the unexpected version number update of SharpDevelop.
+description: "Notes the surprise SharpDevelop 2.2 version update and why it was welcome despite being unexpected."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpdevelop-2-2-unexpected-eb87cf0cccc8

@@ -1,5 +1,5 @@
 ---
-description: This post talks about Safari on Windows.
+description: "Reviews Safari on Windows and compares it with Firefox and other browsers."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /safari-on-windows-free-and-easy-1f36a1b58e08

@@ -1,5 +1,5 @@
 ---
-description: This post is about the progress of HardQuery.
+description: "Updates on HardQuery 5.3.3 progress and the delay of moving the project to Google Code."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-5-3-3-and-delay-of-moving-a2299bd4c543

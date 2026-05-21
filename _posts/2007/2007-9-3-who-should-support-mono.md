@@ -1,5 +1,5 @@
 ---
-description: This post talks about who should support Mono development.
+description: "Argues that Microsoft should support Mono and discusses Mono's growing cross-platform ecosystem."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /who-should-support-mono-e5384b9d94d8

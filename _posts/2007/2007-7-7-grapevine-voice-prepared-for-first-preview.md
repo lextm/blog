@@ -1,5 +1,5 @@
 ---
-description: This post describes about GrapeVine release.
+description: Covers compatibility work for the first GrapeVine preview and .NET/Delphi assembly issues.
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-prepared-for-first-preview-f7d5334d6d7a

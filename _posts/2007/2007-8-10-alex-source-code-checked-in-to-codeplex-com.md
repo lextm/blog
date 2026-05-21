@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alex: Source Code Checked In To CodePlex.com'
-description: This post talks about Alex, whose latest code is now on CodePlex.
+description: "Announces that Alex source code has been checked into CodePlex and is available for contributors."
 tags: .net
 categories: [Programming Languages]
 permalink: /alex-source-code-checked-in-to-codeplex-com-bceeb970e605

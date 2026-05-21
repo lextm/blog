@@ -1,5 +1,5 @@
 ---
-description: This post describes how to log exceptions.
+description: "Explains how exception handling and logging helped diagnose socket leaks in a buggy device driver."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /logging-exceptions-and-hacks-83bec1bf4075

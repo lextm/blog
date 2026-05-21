@@ -1,5 +1,5 @@
 ---
-description: This post talks about my suggestion to SharpDevelop 3.0.
+description: "Offers suggestions for SharpDevelop 3.0 multi-targeting based on the author's experiences."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /suggestion-to-sharpdevelop-3-0-a4b1ba8b2cc8

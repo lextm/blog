@@ -1,5 +1,5 @@
 ---
-description: This post talks about a new version of AddMany.
+description: "Announces the release of AddMany 5.2 and its relevance for Code Beautifier Collection users."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-addmany-5-2-comes-4cad3c2a3425

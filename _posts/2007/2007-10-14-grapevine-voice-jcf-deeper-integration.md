@@ -1,5 +1,5 @@
 ---
-description: This post talks about the improved integration of JCF into GrapeVine.
+description: "Describes deeper JCF integration into GrapeVine and the new JCFStyle editor utility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-jcf-deeper-adapting-83f7e56f48e4

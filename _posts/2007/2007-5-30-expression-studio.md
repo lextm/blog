@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expression Studio
-description: This post describes Expression Studio.
+description: "Shares first impressions of Expression Studio and why Expression Blend makes WPF design feel artistic."
 tags: visual-studio .net
 categories: [Tools and Platforms]
 permalink: /expression-studio-fb279f4adde2
