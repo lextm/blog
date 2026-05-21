@@ -1,5 +1,5 @@
 ---
-description: This post talks about the radio program named Joy FM.
+description: "Remembers Joy FM and how the radio program shaped the author’s youth and love for English music."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sweet-memories-joy-fm-days-d4527f1f3b2c

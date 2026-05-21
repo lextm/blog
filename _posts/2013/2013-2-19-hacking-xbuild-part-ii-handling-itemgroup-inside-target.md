@@ -1,6 +1,5 @@
 ---
-description: This post is the second part of my hacking xbuild series. It describes
-  how I handle ItemGroup inside Target.
+description: "Describes the author’s xbuild hack for handling ItemGroup inside Target by converting MSBuild fragments into xbuild-compatible forms."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hacking-xbuild-part-ii-handling-itemgroup-inside-target-ccbae2ef6abf

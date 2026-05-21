@@ -1,5 +1,5 @@
 ---
-description: This post talks about the new update for InstallAware 7.
+description: "Reports an InstallAware 7 update for MSI 4.5 and warns that an installer runtime bug may require another download."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /installaware-notice-you-may-need-update-again-7c791c38190d

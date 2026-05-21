@@ -1,5 +1,5 @@
 ---
-description: This post talks about what is missing in Firefox 3 Beta 4 release notes.
+description: "Points out missing information in Firefox 3 Beta 4 release notes and shares a compatibility workaround for NASA Night Launch."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /what-is-missing-in-firefox-3-beta-4-release-notes-d31cec0a145d

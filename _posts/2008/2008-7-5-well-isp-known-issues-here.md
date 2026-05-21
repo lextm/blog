@@ -1,6 +1,5 @@
 ---
-description: This post talks about the internet connection issues I have to face at
-  home.
+description: "Describes ISP restrictions that block the author from using Windows Live Writer, SF.net, and SVNBridge at home."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /well-isp-known-issues-here-ff6b6ec0f2e1

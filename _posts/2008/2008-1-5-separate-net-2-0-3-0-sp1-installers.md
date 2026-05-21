@@ -1,5 +1,5 @@
 ---
-description: This post is about separate .NET 2.0/3.0 SP1 installers.
+description: "Notes Microsoft’s separate .NET 2.0 and 3.0 SP1 installers and highlights related Visual Studio compatibility issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /separate-net-2-0-3-0-sp1-installers-330e39e03ae1

@@ -1,5 +1,5 @@
 ---
-description: This post is about how to use ANTLR on .NET.
+description: "Explains how to debug ANTLR-generated SmiLexer/SmiParser code in Visual Studio and use ANTLRWorks to locate grammar bugs."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-antlr-on-net-part-v-93a94e02d789

@@ -1,6 +1,6 @@
 ---
 categories: [History, .NET]
-description: This post is about OpenCover addin for SharpDevelop.
+description: "Describes creating an OpenCover addin for SharpDevelop as a better alternative to PartCover and older coverage tools."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /opencover-addin-for-sharpdevelop-e5fd5cdadc80

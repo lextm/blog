@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to handle unhandled exceptions.
+description: "Explains improved handling for unhandled exceptions in Delphi for .NET, including custom exception managers and bug workarounds."
 excerpt_separator: <!--more-->
 layout: post
 tags: .net delphi

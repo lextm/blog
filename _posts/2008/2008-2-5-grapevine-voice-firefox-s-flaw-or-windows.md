@@ -1,6 +1,5 @@
 ---
-description: This post talks about the issue that prevents me from setting Firefox
-  as my default web browser.
+description: "Describes a Firefox default browser issue on Windows and how it affects CBC’s HTML launching behavior."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-firefoxs-flaw-or-windows-e108ed376916

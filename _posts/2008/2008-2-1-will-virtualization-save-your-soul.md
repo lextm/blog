@@ -1,5 +1,5 @@
 ---
-description: This post talks about how virtualization can help improve productivity.
+description: "Describes how Virtual PC 2007 helped the author recover a broken Windows development environment quickly."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /will-virtualization-save-your-soul-e1041d55a0c0

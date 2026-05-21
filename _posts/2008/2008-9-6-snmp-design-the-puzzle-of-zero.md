@@ -1,5 +1,5 @@
 ---
-description: This post talks about the zeroes in SNMP protocol.
+description: "Examines the SNMP zero encoding ambiguity and proposes a resolution based on AdventNet’s implementation behavior."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-the-puzzle-of-zero-d26d9979f6

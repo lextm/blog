@@ -1,5 +1,5 @@
 ---
-description: This post is the second part of the parser details.
+description: "Describes how TDD and NUnit helped the author progress on parser implementation for #SNMP."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-time-for-parser-details-part-two-f722930f5c8e

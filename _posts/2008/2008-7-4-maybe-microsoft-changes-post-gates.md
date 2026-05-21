@@ -1,6 +1,5 @@
 ---
-description: This post talks about the possible changes of Microsoft after Bill Gates'
-  retirement.
+description: "Notes that Microsoft has restored Sandcastle to CodePlex after Gates’ retirement and predicts sharper open-source alignment."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /maybe-microsoft-changes-post-gates-12cad5afbe3a

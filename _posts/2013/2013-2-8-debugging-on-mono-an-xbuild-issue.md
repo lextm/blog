@@ -1,6 +1,5 @@
 ---
-description: This post talks about an issue I encountered when trying to compile F#
-  on Windows with Mono.
+description: "Describes the author’s effort to compile F# with Mono on Windows and the xbuild compatibility issues encountered."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /debugging-on-mono-an-xbuild-issue-44cda356cfa1

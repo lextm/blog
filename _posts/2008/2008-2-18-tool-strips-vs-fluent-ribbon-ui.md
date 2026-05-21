@@ -1,5 +1,5 @@
 ---
-description: This post talks about the difference between tool strips and Ribbon UI.
+description: "Compares traditional tool strips with Ribbon UI and explains when Ribbon is not the right choice."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tool-strips-vs-fluent-ribbon-ui-fac98821c7bd

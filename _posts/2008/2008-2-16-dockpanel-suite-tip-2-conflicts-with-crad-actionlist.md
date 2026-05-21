@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to use DockPanel with Crad Action List.
+description: "Explains a DockPanel Suite and Crad Action List conflict caused by disposed DockContent and how the author works around it."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-tip-2-conflicts-with-crad-action-list-baf8cc207d14

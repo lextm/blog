@@ -1,5 +1,5 @@
 ---
-description: This post talks about MIB browser improvement and other bug fixes.
+description: "Describes progress on the #SNMP MIB browser UI, including tree views, bug fixes, and plans for saving documents."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-turn-on-the-light-dd9ad54c79bf

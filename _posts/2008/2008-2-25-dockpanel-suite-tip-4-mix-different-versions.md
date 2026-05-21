@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to mix different versions of DockPanel Suite.
+description: "Explains how to merge DockPanel Suite 2.1 and 2.2 code so the author can use the newer version while preserving compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-tip-4-mix-different-versions-4b09c86f1aa5

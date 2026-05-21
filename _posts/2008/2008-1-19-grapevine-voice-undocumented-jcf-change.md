@@ -1,5 +1,5 @@
 ---
-description: This post talks about an undocumented JCF change.
+description: "Summarizes undocumented JCF 2.34 changes affecting Delphi compilation and a config switch limitation discovered by the author."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-undocumented-jcf-change-54804104e7d

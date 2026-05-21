@@ -1,5 +1,5 @@
 ---
-description: This post talks about a critical bug.
+description: "Reports a critical SNMP ObjectIdentifier ToBytes bug, the author’s failed quick fix, and the need for a deeper resolution."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-critical-bug-again-f3a5dafd1d02

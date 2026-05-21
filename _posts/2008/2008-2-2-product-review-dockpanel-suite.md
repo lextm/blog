@@ -1,5 +1,5 @@
 ---
-description: This post is a product review of DockPanel Suite.
+description: "Reviews DockPanel Suite, praising its Visual Studio-style UI and advising cautious use while samples and third-party features remain incomplete."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-dockpanel-suite-b6a6a0f24750

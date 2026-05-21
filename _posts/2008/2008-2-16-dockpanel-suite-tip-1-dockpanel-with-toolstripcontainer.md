@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DockPanel Suite Tip #1: DockPanel with ToolStripContainer'
-description: This post talks about how to use DockPanel with ToolStripContainer.
+description: "Shows how to use DockPanel Suite with ToolStripContainer and warns about MDI limitations and state persistence issues."
 tags: dockpanel-suite
 categories: [Frameworks and Libraries]
 permalink: /dockpanel-suite-tip-1-dockpanel-with-toolstripcontainer-e783a774e90

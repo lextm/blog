@@ -1,6 +1,5 @@
 ---
-description: This post is about my personal ideas about the changes on Delphi for
-  .NET side.
+description: "Shares personal views on Delphi Prism, VCL for .NET, and the transition to RemObjects’ compiler for .NET and Mono support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /delphi-prism-my-take-3bcb11339c73

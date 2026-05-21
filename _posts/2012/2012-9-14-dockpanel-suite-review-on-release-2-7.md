@@ -1,5 +1,5 @@
 ---
-description: This post is about DockPanel Suite 2.7 release.
+description: "Reviews DockPanel Suite 2.7, its collaboration-driven improvements, and where to find release notes and downloads."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-review-on-release-2-7-42bb0be582ae

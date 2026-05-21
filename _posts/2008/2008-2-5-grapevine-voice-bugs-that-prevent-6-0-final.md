@@ -1,6 +1,5 @@
 ---
-description: This post talks about the bugs that prevent 6.0 from running out of the
-  door.
+description: "Lists the remaining bugs blocking the 6.0 Final release and the author’s plan to fix them during the holiday."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-bugs-that-prevent-6-0-final-2fd207fe3882

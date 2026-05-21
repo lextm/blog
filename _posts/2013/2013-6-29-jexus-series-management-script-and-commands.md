@@ -1,5 +1,5 @@
 ---
-description: This post talks about Jexus management script and commands.
+description: "Summarizes the Jexus 5.3 management shell script and its jws command options for starting, restarting, and managing sites."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-management-script-and-commands-2d0b8eaf673e

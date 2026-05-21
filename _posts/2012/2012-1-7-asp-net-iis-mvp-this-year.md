@@ -1,6 +1,5 @@
 ---
-description: This post is about the MVP award I received from Microsoft under ASP.NET/IIS
-  category for 2012.
+description: "Announces the author's 2012 ASP.NET/IIS MVP award and reflects on community contributions despite personal setbacks."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /asp-net-iis-mvp-this-year-4f9f5d822f5a

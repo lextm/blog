@@ -1,6 +1,5 @@
 ---
-description: This post is about Windows Installer Service Breaking Change on Windows
-  8.
+description: "Describes a Windows 8 Installer Service behavior change and how it breaks Expression Studio and Windows Phone SDK installations."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-installer-service-breaking-change-on-windows-8-93547462fa3a

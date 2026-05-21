@@ -1,5 +1,5 @@
 ---
-description: This post talks about the delay of the refresh release.
+description: "Explains why the UnicornHorn refresh release is delayed due to a critical bug found during a discussion session."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-refresh-delayed-e0585e5ad772

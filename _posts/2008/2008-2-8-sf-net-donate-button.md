@@ -1,5 +1,5 @@
 ---
-description: This post talks about the SF.net Donate button.
+description: "Notes the SF.net Donate button discovery and encourages readers to support the project with their own account."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sf-net-donate-button-83670646be49

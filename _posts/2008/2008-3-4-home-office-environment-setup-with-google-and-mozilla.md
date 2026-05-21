@@ -1,6 +1,5 @@
 ---
-description: This post talks about how to set up a home office environment with Google
-  and Mozilla.
+description: "Describes building a free home office setup using Mozilla Thunderbird, Gmail, Google Calendar, and related tools."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /home-office-environment-setup-with-google-and-mozilla-8c7b0daef03a

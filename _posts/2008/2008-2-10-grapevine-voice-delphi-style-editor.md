@@ -1,5 +1,5 @@
 ---
-description: This post talks about the Delphi style editor in CBC 6.0.
+description: "Introduces CBC 6.0’s Delphi style editor feature, which lets users customize code formatting through the IDE."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-delphi-style-editor-7e99f5a0de60

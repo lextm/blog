@@ -1,5 +1,5 @@
 ---
-description: This post is about the latest progress of the MIB compiler.
+description: "Celebrates the working MIB compiler prototype and explains how module files will speed #SNMP browser loading."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-oh-dear-compiler-44369d113f58

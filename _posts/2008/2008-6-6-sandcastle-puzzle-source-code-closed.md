@@ -1,5 +1,5 @@
 ---
-description: This post talks about the removal of Sandcastle from CodePlex.com.
+description: "Complains that Microsoft removed Sandcastle from CodePlex and did not release its source under an open license."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sandcastle-puzzle-source-code-closed-cc9c793e35c1

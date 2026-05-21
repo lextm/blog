@@ -1,6 +1,5 @@
 ---
-description: This post talks about what you must pay attention to when you design
-  a library and have to change a few types from value types to reference types.
+description: "Explains the pitfalls of changing library types from structs to classes and how to preserve correct behavior."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /from-value-types-to-reference-types-93912062163c

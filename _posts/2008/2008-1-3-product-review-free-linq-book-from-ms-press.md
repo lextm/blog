@@ -1,5 +1,5 @@
 ---
-description: This post is about a free LINQ book from MS Press.
+description: "Highlights Microsoft’s free LINQ e-book from MS Press and warns that .NET 3.5’s large redistributable may slow adoption."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-free-linq-book-from-ms-press-6d1513e7710d

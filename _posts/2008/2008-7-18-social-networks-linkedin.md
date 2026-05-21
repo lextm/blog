@@ -1,5 +1,5 @@
 ---
-description: This post talks about my LinkedIn profile.
+description: "Explains why the author prefers LinkedIn over other social networks and invites readers to connect for professional recommendations."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /social-networks-linkedin-a04b82772780

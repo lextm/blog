@@ -1,6 +1,5 @@
 ---
-description: This post is about stack overflow issue of DockPanel Suite on Mono and
-  how I investigated on it.
+description: "Documents the DockPanel Suite stack overflow crash on Mono and the workaround discovered during investigation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /stack-overflow-issue-of-dockpanel-suite-on-mono-514a0c896d98

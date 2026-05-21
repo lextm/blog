@@ -1,5 +1,5 @@
 ---
-description: This post is about how to install custom controls to Visual Studio.
+description: "Explains the challenges of installing custom Windows Forms controls into Visual Studio and introduces the part I setup process."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-install-custom-controls-to-visual-studio-part-i-39fa7733bb3

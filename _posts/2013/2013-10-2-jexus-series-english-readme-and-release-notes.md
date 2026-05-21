@@ -1,5 +1,5 @@
 ---
-description: This post talks about Jexus Readme and Release Notes.
+description: "Summarizes how the author consolidated Jexus documentation into a GitHub English README and release notes, with a follow-up IIS/Jexus feature matrix planned."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-english-readme-and-release-notes-6c7afdfb7c5e

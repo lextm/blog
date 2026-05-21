@@ -1,6 +1,6 @@
 ---
 categories: [History, Delphi]
-description: This post talks about the merger of CodeGear into Embarcadero.
+description: "Reflects on CodeGear’s merger into Embarcadero and what it means for Delphi's future."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /codegear-merged-into-embarcadero-a4d6531a1b88

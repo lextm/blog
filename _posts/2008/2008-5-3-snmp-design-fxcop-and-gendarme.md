@@ -1,5 +1,5 @@
 ---
-description: This post talks about the tools I use to keep the code clean.
+description: "Explains using FxCop and Gendarme to improve #SNMP code quality and catch issues across .NET and Mono."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-fxcop-and-gendarme-8bca59a85563

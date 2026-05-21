@@ -1,5 +1,5 @@
 ---
-description: This post talks about the free version of CodeSmith.
+description: "Recommends the free CodeSmith 2.6 version and shows how to fix its compatibility issue on Windows Vista."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /codesmith-free-tip-a057dd4a617f

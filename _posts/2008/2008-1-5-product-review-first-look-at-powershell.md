@@ -1,5 +1,5 @@
 ---
-description: This post is about PowerShell.
+description: "Shares first impressions of PowerShell 1.0, praising its ease over cmd.exe while questioning the lack of C#-style scripting."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-first-look-at-powershell-db413733099a

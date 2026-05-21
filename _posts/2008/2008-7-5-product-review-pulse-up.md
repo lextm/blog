@@ -1,5 +1,5 @@
 ---
-description: This post talks about the progress of Pulse for Eclipse.
+description: "Reviews the improved Pulse for Eclipse, praising its better UI, performance, and add-on support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-pulse-up-cfaea3b7535d

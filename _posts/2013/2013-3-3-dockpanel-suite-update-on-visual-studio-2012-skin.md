@@ -1,6 +1,5 @@
 ---
-description: This post talks about the update on Visual Studio 2012 skin for DockPanel
-  Suite.
+description: "Describes the Visual Studio 2012 skin update for DockPanel Suite and the integration issues encountered with the patch workflow."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-update-on-visual-studio-2012-skin-1dcb4e32fe67

@@ -1,5 +1,5 @@
 ---
-description: This post talks about the first release candidate of TwinTower.
+description: "Announces TwinTower RC 1 and explains how the release schedule is affected by team availability."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-twintower-rc-1-f4cade28a4ca

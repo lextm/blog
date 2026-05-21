@@ -1,5 +1,5 @@
 ---
-description: This post talks about signing assemblies.
+description: "Explains why Delphi for .NET lacks built-in signing support and how CBC adds a key file generator for project signing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-signing-assemblies-1fdc8737cb52

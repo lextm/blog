@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to build HTML Help on Windows.
+description: "Explains how to build CHM and HTML Help on Windows and what tools .NET developers need to generate help files."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /building-html-help-on-windows-88f2168cb4b1

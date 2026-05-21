@@ -1,5 +1,5 @@
 ---
-description: This post is about the first performance analysis of the MIB parser.
+description: "Analyzes #SNMP parser performance and identifies the assembler as the main bottleneck."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-the-first-performance-analysis-fa3b7f884253

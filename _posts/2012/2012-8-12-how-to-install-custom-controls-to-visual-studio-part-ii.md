@@ -1,5 +1,5 @@
 ---
-description: This post is about how to install custom controls to Visual Studio.
+description: "Explains how to install custom controls into Visual Studio 2010/2012 and update the Toolbox for .NET 4 assemblies."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-install-custom-controls-to-visual-studio-part-ii-cff4b3227ed3

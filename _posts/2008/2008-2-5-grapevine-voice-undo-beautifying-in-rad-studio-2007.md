@@ -1,6 +1,5 @@
 ---
-description: This post talks about the change in undo/redo mechanism in RAD Studio
-  2007.
+description: "Describes RAD Studio 2007 undo/redo behavior changes discovered while testing CodeBeautifiers Plus."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-undo-beautifying-in-rad-studio-2007-f715e6a121fa

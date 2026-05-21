@@ -1,5 +1,5 @@
 ---
-description: This post is about how I got start menu back in Windows 8 with free stuffs.
+description: "Explains how to restore the Windows 8 Start menu using free tools like Classic Shell."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-i-got-start-menu-back-in-windows-8-with-free-stuffs-b1a6f0d84a53

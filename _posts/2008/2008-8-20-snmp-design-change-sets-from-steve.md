@@ -1,5 +1,5 @@
 ---
-description: This post talks about the change sets from Steve.
+description: "Reports on Steve’s recent change sets and reflects on coordinating source control workflows during SNMP browser development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-change-sets-from-steve-d413e1e0956a

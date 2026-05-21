@@ -1,6 +1,5 @@
 ---
-description: This post is about the revival of MSBuild Launch Pad and its 1.1.2 release
-  candidate.
+description: "Describes reviving MSBuild Launch Pad, fixing its crash bug, and using NuGet packages for mPad and unit test dependencies."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /revival-of-msbuild-launch-pad-and-its-1-1-2-release-candidate-d8a915e8366a

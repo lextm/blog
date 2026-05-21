@@ -1,5 +1,5 @@
 ---
-description: This post talks about the new browser from Google.
+description: "Considers Google Chrome’s arrival and the mounting browser compatibility burden for web developers."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /another-firefox-wait-and-see-37f009d7068b

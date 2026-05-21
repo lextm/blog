@@ -1,6 +1,5 @@
 ---
-description: This post talks about the Visual Studio 2012 Light theme of DockPanel
-  Suite.
+description: "Summarizes the Visual Studio 2012 Light theme work for DockPanel Suite and why the release is considered a stable milestone."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-a-summary-on-visual-studio-2012-light-theme-a8391c84c769

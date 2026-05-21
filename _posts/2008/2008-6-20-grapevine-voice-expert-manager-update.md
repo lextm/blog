@@ -1,5 +1,5 @@
 ---
-description: This post talks about the update of Expert Manager.
+description: "Describes refactoring work on Expert Manager and the author’s plan to commit changes for a potential June release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-expert-manager-update-999228777e41

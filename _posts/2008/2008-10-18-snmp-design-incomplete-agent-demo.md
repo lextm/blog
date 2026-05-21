@@ -1,5 +1,5 @@
 ---
-description: This post is about how to create a simple but incomplete SNMP agent.
+description: "Guides readers through creating a minimal SNMP agent demo in a WinForms app and highlights what support is still missing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-incomplete-agent-demo-5550acc8f1e4

@@ -1,5 +1,5 @@
 ---
-description: This post talks about my work to migrate a project to DockPanel Suite.
+description: "Describes migrating Project E to DockPanel Suite to improve UI quality and reduce modal dialogue complexity."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /migration-to-dockpanel-296ecd64e9ea

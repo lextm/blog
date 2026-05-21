@@ -1,5 +1,5 @@
 ---
-description: This post is about tips on sqlite-net and csharp-sqlite.
+description: "Explains SQLite choices for #SNMP compiler storage and the portability trade-offs of native SQLite drivers."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-tips-on-sqlite-net-and-csharp-sqlite-36ae8b1a3c89

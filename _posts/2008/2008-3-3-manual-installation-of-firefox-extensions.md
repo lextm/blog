@@ -1,5 +1,5 @@
 ---
-description: This post talks about the manual installation of Firefox extensions.
+description: "Provides a step-by-step guide to manually installing Firefox extensions when automatic installation is unavailable."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /manual-installation-of-firefox-extensions-9ba8b416ce8a

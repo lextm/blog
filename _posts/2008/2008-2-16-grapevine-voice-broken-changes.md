@@ -1,5 +1,5 @@
 ---
-description: This post talks about the changes in 6.0 Final.
+description: "Lists the interface changes in GrapeVine Voice 6.0 Final made for FxCop compliance and warns developers migrating from 5.0."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-broken-changes-b90409bf2261

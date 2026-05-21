@@ -1,6 +1,5 @@
 ---
-description: This post is about how to resolve Cobra Tag app crashed after Android
-  firmware upgrade.
+description: "Describes fixing a Cobra Tag app crash after an Android firmware upgrade by identifying a broken custom alarm tone."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-resolve-cobra-tag-app-crashed-after-android-firmware-upgrade-56cbd9d116e

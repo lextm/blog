@@ -1,5 +1,5 @@
 ---
-description: This post talks about the new release for Delphi 2009.
+description: "Explains the challenges of adding Delphi 2009 support to Code Beautifier Collection while breaking Delphi 2007 compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-delphi-2009-support-is-coming-baf59a04f3a4

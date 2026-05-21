@@ -1,5 +1,5 @@
 ---
-description: This post talks about the breaking changes coming in the next release.
+description: "Previews breaking API changes in the next #SNMP release, including replacing separate host and port parameters with IPEndPoint."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-breaking-changes-coming-part-i-8246379c2d24

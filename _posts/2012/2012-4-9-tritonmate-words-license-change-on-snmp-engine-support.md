@@ -1,6 +1,5 @@
 ---
-description: This post is about the license change on SNMP Engine support related
-  source files.
+description: "Explains the impending license change for SharpSnmpLib.Engine.dll and how this eases commercial customization of SNMP agent code."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-license-change-on-snmp-engine-support-e7410b98e8e

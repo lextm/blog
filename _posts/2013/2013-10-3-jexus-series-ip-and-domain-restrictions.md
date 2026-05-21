@@ -1,5 +1,5 @@
 ---
-description: This post talks about Jexus IP and Domain Restrictions.
+description: "Summarizes Jexus IP and Domain Restriction support and how to map IIS restriction settings to Jexus configuration."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-ip-and-domain-restrictions-c04db4ff4060

@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to interpret IIS 7+ 500 error page correctly.
+description: "Explains how to interpret IIS 7+ 500 error pages and use detailed error information to diagnose the root cause."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-interpret-iis-7-500-error-page-correctly-187fe536993c

@@ -1,5 +1,5 @@
 ---
-description: This post talks about my experience of using TDD, IoC, and Mock Framework.
+description: "Shares the author’s experience applying TDD, IoC, and mock frameworks while building CBC features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tdd-ioc-and-mock-framework-a16825154e8b

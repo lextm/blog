@@ -1,5 +1,5 @@
 ---
-description: This post talks about the upcoming Delphi 2009 (code name Tiburon).
+description: "Reflects on Castalia author Jacob Thurman’s blog about Delphi 2009 Tiburon and the implications for Unicode support in CBC."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-castalia-authors-post-4785b48604c5

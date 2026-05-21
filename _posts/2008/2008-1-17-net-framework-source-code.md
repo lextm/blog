@@ -1,5 +1,5 @@
 ---
-description: This post talks about .NET Framework source code.
+description: "Covers Visual Studio 2008's .NET Framework source debugging support and why the author is cautious about using it."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /net-framework-source-code-83cb4bd1bfdf

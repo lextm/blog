@@ -1,5 +1,5 @@
 ---
-description: This post talks about the update issue of Notepad++ on Windows Vista.
+description: "Explains why Notepad++ update behavior fails on Windows Vista and compares it to a safer updater design."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /notepad-update-issue-on-windows-vista-f97c4148d6a1

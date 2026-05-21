@@ -1,6 +1,6 @@
 ---
 categories: [History, .NET]
-description: This post is about the history and future of DockPanel Suite.
+description: "Recaps DockPanel Suite’s history, early community success, and its future roadmap."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /a-call-to-the-community-dockpanel-suite-history-and-future-ec3b9ab8bdc9

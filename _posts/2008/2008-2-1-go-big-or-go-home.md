@@ -1,5 +1,5 @@
 ---
-description: This post talks about the recent acquisition of BEA by Oracle.
+description: "Reflects on the BEA acquisition by Oracle and the broader consolidation trend in enterprise software."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /go-big-or-go-home-d39687fba93c

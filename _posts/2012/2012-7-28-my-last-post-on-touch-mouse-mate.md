@@ -1,6 +1,5 @@
 ---
-description: This post is about my last post on Touch Mouse Mate and why I stopped
-  here.
+description: "Explains why the author is ceasing Touch Mouse Mate development after earlier releases and shifting focus to other open source projects."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /my-last-post-on-touch-mouse-mate-46033bbafa8c

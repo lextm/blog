@@ -1,5 +1,5 @@
 ---
-description: This post talks about the progress of Alex.
+description: "Announces that Matt Everson updated Alex for SharpDevelop 3.0 support and points readers to the new beta installer."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /alex-revived-by-matt-b9acc3395e3e

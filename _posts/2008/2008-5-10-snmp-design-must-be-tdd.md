@@ -1,5 +1,5 @@
 ---
-description: This post talks about the reason why I start
+description: "Explains why the author adopted TDD for #SNMP development after reading Kent Beck."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-must-be-tdd-8223de32099f

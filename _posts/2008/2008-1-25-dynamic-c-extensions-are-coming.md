@@ -1,5 +1,5 @@
 ---
-description: This post talks about the coming dynamic C# extensions.
+description: "Discusses the upcoming DLR-driven dynamic C# extensions and the limits of current IronPython/IronRuby interoperability."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dynamic-c-extensions-are-coming-57eb08d44ef5

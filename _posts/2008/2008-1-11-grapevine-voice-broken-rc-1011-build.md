@@ -1,5 +1,5 @@
 ---
-description: This post talks about the broken RC 1011 build.
+description: "Explains why the RC 1011 installer failed due to a missing PSTaskDialog.dll and what the author plans for the next release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-broken-rc-1011-build-314829bbea70

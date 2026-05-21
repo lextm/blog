@@ -1,5 +1,5 @@
 ---
-description: This post is about Steve's work in the past week.
+description: "Summarizes Steve’s weekly contributions to the SNMP browser and library and reflects on the project’s longer-term direction."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-steves-week-f052a50ac4f

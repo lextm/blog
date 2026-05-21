@@ -1,5 +1,5 @@
 ---
-description: This post is the third part of the parser design series.
+description: "Explains parser ordering and module loading for SNMP MIB document parsing in the third design installment."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-time-for-parser-details-part-three-99e23346a7f8

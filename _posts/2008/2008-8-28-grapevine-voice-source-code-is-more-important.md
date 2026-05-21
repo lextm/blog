@@ -1,5 +1,5 @@
 ---
-description: This post talks about the download count of GrapeVine Voice.
+description: "Observes that GrapeVine Voice source code downloads now exceed installer downloads and considers why source popularity is growing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-source-code-is-more-important-7088e21ac620

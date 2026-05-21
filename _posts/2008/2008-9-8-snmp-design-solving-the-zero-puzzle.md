@@ -1,5 +1,5 @@
 ---
-description: This post talks about the solution to SNMP zero puzzle.
+description: "Describes the SNMP zero puzzle and a fix for ObjectIdentifier handling that avoids ambiguity between .0 and .0.0."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-solving-the-zero-puzzle-ad094d078cfd

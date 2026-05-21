@@ -1,5 +1,5 @@
 ---
-description: This post is about how to compile Bouncy Castle on Mono/Linux.
+description: "Shows how to download and compile Bouncy Castle 1.7 on Mono/Linux using MonoDevelop and MSBuild."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-compile-bouncy-castle-on-mono-linux-ec90f43eeda7

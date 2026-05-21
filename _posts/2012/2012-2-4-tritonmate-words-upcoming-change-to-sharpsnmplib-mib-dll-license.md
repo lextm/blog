@@ -1,5 +1,5 @@
 ---
-description: This post is about the upcoming change to SharpSnmpLib.Mib.dll license.
+description: "Covers the upcoming SharpSnmpLib.Mib.dll license change from LGPL to BSD 3-Clause for #SNMP 8.0."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-upcoming-change-to-sharpsnmplib-mib-dll-license-b797092665a

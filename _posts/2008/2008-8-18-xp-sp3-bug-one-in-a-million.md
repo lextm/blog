@@ -1,5 +1,5 @@
 ---
-description: This post talks about the XP SP3 bug.
+description: "Describes a rare Windows XP SP3 update bug that broke Windows Update and Live tool installations."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /xp-sp3-bug-one-in-a-million-c13e434f05b8

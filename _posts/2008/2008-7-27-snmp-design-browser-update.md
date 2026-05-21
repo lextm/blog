@@ -1,5 +1,5 @@
 ---
-description: This post talks about the update of the MIB browser.
+description: "Summarizes the latest MIB browser enhancements, including module lists, document import, and pending-document handling."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-browser-update-9bd1942b53b7

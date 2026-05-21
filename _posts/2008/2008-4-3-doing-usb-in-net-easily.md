@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doing USB In .NET Easily
-description: This post talks about how to do USB in .NET easily.
+description: "Explains how to use SharpUsbLib and libusb to work with USB devices from .NET applications."
 tags: .net
 categories: [Programming Languages]
 permalink: /doing-usb-in-net-easily-93c79c888f01

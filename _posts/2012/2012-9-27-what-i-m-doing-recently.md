@@ -1,5 +1,5 @@
 ---
-description: This post is about what I'm doing recently, the book and the projects.
+description: "Updates on the author's book project, DockPanel Suite work, and the constraints of writing from an old laptop."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /what-im-doing-recently-71cb38b0d35a

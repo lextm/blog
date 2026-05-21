@@ -1,5 +1,5 @@
 ---
-description: This post is about the final release of OpenCover addin for SharpDevelop.
+description: "Announces the final OpenCover addin release for SharpDevelop and explains the contribution’s official acceptance process."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /opencover-addin-for-sharpdevelop-part-ii-e29554bc28ef

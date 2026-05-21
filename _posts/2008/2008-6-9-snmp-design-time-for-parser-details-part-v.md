@@ -1,6 +1,5 @@
 ---
-description: This post talks about the exceptions the compiler may raise and what
-  they mean.
+description: "Describes the exceptions raised by #SNMP and how to interpret them while debugging the parser."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-time-for-parser-details-part-five-39f92e7fdff6

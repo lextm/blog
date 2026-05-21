@@ -1,5 +1,5 @@
 ---
-description: This post is about David Hervieux.
+description: "Reflects on David Hervieux’s influence and the author’s decision to stop working on CBC."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /david-hervieux-today-c76b3e6fc462

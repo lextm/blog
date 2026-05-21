@@ -1,5 +1,5 @@
 ---
-description: This post is about the progress of the MIB parser.
+description: "Describes parser progress after importing 1,000+ MIB documents and the split between compiler front-end and assembler back-end."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-another-parser-milestone-1000-ff525619b835

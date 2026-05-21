@@ -1,5 +1,5 @@
 ---
-description: This post is about the sad news on Linux support.
+description: "Reports a serious #SNMP Linux/Mono support issue and the author's next steps for troubleshooting."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-sad-news-on-linux-support-afe1d22c041a

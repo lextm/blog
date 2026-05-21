@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to build wizards in .NET.
+description: "Explores how to build wizard-style dialogs in .NET with branching pages and a recommended component for flexibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /building-wizards-in-net-6cc9e085d600

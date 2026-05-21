@@ -1,5 +1,5 @@
 ---
-description: This post is a product review of SearchDotNet.com.
+description: "Reviews SearchDotNet.com and explains why its .NET search results are weak for SNMP-related queries."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-net-custom-search-2cfed9f0b01

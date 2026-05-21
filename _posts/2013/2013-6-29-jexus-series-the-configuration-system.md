@@ -1,5 +1,5 @@
 ---
-description: This post talks about Jexus configuration system.
+description: "Explains Jexus's Apache/Nginx-style key-value configuration system and how it differs from IIS XML settings."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-the-configuration-system-108aa9e471b0

@@ -1,5 +1,5 @@
 ---
-description: This post talks about the next major release of Code Beautifier Collection.
+description: "Lists the detailed checklist for migrating Code Beautifier Collection to Delphi 2009 as CandyCan 7.0."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /candycan-opener-a-detailed-checklist-9fe92aa18c59

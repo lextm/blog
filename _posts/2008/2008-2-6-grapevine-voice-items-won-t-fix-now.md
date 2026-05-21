@@ -1,5 +1,5 @@
 ---
-description: This post talks about the items that won't be fixed in 6.0 Final.
+description: "Explains which CBC 6.0 Final issues will be deferred until a later update and why the release is still on schedule."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-items-wont-fix-now-eaadd4701e4c

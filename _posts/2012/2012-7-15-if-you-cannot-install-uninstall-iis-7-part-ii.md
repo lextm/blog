@@ -1,5 +1,5 @@
 ---
-description: This post is about how to fix IIS 7 installation issues.
+description: "Describes using the System Update Readiness Tool to diagnose and repair IIS 7 installation corruption."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /if-you-cannot-install-uninstall-iis-7-part-ii-73a14fe3db0

@@ -1,5 +1,5 @@
 ---
-description: This post talks about the response from JCF's author on the issue I reported.
+description: "Summarizes the response from JCF’s author and the author’s hope to resolve the issue before Chinese New Year."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-jcf-author-responded-330ea8f679bb

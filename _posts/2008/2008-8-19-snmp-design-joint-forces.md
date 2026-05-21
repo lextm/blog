@@ -1,5 +1,5 @@
 ---
-description: This post talks about the new collaborator on CodePlex.
+description: "Announces a new collaborator on CodePlex and explains how work is split between browser and library development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-joint-forces-237d43589acc

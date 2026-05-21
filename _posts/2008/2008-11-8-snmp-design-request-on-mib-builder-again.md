@@ -1,5 +1,5 @@
 ---
-description: This post is about a request on MIB Builder again.
+description: "Discusses user requests for MIB Builder enhancements and why a richer editor is not available yet."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-request-on-mib-builder-again-62d3c3e9af18

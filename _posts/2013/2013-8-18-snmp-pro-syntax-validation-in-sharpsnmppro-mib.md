@@ -1,6 +1,5 @@
 ---
-description: This post talks about the syntax validation support in SharpSnmpPro.Mib
-  assembly.
+description: "Explains SMI syntax validation in SharpSnmpPro.Mib and why MIB object definitions must adhere to type and range constraints."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-syntax-validation-in-sharpsnmppro-mib-aef7a40c9af4

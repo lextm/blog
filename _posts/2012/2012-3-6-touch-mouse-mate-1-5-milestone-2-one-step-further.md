@@ -1,5 +1,5 @@
 ---
-description: This post is about the second milestone of Touch Mouse Mate 1.5.
+description: "Describes Touch Mouse Mate 1.5 milestone 2 progress, especially engine changes and gesture conflict handling."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-1-5-milestone-2-one-step-further-aca10ce76be9

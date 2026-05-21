@@ -1,5 +1,5 @@
 ---
-description: This post is about the background information about Touch Mouse.
+description: "Reviews Microsoft Touch Mouse hardware and compares it with Apple Magic Mouse, focusing on gesture behavior and integration."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-hardware-review-and-touch-over-click-mase-32f39db01a4c

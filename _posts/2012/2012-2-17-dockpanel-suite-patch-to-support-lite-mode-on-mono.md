@@ -1,5 +1,5 @@
 ---
-description: This post is about a patch to enable DockPanel Suite on Mono.
+description: "Explains the new DockPanel Suite patch that enables lite mode on Mono while preserving full mode on Windows."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-patch-to-support-lite-mode-on-mono-217547fc710b

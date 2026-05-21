@@ -1,5 +1,5 @@
 ---
-description: This post is about the technical details of TMM 1.5.
+description: "Describes Touch Mouse Mate 1.5 technical improvements, including touch-over-click and middle-click behavior."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-homepage-delay-and-1-5-release-technical-details-4e0b6c212eeb

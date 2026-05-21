@@ -1,5 +1,5 @@
 ---
-description: This posts talks about the changes in NDepend.
+description: "Summarizes the removal of NDepend's CQL report feature and how the author copes with manual VisualNDepend testing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-ndepend-changes-d54136a22bdd

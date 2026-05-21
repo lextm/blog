@@ -1,5 +1,5 @@
 ---
-description: This post talks about a way to indirectly visit my blog front page.
+description: "Shares a workaround for previewing the blog front page through Blogger when direct access is blocked by the Great Firewall."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /indirect-visit-to-my-blog-front-page-fa3dfbd4aded

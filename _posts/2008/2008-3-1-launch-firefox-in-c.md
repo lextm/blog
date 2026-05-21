@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to launch Firefox in C#.
+description: "Describes a reliable method to launch Firefox from C# using Help.ShowHelp instead of Process.Start."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /launch-firefox-in-c-b74d7264d2a4

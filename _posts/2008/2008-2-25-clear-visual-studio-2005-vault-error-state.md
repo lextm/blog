@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to clear Visual Studio 2005 Vault error state.
+description: "Explains how to resolve Visual Studio 2005 Vault error state by undoing checkouts and restoring the workspace."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /clear-visual-studio-2005-vault-error-state-63a024005060

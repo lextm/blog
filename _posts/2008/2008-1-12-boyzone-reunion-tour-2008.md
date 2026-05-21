@@ -1,5 +1,5 @@
 ---
-description: This post talks about Boyzone Reunion Tour 2008.
+description: "Shares news of Boyzone's 2008 reunion tour and the author's nostalgia for the band after seven years."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /boyzone-reunion-tour-2008-1a8a0198c802

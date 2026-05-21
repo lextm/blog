@@ -1,5 +1,5 @@
 ---
-description: This post talks about a better Obfuscar as a side project.
+description: "Explains why open source .NET projects may still need obfuscation for commercialization and how obfuscation affects assembly readability."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-a-better-obfuscar-side-project-ec176ca6a7c3

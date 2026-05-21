@@ -1,5 +1,5 @@
 ---
-description: This post talks about MIB Browser and SNMP v2 support.
+description: "Explains the new MIB Browser demo and experimental SNMP v2 GET/SET support in #SNMP."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-mib-browser-and-snmp-v2-74a48ec539ce

@@ -1,5 +1,5 @@
 ---
-description: This post is about a discussion on Manager.Walk design and implementation.
+description: "Summarizes the author’s conversation about #SNMP Manager.Walk design and how it compares to ManagerSubTree usage."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-discussion-on-manager-walk-e6c3c359ff9b

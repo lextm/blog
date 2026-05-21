@@ -1,5 +1,5 @@
 ---
-description: This post talks about how I build my own lexer.
+description: "Describes building a custom lexer for SNMP MIB parsing and why the author prefers implementing it rather than using Malcolm’s general parser."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-build-my-own-lexer-c45cd940e87a

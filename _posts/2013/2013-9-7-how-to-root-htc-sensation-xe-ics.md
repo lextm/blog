@@ -1,5 +1,5 @@
 ---
-description: This post talks about how I rooted HTC Sensation XE with ICS.
+description: "Details the author’s HTC Sensation XE rooting process and CyanogenMod switch after Android ICS performance issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-root-htc-sensation-xe-ics-892ca9881b8c

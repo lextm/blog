@@ -1,5 +1,5 @@
 ---
-description: This post is about Firefox in Mozilla Labs.
+description: "Describes the author’s impressions of Mozilla Labs, Prism, and the future of Firefox as a rich client platform."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /firefox-in-mozilla-labs-d9983318cdef

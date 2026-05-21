@@ -1,5 +1,5 @@
 ---
-description: This post is about my switch to AkelPad, a powerful Notepad replacement.
+description: "Explains why the author switched to AkelPad over Notepad++ and Notepad 2, including installer and UAC compatibility issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /switched-to-akelpad-a-powerful-notepad-replacement-5ab9896f70

@@ -1,5 +1,5 @@
 ---
-description: This post is about how to use ANTLR on .NET.
+description: "Introduces ANTLR 3 for .NET users and explains why learning ANTLR on Java first is important."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-antlr-on-net-part-i-599593b68dc4

@@ -1,5 +1,5 @@
 ---
-description: This post talks about why I don't like politics in open source.
+description: "Reflects on why politics in open source development is frustrating and why the author prefers staying focused on the work."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /why-make-open-source-politics-7fa42ca45f1f

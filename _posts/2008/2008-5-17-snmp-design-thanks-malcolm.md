@@ -1,5 +1,5 @@
 ---
-description: This post talks about the blessing I received from Malcolm Crowe.
+description: "Thanks Malcolm Crowe for supporting the #SNMP project and announces progress on MIB file support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-thanks-malcolm-1f4ae8ef70d0

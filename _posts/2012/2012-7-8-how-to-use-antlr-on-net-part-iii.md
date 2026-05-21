@@ -1,5 +1,5 @@
 ---
-description: This post is about how to use ANTLR on .NET.
+description: "Explains how to use ANTLR 3 in a C# project, including MSBuild task configuration and generated grammar file setup."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-antlr-on-net-part-iii-18a2457eee84

@@ -1,5 +1,5 @@
 ---
-description: This post talks about the new API of
+description: "Introduces a new strong-typed SNMP API for #SNMP, replacing weakly typed classes and improving usability."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-here-comes-a-new-set-of-api-ededcefba0e0

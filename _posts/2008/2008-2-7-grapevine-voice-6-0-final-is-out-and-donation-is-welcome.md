@@ -1,5 +1,5 @@
 ---
-description: This post talks about the release of 6.0 Final.
+description: "Announces the release of GrapeVine 6.0 Final, highlights new features, and introduces donations for the project."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-6-0-final-is-out-and-donation-is-welcome-c2924156056

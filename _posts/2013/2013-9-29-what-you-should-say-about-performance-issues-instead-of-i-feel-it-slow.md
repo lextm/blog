@@ -1,6 +1,5 @@
 ---
-description: This post talks about how to discuss performance issues with others with
-  clear descriptions.
+description: "Argues that performance issues should be described with measurements instead of vague phrases like ‘I feel it slow’."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /what-you-should-say-about-performance-issues-instead-of-i-feel-it-slow-313b0e871aad

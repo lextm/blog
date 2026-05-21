@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Product Review: Unit Test As Specification'
-description: This post is a product review of NSpec.
+description: "Explains how NSpec reframes unit tests as specifications and why that makes testing more approachable."
 tags: .net
 categories: [Programming Languages]
 permalink: /product-review-unit-test-as-specification-5b1e7fcc9c3e

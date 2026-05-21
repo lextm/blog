@@ -1,5 +1,5 @@
 ---
-description: This post talks about the latest changes of CBC.
+description: "Summarizes the latest CBC updates, focusing on bug fixes and PSTaskDialog integration for better XP and Vista behavior."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-latest-changes-f916c585230f

@@ -1,5 +1,5 @@
 ---
-description: This post talks about the implementation of ifTable in TritonMate.
+description: "Describes implementing a real ifTable in TritonMate so SNMP browsers can observe live interface data."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-iftable-implementation-c15a6b8a587f

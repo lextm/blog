@@ -1,5 +1,5 @@
 ---
-description: This post is about DockPanel Suite 2.6 release.
+description: "Reviews DockPanel Suite 2.6 availability on NuGet and GitHub, and previews the imminent 2.7 release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-review-on-release-2-6-4e5517d8c0b9

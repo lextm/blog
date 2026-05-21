@@ -1,6 +1,5 @@
 ---
-description: This post talks about the static code analysis tools that help me to
-  write better code.
+description: "Praises code analysis tools such as FxCop, StyleCop, and Gendarme for helping the author improve C# code quality."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /oh-cops-i-love-you-3d72b598ceac

@@ -1,5 +1,5 @@
 ---
-description: This post talks about the update on TwinTower release candidate.
+description: "Reports progress on the TwinTower SNMP release candidate, including bug fixes and feature readiness."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-update-on-twintower-release-candidate-f2f4a2b53714

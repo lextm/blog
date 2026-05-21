@@ -1,5 +1,5 @@
 ---
-description: This post talks about Internet Explorer 8 Beta 1.
+description: "Shares impressions of IE8 Beta 1 rendering issues compared to Firefox 3 Beta 3 and the continuing challenge of web compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /see-through-internet-explorer-8-beta-1-ffb352e7ba2

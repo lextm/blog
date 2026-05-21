@@ -1,5 +1,5 @@
 ---
-description: This post talks about the book Framework Design Guidelines.
+description: "Recommends the Framework Design Guidelines book for improving API design and discusses how it influences #SNMP development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /framework-design-guidelines-b2d3f0efd53a

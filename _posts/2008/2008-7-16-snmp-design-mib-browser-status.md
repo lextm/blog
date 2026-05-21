@@ -1,5 +1,5 @@
 ---
-description: This post talks about the status of MIB Browser.
+description: "Updates readers on MIB Browser development status and explains why browser fixes are postponed until after the 1.0 release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-mib-browser-status-9e4c63fe1619

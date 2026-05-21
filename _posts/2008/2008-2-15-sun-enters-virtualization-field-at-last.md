@@ -1,5 +1,5 @@
 ---
-description: This post talks about SUN's virtualization strategy.
+description: "Discusses SUN’s entry into virtualization with VirtualBox and its impact on the growing hypervisor competition."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sun-enters-virtualization-field-at-last-35707de66311

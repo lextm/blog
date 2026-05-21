@@ -1,5 +1,5 @@
 ---
-description: This post talks about how to restart a singleton application.
+description: "Explains why a singleton .NET application cannot restart with simple Process.Start/Exit logic and how the restart code breaks."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /restart-singleton-applications-8619bc5d6375

@@ -1,5 +1,5 @@
 ---
-description: This post is a product review of QC Plus 1.0.
+description: "Reviews QC Plus 1.0, praising its Visual Studio-style interface while warning that its Windows Vista support is still fragile."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-qc-plus-1-0-77a0e79f86a8

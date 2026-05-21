@@ -1,5 +1,5 @@
 ---
-description: This post talks about the move back to BitComet.
+description: "Explains why the author returned to BitComet after FlashGet became unreliable and UAC issues appeared."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /moving-back-to-bitcomet-and-farewell-flashget-e2e854518e29

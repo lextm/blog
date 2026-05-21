@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Power of Delphi Community Again
-description: This post talks about the power of Delphi community.
+description: "Celebrates the strength of the Delphi community and highlights Help Booster as a notable recent contribution."
 tags: delphi
 permalink: /power-of-delphi-community-again-2d2217ae0ca
 excerpt_separator: <!--more-->

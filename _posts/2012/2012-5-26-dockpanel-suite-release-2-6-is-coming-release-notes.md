@@ -1,5 +1,5 @@
 ---
-description: This post is about DockPanel Suite 2.6 release.
+description: "Announces DockPanel Suite 2.6 release plans, including bug fixes, Mono support, and NuGet deployment."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-release-2-6-is-coming-release-notes-bf7810a6b66b

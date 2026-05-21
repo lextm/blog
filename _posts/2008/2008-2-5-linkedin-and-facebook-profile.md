@@ -1,5 +1,5 @@
 ---
-description: This post describes my LinkedIn and Facebook profiles.
+description: "Compares the author’s LinkedIn profile with Facebook and explains why the professional network is more suitable for his resume."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /linkedin-and-facebook-profile-dd22ad4236f6
