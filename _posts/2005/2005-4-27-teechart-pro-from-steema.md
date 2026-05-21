@@ -1,5 +1,5 @@
 ---
-description: 探索TeeChart Pro图表控件在.NET环境下的强大功能与实用技巧：从基础安装到高级3D图形、坐标显示、公式绘图和互动效果。本文分享作者使用经验，并演示如何在Delphi中实现相同功能，是开发者了解TeeChart Pro全部潜能的完整指南。
+description: "探索TeeChart Pro图表控件在.NET环境下的强大功能与实用技巧：从基础安装到高级3D图形、坐标显示、公式绘图和互动效果。本文分享作者使用经验，并演示如何在Delphi中实现相同功能，是开发者了解TeeChart Pro全部潜能的完整指南。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /寻找被忽视和低估的teechart-pro-from-steema-1b4d255ba814

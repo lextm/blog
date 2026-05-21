@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mono is better now!
-description: Describes Mono's progress and why it is becoming a more viable option on Linux.
+description: "Describes Mono's progress and why it is becoming a more viable option on Linux."
 tags: .net mono linux
 categories: [Programming Languages]
 permalink: /mono-is-better-now-b629a5598708

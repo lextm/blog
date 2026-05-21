@@ -1,5 +1,5 @@
 ---
-description: A post about new architecture for WalkPace Final
+description: "A post about new architecture for WalkPace Final"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /new-structure-for-walkpace-final-4fcea361893f

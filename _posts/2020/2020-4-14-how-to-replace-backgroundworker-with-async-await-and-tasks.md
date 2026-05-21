@@ -1,5 +1,5 @@
 ---
-description: Practical guide for modernizing legacy code by replacing BackgroundWorker with async/await and Tasks, with code samples showing proper cancellation and UI thread handling.
+description: "Practical guide for modernizing legacy code by replacing BackgroundWorker with async/await and Tasks, with code samples showing proper cancellation and UI thread handling."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Clouds over the woods in Montreal.

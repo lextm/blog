@@ -1,5 +1,5 @@
 ---
-description: This post is about the 3.1 release.
+description: "Announces Trident Sign 3.1 readiness and previews the SquareRoot release goals for compiler and browser improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-3-1-ready-and-next-bc522bef47fb

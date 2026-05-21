@@ -1,5 +1,5 @@
 ---
-description: Learn how to resolve the OpenFileDialog COMException 0x80040111 (CLASS_E_CLASSNOTAVAILABLE) error in Windows applications, with practical workarounds demonstrated in Jexus Manager.
+description: "Learn how to resolve the OpenFileDialog COMException 0x80040111 (CLASS_E_CLASSNOTAVAILABLE) error in Windows applications, with practical workarounds demonstrated in Jexus Manager."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /openfiledialog-crashes-with-comexception-0x80040111-f51e18d1ab89

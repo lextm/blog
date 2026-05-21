@@ -1,5 +1,5 @@
 ---
-description: This post is about MoMA tool limitations.
+description: "Lists MoMA limitations when porting .NET applications to Mono and recommends testing with real Mono builds."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /moma-limitations-e5438c2c1187

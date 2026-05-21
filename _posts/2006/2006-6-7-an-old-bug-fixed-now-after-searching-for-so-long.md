@@ -1,5 +1,5 @@
 ---
-description: Describes a CBC 2 bug and the fix that resolved the XmlSerializer issue.
+description: "Describes a CBC 2 bug and the fix that resolved the XmlSerializer issue."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /an-old-bug-fixed-now-after-searching-for-so-long-b123d7e1c926

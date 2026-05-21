@@ -1,5 +1,5 @@
 ---
-description: Announces a possible switch to JSON for GrapeVine's serialization strategy.
+description: "Announces a possible switch to JSON for GrapeVine's serialization strategy."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-possible-json-e2370c321dea

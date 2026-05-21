@@ -1,5 +1,5 @@
 ---
-description: 'Discussing the slow or no response from CodePlex support regarding Mercurial repository issues for the #SNMP project.'
+description: "Discussing the slow or no response from CodePlex support regarding Mercurial repository issues for the #SNMP project."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /slow-no-codeplex-response-98986109bc2d

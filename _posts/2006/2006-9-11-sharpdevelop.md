@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了我试玩 SharpDevelop 2.0/2.1的体验。
+description: "这篇文章讲述了我试玩 SharpDevelop 2.0/2.1的体验。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpdevelop-2-0-2-1-开源-net-ide的诱惑-9e020f8d4057

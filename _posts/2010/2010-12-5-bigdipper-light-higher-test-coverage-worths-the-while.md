@@ -1,5 +1,5 @@
 ---
-description: This post is about the value of high test coverage.
+description: "Argues for high test coverage in #SNMP development, sharing lessons from TDD and the ROI of testing exceptional paths."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-higher-test-coverage-worths-the-while-267c5d979e44

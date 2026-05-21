@@ -1,5 +1,5 @@
 ---
-description: Celebrates 400+ TwinTower RC 2 downloads and reflects on early user adoption.
+description: "Celebrates 400+ TwinTower RC 2 downloads and reflects on early user adoption."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-400-twintower-downloads-f61fb91ab92d

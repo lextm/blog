@@ -1,5 +1,5 @@
 ---
-description: Learn how Obfuscar handles C# local variable obfuscation in .NET assemblies and understand what happens during the compilation process
+description: "Learn how Obfuscar handles C# local variable obfuscation in .NET assemblies and understand what happens during the compilation process"
 image:
   path: /images/go-station-outside-toronto.jpg
   alt: Copyright © Lex Li. GO station exterior near Toronto on a clear day.

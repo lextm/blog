@@ -1,5 +1,5 @@
 ---
-description: Discusses Microsoft's open source policy changes and their implications for developers.
+description: "Discusses Microsoft's open source policy changes and their implications for developers."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /microsoft-lends-a-hand-to-open-source-460001aab0da

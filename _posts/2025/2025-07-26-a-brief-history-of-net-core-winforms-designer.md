@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Brief History of .NET Core WinForms Designer - From 2001 to 2025
-description: A comprehensive historical analysis of the WinForms designer evolution from .NET Framework 1.0 to .NET 8+. Explore Microsoft's architectural decisions, the transition from in-process to out-of-process design, and why developers keep missing the critical announcements about .NET Core WinForms support. Learn about the technical challenges, Visual Studio integration complexities, and the path forward for Windows Forms development in the modern .NET ecosystem.
+description: "A comprehensive historical analysis of the WinForms designer evolution from .NET Framework 1.0 to .NET 8+. Explore Microsoft's architectural decisions, the transition from in-process to out-of-process design, and why developers keep missing the critical announcements about .NET Core WinForms support. Learn about the technical challenges, Visual Studio integration complexities, and the path forward for Windows Forms development in the modern .NET ecosystem."
 image:
   path: /images/cleaning-telus-building.jpg
   alt: Copyright © Lex Li. Cleaning crew on Telus building facade, Toronto.

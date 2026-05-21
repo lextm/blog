@@ -1,5 +1,5 @@
 ---
-description: A comprehensive evaluation of SNMP libraries for .NET, comparing open-source and commercial options, their features, and compatibility with Mono.
+description: "A comprehensive evaluation of SNMP libraries for .NET, comparing open-source and commercial options, their features, and compatibility with Mono."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-snmp-libraries-for-net-evaluation-report-e13f25991cad

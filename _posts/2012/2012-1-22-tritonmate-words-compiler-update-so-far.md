@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the status of the new compiler for #SNMP.'
+description: "Describes the progress on the ANTLR-based #SNMP compiler port, licensing status, and the current feature set under development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-compiler-update-so-far-d5050e21d4e6

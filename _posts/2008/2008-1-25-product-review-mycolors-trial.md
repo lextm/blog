@@ -1,5 +1,5 @@
 ---
-description: Product review of MyColors trial, covering usability, visual customization, and installation experience.
+description: "Product review of MyColors trial, covering usability, visual customization, and installation experience."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-mycolors-trial-7e56ff9891c1

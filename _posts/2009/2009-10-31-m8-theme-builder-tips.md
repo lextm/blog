@@ -1,5 +1,5 @@
 ---
-description: “这篇文章是关于 Meizu M8美化工具的1.0/2.0版本的技术难点的汇总”
+description: '“这篇文章是关于 Meizu M8美化工具的1.0/2.0版本的技术难点的汇总”'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /m8-theme-builder-1-0-2-0版本已解决技术难点的汇总-a4fb3d194ad4

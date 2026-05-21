@@ -1,5 +1,5 @@
 ---
-description: Step-by-step guide on upgrading ASP.NET Core applications from 2.0.6 to 2.1.0 in offline environments, including project file changes and publishing command adjustments.
+description: "Step-by-step guide on upgrading ASP.NET Core applications from 2.0.6 to 2.1.0 in offline environments, including project file changes and publishing command adjustments."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Place des Canotiers, Quebec City

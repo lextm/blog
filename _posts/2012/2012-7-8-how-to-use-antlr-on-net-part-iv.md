@@ -1,5 +1,5 @@
 ---
-description: ANTLR on .NET part IV, showing grammar conversion and C# runtime/tooling differences for migrating ANTLR Java grammars.
+description: "ANTLR on .NET part IV, showing grammar conversion and C# runtime/tooling differences for migrating ANTLR Java grammars."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-antlr-on-net-part-iv-62174f93bde0

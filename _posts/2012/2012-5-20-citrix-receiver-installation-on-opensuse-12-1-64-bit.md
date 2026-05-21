@@ -1,5 +1,5 @@
 ---
-description: Install Citrix Receiver on openSUSE 12.1 64-bit and fix SSL error 61 by copying Firefox certificates.
+description: "Install Citrix Receiver on openSUSE 12.1 64-bit and fix SSL error 61 by copying Firefox certificates."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /citrix-receiver-installation-on-opensuse-12-1-64-bit-fc20b664928b

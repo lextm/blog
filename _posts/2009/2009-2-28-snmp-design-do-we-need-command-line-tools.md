@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the command line tools in #SNMP.'
+description: "Examines whether #SNMP needs dedicated command line tools and how they fit into the project ecosystem."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-do-we-need-command-line-tools-2fbf1c72e82

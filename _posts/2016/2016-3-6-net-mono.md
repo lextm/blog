@@ -1,6 +1,6 @@
 ---
 categories: [Frameworks and Libraries]
-description: 全面梳理.NET Framework和Mono平台的发展历程，从1995年Java诞生到2016年微软收购Xamarin，记录这两大技术生态系统如何互相影响并最终走向融合的关键历史节点。
+description: "全面梳理.NET Framework和Mono平台的发展历程，从1995年Java诞生到2016年微软收购Xamarin，记录这两大技术生态系统如何互相影响并最终走向融合的关键历史节点。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /net-和-mono-的一点历史-772aebf42e24

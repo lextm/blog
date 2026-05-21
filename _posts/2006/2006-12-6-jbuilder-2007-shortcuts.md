@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了 JBuilder 2007的快捷键。
+description: "这篇文章讲述了 JBuilder 2007的快捷键。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jbuilder-2007的快捷键-8b658bd32428

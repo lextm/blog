@@ -1,5 +1,5 @@
 ---
-description: Reviews the free PDF-XChange Viewer and highlights its powerful PDF reading and editing features.
+description: "Reviews the free PDF-XChange Viewer and highlights its powerful PDF reading and editing features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-pdf-xchange-viewer-free-but-powerful-c21fc3722e57

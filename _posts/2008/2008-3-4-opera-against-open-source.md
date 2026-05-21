@@ -1,5 +1,5 @@
 ---
-description: Reviews an Opera CEO interview and examines Opera's stance on open source software.
+description: "Reviews an Opera CEO interview and examines Opera's stance on open source software."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /opera-against-open-source-980512168fa7

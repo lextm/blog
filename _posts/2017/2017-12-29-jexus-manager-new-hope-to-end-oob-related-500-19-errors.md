@@ -1,5 +1,5 @@
 ---
-description: Discover how Jexus Manager 2.1.0.56+ can diagnose and resolve IIS Out-Of-Band related 500.19 errors with its new OOB diagnostics feature.
+description: "Discover how Jexus Manager 2.1.0.56+ can diagnose and resolve IIS Out-Of-Band related 500.19 errors with its new OOB diagnostics feature."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-new-hope-to-end-oob-related-500-19-errors-193854de0d4d

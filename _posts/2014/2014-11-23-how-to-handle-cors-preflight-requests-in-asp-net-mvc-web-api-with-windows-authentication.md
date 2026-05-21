@@ -1,5 +1,5 @@
 ---
-description: Discover how to properly handle CORS preflight requests in ASP.NET MVC/Web API applications with Windows Authentication to avoid 401.2 errors and ensure cross-domain compatibility.
+description: "Discover how to properly handle CORS preflight requests in ASP.NET MVC/Web API applications with Windows Authentication to avoid 401.2 errors and ensure cross-domain compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-handle-cors-preflight-requests-in-asp-net-mvc-web-api-with-windows-authentication-f19814cbb558

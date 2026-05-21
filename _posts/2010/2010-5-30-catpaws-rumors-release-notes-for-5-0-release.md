@@ -1,5 +1,5 @@
 ---
-description: This post is about the release notes for 5.0 release.
+description: "Summarizes the 5.0 release changes for #SNMP, including Visual Studio 2010 migration and SNMP v3 improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-release-notes-for-5-0-release-d51fb1c07c1b

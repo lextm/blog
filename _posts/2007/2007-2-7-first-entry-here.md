@@ -1,5 +1,5 @@
 ---
-description: This is the first entry here in Blogger.
+description: "Marks the first post on Blogger, explains the move from CSDN, and introduces the new blogging platform."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-first-entry-here-b1ec9f6a9d8a

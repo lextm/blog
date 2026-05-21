@@ -1,5 +1,5 @@
 ---
-description: This post is about new ideas on how to implement SNMP walk and table.
+description: "Discusses new ideas for SNMP walk and table implementation and the importance of MIB data for table results."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-new-ideas-about-walk-and-table-a9c9113b2229

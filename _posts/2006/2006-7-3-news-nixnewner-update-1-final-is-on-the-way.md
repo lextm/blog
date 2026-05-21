@@ -1,5 +1,5 @@
 ---
-description: Announces that NixNewNer Update 1 Final is on the way after a stable RC 6.
+description: "Announces that NixNewNer Update 1 Final is on the way after a stable RC 6."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-nixnewner-update-1-final-is-on-the-way-2f0f946179e6

@@ -1,5 +1,5 @@
 ---
-description: Essential tips for .NET NuGet package authors as of August 2017, covering target platform selection, source code preparation for multi-targeting, package generation techniques, and testing strategies.
+description: "Essential tips for .NET NuGet package authors as of August 2017, covering target platform selection, source code preparation for multi-targeting, package generation techniques, and testing strategies."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tips-for-net-nuget-package-authors-august-2017-48f07604e4a0

@@ -1,5 +1,5 @@
 ---
-description: This post is about broken builds at CodePlex.com.
+description: "Discusses broken CodePlex builds during SNMP v3 development and the plan to fix them in June."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-broken-builds-30f0087a056c

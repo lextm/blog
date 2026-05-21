@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CatPaw Rumors: Post Release Summary, Part II'
-description: This post is about the command line utilities.
+description: "Describes how to use #SNMP command-line utilities to query the snmpd.exe agent across SNMP v1, v2c, and v3."
 tags: snmp
 categories: [Technologies and Concepts]
 permalink: /catpaw-rumors-post-release-summary-part-ii-40534cb5326e

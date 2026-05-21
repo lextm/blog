@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fighting With CodeGear Items on CC
-description: Shares issues with CodeGear items on Code Central and how to keep your uploads visible.
+description: "Shares issues with CodeGear items on Code Central and how to keep your uploads visible."
 tags: delphi
 permalink: /fighting-with-codegear-items-on-cc-91b9acf8840d
 excerpt_separator: <!--more-->

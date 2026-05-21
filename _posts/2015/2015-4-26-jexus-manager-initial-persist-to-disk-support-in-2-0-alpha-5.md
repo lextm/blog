@@ -1,5 +1,5 @@
 ---
-description: Announcing Jexus Manager 2.0 Alpha 5 with new capabilities to persist configuration changes to disk, including authentication settings, site/application management, and binding configurations.
+description: "Announcing Jexus Manager 2.0 Alpha 5 with new capabilities to persist configuration changes to disk, including authentication settings, site/application management, and binding configurations."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-initial-persist-to-disk-support-in-2-0-alpha-5-a022b5935f64

@@ -1,5 +1,5 @@
 ---
-description: Step-by-step tutorial on generating self-signed certificates programmatically in C# using Mono.Security, with detailed code examples from Jexus Manager implementation.
+description: "Step-by-step tutorial on generating self-signed certificates programmatically in C# using Mono.Security, with detailed code examples from Jexus Manager implementation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-create-certificates-in-c-via-mono-security-f92ded38e6fb

@@ -1,5 +1,5 @@
 ---
-description: Troubleshoot MonoDevelop errors on openSUSE, including diagnosis of runtime and IDE compatibility issues.
+description: "Troubleshoot MonoDevelop errors on openSUSE, including diagnosis of runtime and IDE compatibility issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-troubleshoot-monodevelop-errors-on-opensuse-93498e626335

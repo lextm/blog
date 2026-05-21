@@ -1,5 +1,5 @@
 ---
-description: This post is about repository access issues on MonoDevelop on openSUSE
+description: "Explains repository access issues when using MonoDevelop on openSUSE and why CodePlex project files behave differently than on Windows."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-repository-access-good-mixture-or-bad-e2aaebc1d686

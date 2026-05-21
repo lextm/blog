@@ -1,5 +1,5 @@
 ---
-description: Discusses hidden Harry Potter 7 extras and the prospect of a future encyclopedia of hidden stories.
+description: "Discusses hidden Harry Potter 7 extras and the prospect of a future encyclopedia of hidden stories."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /harry-potter-7-extras-86ee10a303a2

@@ -1,5 +1,5 @@
 ---
-description: Reports that books ordered from China-Pub.com arrived on time and reflects on online book shopping.
+description: "Reports that books ordered from China-Pub.com arrived on time and reflects on online book shopping."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /books-arrived-on-time-916acb1acad6

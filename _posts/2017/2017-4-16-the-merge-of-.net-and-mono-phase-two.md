@@ -1,5 +1,5 @@
 ---
-description: This post is about the second phase of the merge of .NET and Mono.
+description: "Examines the second phase of unifying .NET and Mono, including Mono 5, Roslyn, and BCL compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-merge-of-net-and-mono-phase-two-6442efc11331

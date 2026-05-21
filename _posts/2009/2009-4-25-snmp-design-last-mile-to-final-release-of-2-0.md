@@ -1,5 +1,5 @@
 ---
-description: This post is about IPv6 support in the upcoming 2.0 release.
+description: "Describes finishing IPv6 support in the SNMP Listener as the final step toward the 2.0 release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-last-mile-to-final-release-of-2-0-7550cb325620

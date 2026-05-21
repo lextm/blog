@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了我找工作的困苦。
+description: "这篇文章讲述了我找工作的困苦。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /潦倒还是快乐-499579b24255

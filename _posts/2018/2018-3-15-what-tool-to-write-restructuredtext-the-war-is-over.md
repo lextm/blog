@@ -1,5 +1,5 @@
 ---
-description: How Visual Studio Code and its reStructuredText extension became the dominant tools for writing reStructuredText documents, surpassing Sublime Text and Atom in popularity.
+description: "How Visual Studio Code and its reStructuredText extension became the dominant tools for writing reStructuredText documents, surpassing Sublime Text and Atom in popularity."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Cannons in Quebec City.

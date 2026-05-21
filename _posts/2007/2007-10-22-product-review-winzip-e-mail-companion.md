@@ -1,5 +1,5 @@
 ---
-description: Reviews WinZip E-Mail Companion and explains how it solves common corporate email issues.
+description: "Reviews WinZip E-Mail Companion and explains how it solves common corporate email issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-winzip-e-mail-companion-2be55039ccfe

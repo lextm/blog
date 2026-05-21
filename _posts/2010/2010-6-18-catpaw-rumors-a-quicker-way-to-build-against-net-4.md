@@ -1,5 +1,5 @@
 ---
-description: This post is about a quick way to build against .NET 4.
+description: "Shows a quick command-line way to build #SNMP against .NET 4 using MSBuild and the Visual Studio 2010 developer prompt."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-a-quick-way-to-build-against-net-4-88b7fad6d346

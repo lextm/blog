@@ -1,5 +1,5 @@
 ---
-description: Analysis of Microsoft's Visual Studio 2017 and 2019 announcements, explaining the release strategy change and what it means for Visual Studio users going forward.
+description: "Analysis of Microsoft's Visual Studio 2017 and 2019 announcements, explaining the release strategy change and what it means for Visual Studio users going forward."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Railway bridge and new moon, Montreal.

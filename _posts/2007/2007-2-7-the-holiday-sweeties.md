@@ -1,5 +1,5 @@
 ---
-description: Shares a light-hearted holiday plan centered on enjoying sweet treats before graduation.
+description: "Shares a light-hearted holiday plan centered on enjoying sweet treats before graduation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-holiday-sweeties-1c8325d0be35

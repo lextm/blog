@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the update of #SNMP library.'
+description: "Summarizes recent #SNMP library updates after the Refresh release, including API changes, new SNMP v2c classes, and test assembly refactoring."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-library-update-4c705cee683e

@@ -1,5 +1,5 @@
 ---
-description: This post is about the product roadmap for CrossRoad.
+description: "Lists the key CrossRoad roadmap items for Unity, compiler readiness, TRAP/INFORM, and module integration."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-the-ship-map-ready-76d33b946beb

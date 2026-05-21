@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了设计实现插件架构的一些事情。
+description: "这篇文章讲述了设计实现插件架构的一些事情。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /插件架构-a1ac28444cfe

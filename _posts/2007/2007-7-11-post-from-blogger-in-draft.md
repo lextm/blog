@@ -1,5 +1,5 @@
 ---
-description: Describes first impressions of blogging with Blogger in Draft and plans to explore its new features.
+description: "Describes first impressions of blogging with Blogger in Draft and plans to explore its new features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /post-from-blogger-in-draft-741a8f8d0154

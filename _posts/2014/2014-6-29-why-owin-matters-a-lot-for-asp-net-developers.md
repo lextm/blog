@@ -1,5 +1,5 @@
 ---
-description: Visual explanation of OWIN's importance for ASP.NET developers, demonstrating how its architecture enables applications to run across diverse platforms and web servers including Jexus on Linux.
+description: "Visual explanation of OWIN's importance for ASP.NET developers, demonstrating how its architecture enables applications to run across diverse platforms and web servers including Jexus on Linux."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /why-owin-matters-a-lot-for-asp-net-developers-3377d9d15f02

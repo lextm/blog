@@ -1,5 +1,5 @@
 ---
-description: Overview of new features in Obfuscar 2.0 RC 6, including inclusion rules, simplified configuration options for public/private API management, and fixes for string hiding functionality.
+description: "Overview of new features in Obfuscar 2.0 RC 6, including inclusion rules, simplified configuration options for public/private API management, and fixes for string hiding functionality."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /obfuscar-a-rush-to-2-0-rc-6-c4eb72357d03

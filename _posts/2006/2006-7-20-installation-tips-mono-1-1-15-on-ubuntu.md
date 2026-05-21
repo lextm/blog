@@ -1,5 +1,5 @@
 ---
-description: This article describes how to install Mono 1.1.15 on Ubuntu.
+description: "Shares Ubuntu installation tips for Mono 1.1.15, including using the .bin installer and working around SCIM conflicts."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /installation-tips-mono-1-1-15-on-ubuntu-53bd76750e6

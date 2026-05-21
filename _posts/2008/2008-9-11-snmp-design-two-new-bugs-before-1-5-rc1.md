@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about two new bugs in #SNMP Library.'
+description: "Reports two newly discovered #SNMP Library bugs and explains that fixes will be committed before the 1.5 RC1 release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-two-new-bugs-before-1-5-rc1-a1a7956e31f4

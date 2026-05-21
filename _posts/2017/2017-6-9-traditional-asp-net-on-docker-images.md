@@ -1,5 +1,5 @@
 ---
-description: An analysis of Docker image layers for traditional ASP.NET applications, explaining how Microsoft's official images are composed from windowsservercore through IIS to ASP.NET and how to customize them for your needs.
+description: "An analysis of Docker image layers for traditional ASP.NET applications, explaining how Microsoft's official images are composed from windowsservercore through IIS to ASP.NET and how to customize them for your needs."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /traditional-asp-net-on-docker-images-1af3b72eeaaf

@@ -1,5 +1,5 @@
 ---
-description: 'This post is about compiling #SNMP 7.5 on Linux/Mono.'
+description: "Explains how to compile #SNMP 7.5 on Linux/Mono when ANTLR MSBuild targets fail, and documents the workaround using Mono-compatible ANTLR execution."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-compile-with-antlr-on-linux-mono-4cca2cf7ed27

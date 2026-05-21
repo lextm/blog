@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是介绍 CBC 2 项目的搬家进度。该项目已经迁移到 GForge 托管网站。
+description: "这篇文章是介绍 CBC 2 项目的搬家进度。该项目已经迁移到 GForge 托管网站。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /code-beautifier-collection-2-搬家中-36a6adeba7a1

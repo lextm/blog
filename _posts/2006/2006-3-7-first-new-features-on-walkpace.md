@@ -1,5 +1,5 @@
 ---
-description: A post about first new features on WalkPace, Doc Preview
+description: "A post about first new features on WalkPace, Doc Preview"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /first-new-features-on-walkpace-78da92f304b

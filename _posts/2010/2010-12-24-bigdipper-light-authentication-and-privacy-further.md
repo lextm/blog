@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the authentication and privacy issues in #SNMP.'
+description: "Examines SNMP v3 authentication and privacy issues in #SNMP and the RFC 3414 compliance fixes under consideration."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-authentication-and-privacy-further-86429d12a875

@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the release of #SNMP 0.5 (Halfbaked).'
+description: "Announces the public release of #SNMP 0.5 Halfbaked and explains that the included MIB parser is experimental."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-half-baking-done-b0ffcc9bc34d

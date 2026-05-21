@@ -1,5 +1,5 @@
 ---
-description: Summarizes the latest bug fixes in HardQuery and the stability improvements they bring.
+description: "Summarizes the latest bug fixes in HardQuery and the stability improvements they bring."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-latest-bugs-are-fixed-38dbbf43179c

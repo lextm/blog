@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP port to mobile platforms.'
+description: "Summarizes #SNMP mobile platform porting efforts, including CF, Silverlight, MonoTouch, and Mono for Android experiments."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-port-to-mobile-platforms-9959f6e4b303

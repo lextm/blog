@@ -1,5 +1,5 @@
 ---
-description: Reviews ExtractNow, a lightweight utility for extracting ZIP, RAR, and IMG archives.
+description: "Reviews ExtractNow, a lightweight utility for extracting ZIP, RAR, and IMG archives."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-extractnow-9560d9950904

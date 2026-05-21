@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the new member of #SNMP Design team.'
+description: "Introduces a new #SNMP Design team member and summarizes recent code contributions toward TwinTower RC3."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-team-up-74d4ef676e28

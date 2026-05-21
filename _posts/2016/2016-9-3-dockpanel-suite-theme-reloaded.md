@@ -1,5 +1,5 @@
 ---
-description: A detailed look at DockPanel Suite's theme reloading process, Visual Studio theme integration, and how to create custom themes using the Visual Studio Color Theme Manager.
+description: "A detailed look at DockPanel Suite's theme reloading process, Visual Studio theme integration, and how to create custom themes using the Visual Studio Color Theme Manager."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-theme-reloaded-3bb41273d127

@@ -1,5 +1,5 @@
 ---
-description: Step-by-step tutorial for setting up remote management of IIS instances running in Windows Server Core containers, including network configuration and security setup.
+description: "Step-by-step tutorial for setting up remote management of IIS instances running in Windows Server Core containers, including network configuration and security setup."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Winter trees in Montreal.

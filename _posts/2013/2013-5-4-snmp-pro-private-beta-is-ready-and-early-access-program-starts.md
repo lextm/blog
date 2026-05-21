@@ -1,6 +1,5 @@
 ---
-description: 'This post talks about the start of #SNMP MIB Compiler Pro Early Access
-  Program.'
+description: "Announces the start of the #SNMP MIB Compiler Pro Early Access Program and explains how to join and request a license hint."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-private-beta-is-ready-and-early-access-program-starts-7311b09abd8e

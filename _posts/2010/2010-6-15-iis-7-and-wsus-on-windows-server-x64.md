@@ -1,5 +1,5 @@
 ---
-description: This post is about the issue with IIS 7 and WSUS on Windows Server x64.
+description: "Explains a 500.19 IIS 7 error on WSUS-enabled Windows Server x64 and how 32-bit compression modules cause the failure."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /iis-7-and-wsus-on-windows-server-x64-1b59da5ac7ee

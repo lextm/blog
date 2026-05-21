@@ -1,5 +1,5 @@
 ---
-description: Guide to installing Microsoft Hyper-V Server 2008 and getting the hypervisor up and running.
+description: "Guide to installing Microsoft Hyper-V Server 2008 and getting the hypervisor up and running."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /guide-on-microsoft-hyper-v-server-2008-f972da89fff7

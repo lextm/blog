@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Block Breaker: Google Reader''s Difference From Thunderbird'
-description: Compares Google Reader and Thunderbird and explains why Google Reader feels better.
+description: "Compares Google Reader and Thunderbird and explains why Google Reader feels better."
 tags: google
 categories: [Companies and Products]
 permalink: /block-breaker-google-readers-difference-from-thunderbird-addbb4a93948

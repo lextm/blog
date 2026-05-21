@@ -1,5 +1,5 @@
 ---
-description: This post is about the CF assembly.
+description: "Details post-release fixes in CatPaw 5.x, especially CF assembly issues and the impact on releases 5.1 and 5.2."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-post-release-summary-part-iii-d38b80d60ab1

@@ -1,6 +1,6 @@
 ---
 categories: [Programming Languages]
-description: Historical perspective on the evolution of customization approaches in DockPanel Suite, explaining the differences between schemas, skins, and themes and how they affect UI development.
+description: "Historical perspective on the evolution of customization approaches in DockPanel Suite, explaining the differences between schemas, skins, and themes and how they affect UI development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-skins-schemas-and-themes-a080747aa1c8

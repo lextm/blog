@@ -1,5 +1,5 @@
 ---
-description: A detailed look at the true costs of enterprise open source solutions, analyzing Red Hat Enterprise Linux and Docker subscriptions for enterprise environments.
+description: "A detailed look at the true costs of enterprise open source solutions, analyzing Red Hat Enterprise Linux and Docker subscriptions for enterprise environments."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Winter trees, Montreal.

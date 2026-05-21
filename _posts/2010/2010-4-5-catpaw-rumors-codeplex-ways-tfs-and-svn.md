@@ -1,5 +1,5 @@
 ---
-description: This post is about my experience on CodePlex and TFS/SVN
+description: "Reflects on CodePlex usage and the practical differences between TFS, SVN, and open source workflows for Windows projects."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-codeplex-ways-tfs-and-svn-1b9aa6a4ab98

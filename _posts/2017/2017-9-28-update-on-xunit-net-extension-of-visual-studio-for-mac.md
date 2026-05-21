@@ -1,5 +1,5 @@
 ---
-description: An update on fixing critical bugs in the xUnit.net extension for Visual Studio for Mac, including Rollbar integration for better issue tracking and improved test case execution for C# and F# projects.
+description: "An update on fixing critical bugs in the xUnit.net extension for Visual Studio for Mac, including Rollbar integration for better issue tracking and improved test case execution for C# and F# projects."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /update-on-xunit-net-extension-of-visual-studio-for-mac-af69457e3441

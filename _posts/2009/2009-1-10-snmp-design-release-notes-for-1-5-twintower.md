@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the release notes of #SNMP 1.5 (TwinTower).'
+description: "Summarizes #SNMP 1.5 TwinTower release notes, including v2c, Manager API changes, agent experiments, and browser enhancements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-release-notes-for-1-5-twintower-2de00443601c

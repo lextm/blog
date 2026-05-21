@@ -1,5 +1,5 @@
 ---
-description: Analysis of the Mono ecosystem evolution, examining its foundation components, application frameworks, similarities with Microsoft .NET, and potential future integration with Microsoft's open source code.
+description: "Analysis of the Mono ecosystem evolution, examining its foundation components, application frameworks, similarities with Microsoft .NET, and potential future integration with Microsoft's open source code."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /a-guess-on-mono-ecosystem-evolution-b096ccad6600

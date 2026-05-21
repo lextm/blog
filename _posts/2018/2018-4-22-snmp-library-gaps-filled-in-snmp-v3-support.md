@@ -1,5 +1,5 @@
 ---
-description: 'Announcing the release of #SNMP Library 10.0.6 with expanded SNMP v3 privacy protocol support, including AES 192/256 and TripleDES implementations for enhanced security.'
+description: "Announcing the release of #SNMP Library 10.0.6 with expanded SNMP v3 privacy protocol support, including AES 192/256 and TripleDES implementations for enhanced security."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Four Seasons, Boston

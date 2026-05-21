@@ -1,5 +1,5 @@
 ---
-description: Complete guide to managing IIS Server HTTP headers, including how to remove or modify them for improved security, with detailed explanations of http.sys behavior.
+description: "Complete guide to managing IIS Server HTTP headers, including how to remove or modify them for improved security, with detailed explanations of http.sys behavior."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Vancouver Convention Center.

@@ -1,5 +1,5 @@
 ---
-description: This article is about the upcoming update of CBC.
+description: "Announces CBC Release 2 Update 1 RC 2, apologizes for the earlier RC, and previews MSBuild and NAnt build improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-release-2-update-1-rc-2-is-ready-bf3d18b015db

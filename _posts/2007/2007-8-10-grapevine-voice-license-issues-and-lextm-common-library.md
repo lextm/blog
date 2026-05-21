@@ -1,5 +1,5 @@
 ---
-description: Discusses GrapeVine licensing changes and moving LeXDK Core to LGPL for closed-source Plus compatibility.
+description: "Discusses GrapeVine licensing changes and moving LeXDK Core to LGPL for closed-source Plus compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-license-issues-and-lextm-common-library-8b9a5e62f01e

@@ -1,5 +1,5 @@
 ---
-description: Announces the early release of HardQuery 5.3.4.1001 source code and explains why it was released before binaries.
+description: "Announces the early release of HardQuery 5.3.4.1001 source code and explains why it was released before binaries."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-5-3-4-1001-source-code-is-available-2461ec88def9

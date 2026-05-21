@@ -1,5 +1,5 @@
 ---
-description: Different techniques to abort or cancel a VSTS build when no changes are detected, including displaying the build as succeeded, failed, or cancelled in the dashboard.
+description: "Different techniques to abort or cancel a VSTS build when no changes are detected, including displaying the build as succeeded, failed, or cancelled in the dashboard."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. A sunny day, Montreal.

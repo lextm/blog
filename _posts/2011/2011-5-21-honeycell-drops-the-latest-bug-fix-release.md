@@ -1,5 +1,5 @@
 ---
-description: 'Important announcement about the latest bug fix release (6.1.1) of #SNMP, addressing critical issues.'
+description: "Important announcement about the latest bug fix release (6.1.1) of #SNMP, addressing critical issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-the-latest-bug-fix-release-395c009941ef

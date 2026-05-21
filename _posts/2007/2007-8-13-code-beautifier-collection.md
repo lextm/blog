@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲一下 CBC 的最新进展。
+description: "这篇文章讲一下 CBC 的最新进展。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /code-beautifier-collection-动态-6d7f83ee125a

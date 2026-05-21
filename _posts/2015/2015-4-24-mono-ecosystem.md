@@ -1,5 +1,5 @@
 ---
-description: 对Mono生态系统的详细分析，包括其基础组件和应用开发框架，与微软.NET的对比，以及未来可能与微软开源代码整合的发展方向。
+description: "对Mono生态系统的详细分析，包括其基础组件和应用开发框架，与微软.NET的对比，以及未来可能与微软开源代码整合的发展方向。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /mono-生态系统未来可能的进化方向-cff149c24f9e

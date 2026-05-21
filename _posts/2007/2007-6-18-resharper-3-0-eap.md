@@ -1,5 +1,5 @@
 ---
-description: Describes my experience trying ReSharper 3.0 EAP and comparing it with IntelliJ IDEA.
+description: "Describes my experience trying ReSharper 3.0 EAP and comparing it with IntelliJ IDEA."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /resharper-3-0-eap-bdd5386368eb

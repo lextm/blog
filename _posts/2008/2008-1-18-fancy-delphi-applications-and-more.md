@@ -1,5 +1,5 @@
 ---
-description: A look at several fancy Delphi applications and the impressive user experiences they demonstrate.
+description: "A look at several fancy Delphi applications and the impressive user experiences they demonstrate."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /fancy-delphi-applications-and-more-815e84f6c9a

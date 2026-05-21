@@ -1,7 +1,7 @@
 ---
 layout: post
 title: .NET Core Installation with Visual Studio 2017 RC
-description: An in-depth analysis of the various .NET Core components installed with Visual Studio 2017 RC, including runtimes and SDK versions.
+description: "An in-depth analysis of the various .NET Core components installed with Visual Studio 2017 RC, including runtimes and SDK versions."
 tags: .net visual-studio microsoft
 categories: [Programming Languages]
 permalink: /net-core-installation-with-visual-studio-2017-rc-e4fc1b4c5905

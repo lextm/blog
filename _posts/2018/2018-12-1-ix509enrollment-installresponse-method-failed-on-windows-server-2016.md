@@ -1,5 +1,5 @@
 ---
-description: Troubleshooting guide for the IX509Enrollment::InstallResponses method failure with error code 0x80071771 on Windows Server 2016, with an alternative solution using certreq.
+description: "Troubleshooting guide for the IX509Enrollment::InstallResponses method failure with error code 0x80071771 on Windows Server 2016, with an alternative solution using certreq."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /ix509enrollment-installresponse-method-failed-on-windows-server-2016-fd1a7c1a7b33

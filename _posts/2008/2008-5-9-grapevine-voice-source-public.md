@@ -1,5 +1,5 @@
 ---
-description: Announces the public release of source code for the April 2008 GrapeVine Voice release.
+description: "Announces the public release of source code for the April 2008 GrapeVine Voice release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-source-public-3943fefa8b4c

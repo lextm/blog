@@ -1,5 +1,5 @@
 ---
-description: An evaluation of various reStructuredText extension options for Visual Studio Code, comparing sphinx-based, docutils-based, and rst2mdown-based implementations for documentation accuracy and feature completeness.
+description: "An evaluation of various reStructuredText extension options for Visual Studio Code, comparing sphinx-based, docutils-based, and rst2mdown-based implementations for documentation accuracy and feature completeness."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /update-on-restructuredtext-and-visual-studio-code-1b23916c4c0f

@@ -1,5 +1,5 @@
 ---
-description: Describes updated Eclipse download options and the emergence of official Europa packages.
+description: "Describes updated Eclipse download options and the emergence of official Europa packages."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /eclipse-download-experience-changes-547b60438263

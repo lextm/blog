@@ -1,5 +1,5 @@
 ---
-description: Shares the story of a Hong Kong boy named Issac and the impressions he left.
+description: "Shares the story of a Hong Kong boy named Issac and the impressions he left."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /knowing-issac-a6703cfb8167

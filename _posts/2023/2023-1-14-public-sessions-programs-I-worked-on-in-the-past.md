@@ -1,5 +1,5 @@
 ---
-description: A comprehensive chronological overview of my public speaking engagements, conference talks, and program contributions from 2015 to 2022, including topics on .NET, Xamarin, Visual Studio Code extensions, and documentation tools.
+description: "A comprehensive chronological overview of my public speaking engagements, conference talks, and program contributions from 2015 to 2022, including topics on .NET, Xamarin, Visual Studio Code extensions, and documentation tools."
 image:
   path: /images/new-year-decoration-toronto.jpg
   alt: Copyright © Lex Li. New Year decorations at downtown Toronto.

@@ -1,5 +1,5 @@
 ---
-description: Announces Alex 1.0, the AStyle AddIn for SharpDevelop 1.0, with availability details and supported features.
+description: "Announces Alex 1.0, the AStyle AddIn for SharpDevelop 1.0, with availability details and supported features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /astyle-addin-announce-the-availability-of-alex-1-0-43ff00cb916f

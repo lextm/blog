@@ -1,5 +1,5 @@
 ---
-description: Describes HardQuery progress for milestones 10 and 11 and the key updates delivered.
+description: "Describes HardQuery progress for milestones 10 and 11 and the key updates delivered."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-milestone-10-and-11-89695bd67dce

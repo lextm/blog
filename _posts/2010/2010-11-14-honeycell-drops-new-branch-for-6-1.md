@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HoneyCell Drops: New Branch for 6.1'
-description: 'This post is about the new 6.1 branch for #SNMP.'
+description: "Describes the creation of the new #SNMP 6.1 branch and the early bug-fix workflow for the upcoming maintenance release."
 tags: snmp
 categories: [Technologies and Concepts]
 permalink: /honeycell-drops-new-branch-for-6-1-88e3742c0a3d

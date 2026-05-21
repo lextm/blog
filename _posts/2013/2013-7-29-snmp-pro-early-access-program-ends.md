@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the end of #SNMP Pro Early Access Program.'
+description: "Announces the end of the #SNMP Pro Early Access Program and confirms the availability of the compiler pro 1.0 release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-early-access-program-ends-92f9fb358fc3

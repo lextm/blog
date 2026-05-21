@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the kick-off of #SNMP series on CodeProject.'
+description: "Announces the launch of #SNMP how-to articles on CodeProject and explains the content strategy between blog, KB, and CodeProject."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-series-on-codeproject-kick-off-6634b2bed423

@@ -1,5 +1,5 @@
 ---
-description: This post is about my lost Twitter account.
+description: "Describes losing access to Twitter and Brizzly, and the uncertainty about whether the account is gone forever."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /lost-my-twitter-account-access-d0316b7210f

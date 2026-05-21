@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the release of #SNMP 1.5 RC3.'
+description: "Announces #SNMP 1.5 RC3 and notes that the release was delayed but includes meaningful improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-1-5-rc3-out-26830767f554

@@ -1,5 +1,5 @@
 ---
-description: 本文讲述了 Firefox 2.0 Beta 的一些事情。
+description: "本文讲述了 Firefox 2.0 Beta 的一些事情。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /firefox-2-0-beta-cool-d46fbe5deb29

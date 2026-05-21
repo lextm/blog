@@ -1,5 +1,5 @@
 ---
-description: 'Announcing the final release of #SNMP 7.0 (BigDipper), including release notes and upcoming plans.'
+description: "Announcing the final release of #SNMP 7.0 (BigDipper), including release notes and upcoming plans."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-rtm-post-a58eb789173f

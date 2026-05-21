@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '.NET on Linux: Mono installation on Ubuntu, Revisited'
-description: Describes how to install Mono on Ubuntu and resolve MonoDevelop runtime issues.
+description: "Describes how to install Mono on Ubuntu and resolve MonoDevelop runtime issues."
 tags: .net linux mono
 categories: [Programming Languages]
 permalink: /net-on-linux-mono-installation-on-ubuntu-revisited-9143dba89b99

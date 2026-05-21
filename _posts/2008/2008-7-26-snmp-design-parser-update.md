@@ -1,5 +1,5 @@
 ---
-description: Provides an update on MIB parser development in SNMP design and what parser improvements are underway.
+description: "Provides an update on MIB parser development in SNMP design and what parser improvements are underway."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-parser-update-51fa55793986

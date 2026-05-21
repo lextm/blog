@@ -1,5 +1,5 @@
 ---
-description: 'A detailed walkthrough of porting #SNMP Library from .NET Core RC1 to RC2, covering the transition to new dotnet commands, changes to project.json, and handling conditional compilation for cross-platform support.'
+description: "A detailed walkthrough of porting #SNMP Library from .NET Core RC1 to RC2, covering the transition to new dotnet commands, changes to project.json, and handling conditional compilation for cross-platform support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /port-snmp-from-net-core-rc1-to-rc2-141207cbe4f

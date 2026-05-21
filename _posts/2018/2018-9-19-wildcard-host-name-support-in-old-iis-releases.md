@@ -1,5 +1,5 @@
 ---
-description: How to implement wildcard host name support in older IIS versions using Application Request Routing (ARR) and URL Rewrite as an alternative to IIS 10's native support.
+description: "How to implement wildcard host name support in older IIS versions using Application Request Routing (ARR) and URL Rewrite as an alternative to IIS 10's native support."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. City hall, Toronto.

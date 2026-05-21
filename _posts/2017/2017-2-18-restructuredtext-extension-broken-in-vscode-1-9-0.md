@@ -1,5 +1,5 @@
 ---
-description: This post is about why the reStructuredText extension was broken in VS Code 1.9.0.
+description: "Investigates why the reStructuredText VS Code extension broke in 1.9.0 and links the failure to invalid HTML and Electron rendering changes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /restructuredtext-extension-broken-in-vscode-1-9-0-3e01952ad155

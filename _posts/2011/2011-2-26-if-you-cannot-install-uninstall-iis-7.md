@@ -1,5 +1,5 @@
 ---
-description: This post is about how to resolve IIS 7 installation issue.
+description: "Explains common CBS-related IIS 7 install/uninstall failures and the typical causes on Windows systems."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /if-you-cannot-install-uninstall-iis-7-292f3d582837

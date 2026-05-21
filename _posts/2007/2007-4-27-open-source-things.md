@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了上班以来使用的开源产品。
+description: "这篇文章讲述了上班以来使用的开源产品。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /上班以来使用的开源东西-c30fde3baa04

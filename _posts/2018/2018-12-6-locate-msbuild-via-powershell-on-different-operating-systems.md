@@ -1,5 +1,5 @@
 ---
-description: A comprehensive guide on how to locate MSBuild on Windows, macOS, and Linux using PowerShell scripts, with cross-platform compatibility considerations.
+description: "A comprehensive guide on how to locate MSBuild on Windows, macOS, and Linux using PowerShell scripts, with cross-platform compatibility considerations."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Crossroad on rue Wellington, Montreal.

@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是关于 M8主题大师2.5的进展
+description: "这篇文章是关于 M8主题大师2.5的进展"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /m8主题大师2-5的进展-d34f6ea4abbd

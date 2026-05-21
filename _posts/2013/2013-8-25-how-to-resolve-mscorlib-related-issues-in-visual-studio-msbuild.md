@@ -1,5 +1,5 @@
 ---
-description: Troubleshoot `mscorlib` errors in Visual Studio and MSBuild by understanding assembly references and resolving common runtime and build compatibility issues.
+description: "Troubleshoot `mscorlib` errors in Visual Studio and MSBuild by understanding assembly references and resolving common runtime and build compatibility issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-resolve-mscorlib-related-issues-in-visual-studio-msbuild-84965aaf6f47

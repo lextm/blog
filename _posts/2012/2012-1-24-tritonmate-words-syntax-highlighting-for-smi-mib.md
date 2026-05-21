@@ -1,5 +1,5 @@
 ---
-description: "This post is about syntax highlighting for SMI/MIB."
+description: "Describes adding SMI/MIB syntax highlighting to #SNMP tooling using SharpDevelop and a ported jEdit syntax file."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-syntax-highlighting-for-smi-mib-efe99ad93af2

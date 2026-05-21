@@ -1,5 +1,5 @@
 ---
-description: Learn about the initial offering of IntelliSense features in the reStructuredText extension for Visual Studio Code, including smart file path insertion that saves you time when linking to other documents.
+description: "Learn about the initial offering of IntelliSense features in the reStructuredText extension for Visual Studio Code, including smart file path insertion that saves you time when linking to other documents."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /intellisense-for-restructuredtext-extension-initial-offering-6886b17d874b

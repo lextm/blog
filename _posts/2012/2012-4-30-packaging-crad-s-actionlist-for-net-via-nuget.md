@@ -1,5 +1,5 @@
 ---
-description: How to package Crad ActionList for .NET with NuGet and keep the library compatible across projects.
+description: "How to package Crad ActionList for .NET with NuGet and keep the library compatible across projects."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /packaging-crads-actionlist-for-net-via-nuget-5c72e77ece94

@@ -1,5 +1,5 @@
 ---
-description: Best practices for using code beautifiers effectively, emphasizing the importance of good manual formatting habits, awareness of tool limitations and potential bugs, and the critical need for regular source code backups when using automated formatting tools.
+description: "Best practices for using code beautifiers effectively, emphasizing the importance of good manual formatting habits, awareness of tool limitations and potential bugs, and the critical need for regular source code backups when using automated formatting tools."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-use-beautifiers-properly-cd446deaf8e6

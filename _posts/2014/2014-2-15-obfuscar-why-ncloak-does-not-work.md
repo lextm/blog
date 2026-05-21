@@ -1,5 +1,5 @@
 ---
-description: Analysis of NCloak obfuscator's compatibility issues and evaluation of its features for potential integration with Obfuscar, focusing on code optimization and MSIL manipulation capabilities.
+description: "Analysis of NCloak obfuscator's compatibility issues and evaluation of its features for potential integration with Obfuscar, focusing on code optimization and MSIL manipulation capabilities."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /obfuscar-why-ncloak-does-not-work-f4ed152f06dd

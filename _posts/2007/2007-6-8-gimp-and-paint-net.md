@@ -1,5 +1,5 @@
 ---
-description: Compares GIMP and Paint.NET from a user perspective and explains why Paint.NET may feel easier.
+description: "Compares GIMP and Paint.NET from a user perspective and explains why Paint.NET may feel easier."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /gimp-and-paint-net-dd78adad0bda

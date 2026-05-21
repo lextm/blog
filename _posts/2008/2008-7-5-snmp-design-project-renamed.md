@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the renaming of #SNMP project.'
+description: "Explains the project rename to Sharp SNMP Suite and the split between LGPL library and BSD browser licensing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-project-renamed-b8503ea27506

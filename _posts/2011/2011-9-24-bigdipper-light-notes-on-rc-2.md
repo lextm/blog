@@ -1,5 +1,5 @@
 ---
-description: 'Release notes and important information about #SNMP 7.0 RC 2 (BigDipper), including stability and upcoming RTM release.'
+description: "Release notes and important information about #SNMP 7.0 RC 2 (BigDipper), including stability and upcoming RTM release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-notes-on-rc-2-dfee378826b1

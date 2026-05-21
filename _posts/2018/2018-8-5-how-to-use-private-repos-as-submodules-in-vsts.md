@@ -1,5 +1,5 @@
 ---
-description: How to effectively use private Git repositories as submodules in VSTS build pipelines using different authentication methods including OAuth tokens and SSH keys.
+description: "How to effectively use private Git repositories as submodules in VSTS build pipelines using different authentication methods including OAuth tokens and SSH keys."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. A smiling Buddhist statue.

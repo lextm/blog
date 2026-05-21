@@ -1,5 +1,5 @@
 ---
-description: 'This post is about my vacation and the progress of #SNMP.'
+description: "Summarizes the author’s vacation productivity, including #SNMP prototypes for a command line MIB compiler and GUI MIB support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-take-a-break-6915e7d8691c

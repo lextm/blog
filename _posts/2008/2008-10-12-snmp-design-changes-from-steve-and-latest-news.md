@@ -1,6 +1,5 @@
 ---
-description: 'This post is about the latest changes from Steve and the latest news
-  on #SNMP.'
+description: "Reports recent #SNMP browser-side updates from Steve, including new Table View and Output panel save features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-changes-from-steve-and-latest-news-2a448a7568a7

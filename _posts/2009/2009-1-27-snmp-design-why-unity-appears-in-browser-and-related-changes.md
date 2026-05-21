@@ -1,6 +1,5 @@
 ---
-description: This post is about why the IoC framework Unity appears in Browser and
-  related changes.
+description: "Explains why Unity was introduced into the browser, how it simplifies refactoring, and related CrossRoad design changes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-why-unity-appears-in-browser-and-related-changes-6b9a4422bbc1

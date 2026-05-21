@@ -1,5 +1,5 @@
 ---
-description: 'A comprehensive guide to porting #SNMP Library to .NET Core RC1, covering environment setup, project.json configuration, platform targeting, and resolving dependencies for cross-platform compatibility.'
+description: "A comprehensive guide to porting #SNMP Library to .NET Core RC1, covering environment setup, project.json configuration, platform targeting, and resolving dependencies for cross-platform compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-port-snmp-library-to-net-core-878d29074f9c

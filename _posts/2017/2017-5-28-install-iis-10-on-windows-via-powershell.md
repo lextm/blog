@@ -1,5 +1,5 @@
 ---
-description: A straightforward guide on how to install IIS 10 on Windows 10 and Windows Server 2016 using PowerShell commands, with explanations of feature names and module identification techniques.
+description: "A straightforward guide on how to install IIS 10 on Windows 10 and Windows Server 2016 using PowerShell commands, with explanations of feature names and module identification techniques."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /install-iis-10-on-windows-via-powershell-96baf95efc2e

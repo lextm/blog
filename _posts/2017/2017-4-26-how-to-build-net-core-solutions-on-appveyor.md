@@ -1,5 +1,5 @@
 ---
-description: This post would show you how to build .NET Core solutions on AppVeyor, and a complete example.
+description: "Documents building a .NET Core solution on AppVeyor and explains why Visual Studio 2017 image and custom scripts are needed."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-build-net-core-solutions-on-appveyor-95cda0b15724

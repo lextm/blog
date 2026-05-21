@@ -1,5 +1,5 @@
 ---
-description: This post is about Visual Web Developer Express installation failure.
+description: "Explains Visual Web Developer Express install failures caused by antivirus, network issues, or corrupt Windows, and recommends an offline ISO."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /visual-web-developer-express-installation-failed-13a0dd1faafc

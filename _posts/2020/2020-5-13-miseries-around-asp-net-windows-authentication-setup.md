@@ -1,5 +1,5 @@
 ---
-description: Comprehensive guide to ASP.NET Windows authentication setup, explaining common issues, IIS configuration details, and advanced topics for proper implementation.
+description: "Comprehensive guide to ASP.NET Windows authentication setup, explaining common issues, IIS configuration details, and advanced topics for proper implementation."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. TELUS Garden Offices in Vancouver.

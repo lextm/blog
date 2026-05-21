@@ -1,5 +1,5 @@
 ---
-description: Step-by-step guide to migrating a Windows UWP file explorer application to macOS using Uno Platform, detailing challenges and solutions in cross-platform development.
+description: "Step-by-step guide to migrating a Windows UWP file explorer application to macOS using Uno Platform, detailing challenges and solutions in cross-platform development."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Downtown Montreal.

@@ -1,5 +1,5 @@
 ---
-description: 本文详细记录了 Mono 项目历史中的重要片段，探讨 Novell 公司的衰落以及 Xamarin 公司如何从中重生，继承 Mono 技术并推动其发展。
+description: "本文详细记录了 Mono 项目历史中的重要片段，探讨 Novell 公司的衰落以及 Xamarin 公司如何从中重生，继承 Mono 技术并推动其发展。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /mono历史片段-novell的崩溃和xamarin的浴火重生-bf1dd7b8621b

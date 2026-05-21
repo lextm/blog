@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the update on #SNMP agent side support.'
+description: "Describes recent #SNMP agent-side progress, including a new TrapMessage constructor and the TestSendTrap example project."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-update-on-agent-side-7d086531037c

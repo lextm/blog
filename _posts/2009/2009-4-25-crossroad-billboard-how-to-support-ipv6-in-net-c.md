@@ -1,6 +1,5 @@
 ---
-description: This post is about how to support IP v6 in .NET/C# by using the new API
-  in .NET Framework.
+description: "Explains how to add IPv6 support to .NET/C# sockets and notification panels by handling AddressFamily correctly."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /crossroad-billboard-how-to-support-ip-v6-in-net-c-d579939ce0f0

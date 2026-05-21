@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了重构 CBC 代码的一些事情。
+description: "这篇文章讲述了重构 CBC 代码的一些事情。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /重构的新篇章-54a6900a7495

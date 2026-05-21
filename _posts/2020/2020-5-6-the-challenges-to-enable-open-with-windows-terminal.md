@@ -1,5 +1,5 @@
 ---
-description: Detailed walkthrough of creating Windows Explorer context menu integration for Windows Terminal, addressing technical challenges like icon handling and command elevation.
+description: "Detailed walkthrough of creating Windows Explorer context menu integration for Windows Terminal, addressing technical challenges like icon handling and command elevation."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Tour des Canadiens Condos in Montreal.

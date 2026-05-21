@@ -1,5 +1,5 @@
 ---
-description: This post is about the discussion on open source licenses.
+description: "Summarizes a Twitter discussion on GPL and open source licenses, and offers advice for choosing licenses when starting projects."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /discussion-on-open-source-licenses-fdc1f1829c3d

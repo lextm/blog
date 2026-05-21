@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the release of #SNMP 1.5 Final.'
+description: "Announces the arrival of #SNMP 1.5 Final (TwinTower) and invites readers to check out the release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-here-comes-1-5-final-release-twintower-1bff6a478e25

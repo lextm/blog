@@ -1,5 +1,5 @@
 ---
-description: This post is about the first asynchronous sample for Sharp SNMP Library.
+description: "Shows the first asynchronous sample for Sharp SNMP Library and why Begin/End patterns suit the library's extension methods."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-first-asynchronous-sample-cb5b4cb15dfd

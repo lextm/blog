@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the story of adding RFC 3414 support in #SNMP.'
+description: "Recounts the RFC 3414 authentication discovery bug in #SNMP and the fix path inspired by Cisco and Net-SNMP behavior."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-story-on-rfc-3414-support-5a7ff6448e7b

@@ -1,5 +1,5 @@
 ---
-description: 介绍了自己的新年愿望
+description: "介绍了自己的新年愿望"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /新年的愿望-c9e65ef8d170

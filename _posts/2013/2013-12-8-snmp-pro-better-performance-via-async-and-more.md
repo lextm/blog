@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about how I improved the performance of #SNMP Pro Editions.'
+description: "Describes how async improvements and UI logging fixes boosted #SNMP Pro compiler performance by over 5x."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-better-performance-via-async-and-more-e108ac3499b4

@@ -1,5 +1,5 @@
 ---
-description: The latest developments of the xUnit.NET add-in for Xamarin Studio, including support for Xamarin Studio 6.x and improvements to Theory test functionality across multiple platforms.
+description: "The latest developments of the xUnit.NET add-in for Xamarin Studio, including support for Xamarin Studio 6.x and improvements to Theory test functionality across multiple platforms."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /xunit-net-add-in-for-xamarin-studio-latest-update-b9ef69414f54

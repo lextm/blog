@@ -1,5 +1,5 @@
 ---
-description: A comprehensive guide on migrating Sphinx documentation sites from Read The Docs to Azure App Service, including GitHub integration, Google Analytics, and URL rewriting.
+description: "A comprehensive guide on migrating Sphinx documentation sites from Read The Docs to Azure App Service, including GitHub integration, Google Analytics, and URL rewriting."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Trees near the old port, Montreal.

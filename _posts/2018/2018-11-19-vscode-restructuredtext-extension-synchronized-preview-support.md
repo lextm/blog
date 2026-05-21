@@ -1,5 +1,5 @@
 ---
-description: Exploring the VS Code reStructuredText extension's 81.0.0 release with synchronized preview support, Webview API implementation, and the technical details behind these improvements.
+description: "Exploring the VS Code reStructuredText extension's 81.0.0 release with synchronized preview support, Webview API implementation, and the technical details behind these improvements."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Doves in the sunset, Montreal.

@@ -1,5 +1,5 @@
 ---
-description: 这篇文章介绍了 Firefox 3和 Google 拼音。
+description: "这篇文章介绍了 Firefox 3和 Google 拼音。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /firefox-3和google拼音-f897870b3b97

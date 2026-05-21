@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP 4.0 Beta 2.'
+description: "Announces that #SNMP 4.0 Beta 2 is ready and encourages users to test the latest preview before the March release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /squareroot-puzzle-beta-2-is-ready-for-4-0-20f4ac91daa0

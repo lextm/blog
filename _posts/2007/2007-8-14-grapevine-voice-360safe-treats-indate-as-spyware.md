@@ -1,5 +1,5 @@
 ---
-description: Explains why 360Safe mistakenly flags InDate as spyware and the implications for update delivery.
+description: "Explains why 360Safe mistakenly flags InDate as spyware and the implications for update delivery."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-360safe-treats-indate-as-spyware-ba96e5bce4e2

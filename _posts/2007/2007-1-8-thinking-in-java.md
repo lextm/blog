@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了隐藏在 Thinking in Java 一书中关于 Delphi 信息。
+description: "这篇文章讲述了隐藏在 Thinking in Java 一书中关于 Delphi 信息。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /隐藏在thinking-in-java中的delphi信息-354525afe646

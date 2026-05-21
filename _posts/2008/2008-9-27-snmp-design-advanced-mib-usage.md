@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about advanced MIB usage in #SNMP Library.'
+description: "Explores advanced MIB usage patterns in #SNMP Library and shows how to interpret MIB documents for manager-side code."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-advanced-mib-usage-30a13924564f

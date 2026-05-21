@@ -1,5 +1,5 @@
 ---
-description: Describes implementing the MIB compiler GUI with DockPanel Suite and handling large document workflows.
+description: "Describes implementing the MIB compiler GUI with DockPanel Suite and handling large document workflows."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-1000-documents-for-dockpanel-suite-c7399068d59d

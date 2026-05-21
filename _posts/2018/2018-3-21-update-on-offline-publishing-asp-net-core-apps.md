@@ -1,5 +1,5 @@
 ---
-description: Step-by-step guide on upgrading ASP.NET Core applications from 2.0.5 to 2.0.6 in offline environments, including necessary NuGet packages and publishing command modifications.
+description: "Step-by-step guide on upgrading ASP.NET Core applications from 2.0.5 to 2.0.6 in offline environments, including necessary NuGet packages and publishing command modifications."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Linus bikes in Boston.

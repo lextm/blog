@@ -1,5 +1,5 @@
 ---
-description: Analysis of potential technological innovations following Microsoft's acquisition of Xamarin, including cross-platform development tools, unified frameworks, improved tooling, and expanded language support across multiple operating systems.
+description: "Analysis of potential technological innovations following Microsoft's acquisition of Xamarin, including cross-platform development tools, unified frameworks, improved tooling, and expanded language support across multiple operating systems."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /what-microsoft-and-xamarin-can-deliver-together-221f668884a7

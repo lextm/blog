@@ -1,5 +1,5 @@
 ---
-description: Discusses why FxCop and NDepend reports are important for .NET quality and should be run periodically.
+description: "Discusses why FxCop and NDepend reports are important for .NET quality and should be run periodically."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-pass-fxcop-and-ndepend-ad7cbe830db2

@@ -1,5 +1,5 @@
 ---
-description: Announces that HardQuery Preview 2 is coming soon and previews the update.
+description: "Announces that HardQuery Preview 2 is coming soon and previews the update."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-there-will-be-a-preview-2-b5fa50f1de3

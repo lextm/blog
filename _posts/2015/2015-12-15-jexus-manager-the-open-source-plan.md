@@ -1,5 +1,5 @@
 ---
-description: Detailed roadmap for open-sourcing Jexus Manager, including Microsoft.Web.Administration and Microsoft.Web.Management implementations, with scheduled releases throughout 2016.
+description: "Detailed roadmap for open-sourcing Jexus Manager, including Microsoft.Web.Administration and Microsoft.Web.Management implementations, with scheduled releases throughout 2016."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-the-open-source-plan-4977676be99e

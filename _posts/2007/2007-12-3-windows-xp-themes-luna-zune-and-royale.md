@@ -1,5 +1,5 @@
 ---
-description: Compares Windows XP themes Luna, Royale, and Zune and explains why Zune felt the best.
+description: "Compares Windows XP themes Luna, Royale, and Zune and explains why Zune felt the best."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-xp-themes-luna-zune-and-royale-14fdcb0e3850

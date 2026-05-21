@@ -1,5 +1,5 @@
 ---
-description: Reports HardQuery progress and describes the new Project Group Helper feature.
+description: "Reports HardQuery progress and describes the new Project Group Helper feature."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-project-group-helper-b7670bd33578

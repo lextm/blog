@@ -1,6 +1,5 @@
 ---
-description: This article describes that Sharp Builder Tools and others are reborn
-  inside CBC.
+description: "Announces that Sharp Builder Tools and related Code Beautifier Collection extensions have been reborn inside CBC for better integration."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-sharp-builder-tools-and-others-are-reborn-inside-cbc-d3fbf4baf54e

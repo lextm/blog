@@ -1,5 +1,5 @@
 ---
-description: Announces GrapeVine M8 release, listing new features and bug fixes included in the milestone.
+description: "Announces GrapeVine M8 release, listing new features and bug fixes included in the milestone."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-milestone-8-out-6421c1ed5679

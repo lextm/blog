@@ -1,5 +1,5 @@
 ---
-description: Discusses the Delphi roadmap, Oxygene evolution, and updates to JCF for .NET developers.
+description: "Discusses the Delphi roadmap, Oxygene evolution, and updates to JCF for .NET developers."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /delphi-roadmap-oxygen-and-jcf-update-435b6eaf0e04

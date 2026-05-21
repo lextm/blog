@@ -1,5 +1,5 @@
 ---
-description: A practical guide to creating Windows MSI installers with WiX Toolset, using Jexus Manager as a real-world example with version detection and shortcuts.
+description: "A practical guide to creating Windows MSI installers with WiX Toolset, using Jexus Manager as a real-world example with version detection and shortcuts."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. IKEA store, Montreal.

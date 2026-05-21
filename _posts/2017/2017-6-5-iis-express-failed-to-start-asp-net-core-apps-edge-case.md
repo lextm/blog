@@ -1,5 +1,5 @@
 ---
-description: Troubleshooting an edge case where IIS Express fails to start ASP.NET Core applications due to port conflicts with an already running instance, with detailed event log analysis and solution.
+description: "Troubleshooting an edge case where IIS Express fails to start ASP.NET Core applications due to port conflicts with an already running instance, with detailed event log analysis and solution."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /iis-express-failed-to-start-for-asp-net-core-apps-edge-case-78efdc18e1c6

@@ -1,5 +1,5 @@
 ---
-description: Shares a Crystal Reports purchase mistake and advises on choosing the correct SKU for Visual Studio 2005.
+description: "Shares a Crystal Reports purchase mistake and advises on choosing the correct SKU for Visual Studio 2005."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /crystal-reports-purchase-mistake-i-made-46e74a9742fe

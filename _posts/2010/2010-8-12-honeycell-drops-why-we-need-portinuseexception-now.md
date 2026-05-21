@@ -1,5 +1,5 @@
 ---
-description: This post is about the new PortInUseException.
+description: "Explains why HoneyCell introduces PortInUseException to handle listener binding failures cleanly and keep listener state consistent."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-why-we-need-portinuseexception-now-88fb45fb7962

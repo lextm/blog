@@ -1,5 +1,5 @@
 ---
-description: This post is about the issue with CodeRush Express 10.1 installer.
+description: "Describes the CodeRush Express 10.1 installer bug and notes that the DevExpress team eventually resolved it."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-not-so-cool-coderush-express-10-1-installer-resolved-6938c7cbd9dd

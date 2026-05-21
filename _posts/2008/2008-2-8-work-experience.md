@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讨论了工作经验的重要性。
+description: "这篇文章讨论了工作经验的重要性。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /工作经验真的那么重要吗-2395bd492880

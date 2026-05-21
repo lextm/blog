@@ -1,5 +1,5 @@
 ---
-description: This post is about why I could not work on Mono support
+description: "Describes Mono support limitations in #SNMP due to Windows-only dependencies and MonoTODO issues in IoC containers."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /squareroot-puzzle-a-pity-on-mono-support-36a947c50037

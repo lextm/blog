@@ -1,5 +1,5 @@
 ---
-description: This post is about the recent changes of Jexus Manager.
+description: "Describes Jexus Manager development progress, crash reporting with Rollbar, auto-update improvements, and issues encountered while supporting IIS."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-release-candidate-phase-46206e4a0b9a

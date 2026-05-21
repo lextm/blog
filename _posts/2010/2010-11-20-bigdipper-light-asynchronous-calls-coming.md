@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the asynchronous calls in #SNMP 7.'
+description: "Introduces asynchronous GetResponse support planned for #SNMP 7 and discusses the early implementation of the async pattern."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-asynchronous-calls-coming-30eaee7f4b88

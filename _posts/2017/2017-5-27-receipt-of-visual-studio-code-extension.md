@@ -1,5 +1,5 @@
 ---
-description: A practical breakdown of Visual Studio Code extension structure using the reStructuredText extension as an example, covering manifest files, contribution points, and TypeScript implementation details.
+description: "A practical breakdown of Visual Studio Code extension structure using the reStructuredText extension as an example, covering manifest files, contribution points, and TypeScript implementation details."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /receipt-of-visual-studio-code-extension-f4fb832fd956

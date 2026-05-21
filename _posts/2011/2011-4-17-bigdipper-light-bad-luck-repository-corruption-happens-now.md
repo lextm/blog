@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the CodePlex repository corruption of #SNMP.'
+description: "Reports a CodePlex repository corruption incident for #SNMP while confirming local source integrity and temporary download availability."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-bad-luck-repository-corruption-happens-now-1ee9e122e76c

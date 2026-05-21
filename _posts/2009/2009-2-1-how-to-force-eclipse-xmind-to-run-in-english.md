@@ -1,5 +1,5 @@
 ---
-description: This post is about how to force Eclipse based products to run in English.
+description: "Shows how to force Eclipse-based apps like XMind to run in English by adding JVM locale flags to their INI file."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-force-eclipse-xmind-to-run-in-english-48dd5334de90

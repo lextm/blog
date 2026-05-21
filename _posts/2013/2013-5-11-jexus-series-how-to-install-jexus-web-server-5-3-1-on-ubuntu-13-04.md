@@ -1,5 +1,5 @@
 ---
-description: Step-by-step installation guide for Jexus Web Server 5.3.1 on Ubuntu 13.04, including Mono runtime setup and package extraction.
+description: "Step-by-step installation guide for Jexus Web Server 5.3.1 on Ubuntu 13.04, including Mono runtime setup and package extraction."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-how-to-install-jexus-web-server-5-3-1-on-ubuntu-13-04-fb344997faa0

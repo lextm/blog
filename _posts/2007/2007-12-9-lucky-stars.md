@@ -1,5 +1,5 @@
 ---
-description: Reflects on pop culture inspiration from Britney Spears and High School Musical in 2007.
+description: "Reflects on pop culture inspiration from Britney Spears and High School Musical in 2007."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /lucky-stars-61c0f327dadb

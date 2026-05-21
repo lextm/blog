@@ -1,5 +1,5 @@
 ---
-description: Reveals Windows Live Writer internals and performance observations from .NET assembly inspection.
+description: "Reveals Windows Live Writer internals and performance observations from .NET assembly inspection."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /digging-windows-live-writer-9b5403d6af8a

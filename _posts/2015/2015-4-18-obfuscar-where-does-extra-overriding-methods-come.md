@@ -1,5 +1,5 @@
 ---
-description: Technical analysis of a bug in Obfuscar that creates unintended method override relationships during obfuscation, explaining the root cause and solution strategy.
+description: "Technical analysis of a bug in Obfuscar that creates unintended method override relationships during obfuscation, explaining the root cause and solution strategy."
 excerpt_separator: <!--more-->
 layout: post
 tags: .net mono obfuscar

@@ -1,5 +1,5 @@
 ---
-description: A post about Code Beautifier Collection BigFace version
+description: "A post about Code Beautifier Collection BigFace version"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /code-beautifier-collection-bigface-version-is-ready-to-ship-soon-2e83f7ae6206

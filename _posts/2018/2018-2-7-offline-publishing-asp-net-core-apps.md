@@ -1,5 +1,5 @@
 ---
-description: A post about offline publishing ASP.NET Core apps.
+description: "A post about offline publishing ASP.NET Core apps."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Biosphere in Montreal.

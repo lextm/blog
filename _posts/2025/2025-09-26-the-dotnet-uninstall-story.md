@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cleaning Up .NET on Your Desktop: From Command Line to Visuals"
-description: A practical guide to safely uninstalling old .NET SDKs and runtimes across macOS and Windows—why versions accumulate (global.json pins, previews, hosting bundles, architectures), what the official uninstall tool does and doesn’t surface, and how a lightweight cross‑platform UI adds the missing context for confident cleanup.
+description: "A practical guide to safely uninstalling old .NET SDKs and runtimes across macOS and Windows—why versions accumulate (global.json pins, previews, hosting bundles, architectures), what the official uninstall tool does and doesn’t surface, and how a lightweight cross‑platform UI adds the missing context for confident cleanup."
 image:
   alt: DotUninstall Social Preview.
   path: https://github.com/lextudio/dotuninstall/raw/main/social-preview.png

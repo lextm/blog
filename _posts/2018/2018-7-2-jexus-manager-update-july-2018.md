@@ -1,5 +1,5 @@
 ---
-description: Technical insights into Jexus Manager's latest improvements, focusing on Microsoft.Web.Administration API compatibility, configuration section inheritance, and override mode calculations.
+description: "Technical insights into Jexus Manager's latest improvements, focusing on Microsoft.Web.Administration API compatibility, configuration section inheritance, and override mode calculations."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. The Cathedral Church of St. John the Divine, New York City

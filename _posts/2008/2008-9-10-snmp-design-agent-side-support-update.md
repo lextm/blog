@@ -1,5 +1,5 @@
 ---
-description: Progress update on SNMP agent-side support and the current status of implementation.
+description: "Progress update on SNMP agent-side support and the current status of implementation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-agent-side-support-update-41b47b2bcea3

@@ -1,5 +1,5 @@
 ---
-description: This post is about the progress of MonoDevelop on Windows.
+description: "Notes progress toward running MonoDevelop and #SNMP together on Windows."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /monodevelop-on-windows-progress-815557308815

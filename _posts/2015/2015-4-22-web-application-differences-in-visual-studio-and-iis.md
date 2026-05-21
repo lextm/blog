@@ -1,5 +1,5 @@
 ---
-description: Comprehensive explanation of why ASP.NET applications behave differently when running in Visual Studio versus IIS, covering security contexts, session isolation, and resource access limitations.
+description: "Comprehensive explanation of why ASP.NET applications behave differently when running in Visual Studio versus IIS, covering security contexts, session isolation, and resource access limitations."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /web-application-differences-in-visual-studio-and-iis-60fec7e311b3

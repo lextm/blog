@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the future arrangement of #SNMP.'
+description: "Outlines future #SNMP plans for performance, compiler, and browser improvements thanks to recent contributor support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-hints-about-future-f945dc90fa12

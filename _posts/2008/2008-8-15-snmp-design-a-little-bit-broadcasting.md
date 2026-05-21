@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about UDP broadcasting feature of #SNMP library.'
+description: "Announces UDP discovery support in #SNMP, describes Manager.Discover behavior, and previews the upcoming TwinTower release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-a-little-bit-broadcasting-954d2b48c1c6

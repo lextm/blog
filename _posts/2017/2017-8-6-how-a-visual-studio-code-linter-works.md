@@ -1,5 +1,5 @@
 ---
-description: An in-depth exploration of how Visual Studio Code linters work, using the ruby-linter extension as an example to understand the core components and event-based architecture required for implementing language linting features.
+description: "An in-depth exploration of how Visual Studio Code linters work, using the ruby-linter extension as an example to understand the core components and event-based architecture required for implementing language linting features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-a-visual-studio-code-linter-works-681c8388b0ea

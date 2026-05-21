@@ -1,5 +1,5 @@
 ---
-description: This post is about the binaries and documentation of CrossRoad release.
+description: "Details CrossRoad packaging plans, including help docs, command line tools, and MIB compiler shipping."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-shipping-the-package-of-crossroad-30354b65e2b6

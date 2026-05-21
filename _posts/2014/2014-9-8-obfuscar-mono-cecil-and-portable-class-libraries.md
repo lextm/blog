@@ -1,5 +1,5 @@
 ---
-description: Technical exploration of compatibility issues between Mono.Cecil and Portable Class Libraries in Obfuscar, including reference assembly problems and proposed solutions.
+description: "Technical exploration of compatibility issues between Mono.Cecil and Portable Class Libraries in Obfuscar, including reference assembly problems and proposed solutions."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /obfuscar-mono-cecil-and-portable-class-libraries-40ac70755d50

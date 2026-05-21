@@ -1,5 +1,5 @@
 ---
-description: 这篇文章谈谈 Google 拼音的更新体验。
+description: "这篇文章谈谈 Google 拼音的更新体验。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /google拼音-当更新如此安静-5639a472c4f1

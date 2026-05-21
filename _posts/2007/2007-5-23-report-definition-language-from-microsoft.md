@@ -1,5 +1,5 @@
 ---
-description: Introduces Microsoft's RDL report definition language and its advantages over proprietary formats.
+description: "Introduces Microsoft's RDL report definition language and its advantages over proprietary formats."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /report-definition-language-from-microsoft-7c66510089cb

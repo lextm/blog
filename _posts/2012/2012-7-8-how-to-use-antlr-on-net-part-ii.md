@@ -1,5 +1,5 @@
 ---
-description: ANTLR on .NET part II, covering Visual Studio extension support and runtime integration details.
+description: "ANTLR on .NET part II, covering Visual Studio extension support and runtime integration details."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-antlr-on-net-part-ii-d6b4514b0970

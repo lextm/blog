@@ -1,5 +1,5 @@
 ---
-description: 这篇文章介绍了 Delphi 2007 中 MSBuild 的引入对于 Delphi 程序员带来的好处。
+description: "这篇文章介绍了 Delphi 2007 中 MSBuild 的引入对于 Delphi 程序员带来的好处。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /delphi-的用户们-早点开始享受-msbuild-吧-c7ad9f01c446

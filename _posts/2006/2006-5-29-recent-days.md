@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是关于我最近的生活状态。
+description: "这篇文章是关于我最近的生活状态。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /最近的生活状态-270478d01187

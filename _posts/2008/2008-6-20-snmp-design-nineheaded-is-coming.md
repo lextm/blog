@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the progress of #SNMP 0.9 release.'
+description: "Announces the imminent #SNMP 0.9 NineHeaded release and the plan to add more samples and documentation before 1.0."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-nineheaded-is-coming-9f2c70c0b9de

@@ -1,5 +1,5 @@
 ---
-description: A comprehensive review of 2015 accomplishments, including updates to open-source projects like #SNMP Library, Obfuscar, DockPanel Suite, and Jexus Manager, along with personal growth and travel experiences.
+description: "A comprehensive review of 2015 accomplishments, including updates to open-source projects like #SNMP Library, Obfuscar, DockPanel Suite, and Jexus Manager, along with personal growth and travel experiences."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-2015-of-lextudio-and-me-9a920c3ef836

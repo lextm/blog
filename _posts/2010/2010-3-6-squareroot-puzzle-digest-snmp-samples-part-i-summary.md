@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP sample projects.'
+description: "Summarizes the first part of #SNMP sample projects, covering command-line tools and agent reference design patterns."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /squareroot-puzzle-digest-snmp-samples-part-1-summary-aa6e8a834f82

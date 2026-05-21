@@ -1,5 +1,5 @@
 ---
-description: Essential tips for effective .NET Core unit testing, including how to configure multiple target frameworks, handle xUnit.net versions correctly, and troubleshoot Visual Studio test runner issues.
+description: "Essential tips for effective .NET Core unit testing, including how to configure multiple target frameworks, handle xUnit.net versions correctly, and troubleshoot Visual Studio test runner issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tips-for-net-core-unit-testing-92a8d123a17a

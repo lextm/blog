@@ -1,5 +1,5 @@
 ---
-description: This post is about the status of BitString class.
+description: "Explains why BitString is marked obsolete and why the author won’t continue its maintenance."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-bitstring-status-3b80c3a479e9

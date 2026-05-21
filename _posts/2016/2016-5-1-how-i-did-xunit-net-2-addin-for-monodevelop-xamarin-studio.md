@@ -1,5 +1,5 @@
 ---
-description: A developer's journey creating an xUnit.net 2 add-in for MonoDevelop/Xamarin Studio, detailing the challenges of IDE integration, handling NuGet package dependencies, and navigating the MonoDevelop Community Repository.
+description: "A developer's journey creating an xUnit.net 2 add-in for MonoDevelop/Xamarin Studio, detailing the challenges of IDE integration, handling NuGet package dependencies, and navigating the MonoDevelop Community Repository."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-i-did-xunit-net-2-addin-for-monodevelop-xamarin-studio-c61029051407

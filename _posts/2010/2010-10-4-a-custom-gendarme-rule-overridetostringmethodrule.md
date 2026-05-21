@@ -1,5 +1,5 @@
 ---
-description: This post is about a custom Gendarme rule.
+description: "Introduces a Gendarme rule that flags classes without overriding ToString, explaining why string representations matter for debugging and framework design."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /a-custom-gendarme-rule-overridetostringmethodrule-fc52ebb18c78

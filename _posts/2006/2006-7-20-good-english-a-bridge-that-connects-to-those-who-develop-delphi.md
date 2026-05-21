@@ -1,5 +1,5 @@
 ---
-description: 本文描述了为什么要学英语。
+description: "本文描述了为什么要学英语。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /good-english-a-bridge-that-connect-to-those-who-develop-delphi-112c19b97f62

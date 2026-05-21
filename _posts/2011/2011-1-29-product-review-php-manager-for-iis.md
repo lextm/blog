@@ -1,5 +1,5 @@
 ---
-description: This post is about PHP Manager for IIS.
+description: "Reviews PHP Manager for IIS and recommends the CodePlex tool for managing PHP support on Windows Server and IIS."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-php-manager-for-iis-e17105c8f751

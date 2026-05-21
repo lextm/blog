@@ -1,5 +1,5 @@
 ---
-description: A post about some articles I am going to write
+description: "A post about some articles I am going to write"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /some-articles-to-write-7045892bc3af

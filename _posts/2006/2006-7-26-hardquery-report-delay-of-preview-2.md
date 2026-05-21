@@ -1,5 +1,5 @@
 ---
-description: Explains the delay of HardQuery Preview 2 release due to GForge availability problems.
+description: "Explains the delay of HardQuery Preview 2 release due to GForge availability problems."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-delay-of-preview-2-9aed3ac94f1f

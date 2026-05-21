@@ -1,5 +1,5 @@
 ---
-description: Learn about three effective methods to manage VS Code extension dependencies - configuration settings, code recommendations, and extension packs - with detailed code examples and best practices for each approach
+description: "Learn about three effective methods to manage VS Code extension dependencies - configuration settings, code recommendations, and extension packs - with detailed code examples and best practices for each approach"
 image:
   path: /images/sunset-clouds-toronto.jpg
   alt: Copyright © Lex Li. Layered sunset clouds over Toronto.

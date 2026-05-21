@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the poll on encoding in #SNMP Library.'
+description: "Invites readers to vote in a poll about the proposed encoding change in #SNMP Library."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-poll-on-encoding-d7a95fe7c4b7

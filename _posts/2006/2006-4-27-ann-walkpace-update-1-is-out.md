@@ -1,5 +1,5 @@
 ---
-description: Announces CBC 2 WalkPace Update 1 and highlights what has changed in the release.
+description: "Announces CBC 2 WalkPace Update 1 and highlights what has changed in the release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /ann-walkpace-update-1-is-out-9c2bf90138e5

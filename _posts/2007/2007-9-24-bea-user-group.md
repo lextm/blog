@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是我参加 BEA User Group 之后的一点想法。
+description: "这篇文章是我参加 BEA User Group 之后的一点想法。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /动态语言-bea-user-group之后的一点想法-2ce5eefdde7c

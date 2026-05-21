@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the migration of #SNMP repo to GitHub.'
+description: "Explains why the #SNMP repository was converted from Mercurial to Git and why GitHub is now the primary hosting platform."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-migrated-to-github-db7328984126

@@ -1,5 +1,5 @@
 ---
-description: Shares recent blog customizations and the improvements made to the site experience.
+description: "Shares recent blog customizations and the improvements made to the site experience."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /customized-blog-5261951e5dc6

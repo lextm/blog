@@ -1,5 +1,5 @@
 ---
-description: Discusses the likelihood of a HardQuery follow-up update and plans for bug-fix release 4.
+description: "Discusses the likelihood of a HardQuery follow-up update and plans for bug-fix release 4."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-may-be-another-update-c7510c18117a

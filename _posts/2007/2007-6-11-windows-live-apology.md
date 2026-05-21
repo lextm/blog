@@ -1,5 +1,5 @@
 ---
-description: Covers the Windows Live Writer Beta 2 apology and the broader user impact of its critical bugs.
+description: "Covers the Windows Live Writer Beta 2 apology and the broader user impact of its critical bugs."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-apology-693b3a39918

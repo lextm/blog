@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the source analysis of #SNMP.'
+description: "Describes using StyleCop to analyze #SNMP source code and plans to clean up warnings before the UnicornHorn release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-source-analysis-9eaa8a62a6f4

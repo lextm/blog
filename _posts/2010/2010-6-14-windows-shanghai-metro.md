@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是关于 Windows 在上海地铁中的应用。
+description: "这篇文章是关于 Windows 在上海地铁中的应用。"
 excerpt_separator: <!--more-->
 image:
   alt: Windows in Shanghai Metro.

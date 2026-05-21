@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Threading or Pause-Ready BackgroundWorker
-description: Explains how to make a .NET BackgroundWorker pause and resume safely for long-running work.
+description: "Explains how to make a .NET BackgroundWorker pause and resume safely for long-running work."
 tags: .net
 categories: [Programming Languages]
 permalink: /threading-or-pause-ready-backgroundworker-e0813de90f02

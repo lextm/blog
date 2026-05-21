@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the planned release details of #SNMP 7.'
+description: "Outlines BigDipper 7.0 release planning, the move to .NET 3.5 SP1, and the cleanup of legacy .NET 2.0 code."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-planned-release-details-f5ad3c9e5f8b

@@ -1,5 +1,5 @@
 ---
-description: This post is about the design of Discoverer class.
+description: "Announces the Discoverer component and explains how it improves SNMP agent discovery interfaces after CrossRoad 2.0."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-better-to-discover-8c159a9fcc2d

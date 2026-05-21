@@ -1,5 +1,5 @@
 ---
-description: 这篇文章评析了东方时空节目对开源与微软的报道，并指出节目中的误解和资讯漏洞。
+description: "这篇文章评析了东方时空节目对开源与微软的报道，并指出节目中的误解和资讯漏洞。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /今天的东方时空主题是什么-910d7571cbb1

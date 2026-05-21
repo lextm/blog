@@ -1,5 +1,5 @@
 ---
-description: Updated guide for setting up parallel Mono environments on modern Linux distributions, covering Git migration, branch selection, dependency management, and build process for Mono 3.2.8.
+description: "Updated guide for setting up parallel Mono environments on modern Linux distributions, covering Git migration, branch selection, dependency management, and build process for Mono 3.2.8."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /parallel-mono-environments-some-update-3916d327ec97

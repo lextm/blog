@@ -1,5 +1,5 @@
 ---
-description: 这篇文章探讨了中国程序员入门阶段常见的怪现象，尤其是在老旧 IDE 使用习惯上的问题。
+description: "这篇文章探讨了中国程序员入门阶段常见的怪现象，尤其是在老旧 IDE 使用习惯上的问题。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /学习编程-中国程序员入门的怪现象之一-古老的ide-bfbb02e7f63d

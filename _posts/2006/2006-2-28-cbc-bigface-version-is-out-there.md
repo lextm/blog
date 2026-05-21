@@ -1,5 +1,5 @@
 ---
-description: A post about CBC BigFace version 4.4
+description: "A post about CBC BigFace version 4.4"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-bigface-version-is-out-there-a94ff3b01476

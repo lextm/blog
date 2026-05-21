@@ -1,5 +1,5 @@
 ---
-description: 'Learn about the new approach to developing the SMI compiler using ANTLR for the #SNMP project, including insights and future plans.'
+description: "Learn about the new approach to developing the SMI compiler using ANTLR for the #SNMP project, including insights and future plans."
 excerpt_separator: <!--more-->'
 layout: post
 permalink: /tritonmate-words-new-era-for-smi-compiler-bbcd83ed9bb9

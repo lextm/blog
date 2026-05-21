@@ -1,5 +1,5 @@
 ---
-description: Explains why FastInvoke is not used in GrapeVine, focusing on .NET version constraints and reflection behavior.
+description: "Explains why FastInvoke is not used in GrapeVine, focusing on .NET version constraints and reflection behavior."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-why-not-fast-invoke-e0af02d2d68a

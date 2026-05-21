@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了假期结束的一些事情。
+description: "这篇文章讲述了假期结束的一些事情。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /假期结束-859b1f0a709f

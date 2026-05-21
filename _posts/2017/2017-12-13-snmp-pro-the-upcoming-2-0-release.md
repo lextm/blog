@@ -1,5 +1,5 @@
 ---
-description: 'Learn about the upcoming #SNMP Pro 2.0 release which adds .NET Standard 2.0 support, improved RFC compliance, and better compatibility with various platforms through a single NuGet package.'
+description: "Learn about the upcoming #SNMP Pro 2.0 release which adds .NET Standard 2.0 support, improved RFC compliance, and better compatibility with various platforms through a single NuGet package."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Bund, Xuhui, Shanghai.

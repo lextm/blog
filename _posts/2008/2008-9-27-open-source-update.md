@@ -1,5 +1,5 @@
 ---
-description: 这篇文章更新了微软的开源策略观察，讨论 MEF、Mono 社区和开源协议的最新动态。
+description: "这篇文章更新了微软的开源策略观察，讨论 MEF、Mono 社区和开源协议的最新动态。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /对于开源的种种误读-的更新-9d83150b8e35

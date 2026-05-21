@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the official #SNMP port to Mono for Android.'
+description: "Describes the official #SNMP port to Mono for Android, covering ANTLR runtime porting, project file changes, and Android simulator testing plans."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-official-port-to-mono-for-android-6eb298f9a66

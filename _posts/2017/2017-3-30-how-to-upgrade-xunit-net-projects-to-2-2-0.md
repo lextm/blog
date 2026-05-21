@@ -1,5 +1,5 @@
 ---
-description: This post is about how to upgrade xUnit.net projects to 2.2.0.
+description: "Describes upgrading xUnit.net projects to 2.2.0, including required framework changes and fixing the wrong execution assembly reference."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-upgrade-xunit-net-projects-to-2-2-0-f8fb943b725d

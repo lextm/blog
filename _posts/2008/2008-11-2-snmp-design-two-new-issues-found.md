@@ -1,5 +1,5 @@
 ---
-description: 'This post is about two new issues found in #SNMP.'
+description: "Describes two new #SNMP issues — MIB parser special-character handling and exception behavior in batch object retrieval."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-two-new-issues-found-f4f0081a76de

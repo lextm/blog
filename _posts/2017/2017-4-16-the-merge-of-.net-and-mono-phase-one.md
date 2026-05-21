@@ -1,5 +1,5 @@
 ---
-description: This post is about the first phase of the merge of .NET and Mono.
+description: "Recaps the first phase of .NET and Mono convergence, Mono's early compatibility efforts, and the transition toward open sourcing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-merge-of-net-and-mono-phase-one-c157e68ce371

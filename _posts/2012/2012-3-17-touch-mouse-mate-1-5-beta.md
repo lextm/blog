@@ -1,5 +1,5 @@
 ---
-description: Announcing Touch Mouse Mate 1.5 Beta, highlighting installer improvements and recommended upgrades.
+description: "Announcing Touch Mouse Mate 1.5 Beta, highlighting installer improvements and recommended upgrades."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-1-5-beta-8dc67d90970c

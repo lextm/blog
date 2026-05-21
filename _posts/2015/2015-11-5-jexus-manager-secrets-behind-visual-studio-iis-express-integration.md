@@ -1,5 +1,5 @@
 ---
-description: Comprehensive guide to Visual Studio and IIS Express integration, explaining configuration files, site bindings, URL reservations, and HTTPS certificate setup.
+description: "Comprehensive guide to Visual Studio and IIS Express integration, explaining configuration files, site bindings, URL reservations, and HTTPS certificate setup."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-secrets-behind-visual-studio-iis-express-integration-834f88c8e8b

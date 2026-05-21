@@ -1,5 +1,5 @@
 ---
-description: 详细介绍Jexus网站服务器如何实现ASP.NET应用的跨平台部署，以及它与微软ASP.NET 5跨平台方案的区别与优势。
+description: "详细介绍Jexus网站服务器如何实现ASP.NET应用的跨平台部署，以及它与微软ASP.NET 5跨平台方案的区别与优势。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-网站服务器和-asp-net-跨平台开发-e4cac4316352

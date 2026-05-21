@@ -1,6 +1,5 @@
 ---
-description: This post is about the end of Visual Studio 2005 and .NET Framework 2.0
-  mainstream support.
+description: "Notes the end of mainstream support for Visual Studio 2005 and .NET Framework 2.0 in April 2011, and the impact on project compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-visual-studio-2005-and-net-framework-2-0-mainstream-support-ends-in-april-2011-7a1a0fe70549

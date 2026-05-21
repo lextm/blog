@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是关于我为 Meizu M8做的一个美化工具
+description: "这篇文章是关于我为 Meizu M8做的一个美化工具"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /coding-for-meizu-m8-9dd629fe2604

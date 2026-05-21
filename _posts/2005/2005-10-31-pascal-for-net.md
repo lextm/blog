@@ -1,5 +1,5 @@
 ---
-description: 探索Pascal语言在.NET平台上的发展生态：从Anders Hejlsberg离开Borland到Microsoft创建C#，Borland推出Delphi for .NET应对挑战，以及RemObjects开发Chrome编译器提供另一种选择。文章深入分析了这三家公司的技术路线和市场策略，为Pascal开发者提供了.NET平台选择指南。
+description: "探索Pascal语言在.NET平台上的发展生态：从Anders Hejlsberg离开Borland到Microsoft创建C#，Borland推出Delphi for .NET应对挑战，以及RemObjects开发Chrome编译器提供另一种选择。文章深入分析了这三家公司的技术路线和市场策略，为Pascal开发者提供了.NET平台选择指南。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /pascal-for-net-有趣的生物圈-8b16b7bca899

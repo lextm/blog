@@ -1,5 +1,5 @@
 ---
-description: This post is a monthly update from the team.
+description: "Summarizes the team’s month after TwinTower, including new members, CrossRoad Beta 1, and compiler/browser progress."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-month-update-7a8e5b675645

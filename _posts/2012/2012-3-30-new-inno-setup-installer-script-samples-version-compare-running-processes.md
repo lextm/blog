@@ -1,5 +1,5 @@
 ---
-description: Introduces two new Inno Setup installer script samples and compares 32-bit and 64-bit installer strategies for Windows deployment.
+description: "Introduces two new Inno Setup installer script samples and compares 32-bit and 64-bit installer strategies for Windows deployment."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /new-inno-setup-installer-script-samples-version-compare-running-processes-112b407de77e

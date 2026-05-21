@@ -1,5 +1,5 @@
 ---
-description: 'An overview of recent #SNMP Pro releases (1.1.2 and 1.1.3) with details on bug fixes, improvements, and new features for enhanced OID extraction.'
+description: "An overview of recent #SNMP Pro releases (1.1.2 and 1.1.3) with details on bug fixes, improvements, and new features for enhanced OID extraction."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-recent-releases-5e72c7973ba0

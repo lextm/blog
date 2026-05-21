@@ -1,5 +1,5 @@
 ---
-description: Important considerations when using Hangfire with IIS, explaining thread model incompatibilities, potential issues with idle shutdown, and recommended architectural alternatives.
+description: "Important considerations when using Hangfire with IIS, explaining thread model incompatibilities, potential issues with idle shutdown, and recommended architectural alternatives."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. PY1 Pyramid show at Montreal.

@@ -1,5 +1,5 @@
 ---
-description: Part two of the CBC 2 WalkPace Update 2 preview, detailing additional new features.
+description: "Part two of the CBC 2 WalkPace Update 2 preview, detailing additional new features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-whats-in-walkpace-update-2-part-ii-ac1170c2e19a

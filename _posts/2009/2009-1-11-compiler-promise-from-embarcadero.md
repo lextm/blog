@@ -1,5 +1,5 @@
 ---
-description: This post is about the promise of the new compiler from Embarcadero.
+description: "Notes excitement about Embarcadero’s new compiler announcement and its historical importance for Delphi."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /compiler-promise-from-embarcadero-c0d2eed64fd2

@@ -1,5 +1,5 @@
 ---
-description: Introduction to Jexus Manager, an IIS Manager-like GUI tool for managing Jexus web server, enabling easier migration of ASP.NET applications to Linux platforms with a familiar management interface.
+description: "Introduction to Jexus Manager, an IIS Manager-like GUI tool for managing Jexus web server, enabling easier migration of ASP.NET applications to Linux platforms with a familiar management interface."
 excerpt_separator: <!--more-->
 layout: post
 tags: iis jexus-manager linux asp.net

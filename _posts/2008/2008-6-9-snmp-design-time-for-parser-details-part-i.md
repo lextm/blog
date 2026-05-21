@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the #SNMP compiler details.'
+description: "Introduces the experimental #SNMP MIB parser design and explains what parser features are implemented in the first stage."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-time-for-parser-details-part-one-4a46ff24093a

@@ -1,5 +1,5 @@
 ---
-description: Explains how to debug GrapeVine and resolve common runtime issues.
+description: "Explains how to debug GrapeVine and resolve common runtime issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-how-to-debug-8b21849e20b2

@@ -1,5 +1,5 @@
 ---
-description: Describes the third release candidate for CBC 2 WalkPace Update 2 and what to expect.
+description: "Describes the third release candidate for CBC 2 WalkPace Update 2 and what to expect."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-whats-in-walkpace-update-2-part-iii-e35da8b3a670

@@ -1,6 +1,6 @@
 ---
 categories: [History, .NET]
-description: The comprehensive evolution of ASP.NET on IIS from its inception through various pipeline models, to ASP.NET Core and Kestrel, explaining the technical architecture changes and hosting options throughout the years.
+description: "The comprehensive evolution of ASP.NET on IIS from its inception through various pipeline models, to ASP.NET Core and Kestrel, explaining the technical architecture changes and hosting options throughout the years."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-rough-history-of-asp-net-on-iis-8f49e2bcefcd

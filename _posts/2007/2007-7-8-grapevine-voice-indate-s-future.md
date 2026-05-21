@@ -1,5 +1,5 @@
 ---
-description: Discusses the future of the InDate feature in the GrapeVine release.
+description: "Discusses the future of the InDate feature in the GrapeVine release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-indates-future-c4f23b2d0f2f

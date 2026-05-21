@@ -1,5 +1,5 @@
 ---
-description: A curated link collection tracing UNIX and Linux history, showing how UNIX lineage influenced macOS, iOS, and the broader operating system landscape.
+description: "A curated link collection tracing UNIX and Linux history, showing how UNIX lineage influenced macOS, iOS, and the broader operating system landscape."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /一些链接的汇编-从unix到linux和unix的复兴-2b3ce2d69861

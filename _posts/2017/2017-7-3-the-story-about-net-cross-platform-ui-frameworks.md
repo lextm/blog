@@ -1,6 +1,6 @@
 ---
 categories: [Operating Systems]
-description: A comprehensive analysis of .NET cross-platform UI frameworks for 2025, comparing native bindings, custom rendering approaches, and control mapping technologies like MAUI, Blazor Hybrid, Avalonia UI, and Uno Platform for modern desktop and mobile development.
+description: "A comprehensive analysis of .NET cross-platform UI frameworks for 2025, comparing native bindings, custom rendering approaches, and control mapping technologies like MAUI, Blazor Hybrid, Avalonia UI, and Uno Platform for modern desktop and mobile development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-story-about-net-cross-platform-ui-frameworks-dd4a9433d0ea

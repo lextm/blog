@@ -1,5 +1,5 @@
 ---
-description: This article talks about the user interface update of GrapeVine Voice.
+description: "Describes the GrapeVine Voice UI update, the use of free icons, and why Office 2007-style rendering was chosen."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-user-interface-update-9b308ecd45c

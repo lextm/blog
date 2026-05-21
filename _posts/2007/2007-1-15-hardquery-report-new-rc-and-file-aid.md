@@ -1,5 +1,5 @@
 ---
-description: Announces a new HardQuery RC and the File Aid feature, plus notes on OTA-related UI bugs.
+description: "Announces a new HardQuery RC and the File Aid feature, plus notes on OTA-related UI bugs."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-new-rc-and-file-aid-7508fb61ee7c

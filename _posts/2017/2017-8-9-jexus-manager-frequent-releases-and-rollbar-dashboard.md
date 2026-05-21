@@ -1,5 +1,5 @@
 ---
-description: How the implementation of Rollbar error tracking has transformed Jexus Manager development, enabling rapid bug fixes through frequent releases and better understanding of user environments.
+description: "How the implementation of Rollbar error tracking has transformed Jexus Manager development, enabling rapid bug fixes through frequent releases and better understanding of user environments."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-frequent-releases-and-rollbar-dashboard-79afefd6f4ea

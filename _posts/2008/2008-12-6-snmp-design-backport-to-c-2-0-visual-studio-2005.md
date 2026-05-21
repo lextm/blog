@@ -1,6 +1,5 @@
 ---
-description: 'This post is about the work to back port #SNMP to C# 2.0/Visual Studio
-  2005.'
+description: "Describes backporting #SNMP to C# 2.0 and Visual Studio 2005, and explains the challenges of syncing VS2005 and VS2008 project files."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-backport-to-c-2-0-visual-studio-2005-253d6b099c55

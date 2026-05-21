@@ -1,5 +1,5 @@
 ---
-description: Compares VMware Server and VMware Player based on my practical virtualization experience.
+description: "Compares VMware Server and VMware Player based on my practical virtualization experience."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /vmware-server-vs-player-b25c1c3f164e

@@ -1,5 +1,5 @@
 ---
-description: Announces that AssemblyInfoTask is back and describes its return to the .NET build workflow.
+description: "Announces that AssemblyInfoTask is back and describes its return to the .NET build workflow."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /assemblyinfotask-is-back-1c986b70f19f

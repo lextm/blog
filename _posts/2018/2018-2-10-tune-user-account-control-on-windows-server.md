@@ -1,5 +1,5 @@
 ---
-description: A post about how to tune User Account Control on Windows Server to make your life easier.
+description: "A post about how to tune User Account Control on Windows Server to make your life easier."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tune-user-account-control-on-windows-server-a96204c4ebc3

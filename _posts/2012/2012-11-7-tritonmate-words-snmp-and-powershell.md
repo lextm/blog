@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP and PowerShell.'
+description: "Shares guidance and a community resource for using #SNMP from PowerShell scripts."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-snmp-and-powershell-df232d4384c5

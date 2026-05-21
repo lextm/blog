@@ -1,5 +1,5 @@
 ---
-description: Explains why my planned Brazil trip was cancelled and reflects on the missed opportunity.
+description: "Explains why my planned Brazil trip was cancelled and reflects on the missed opportunity."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /brazil-trip-cancelled-9fc269202be

@@ -1,5 +1,5 @@
 ---
-description: This post is about the refactoring of the Compiler.
+description: "Describes refactoring the compiler to use Unity and moving globals into an IoC container."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-unity-in-compiler-finally-4aa520053566

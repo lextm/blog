@@ -1,5 +1,5 @@
 ---
-description: Notes compatibility and font issues for Resource Refactoring Tool on Simplified Chinese Windows.
+description: "Notes compatibility and font issues for Resource Refactoring Tool on Simplified Chinese Windows."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /notes-on-resource-refactoring-tool-ca033dacf091

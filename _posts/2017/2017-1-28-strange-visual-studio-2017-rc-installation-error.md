@@ -1,5 +1,5 @@
 ---
-description: This post is about a strange Visual Studio 2017 RC installation error.
+description: "Documents a strange Visual Studio 2017 RC installation failure and the component package errors that caused it."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /strange-visual-studio-2017-rc-installation-error-acdce0000c34

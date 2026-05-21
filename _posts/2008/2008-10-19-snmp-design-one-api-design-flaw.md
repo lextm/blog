@@ -1,5 +1,5 @@
 ---
-description: 'This post is about a design flaw of the current #SNMP APIs.'
+description: "Explains a #SNMP API design flaw where Message instances incorrectly bind an IP address, and previews a new CrossRoad API fix."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-one-api-design-flaw-d1a3f72a9966

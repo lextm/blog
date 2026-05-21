@@ -1,5 +1,5 @@
 ---
-description: Wireless connection setup in openSUSE 12.1 using YaST network settings and User Controlled network mode.
+description: "Wireless connection setup in openSUSE 12.1 using YaST network settings and User Controlled network mode."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /wireless-connection-setup-in-opensuse-12-1-ccc288d10cbc

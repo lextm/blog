@@ -1,5 +1,5 @@
 ---
-description: A comprehensive guide on how to implement a Language Server Protocol (LSP) component in C# for Visual Studio Code extensions, using reStructuredText as an example and exploring available .NET frameworks.
+description: "A comprehensive guide on how to implement a Language Server Protocol (LSP) component in C# for Visual Studio Code extensions, using reStructuredText as an example and exploring available .NET frameworks."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-write-your-language-server-in-c-d9302a44f694

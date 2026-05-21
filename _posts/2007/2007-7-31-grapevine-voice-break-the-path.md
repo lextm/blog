@@ -1,5 +1,5 @@
 ---
-description: Explains how to refactor the PathTree class into smaller, more maintainable components.
+description: "Explains how to refactor the PathTree class into smaller, more maintainable components."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-break-the-path-da7842731d27

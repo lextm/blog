@@ -1,5 +1,5 @@
 ---
-description: A post about first beta version of WalkPace
+description: "A post about first beta version of WalkPace"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /beta-walkpace-first-beta-version-is-here-5f9eed0a5633

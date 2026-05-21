@@ -1,6 +1,5 @@
 ---
-description: This post is about LeXtudio Fund, my plan with the income of my personal
-  studio.
+description: "Reflects on the LeXtudio Fund, personal open source project income, and how donations influence future development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /lextudio-fund-initial-thoughts-60d2e096ba55

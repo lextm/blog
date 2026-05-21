@@ -1,5 +1,5 @@
 ---
-description: Explore the recent enhancements to Jexus Manager, including better self-signed certificate generation with proper SAN extensions and the new Project Diagnostics feature that resolves Visual Studio IIS Express integration issues.
+description: "Explore the recent enhancements to Jexus Manager, including better self-signed certificate generation with proper SAN extensions and the new Project Diagnostics feature that resolves Visual Studio IIS Express integration issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-recent-changes-to-save-the-world-ada896d098aa

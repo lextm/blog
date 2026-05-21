@@ -1,5 +1,5 @@
 ---
-description: Announces HardQuery Preview 1 and notes which preview features are disabled for normal users.
+description: "Announces HardQuery Preview 1 and notes which preview features are disabled for normal users."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-hardquery-preview-1-is-out-f32eb717d9ad

@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the 1.0 release of #SNMP and known issues.'
+description: "Announces the #SNMP 1.0 release and describes the known MIB parser issues that remain to be fixed."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-unicornhorn-and-known-issues-d5950576ac36

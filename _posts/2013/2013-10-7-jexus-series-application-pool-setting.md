@@ -1,5 +1,5 @@
 ---
-description: A practical guide to Jexus application pool settings, explaining how each option maps to IIS behavior and runtime identity.
+description: "A practical guide to Jexus application pool settings, explaining how each option maps to IIS behavior and runtime identity."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-application-pool-setting-7e026fdff6f7

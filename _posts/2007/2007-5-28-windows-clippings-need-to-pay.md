@@ -1,5 +1,5 @@
 ---
-description: Describes the pricing changes for Window Clippings and the shift from free to shareware.
+description: "Describes the pricing changes for Window Clippings and the shift from free to shareware."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /window-clippings-need-to-pay-7b3251bcc924

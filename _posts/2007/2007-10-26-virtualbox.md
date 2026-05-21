@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了在 VirtualBox 上面的 Ubuntu 虚拟机不能上网的解决方法。
+description: "这篇文章讲述了在 VirtualBox 上面的 Ubuntu 虚拟机不能上网的解决方法。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /virtualbox上面虚拟ubuntu不能上网的解决方法-b600372b21e1

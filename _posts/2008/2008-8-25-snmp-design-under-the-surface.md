@@ -1,5 +1,5 @@
 ---
-description: Explores the low-level functions exposed by SNMP message classes and how they operate under the surface.
+description: "Explores the low-level functions exposed by SNMP message classes and how they operate under the surface."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-under-the-surface-7374b30a15e8

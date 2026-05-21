@@ -1,5 +1,5 @@
 ---
-description: Reflects on multiple sclerosis after learning about its impact on J.K. Rowling's family.
+description: "Reflects on multiple sclerosis after learning about its impact on J.K. Rowling's family."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /ms-a-terrible-disease-f87a4993f8b3

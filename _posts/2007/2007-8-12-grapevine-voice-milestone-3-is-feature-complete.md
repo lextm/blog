@@ -1,5 +1,5 @@
 ---
-description: Announces Code Beautifier Collection 6.0.0.1003 and highlights its completed feature set.
+description: "Announces Code Beautifier Collection 6.0.0.1003 and highlights its completed feature set."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-milestone-3-is-feature-complete-a693a6e0e02e

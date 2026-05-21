@@ -1,5 +1,5 @@
 ---
-description: 'Updates on the status of the new MIB compiler for #SNMP using ANTLR, including recent improvements and future development plans.'
+description: "Updates on the status of the new MIB compiler for #SNMP using ANTLR, including recent improvements and future development plans."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-compiler-status-update-f5d2b2f6103d

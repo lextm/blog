@@ -1,5 +1,5 @@
 ---
-description: A comprehensive guide on using ANTLR 4 with .NET in 2017, covering .NET Standard support, listener and visitor patterns, and development tips using JetBrains Rider.
+description: "A comprehensive guide on using ANTLR 4 with .NET in 2017, covering .NET Standard support, listener and visitor patterns, and development tips using JetBrains Rider."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. OCT, Pujiang Town, Shanghai.

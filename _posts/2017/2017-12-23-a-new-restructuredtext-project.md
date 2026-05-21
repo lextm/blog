@@ -1,5 +1,5 @@
 ---
-description: Discover the new reStructuredText project for Visual Studio Code that brings ANTLR v4 based parser, Language Server Protocol support, and more to enhance the reStructuredText editing experience.
+description: "Discover the new reStructuredText project for Visual Studio Code that brings ANTLR v4 based parser, Language Server Protocol support, and more to enhance the reStructuredText editing experience."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /a-new-restructuredtext-project-112e9ae52acb

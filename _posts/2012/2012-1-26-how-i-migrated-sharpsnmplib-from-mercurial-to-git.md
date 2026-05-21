@@ -1,5 +1,5 @@
 ---
-description: 'This post is about how I migrated #SNMP repo from Mercurial to Git.'
+description: "Details the process of migrating the #SNMP repository from Mercurial to Git using Hg-Git and the challenges encountered."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-i-migrated-sharpsnmplib-from-mercurial-to-git-54a19d4419a5

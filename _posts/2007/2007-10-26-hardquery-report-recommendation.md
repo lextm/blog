@@ -1,5 +1,5 @@
 ---
-description: Shares recommendations for HardQuery's future direction and which issues will be addressed.
+description: "Shares recommendations for HardQuery's future direction and which issues will be addressed."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-recommendation-8148575027cf

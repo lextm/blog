@@ -1,5 +1,5 @@
 ---
-description: Announces the upcoming GrapeVine M5 milestone and the required Delphi/C++Builder updates.
+description: "Announces the upcoming GrapeVine M5 milestone and the required Delphi/C++Builder updates."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-m5-is-drawing-near-7f4201fb5a

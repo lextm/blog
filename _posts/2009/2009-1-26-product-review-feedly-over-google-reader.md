@@ -1,5 +1,5 @@
 ---
-description: This post is about my experience of using Feedly over Google Reader.
+description: "Reviews Feedly as a magazine-style front end for Google Reader and explains why it suits the author’s RSS workflow."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-feedly-over-google-reader-e89293cfadd8

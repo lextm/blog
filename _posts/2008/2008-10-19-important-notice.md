@@ -1,5 +1,5 @@
 ---
-description: 'This post is about my vacation and the progress of #SNMP.'
+description: "Updates readers that the author is less active while on vacation and explains the temporary slowdown in #SNMP project activity."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /important-notice-89278c4605f3

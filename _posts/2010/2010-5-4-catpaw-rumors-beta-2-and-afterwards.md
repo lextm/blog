@@ -1,5 +1,5 @@
 ---
-description: 'This post is about future plans of #SNMP 5.'
+description: "Reviews the status of #SNMP 5 Beta 2, Mono migration progress, and the development priorities for Agent and Browser v3 support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-beta-2-and-afterwards-ce41cef93014

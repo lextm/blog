@@ -1,5 +1,5 @@
 ---
-description: 'Introducing Bouncy Castle extensions for #SNMP Library that provide pure managed code implementations of encryption algorithms removed from .NET Core, including AES privacy providers.'
+description: "Introducing Bouncy Castle extensions for #SNMP Library that provide pure managed code implementations of encryption algorithms removed from .NET Core, including AES privacy providers."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Washington Monument.

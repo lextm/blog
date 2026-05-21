@@ -1,5 +1,5 @@
 ---
-description: Learn why Chrome shows IIS Express HTTPS connections as insecure due to missing SAN extensions, and how to quickly resolve this issue using Jexus Manager to generate and trust proper self-signed certificates.
+description: "Learn why Chrome shows IIS Express HTTPS connections as insecure due to missing SAN extensions, and how to quickly resolve this issue using Jexus Manager to generate and trust proper self-signed certificates."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /why-chrome-says-iis-express-https-is-not-secure-and-how-to-resolve-that-d906a183f0

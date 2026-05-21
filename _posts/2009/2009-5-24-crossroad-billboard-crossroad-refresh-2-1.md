@@ -1,5 +1,5 @@
 ---
-description: This post is about a refresh release of CrossRoad.
+description: "Explains the CrossRoad 2.1 silent refresh release, focusing on Windows XP/Server 2003 socket fixes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /crossroad-billboard-crossroad-refresh-2-1-1ad2424af35b

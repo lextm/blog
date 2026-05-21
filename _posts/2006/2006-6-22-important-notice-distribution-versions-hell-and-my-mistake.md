@@ -1,5 +1,5 @@
 ---
-description: Discusses the challenges of distributing CBC versions across multiple sites and the mistakes learned.
+description: "Discusses the challenges of distributing CBC versions across multiple sites and the mistakes learned."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /important-notice-distribution-versions-hell-and-my-mistake-d431d1882b6c

@@ -1,5 +1,5 @@
 ---
-description: Discusses Visual Studio Shell and the emergence of new standalone tools like IronPython Studio.
+description: "Discusses Visual Studio Shell and the emergence of new standalone tools like IronPython Studio."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /powered-by-visual-studio-shell-709b5c7ea7da

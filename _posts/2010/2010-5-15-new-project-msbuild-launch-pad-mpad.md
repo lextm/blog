@@ -1,5 +1,5 @@
 ---
-description: This post is about my new project MSBuild Launch Pad.
+description: "Introduces MSBuild Launch Pad, a new tool for choosing MSBuild versions and parsing project files for smarter build execution."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /new-project-msbuild-launch-pad-mpad-e1ce8c5acb15

@@ -1,5 +1,5 @@
 ---
-description: Reflects on Visual Studio addin installation issues and the underlying performance cost.
+description: "Reflects on Visual Studio addin installation issues and the underlying performance cost."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /problems-about-visual-studio-addins-6ee50c6b2244

@@ -1,5 +1,5 @@
 ---
-description: Announces my move from Cisco to Microsoft and shares insights about the career transition.
+description: "Announces my move from Cisco to Microsoft and shares insights about the career transition."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /lextm-cn-news-from-cisco-to-microsoft-a32452730e6c

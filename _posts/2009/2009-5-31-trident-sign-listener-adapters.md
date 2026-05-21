@@ -1,5 +1,5 @@
 ---
-description: This post is about listener adapters implementation.
+description: "Explains listener adapters for SNMP v1 managers and the breaking Listener event changes in the new design."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-listener-adapters-5ae14aef23c5

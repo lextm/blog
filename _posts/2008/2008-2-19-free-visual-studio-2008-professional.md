@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讨论了免费的Visual Studio 2008 Professional。
+description: "这篇文章讨论了免费的Visual Studio 2008 Professional。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /中国的学生们-免费的visual-studio-2008-professional你会试试看吗-4f59974b067a

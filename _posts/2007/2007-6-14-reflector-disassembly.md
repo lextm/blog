@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflector Disassembly
-description: Explains how to disassemble a .NET DLL using Reflector and its C# bias.
+description: "Explains how to disassemble a .NET DLL using Reflector and its C# bias."
 tags: .net
 categories: [Programming Languages]
 permalink: /reflector-disassembly-3c45a0be461

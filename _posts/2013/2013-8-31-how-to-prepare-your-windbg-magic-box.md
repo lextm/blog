@@ -1,5 +1,5 @@
 ---
-description: How to prepare your WinDbg toolbox, including symbol path setup and debugger launch instructions for reliable Windows debugging.
+description: "How to prepare your WinDbg toolbox, including symbol path setup and debugger launch instructions for reliable Windows debugging."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-prepare-your-windbg-magic-box-43b5e9ad8a03

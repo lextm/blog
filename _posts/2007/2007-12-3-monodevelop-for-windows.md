@@ -1,5 +1,5 @@
 ---
-description: Discusses MonoDevelop for Windows and whether it adds value beyond SharpDevelop.
+description: "Discusses MonoDevelop for Windows and whether it adds value beyond SharpDevelop."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /monodevelop-for-windows-c99aea1c7590

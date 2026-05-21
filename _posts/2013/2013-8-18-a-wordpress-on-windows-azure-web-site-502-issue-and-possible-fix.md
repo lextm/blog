@@ -1,5 +1,5 @@
 ---
-description: Diagnoses a WordPress 502 error on Windows Azure and shows how switching the site to 32-bit resolved the issue.
+description: "Diagnoses a WordPress 502 error on Windows Azure and shows how switching the site to 32-bit resolved the issue."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /a-wordpress-on-windows-azure-web-site-502-issue-and-possible-fix-e9c8bf77e360

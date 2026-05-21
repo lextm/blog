@@ -1,5 +1,5 @@
 ---
-description: Explains the switch of HardQuery's logging framework to log4net and why it was needed.
+description: "Explains the switch of HardQuery's logging framework to log4net and why it was needed."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-using-log4net-now-dfb6b817a46a

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PowerShell with Oh My Posh as Default Shell on macOS
-description: Complete guide to installing and configuring PowerShell with Oh My Posh on macOS, including iTerm2 setup, Nerd Fonts, and Visual Studio Code integration
+description: "Complete guide to installing and configuring PowerShell with Oh My Posh on macOS, including iTerm2 setup, Nerd Fonts, and Visual Studio Code integration"
 image:
   path: /images/lake-view-from-rc-harris-water-treatment-plant.jpg
   alt: Copyright © Lex Li. Lake view from R.C. Harris Water Treatment Plant, Toronto.

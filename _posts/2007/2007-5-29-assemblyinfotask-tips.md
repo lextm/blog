@@ -1,5 +1,5 @@
 ---
-description: Shares practical tips for using AssemblyInfoTask in MSBuild projects.
+description: "Shares practical tips for using AssemblyInfoTask in MSBuild projects."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /assemblyinfotask-tips-5db57caa1c66

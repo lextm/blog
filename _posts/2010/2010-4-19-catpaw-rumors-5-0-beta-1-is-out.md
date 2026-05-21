@@ -1,5 +1,5 @@
 ---
-description: This post is about SNMP 5.0 Beta 1
+description: "Announces #SNMP 5.0 Beta 1 and highlights the focus on feature completeness and Mono readiness for the agent."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-5-0-beta-1-is-out-e81b961ece8c

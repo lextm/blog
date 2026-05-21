@@ -1,5 +1,5 @@
 ---
-description: Describes using UnhandledExceptionManager to catch unhandled exceptions in .NET OTA wizards and reduce unnecessary try-catch lines.
+description: "Describes using UnhandledExceptionManager to catch unhandled exceptions in .NET OTA wizards and reduce unnecessary try-catch lines."
 excerpt_separator: <!--more-->
 layout: post
 tags: delphi code-beautifier-collection .net

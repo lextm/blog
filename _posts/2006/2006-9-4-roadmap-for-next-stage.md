@@ -1,5 +1,5 @@
 ---
-description: Describes the roadmap for CBC's next development stage and planned features.
+description: "Describes the roadmap for CBC's next development stage and planned features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /roadmap-for-next-stage-e36218e454ec

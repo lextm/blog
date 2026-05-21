@@ -1,5 +1,5 @@
 ---
-description: In-depth explanation of the "Inconsistent virtual method obfuscation state detected" error in Obfuscar, including its causes related to interface implementation and practical solutions for developers.
+description: 'In-depth explanation of the "Inconsistent virtual method obfuscation state detected" error in Obfuscar, including its causes related to interface implementation and practical solutions for developers.'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /obfuscar-the-story-behind-inconsistent-virtual-method-obfuscation-state-detected-82c9f8c38667

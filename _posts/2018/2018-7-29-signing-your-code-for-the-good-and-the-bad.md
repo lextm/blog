@@ -1,5 +1,5 @@
 ---
-description: A practical guide to code signing executables and NuGet packages, including certificate installation, signing tools, and special considerations for .NET SDK projects.
+description: "A practical guide to code signing executables and NuGet packages, including certificate installation, signing tools, and special considerations for .NET SDK projects."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Winter-trees and new moon, Montreal.

@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP Mono support'
+description: "Describes the effort to bring the #SNMP browser and compiler to Mono by shipping a lightweight DockPanel Suite port in Beta 2."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-more-mono-support-coming-fb16f90d7c89

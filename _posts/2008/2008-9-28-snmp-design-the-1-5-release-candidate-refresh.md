@@ -1,6 +1,5 @@
 ---
-description: 'This post talks about the second release candidate of #SNMP Library
-  1.5.'
+description: "Announces the second release candidate for #SNMP Library 1.5, highlighting the OctetString class changes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-the-1-5-release-candidate-refresh-95d36832ed8b

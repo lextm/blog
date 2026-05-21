@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the progress of #SNMP 0.5 series.'
+description: "Reports the #SNMP 0.5 RC1 release progress, new SNMP v1 demos, and the upcoming focus on MIB support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-halfbaked-rc-1-9c15d910dfc6

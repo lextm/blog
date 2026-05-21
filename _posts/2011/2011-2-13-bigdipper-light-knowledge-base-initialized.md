@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the new knowledge base for #SNMP.'
+description: "Announces the launch of the #SNMP knowledge base and invites readers to suggest future content topics."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-knowledge-base-initialized-dbf222c1ed3

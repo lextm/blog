@@ -1,5 +1,5 @@
 ---
-description: In this part, we document how to get NuGet package restore working.
+description: "In this part, we document how to get NuGet package restore working."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-use-nuget-on-mono-part-ii-1e71e55757bd

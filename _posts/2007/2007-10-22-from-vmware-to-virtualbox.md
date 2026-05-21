@@ -1,5 +1,5 @@
 ---
-description: Chronicles the author's migration from VMware to VirtualBox after stability and cost issues.
+description: "Chronicles the author's migration from VMware to VirtualBox after stability and cost issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /from-vmware-to-virtualbox-eda6ec764f49

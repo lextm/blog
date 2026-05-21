@@ -1,5 +1,5 @@
 ---
-description: 'This post would show you the plan for #SNMP Library vNext.'
+description: "Outlines the #SNMP Library vNext plan, including .NET Framework/.NET Standard targets and platform-specific assembly strategy."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /plan-for-snmp-library-vnext-b6759e5b10dc

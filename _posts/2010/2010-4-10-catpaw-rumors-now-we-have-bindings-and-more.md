@@ -1,5 +1,5 @@
 ---
-description: This post is about the new features in CatPaw SNMP Agent
+description: "Describes adding IIS-style bindings to the CatPaw SNMP agent and the resulting improvements in listener and pipeline design."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-now-we-have-bindings-and-more-b54b4026575f

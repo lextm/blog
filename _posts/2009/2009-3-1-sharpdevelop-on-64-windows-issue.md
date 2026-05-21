@@ -1,6 +1,5 @@
 ---
-description: This post is about the issue I met when using SharpDevelop on Windows
-  7 x64 build 7000.
+description: "Describes SharpDevelop issues on Windows 7 x64 and provides step-by-step corflags and resigning workarounds."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpdevelop-on-x64-windows-issue-2e845c12cdc1

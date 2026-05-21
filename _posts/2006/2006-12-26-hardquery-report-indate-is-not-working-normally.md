@@ -1,5 +1,5 @@
 ---
-description: Explains why InDate stopped working normally and the HTTPS issue affecting package downloads.
+description: "Explains why InDate stopped working normally and the HTTPS issue affecting package downloads."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-in-date-is-not-working-normally-eea0eef14c14

@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the release of #SNMP 8.0.'
+description: "Announces the #SNMP 8.0 release candidate and summarizes the open source improvements, Xamarin support, and licensing updates."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-8-0-release-fe233a4078c4

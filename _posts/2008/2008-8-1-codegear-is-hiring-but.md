@@ -1,5 +1,5 @@
 ---
-description: Discusses CodeGear job openings and the caveats behind the hiring announcement.
+description: "Discusses CodeGear job openings and the caveats behind the hiring announcement."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /codegear-is-hiring-but-8432cc437d1a

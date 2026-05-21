@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the beta package of #SNMP port to Mono for Android.'
+description: "Announces the beta package for the #SNMP Mono for Android port and shares early testing results on the Android simulator."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-mono-for-android-port-beta-package-21dd784d4655

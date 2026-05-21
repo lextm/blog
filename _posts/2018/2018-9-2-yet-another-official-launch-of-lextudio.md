@@ -1,5 +1,5 @@
 ---
-description: The journey of LeXtudio from a brand name to an official company, showcasing the evolution of various open source projects and software products developed over a decade.
+description: "The journey of LeXtudio from a brand name to an official company, showcasing the evolution of various open source projects and software products developed over a decade."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Iced canal, Montreal.

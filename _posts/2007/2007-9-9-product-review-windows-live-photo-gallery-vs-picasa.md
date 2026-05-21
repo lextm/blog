@@ -1,5 +1,5 @@
 ---
-description: Compares Windows Live Photo Gallery and Picasa based on usability and image handling.
+description: "Compares Windows Live Photo Gallery and Picasa based on usability and image handling."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-windows-live-photo-gallery-vs-picasa-f0d176d48141

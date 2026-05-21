@@ -1,5 +1,5 @@
 ---
-description: Major improvements in reStructuredText for VS Code (version 67.0.0+) including Workspace support, automatic conf.py detection, and simplified preview configuration.
+description: "Major improvements in reStructuredText for VS Code (version 67.0.0+) including Workspace support, automatic conf.py detection, and simplified preview configuration."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /important-update-on-restructuredtext-for-vscode-efa0d412422f

@@ -1,5 +1,5 @@
 ---
-description: This post is about how to build log4cxx in Visual Studio 2010.
+description: "Walks through adapting log4cxx build steps for Visual Studio 2010, including APR setup and Windows-specific configuration changes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-build-log4cxx-in-visual-studio-2010-a69d9bbd65d7

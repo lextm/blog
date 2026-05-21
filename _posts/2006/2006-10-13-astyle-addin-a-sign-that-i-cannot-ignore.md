@@ -1,5 +1,5 @@
 ---
-description: Describes the progress of the AStyle AddIn for SharpDevelop and the unexpected reception it received.
+description: "Describes the progress of the AStyle AddIn for SharpDevelop and the unexpected reception it received."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /astyle-addin-a-sign-that-i-cannot-ignore-9849c4bee02f

@@ -1,5 +1,5 @@
 ---
-description: This post is about a tip for SnmpSharpNet (SNMP#NET) users.
+description: "Warns SnmpSharpNet users to dispose UdpTarget objects or use using blocks to avoid socket problems."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /a-tip-for-snmpsharpnet-snmp-net-users-6a23a02b71e

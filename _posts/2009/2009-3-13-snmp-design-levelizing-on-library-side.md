@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the code base cleanup of #SNMP Library.'
+description: "Describes the code base cleanup effort for the #SNMP Library and the shift toward a more leveled architecture."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-levelizing-on-library-side-7ca59c20a7cb

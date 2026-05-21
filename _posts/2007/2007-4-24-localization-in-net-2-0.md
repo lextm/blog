@@ -1,5 +1,5 @@
 ---
-description: This article talks about localization in .NET Framework 2.0.
+description: "Discusses localization techniques in .NET Framework 2.0 and the challenges of translating WinForms resource files."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /localization-in-net-2-0-fdb682f7f996

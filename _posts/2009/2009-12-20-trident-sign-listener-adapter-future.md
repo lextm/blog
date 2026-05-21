@@ -1,5 +1,5 @@
 ---
-description: This post is about the future of Listener Adapter
+description: "Reflects on the evolution of Listener adapters and why manager-side adapters remain useful even as agent-side design changes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-listener-adapter-future-e61bee9d07c1

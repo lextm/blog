@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the progress of #SNMP 0.9 release.'
+description: "Introduces the #SNMP 0.9 NineHeaded release, celebrating the first full-featured release and the parser-driven roadmap toward UnicornHorn."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-hello-nineheaded-b81b94f3f53

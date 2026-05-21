@@ -1,5 +1,5 @@
 ---
-description: Discusses GrapeVine installer behavior changes and the future direction of the project.
+description: "Discusses GrapeVine installer behavior changes and the future direction of the project."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-turn-it-off-11b1e3f89e1b

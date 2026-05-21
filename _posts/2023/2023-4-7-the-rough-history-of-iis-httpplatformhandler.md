@@ -1,6 +1,6 @@
 ---
 categories: [Tools and Platforms]
-description: Explore the complete history of IIS HttpPlatformHandler from its origins to present day, including its relationship with ASP.NET Core, common misconceptions, and guidance for implementing non-Microsoft web technologies on Windows Server and IIS.
+description: "Explore the complete history of IIS HttpPlatformHandler from its origins to present day, including its relationship with ASP.NET Core, common misconceptions, and guidance for implementing non-Microsoft web technologies on Windows Server and IIS."
 image:
   path: /images/cn-tower-through-glass-raindrop.jpg
   alt: Copyright © Lex Li. CN Tower seen through glass and raindrops, Toronto.

@@ -1,5 +1,5 @@
 ---
-description: This post is about DockPanel Suite Mono support
+description: "Discusses making DockPanel Suite Mono-compatible by disabling Win32 features and offering a lightweight Mono-friendly version."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-tip-5-we-could-go-mono-63ee484f77a0

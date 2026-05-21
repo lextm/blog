@@ -1,5 +1,5 @@
 ---
-description: 'This post is about how we are going to make #SNMP Pro .NET Core ready.'
+description: "Announces the push to make #SNMP Pro ready for .NET Core tooling and explains the roadmap for the forthcoming 1.3.0 release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-goes-to-net-core-d3b3ebdc2750

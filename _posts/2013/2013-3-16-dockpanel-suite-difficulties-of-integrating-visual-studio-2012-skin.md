@@ -1,5 +1,5 @@
 ---
-description: Details the integration challenges of adding Visual Studio 2012 skin support to DockPanel Suite and the compatibility issues encountered.
+description: "Details the integration challenges of adding Visual Studio 2012 skin support to DockPanel Suite and the compatibility issues encountered."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-difficulties-of-integating-visual-studio-2012-skin-bf4eb1529cf2

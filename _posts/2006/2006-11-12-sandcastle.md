@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了 Sandcastle 项目的一些信息。
+description: "这篇文章讲述了 Sandcastle 项目的一些信息。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sandcastle-ndoc的继承人-fd544ecc3f17

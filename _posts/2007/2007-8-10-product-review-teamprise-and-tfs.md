@@ -1,5 +1,5 @@
 ---
-description: Reviews Teamprise, the standalone Eclipse RCP client for Team Foundation Server.
+description: "Reviews Teamprise, the standalone Eclipse RCP client for Team Foundation Server."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-teamprise-and-tfs-2cbfc148f1b8

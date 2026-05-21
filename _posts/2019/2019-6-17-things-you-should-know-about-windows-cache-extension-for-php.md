@@ -1,5 +1,5 @@
 ---
-description: Essential information about Windows Cache Extension (WinCache) for PHP - learn about its resources, development status, and why it may not be recommended for modern PHP hosting.
+description: "Essential information about Windows Cache Extension (WinCache) for PHP - learn about its resources, development status, and why it may not be recommended for modern PHP hosting."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Le Village Olympique, Montreal.

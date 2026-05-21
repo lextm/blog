@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP Mono support'
+description: "Reports a MoMA scan and the remaining Mono compatibility issues for #SNMP Agent after achieving openSUSE/Mono readiness."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-we-are-truly-mono-ready-part-ii-ac852a26aa5

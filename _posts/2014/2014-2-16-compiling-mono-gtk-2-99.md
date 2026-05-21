@@ -1,5 +1,5 @@
 ---
-description: Troubleshooting guide for compiling Mono.Addins with Gtk# 2.99 (pre-3.0), addressing compatibility issues between different versions and breaking API changes.
+description: "Troubleshooting guide for compiling Mono.Addins with Gtk# 2.99 (pre-3.0), addressing compatibility issues between different versions and breaking API changes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /compiling-mono-gtk-2-99-a6640cfc8cc

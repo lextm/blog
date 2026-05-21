@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是关于 M8 主题大师 2.5 版本的
+description: "这篇文章是关于 M8 主题大师 2.5 版本的"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /m8-主题大师-2-5-发布-94c4792bbff9

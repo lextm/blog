@@ -1,5 +1,5 @@
 ---
-description: A comprehensive update on DockPanel Suite developments in 2016, including the 2.10 RTM release, new themes, and the introduction of the patch controller mechanism in 2.11 Alpha builds.
+description: "A comprehensive update on DockPanel Suite developments in 2016, including the 2.10 RTM release, new themes, and the introduction of the patch controller mechanism in 2.11 Alpha builds."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-some-update-for-2016-f04dd830106d

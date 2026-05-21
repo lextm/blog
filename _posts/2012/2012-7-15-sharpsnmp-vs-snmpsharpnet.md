@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the similarity and difference between #SNMP and SnmpSharpNet.'
+description: "Compares #SNMP with SnmpSharpNet, tracing the projects' histories, design principles, and API differences."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpsnmp-vs-snmpsharpnet-5fdce55232e7

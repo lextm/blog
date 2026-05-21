@@ -1,5 +1,5 @@
 ---
-description: 'This post is about an important release of #SNMP around its first anniversary.'
+description: "Summarizes the anniversary release of #SNMP and explains the significance of this major milestone."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-annual-release-8168bc1ca5b2

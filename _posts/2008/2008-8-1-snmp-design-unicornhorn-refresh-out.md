@@ -1,5 +1,5 @@
 ---
-description: Announces the UnicornHorn refresh release and summarizes the latest SNMP design updates.
+description: "Announces the UnicornHorn refresh release and summarizes the latest SNMP design updates."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-unicornhorn-refresh-out-9b41ab3ca768

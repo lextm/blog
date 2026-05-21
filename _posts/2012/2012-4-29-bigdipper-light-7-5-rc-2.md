@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the release of #SNMP 7.5 RC 2.'
+description: "Announces #SNMP 7.5 RC 2 as a bug-fix candidate release and previews the included breaking changes and NuGet prerelease package."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-7-5-rc-2-14e1e0679aba

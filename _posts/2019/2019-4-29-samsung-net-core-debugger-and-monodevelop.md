@@ -1,5 +1,5 @@
 ---
-description: Discover how Samsung's open source .NET Core debugger can be integrated with MonoDevelop to provide .NET Core debugging capabilities without Microsoft's proprietary components.
+description: "Discover how Samsung's open source .NET Core debugger can be integrated with MonoDevelop to provide .NET Core debugging capabilities without Microsoft's proprietary components."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Bell Center, Montreal.

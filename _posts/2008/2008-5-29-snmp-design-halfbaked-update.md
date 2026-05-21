@@ -1,5 +1,5 @@
 ---
-description: Explains the delay in the SNMP project update and what remains unfinished.
+description: "Explains the delay in the SNMP project update and what remains unfinished."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-halfbaked-update-361038bda1cb

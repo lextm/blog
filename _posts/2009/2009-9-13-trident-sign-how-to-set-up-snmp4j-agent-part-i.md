@@ -1,5 +1,5 @@
 ---
-description: This post is about how to set up SNMP4J Agent.
+description: "Documents the author’s first steps to set up an SNMP4J agent for SNMP v3 learning and testing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-how-to-set-up-snmp4j-agent-part-1-9354ddb8868a

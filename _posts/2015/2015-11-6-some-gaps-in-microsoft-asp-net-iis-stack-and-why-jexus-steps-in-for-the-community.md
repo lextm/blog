@@ -1,5 +1,5 @@
 ---
-description: Analysis of gaps in Microsoft's ASP.NET/IIS stack and how Jexus Manager and Jexus web server provide solutions for IIS Express management and ASP.NET on Linux.
+description: "Analysis of gaps in Microsoft's ASP.NET/IIS stack and how Jexus Manager and Jexus web server provide solutions for IIS Express management and ASP.NET on Linux."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /some-gaps-in-microsoft-asp-net-iis-stack-and-why-jexus-steps-in-for-the-community-e5a6f79fec99

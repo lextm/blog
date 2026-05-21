@@ -1,5 +1,5 @@
 ---
-description: This post is about the ideas behind the design of ToBytes and _raw.
+description: "Explains the design rationale for ToBytes and _raw fields in SNMP data types and how raw bytes are represented."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-the-logic-behind-tobytes-and-raw-649293790e97

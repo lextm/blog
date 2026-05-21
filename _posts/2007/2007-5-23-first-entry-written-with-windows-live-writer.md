@@ -1,5 +1,5 @@
 ---
-description: Describes using Windows Live Writer to author a blog post and the experience of writing with it.
+description: "Describes using Windows Live Writer to author a blog post and the experience of writing with it."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /first-entry-written-with-windows-live-writer-af344ebbd829

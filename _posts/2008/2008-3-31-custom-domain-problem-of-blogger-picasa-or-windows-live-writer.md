@@ -1,5 +1,5 @@
 ---
-description: Explains custom domain issues when using Blogger, Picasa, and Windows Live Writer together.
+description: "Explains custom domain issues when using Blogger, Picasa, and Windows Live Writer together."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /custom-domain-problem-of-blogger-picasa-or-windows-live-writer-36b21acfaf01

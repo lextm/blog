@@ -1,5 +1,5 @@
 ---
-description: This post is about why I revived the LoggingService functionality.
+description: "Explains reviving the old LoggingService and how extension methods and appenders improve log indentation and usability."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /revival-of-loggingservice-functionality-29aef28c75b1

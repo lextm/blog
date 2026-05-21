@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about DateAndTime syntax support in #SNMP Pro.'
+description: "Describes how #SNMP Pro added comprehensive DateAndTime syntax support and the engineering story behind the implementation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-dateandtime-syntax-support-e99abc51bc2f

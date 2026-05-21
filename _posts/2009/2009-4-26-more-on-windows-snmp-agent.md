@@ -1,5 +1,5 @@
 ---
-description: This post is about Windows SNMP Services.
+description: "Links to Microsoft’s Windows SNMP Services documentation and explains why it answers key SNMP questions."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /more-on-windows-snmp-agent-ddf62a3eaf6

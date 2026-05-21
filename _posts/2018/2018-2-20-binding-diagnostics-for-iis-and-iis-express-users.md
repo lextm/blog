@@ -1,5 +1,5 @@
 ---
-description: A post about the new Binding Diagnostics for IIS and IIS Express in Jexus Manager.
+description: "A post about the new Binding Diagnostics for IIS and IIS Express in Jexus Manager."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /binding-diagnostics-for-iis-and-iis-express-users-595aaa42cbbd

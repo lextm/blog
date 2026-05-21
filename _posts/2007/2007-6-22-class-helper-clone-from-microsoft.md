@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Class Helper Clone From Microsoft
-description: Explains how Microsoft adopted a Class Helper-like feature in C# through extension methods.
+description: "Explains how Microsoft adopted a Class Helper-like feature in C# through extension methods."
 tags: .net delphi
 categories: [Programming Languages]
 permalink: /class-helper-clone-from-microsoft-64d3cc07474a

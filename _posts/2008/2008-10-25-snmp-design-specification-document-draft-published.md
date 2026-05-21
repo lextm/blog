@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the specification document for #SNMP.'
+description: "Announces a new draft specification document for #SNMP to help developers understand the project architecture and code flow."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-specification-document-draft-published-14078359972c

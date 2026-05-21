@@ -1,6 +1,5 @@
 ---
-description: This post is dedicated to Chris, who pushed me really hard this week
-  to implement a few new features.
+description: "Thanks Chris for pushing #SNMP enhancements around socket sharing, obsolete cleanup, and deferred initialization."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-push-me-hard-chris-bddd86e2dc4

@@ -1,5 +1,5 @@
 ---
-description: Shares progress on LeXDK and new NixNewNer features as WalkPace transitions to a new development path.
+description: "Shares progress on LeXDK and new NixNewNer features as WalkPace transitions to a new development path."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-no-more-walkpace-versions-nixnewner-is-coming-soon-db7d47ba4d1a

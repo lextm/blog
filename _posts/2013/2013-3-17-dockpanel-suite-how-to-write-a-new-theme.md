@@ -1,5 +1,5 @@
 ---
-description: How to write a new DockPanel Suite theme by extending `DockPanel.Skin`, adding a VisualStudio2012Light theme, and using `DockPanelExtender` custom factories.
+description: "How to write a new DockPanel Suite theme by extending `DockPanel.Skin`, adding a VisualStudio2012Light theme, and using `DockPanelExtender` custom factories."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-how-to-write-a-new-theme-573f46197486

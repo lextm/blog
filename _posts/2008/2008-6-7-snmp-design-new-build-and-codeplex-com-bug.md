@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the new build of #SNMP and a critical bug of CodePlex.com.'
+description: "Describes a new #SNMP build and a CodePlex snapshot bug that left the published archive broken while the repository remained intact."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-new-build-and-codeplex-com-bug-d114c1dec027

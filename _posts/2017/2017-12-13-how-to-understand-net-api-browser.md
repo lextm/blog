@@ -1,5 +1,5 @@
 ---
-description: Learn how to properly interpret the information presented in Microsoft's .NET API Browser documentation, including how to understand platform compatibility and find the correct NuGet packages.
+description: "Learn how to properly interpret the information presented in Microsoft's .NET API Browser documentation, including how to understand platform compatibility and find the correct NuGet packages."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-understand-net-api-browser-dec-2017-16fe068ab072

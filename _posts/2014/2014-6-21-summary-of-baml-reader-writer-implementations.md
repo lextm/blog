@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summary of BAML Reader/Writer Implementations
-description: Comprehensive overview of BAML reader/writer implementations in both Microsoft's frameworks and open source projects, valuable for developers working with WPF resource manipulation.
+description: "Comprehensive overview of BAML reader/writer implementations in both Microsoft's frameworks and open source projects, valuable for developers working with WPF resource manipulation."
 tags: .net windows open-source
 categories: [Programming Languages]
 permalink: /summary-of-baml-reader-writer-implementations-62950ac47481

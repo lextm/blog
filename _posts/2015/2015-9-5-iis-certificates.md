@@ -1,5 +1,5 @@
 ---
-description: 深入探讨IIS中SSL证书配置问题，通过一个故事情节解析证书申请和安装过程中的常见错误，以及如何使用OpenSSL正确导出和导入PFX证书文件。
+description: "深入探讨IIS中SSL证书配置问题，通过一个故事情节解析证书申请和安装过程中的常见错误，以及如何使用OpenSSL正确导出和导入PFX证书文件。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /iis迷宫之消失的证书-558d58aff8f5

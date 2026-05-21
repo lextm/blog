@@ -1,5 +1,5 @@
 ---
-description: This post is about Flickr Blog this feature.
+description: "Introduces Flickr Blog This as an easier way to author image-centric blog posts when Blogger is blocked."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /flickr-blog-this-72e3626b32ed

@@ -1,5 +1,5 @@
 ---
-description: A note explaining the author's decision to write blog posts primarily in English after passing CET 6, with a commitment to provide quick Chinese translations for shorter posts to accommodate readers who prefer Chinese content.
+description: "A note explaining the author's decision to write blog posts primarily in English after passing CET 6, with a commitment to provide quick Chinese translations for shorter posts to accommodate readers who prefer Chinese content."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /about-languages-of-this-blog-1fd2d08f9dbb

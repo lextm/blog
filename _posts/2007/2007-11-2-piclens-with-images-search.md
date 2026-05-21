@@ -1,5 +1,5 @@
 ---
-description: Introduces PicLens and shows how to use it for searching images.
+description: "Introduces PicLens and shows how to use it for searching images."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /piclens-with-images-search-1aae5e7196fe

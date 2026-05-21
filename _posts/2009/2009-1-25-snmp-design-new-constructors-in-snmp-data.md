@@ -1,5 +1,5 @@
 ---
-description: This post is about the new constructors in SNMP data types.
+description: "Explains the SNMP data API change to prefer MemoryStream-based constructors over byte array creation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-new-constructors-in-snmp-data-855781525f07

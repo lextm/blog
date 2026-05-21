@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the third beta release of #SNMP 6.0 and future plan.'
+description: "Describes #SNMP 6.0 Beta 3, the current status of testing, and plans for the remaining changes before the final release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-beta-3-and-afterwards-3f462280c700

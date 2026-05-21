@@ -1,5 +1,5 @@
 ---
-description: This post is about a CD/DVD emulation tool for Windows 7.
+description: "Shares how to install Virtual CloneDrive on Windows 7 Beta by using compatibility mode."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cd-dvd-emulation-tool-for-windows-7-a168ee51778e

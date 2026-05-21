@@ -1,5 +1,5 @@
 ---
-description: This post is about my new home.
+description: "Shares a personal note about moving into a new home and the feeling of finally having a place to call home."
 excerpt_separator: <!--more-->
 image:
   alt: New Home.

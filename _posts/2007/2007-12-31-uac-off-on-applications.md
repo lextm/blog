@@ -1,5 +1,5 @@
 ---
-description: Explains when it makes sense to disable UAC prompts for specific Windows applications.
+description: "Explains when it makes sense to disable UAC prompts for specific Windows applications."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /uac-off-on-applications-8ee164af45a1

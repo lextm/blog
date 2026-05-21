@@ -1,5 +1,5 @@
 ---
-description: Demonstrates comparing two paths in C# using the FileDirectoryPath library.
+description: "Demonstrates comparing two paths in C# using the FileDirectoryPath library."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /filedirectorypath-1-0-how-to-compare-two-path-69926ba6e0e1

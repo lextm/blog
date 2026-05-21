@@ -1,5 +1,5 @@
 ---
-description: Introduces the Touch Mouse Mate open source project, its gesture support, SDK features, and a middle-click workaround.
+description: "Introduces the Touch Mouse Mate open source project, its gesture support, SDK features, and a middle-click workaround."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /touch-mouse-mate-74b8fe2ec7e1

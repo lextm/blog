@@ -1,5 +1,5 @@
 ---
-description: Reflects on programmer life through links to inspiring tech bloggers and daily work impressions.
+description: "Reflects on programmer life through links to inspiring tech bloggers and daily work impressions."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /life-of-programmers-8fb1c033a68

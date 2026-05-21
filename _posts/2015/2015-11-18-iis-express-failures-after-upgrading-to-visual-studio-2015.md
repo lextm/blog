@@ -1,5 +1,5 @@
 ---
-description: Troubleshooting guide for IIS Express issues after upgrading to Visual Studio 2015, including configuration file changes and common 500.19 errors with MIME types.
+description: "Troubleshooting guide for IIS Express issues after upgrading to Visual Studio 2015, including configuration file changes and common 500.19 errors with MIME types."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /iis-express-failures-after-upgrading-to-visual-studio-2015-6dd3d7eabc7a

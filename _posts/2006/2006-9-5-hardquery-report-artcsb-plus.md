@@ -1,5 +1,5 @@
 ---
-description: Introduces ArtCSB Plus, a new CBC extension, and explains its capabilities and target improvements.
+description: "Introduces ArtCSB Plus, a new CBC extension, and explains its capabilities and target improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-artcsb-plus-b860adb30f22

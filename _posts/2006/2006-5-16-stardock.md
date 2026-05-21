@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是关于 Stardock 公司的介绍。它的产品都很有意思。
+description: "这篇文章是关于 Stardock 公司的介绍。它的产品都很有意思。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /stardock-创意总能令人兴奋-322658aa432f

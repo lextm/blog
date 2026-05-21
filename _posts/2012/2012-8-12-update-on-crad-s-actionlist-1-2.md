@@ -1,5 +1,5 @@
 ---
-description: Update on Crad ActionList 1.2 release, including supported Visual Studio versions and where to report issues.
+description: "Update on Crad ActionList 1.2 release, including supported Visual Studio versions and where to report issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /update-on-crads-actionlist-1-2-1300b9afbd18

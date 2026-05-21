@@ -1,5 +1,5 @@
 ---
-description: This post is about SNMP v3 Agent
+description: "Covers the progress toward SNMP v3 support in the #SNMP agent, including discovery, decryption, and malformed message handling."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-snmp-v3-agent-is-ready-fd7b5819093b

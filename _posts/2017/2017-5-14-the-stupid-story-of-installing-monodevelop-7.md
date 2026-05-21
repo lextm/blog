@@ -1,5 +1,5 @@
 ---
-description: This post is about how to install MonoDevelop 7 on Linux and all remaining issues.
+description: "Shares the frustrating process of installing MonoDevelop 7 on Linux via FlatPak, including runtime errors and workaround steps."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-stupid-story-of-installing-monodevelop-7-223c1420915b

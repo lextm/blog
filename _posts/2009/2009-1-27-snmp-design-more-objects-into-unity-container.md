@@ -1,5 +1,5 @@
 ---
-description: This post is about the changes in CrossRoad to use more of IoC containers.
+description: "Describes moving more browser objects into Unity for looser coupling and better CrossRoad architecture."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-more-objects-into-unity-container-aa6fc2425e35

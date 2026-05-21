@@ -1,5 +1,5 @@
 ---
-description: Announces the release candidate plan for GrapeVine Voice 6.0.0.1011, including expected milestones and deployment strategy.
+description: "Announces the release candidate plan for GrapeVine Voice 6.0.0.1011, including expected milestones and deployment strategy."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-release-candidate-6-0-0-1011-plan-42189fe6d376

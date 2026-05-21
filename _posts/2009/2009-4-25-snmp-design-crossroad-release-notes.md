@@ -1,5 +1,5 @@
 ---
-description: This post is the release notes of CrossRoad release.
+description: "Summarizes CrossRoad release highlights, including MIT licensing, Unity, IP v6 support, and SNMP compiler/browser improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-crossroad-release-notes-2deb83b7318f

@@ -1,6 +1,5 @@
 ---
-description: This post is about the fact that CatPaw will drop Visual Studio 2005
-  support.
+description: "Announces dropping Visual Studio 2005 support for CatPaw, moving development to VS2010 and embracing .NET 3.5/4.0 features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumor-time-to-say-farewell-to-visual-studio-2005-2a0313501950

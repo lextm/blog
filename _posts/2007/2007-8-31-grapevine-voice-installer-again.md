@@ -1,5 +1,5 @@
 ---
-description: Updates on the M3 installer and how ISPP simplified the packaging process.
+description: "Updates on the M3 installer and how ISPP simplified the packaging process."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-installer-again-5e2dba96f20e

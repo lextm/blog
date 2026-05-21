@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是关于给一个哥们的祝福
+description: "这篇文章是关于给一个哥们的祝福"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /给哥们的祝福-4c6ffd68ed8

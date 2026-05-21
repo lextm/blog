@@ -1,6 +1,5 @@
 ---
-description: 'This post talks about the second sneak preview of #SNMP MIB Compiler
-  Pro.'
+description: "Reviews the second sneak preview of #SNMP MIB Compiler Pro, including the new Object Tree panel and improved error list workflow."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-second-compiler-sneak-preview-dc62ff62f38

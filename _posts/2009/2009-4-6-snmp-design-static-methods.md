@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the design of static methods in #SNMP.'
+description: "Discusses the design of static helper methods in #SNMP and the decision to refactor them into a dedicated Messenger class."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-static-methods-8fda0d466c89

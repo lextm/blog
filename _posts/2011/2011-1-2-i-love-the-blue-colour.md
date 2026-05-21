@@ -1,5 +1,5 @@
 ---
-description: This post is about my previous employer.
+description: "Reflects on missing the author's previous employer and the blue color inspiration from the Microsoft Zizhu campus."
 excerpt_separator: <!--more-->
 image:
   alt: Microsoft Zizhu Campus.

@@ -1,5 +1,5 @@
 ---
-description: Announces the release of HardQuery Report 5.3.2 RC 2 and shares a recent user bug report.
+description: "Announces the release of HardQuery Report 5.3.2 RC 2 and shares a recent user bug report."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-5-3-2-rc-2-is-out-c8484fd58ff8

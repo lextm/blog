@@ -1,5 +1,5 @@
 ---
-description: Learn how a new VS2005Multithreading theme was created for DockPanel Suite to support multiple UI threads without requiring custom patches.
+description: "Learn how a new VS2005Multithreading theme was created for DockPanel Suite to support multiple UI threads without requiring custom patches."
 excerpt_separator: <!--more-->
 layout: post
 tags: dockpanel-suite visual-studio .net open-source

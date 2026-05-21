@@ -1,5 +1,5 @@
 ---
-description: Reviews Amazon China service based on the author's online book-buying experience.
+description: "Reviews Amazon China service based on the author's online book-buying experience."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-amazon-cn-service-b4b660ad202

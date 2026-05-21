@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the solution files in #SNMP 5 codebase'
+description: "Explains the Visual Studio solution file strategy for #SNMP 5, including support for multiple IDEs and platform-specific project sets."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-the-solution-files-3cf989f268fe

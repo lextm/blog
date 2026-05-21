@@ -1,5 +1,5 @@
 ---
-description: A post about product roadmap for release 2.4
+description: "A post about product roadmap for release 2.4"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /roadmap-of-stage-2-4-ef26e79bebfb

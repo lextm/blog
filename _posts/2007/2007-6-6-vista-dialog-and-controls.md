@@ -1,5 +1,5 @@
 ---
-description: Shows how to use Vista dialogs and controls in .NET and points to useful community resources.
+description: "Shows how to use Vista dialogs and controls in .NET and points to useful community resources."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /vista-dialog-and-controls-38dba03f3d19

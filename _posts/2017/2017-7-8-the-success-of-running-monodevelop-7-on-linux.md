@@ -1,5 +1,5 @@
 ---
-description: This post is about how to run MonoDevelop 7 on Linux.
+description: "Shares the successful process of installing MonoDevelop 7 on Debian Linux, fixing debugger issues, and enabling xUnit integration."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-success-of-running-monodevelop-7-on-linux-a55f1469b1d1

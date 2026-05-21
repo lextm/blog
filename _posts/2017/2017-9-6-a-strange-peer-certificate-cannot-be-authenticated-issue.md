@@ -1,5 +1,5 @@
 ---
-description: Troubleshooting and resolving a strange 'Peer Certificate Cannot Be Authenticated' error when using .NET Core on Linux, which was caused by incorrect system time synchronization.
+description: "Troubleshooting and resolving a strange 'Peer Certificate Cannot Be Authenticated' error when using .NET Core on Linux, which was caused by incorrect system time synchronization."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /a-strange-peer-certificate-cannot-be-authenticated-issue-a7f47193699

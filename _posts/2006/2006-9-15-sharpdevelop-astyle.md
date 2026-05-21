@@ -1,5 +1,5 @@
 ---
-description: 这篇文章介绍了 SharpDevelop 的 AStyle 插件。
+description: "这篇文章介绍了 SharpDevelop 的 AStyle 插件。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /sharpdevelop的astyle插件-6f3b56044526

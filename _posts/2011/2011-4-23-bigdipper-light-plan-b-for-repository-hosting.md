@@ -1,5 +1,5 @@
 ---
-description: 'Introducing a temporary repository hosting solution for #SNMP on Google Code due to CodePlex repository issues.'
+description: "Introducing a temporary repository hosting solution for #SNMP on Google Code due to CodePlex repository issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-plan-b-for-repository-hosting-495c9abe4e27

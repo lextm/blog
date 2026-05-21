@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the obsolete methods in #SNMP 1.5 RC3.'
+description: "Explains why obsolete methods remain in #SNMP 1.5 RC3 and why the API cleanup plan is necessary for future releases."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-obsolete-methods-c3549a6c18d9

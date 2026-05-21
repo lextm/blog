@@ -1,5 +1,5 @@
 ---
-description: This series focus on virtualized development environment.
+description: "Introduces a virtualized development environment using VMware/VirtualBox, Samba, and Ubuntu as a Windows guest setup."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /virtualized-trio-linux-samba-and-windows-part-i-65565fa237b4

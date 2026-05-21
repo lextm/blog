@@ -1,5 +1,5 @@
 ---
-description: Overview of DockPanel Suite's new theming system, including VS2013 Blue and VS2012 Dark themes, and how themes are now distributed in separate assemblies.
+description: "Overview of DockPanel Suite's new theming system, including VS2013 Blue and VS2012 Dark themes, and how themes are now distributed in separate assemblies."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-more-about-theming-48864f47892c

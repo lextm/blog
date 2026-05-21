@@ -1,5 +1,5 @@
 ---
-description: A practical guide on how to select the appropriate xUnit.net runner bitness (x86 or x64) for console runners, Visual Studio runners, and Visual Studio for Mac/MonoDevelop runners with step-by-step instructions.
+description: "A practical guide on how to select the appropriate xUnit.net runner bitness (x86 or x64) for console runners, Visual Studio runners, and Visual Studio for Mac/MonoDevelop runners with step-by-step instructions."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-choose-xunit-net-runner-bitness-x86-and-x64-11f1fb540478

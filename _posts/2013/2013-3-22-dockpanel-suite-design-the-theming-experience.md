@@ -1,5 +1,5 @@
 ---
-description: A design walkthrough for DockPanel Suite theming, showing how new `ITheme`-based themes make it easier to change appearance in the WinForms designer.
+description: "A design walkthrough for DockPanel Suite theming, showing how new `ITheme`-based themes make it easier to change appearance in the WinForms designer."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-design-the-theming-experience-4c55f51d65c8

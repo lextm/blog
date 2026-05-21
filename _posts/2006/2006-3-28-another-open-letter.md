@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是又一封公开信，介绍了我自己开发的 CBC 项目。
+description: "这篇文章是又一封公开信，介绍了我自己开发的 CBC 项目。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /又一封公开信-a0e8bc60ec03

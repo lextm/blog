@@ -1,5 +1,5 @@
 ---
-description: This post is about the future of Manager and Messenger classes.
+description: "Reviews the future of Manager and Messenger in #SNMP post-release, and explains the design shift toward lower-level SNMP v3 APIs."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-post-release-summary-part-1-5dc1f4a327a3

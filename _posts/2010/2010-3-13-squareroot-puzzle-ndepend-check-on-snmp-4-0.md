@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP 4.0 and NDepend.'
+description: "Summarizes an NDepend analysis of the #SNMP 4.0 codebase and details the suite evolution since version 3.1."
 excerpt_separator: <!--more-->
 layout: post
 tags: snmp

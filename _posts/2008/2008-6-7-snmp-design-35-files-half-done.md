@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the progress of #SNMP 0.9 release.'
+description: "Notes that the #SNMP MIB parser has parsed 35 more files, bringing the 0.9 release closer to completion."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-35-files-half-done-43bcc00dfdda

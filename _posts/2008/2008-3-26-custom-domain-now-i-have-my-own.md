@@ -1,5 +1,5 @@
 ---
-description: Personal story about registering a custom domain and the process of establishing an online identity.
+description: "Personal story about registering a custom domain and the process of establishing an online identity."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /custom-domain-now-i-have-my-own-47c4863622db

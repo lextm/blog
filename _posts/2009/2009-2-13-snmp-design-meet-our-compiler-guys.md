@@ -1,5 +1,5 @@
 ---
-description: This post is about the new MIB compiler plan.
+description: "Introduces compiler experts Patrick and Robert and their plan to build a new BNF-based MIB compiler."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-meet-our-compiler-guys-c17b25c8c56e

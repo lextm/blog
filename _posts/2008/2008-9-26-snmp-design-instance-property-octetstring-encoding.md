@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the roadmap of #SNMP 2.x.'
+description: "Discusses adding instance-level OctetString encoding support to #SNMP 2.x and the plan for explicit ASCII/Unicode community strings."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-instance-property-octetstring-encoding-8f355c053e9a

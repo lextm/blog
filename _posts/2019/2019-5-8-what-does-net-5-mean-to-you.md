@@ -1,5 +1,5 @@
 ---
-description: Understand how Microsoft's .NET 5 announcement impacts different developer groups including .NET Core, .NET Framework, Mono, Xamarin, and Unity developers.
+description: "Understand how Microsoft's .NET 5 announcement impacts different developer groups including .NET Core, .NET Framework, Mono, Xamarin, and Unity developers."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Tree reflection, Montreal.

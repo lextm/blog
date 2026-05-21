@@ -1,5 +1,5 @@
 ---
-description: 这篇文章是关于一些关于音乐的回忆。
+description: "这篇文章是关于一些关于音乐的回忆。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /突然涌出的回忆-part-1-73fb78b31106

@@ -1,5 +1,5 @@
 ---
-description: Highlights the features that are ready for CBC 2 NixNewNer.
+description: "Highlights the features that are ready for CBC 2 NixNewNer."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /features-ready-for-cbc-2-nixnewner-70e310238f34

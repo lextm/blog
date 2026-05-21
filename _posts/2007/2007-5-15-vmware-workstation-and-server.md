@@ -1,5 +1,5 @@
 ---
-description: 这篇文章介绍了 VMware Workstation 和 Server。
+description: "这篇文章介绍了 VMware Workstation 和 Server。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /vmware-workstation和server-艰难的选择-4ee13e7eeb26

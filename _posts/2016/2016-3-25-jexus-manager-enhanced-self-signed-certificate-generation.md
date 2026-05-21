@@ -1,5 +1,5 @@
 ---
-description: A comparison of self-signed certificate generation capabilities between IIS Manager and Jexus Manager, highlighting the enhanced customization options available in Jexus Manager for modern certificate requirements.
+description: "A comparison of self-signed certificate generation capabilities between IIS Manager and Jexus Manager, highlighting the enhanced customization options available in Jexus Manager for modern certificate requirements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-enhanced-self-signed-certificate-generation-9ff4940d6b07

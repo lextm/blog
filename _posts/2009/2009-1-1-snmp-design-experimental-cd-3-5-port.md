@@ -1,6 +1,5 @@
 ---
-description: 'This post is about the experimental .NET Compact Framework 3.5 port
-  of #SNMP Library.'
+description: "Describes the experimental .NET Compact Framework 3.5 port of #SNMP Library and the compatibility steps needed for CF compilation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-experimental-cf-3-5-port-69bd866592b2

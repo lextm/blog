@@ -1,5 +1,5 @@
 ---
-description: This post is about the second beta release of HoneyCell 6.0.
+description: "Announces HoneyCell 6.0 Beta 2, notes the #SNMP repo migration to Mercurial, and previews release notes preparation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-beta-2-is-out-6e2addb5757

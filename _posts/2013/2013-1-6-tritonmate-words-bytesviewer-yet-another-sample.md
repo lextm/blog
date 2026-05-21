@@ -1,5 +1,5 @@
 ---
-description: Introduces BytesViewer, a new TritonMate sample tool for inspecting binary data and troubleshooting low-level file formats.
+description: "Introduces BytesViewer, a new TritonMate sample tool for inspecting binary data and troubleshooting low-level file formats."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-bytesviewer-yet-another-sample-3c83c897ccf7

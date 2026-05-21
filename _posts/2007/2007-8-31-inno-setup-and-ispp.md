@@ -1,5 +1,5 @@
 ---
-description: Explains how Inno Setup and ISPP work together and how to avoid hardcoding installer version strings.
+description: "Explains how Inno Setup and ISPP work together and how to avoid hardcoding installer version strings."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /inno-setup-and-ispp-4ca328e5faef

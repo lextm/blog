@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP and Compact Framework.'
+description: "Reviews .NET Compact Framework support in #SNMP, the latest CF ports, and why the platform is being phased out."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-snmp-and-compact-framework-e2cb24d7250e

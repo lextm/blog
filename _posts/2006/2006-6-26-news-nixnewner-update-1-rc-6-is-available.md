@@ -1,5 +1,5 @@
 ---
-description: Announces NixNewNer Update 1 RC 6 availability and summarizes the latest release candidate improvements.
+description: "Announces NixNewNer Update 1 RC 6 availability and summarizes the latest release candidate improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-nixnewner-update-1-rc-6-is-available-40b9904c3c8b

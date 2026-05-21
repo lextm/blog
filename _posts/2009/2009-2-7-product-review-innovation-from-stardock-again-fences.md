@@ -1,5 +1,5 @@
 ---
-description: This post is about the new product from Stardock, Fences.
+description: "Reviews Stardock Fences and praises its fast install through Impulse."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-innovation-from-stardock-again-fences-808bdd32c349

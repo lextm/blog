@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the new beta of #SNMP MIB Browser and Compiler.'
+description: "Announces the new #SNMP MIB Browser and Compiler beta release and highlights the beta's improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-crossroad-beta-3-ce39689c01f9

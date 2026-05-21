@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP''s support of Ubuntu 10.10.'
+description: "Notes Ubuntu 10.10 Beta testing for #SNMP 6 and highlights the Mono packaging differences discovered during the experiment."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-ubuntu-support-74bade4942cb

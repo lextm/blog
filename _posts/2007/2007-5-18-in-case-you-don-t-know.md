@@ -1,5 +1,5 @@
 ---
-description: Recommends two must-read articles for .NET developers and explains why they are valuable.
+description: "Recommends two must-read articles for .NET developers and explains why they are valuable."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /in-case-you-dont-know-b5b8846541df

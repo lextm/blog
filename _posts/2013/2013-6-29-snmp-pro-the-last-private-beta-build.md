@@ -1,6 +1,5 @@
 ---
-description: 'This post talks about the last private beta build of #SNMP MIB Compiler
-  Pro.'
+description: "Announces the final private beta build of #SNMP MIB Compiler Pro and previews the move toward the public release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-the-last-private-beta-build-6cd3ad40d385

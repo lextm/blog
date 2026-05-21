@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '#SNMP Design: Now We GET BULK'
-description: This post is about the GET BULK message type support.
+description: "Explains GET BULK support and how Manager.GetTable uses it to replace many GET NEXT requests."
 tags: snmp
 categories: [Technologies and Concepts]
 permalink: /snmp-design-now-we-get-bulk-2db25fc8cd97

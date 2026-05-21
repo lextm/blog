@@ -1,5 +1,5 @@
 ---
-description: This article describes how to use LoggingService class in HardQuery.
+description: "Explains how HardQuery uses a new LoggingService wrapper over log4net, including configuration and helper methods."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-using-loggingservice-class-64c6cacc48e4

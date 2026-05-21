@@ -1,5 +1,5 @@
 ---
-description: 'This post is about questions about #SNMP on Stack Overflow site.'
+description: "Celebrates #SNMP visibility on Stack Overflow and explains why the community Q&A site is valuable for open source exposure."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-reach-stackoverflow-b6b3177e3dcb

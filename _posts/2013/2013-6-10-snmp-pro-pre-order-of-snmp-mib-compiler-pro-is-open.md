@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the pre-order program of #SNMP MIB Compiler Pro.'
+description: "Announces that pre-orders are open for #SNMP MIB Compiler Pro and highlights compiler performance improvements and ordering details."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-pre-order-of-snmp-mib-compiler-pro-is-open-fef4ae2456cd

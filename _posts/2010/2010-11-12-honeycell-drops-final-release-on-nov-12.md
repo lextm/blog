@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the final release of #SNMP 6.0.'
+description: "Announces the availability of the final #SNMP 6.0 release and points readers to the release notes, help docs, and breaking changes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-final-release-on-nov-12-a9e16823031a

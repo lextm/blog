@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the progress of #SNMP library.'
+description: "Describes progress on #SNMP library SNMP v2c support, including new Counter64, Opaque handling, and experimental protocol features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-soaring-e000d37de4c5

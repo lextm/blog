@@ -1,6 +1,5 @@
 ---
-description: This post is about Net-SNMP snmpd.exe crash on Windows and how to resolve
-  it.
+description: "Analyzes Net-SNMP snmpd.exe crashes on Windows and shows how downgrading OpenSSL can fix the issue."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /net-snmp-snmpd-exe-crash-on-windows-9d03bab1b105

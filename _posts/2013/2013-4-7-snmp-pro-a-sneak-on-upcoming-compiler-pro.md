@@ -1,6 +1,5 @@
 ---
-description: 'In this blog post I am going to demonstrate how the Pro edition of #SNMP
-  MIB Compiler is different from the open source edition.'
+description: "Sneak-peeks the upcoming #SNMP MIB Compiler Pro features and explains how it differs from the open source edition."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-pro-a-sneak-on-upcoming-compiler-pro-4a188285867b

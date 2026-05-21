@@ -1,5 +1,5 @@
 ---
-description: This post is about how to add a Label Cloud in Blogger.
+description: "Explains how to add a Blogger label cloud widget and customize its theme to match the blog."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /label-cloud-for-blogger-b88787802772

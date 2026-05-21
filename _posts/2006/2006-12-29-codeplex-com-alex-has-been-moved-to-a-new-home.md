@@ -1,5 +1,5 @@
 ---
-description: Announces that the Alex project has moved to CodePlex.com and explains the migration.
+description: "Announces that the Alex project has moved to CodePlex.com and explains the migration."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /codeplex-com-alex-has-been-moved-to-a-new-home-856628648bdd

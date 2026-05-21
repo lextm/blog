@@ -1,5 +1,5 @@
 ---
-description: Announces Code Beautifier Collection 5.3.1 Hotfix 1 availability along with the source package release.
+description: "Announces Code Beautifier Collection 5.3.1 Hotfix 1 availability along with the source package release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-code-beautifier-collection-5-3-1-hotfix-1-and-source-package-are-available-now-367dcb1537af

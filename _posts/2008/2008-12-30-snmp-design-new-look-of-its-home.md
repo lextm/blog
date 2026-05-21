@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the new look of #SNMP homepage on CodePlex.'
+description: "Announces the redesigned #SNMP CodePlex homepage and the new FAQ organization for easier navigation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-new-look-of-its-home-f300092084cc

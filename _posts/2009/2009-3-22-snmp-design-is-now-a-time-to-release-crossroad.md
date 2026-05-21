@@ -1,5 +1,5 @@
 ---
-description: This post is about the status of CrossRoad.
+description: "Asks whether CrossRoad is ready for release, reflecting on the roadmap and team progress."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-is-now-a-time-to-release-crossroad-be2ddbb0b59b

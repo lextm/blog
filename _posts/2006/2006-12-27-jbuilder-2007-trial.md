@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了 JBuilder 2007试用版的一些新特性。
+description: "这篇文章讲述了 JBuilder 2007试用版的一些新特性。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jbuilder-2007试用版-地震的后遗症-11766f415904

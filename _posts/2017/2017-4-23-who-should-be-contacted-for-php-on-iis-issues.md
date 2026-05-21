@@ -1,6 +1,5 @@
 ---
-description: This post would show you how PHP integrates into IIS and who to contact
-  if you meet issues.
+description: "Explains the PHP-on-IIS process model and helps readers identify who to contact when PHP integration issues occur."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /who-should-be-contacted-for-php-on-iis-issues-c80b90bd365

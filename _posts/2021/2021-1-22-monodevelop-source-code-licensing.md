@@ -1,6 +1,6 @@
 ---
 categories: [Frameworks and Libraries]
-description: A comprehensive analysis of MonoDevelop's licensing history - from GPL to LGPL/MIT X11 dual licensing, the impact on commercial distributions, and implications for future community-driven development efforts
+description: "A comprehensive analysis of MonoDevelop's licensing history - from GPL to LGPL/MIT X11 dual licensing, the impact on commercial distributions, and implications for future community-driven development efforts"
 image:
   path: /images/clouds-over-lake.jpg
   alt: Copyright © Lex Li. Clouds forming over a calm Ontario lake.

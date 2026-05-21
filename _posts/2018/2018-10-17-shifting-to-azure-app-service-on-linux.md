@@ -1,5 +1,5 @@
 ---
-description: Why developers should consider migrating to Azure App Service on Linux from Windows for PHP, Python, and other web applications, with insights on Microsoft's platform direction.
+description: "Why developers should consider migrating to Azure App Service on Linux from Windows for PHP, Python, and other web applications, with insights on Microsoft's platform direction."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Autumn tree near Costco, Montreal.

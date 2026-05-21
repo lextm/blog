@@ -1,5 +1,5 @@
 ---
-description: Tutorial on implementing UAC shield icons on WinForms buttons in Jexus Manager to indicate operations requiring administrator permissions.
+description: "Tutorial on implementing UAC shield icons on WinForms buttons in Jexus Manager to indicate operations requiring administrator permissions."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-uac-shield-icon-and-winforms-buttons-db702ed73e13

@@ -1,5 +1,5 @@
 ---
-description: Reports a new issue in Code Beautifier Collection 6.0 M5 related to ToolsAPI changes.
+description: "Reports a new issue in Code Beautifier Collection 6.0 M5 related to ToolsAPI changes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-issue-id-2-on-homepage-6aec30a98f5

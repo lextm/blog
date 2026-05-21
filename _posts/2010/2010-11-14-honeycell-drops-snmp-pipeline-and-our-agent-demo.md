@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP''s agent side technical details.'
+description: "Explains the SNMP agent architecture, pipeline design, and demo implementation details for the #SNMP project."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-snmp-pipeline-and-our-agent-demo-89986da1a5da

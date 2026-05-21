@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the progress of #SNMP 1.0 release.'
+description: "Describes the #SNMP 1.0 release preparations, including library updates, SNMP v2 support, and the TwinTower roadmap."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-laziness-and-craziness-3577cccec578

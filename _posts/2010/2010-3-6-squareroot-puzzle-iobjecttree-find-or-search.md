@@ -1,5 +1,5 @@
 ---
-description: This post is about the design of IObjectTree.Find method
+description: "Compares IObjectTree.Find and Search, showing why Search is a better API for tolerating incomplete OID lookups."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /squareroot-puzzle-iobjecttree-find-or-search-eed6e2060504

@@ -1,5 +1,5 @@
 ---
-description: Status update on TwinTower library features for SNMP design and the progress made on core functionality.
+description: "Status update on TwinTower library features for SNMP design and the progress made on core functionality."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-twintower-status-on-library-side-2e21343772f

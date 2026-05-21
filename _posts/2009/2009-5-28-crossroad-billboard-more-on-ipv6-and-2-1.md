@@ -1,5 +1,5 @@
 ---
-description: This post is about a bug in the latest CrossRoad release.
+description: "Details an IPv6 compatibility bug in CrossRoad 2.1 and the fixes needed in both library and browser."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /crossroad-billboard-more-on-ip-v6-and-2-1-3b924cecacef

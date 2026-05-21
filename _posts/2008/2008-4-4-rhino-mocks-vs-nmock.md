@@ -1,5 +1,5 @@
 ---
-description: Compares Rhino Mocks and NMock for .NET testing and evaluates their strengths for SharpDevelop users.
+description: "Compares Rhino Mocks and NMock for .NET testing and evaluates their strengths for SharpDevelop users."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /rhino-mocks-vs-nmock-cea2fb93f6e7

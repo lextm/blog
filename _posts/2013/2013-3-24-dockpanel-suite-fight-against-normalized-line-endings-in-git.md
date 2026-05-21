@@ -1,5 +1,5 @@
 ---
-description: How to merge large Git branches safely by normalizing line endings and resolving conflicts in DockPanel Suite development.
+description: "How to merge large Git branches safely by normalizing line endings and resolving conflicts in DockPanel Suite development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-fight-against-normalized-line-endings-in-git-b5d897e17a07

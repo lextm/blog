@@ -1,5 +1,5 @@
 ---
-description: This post is about a bug in the latest CrossRoad release.
+description: "Apologizes for CrossRoad compiler crashes caused by a faulty compiler.exe.config and points readers to the fixed package."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /crossroad-billboard-if-compiler-crashes-8bb2321dbb4b

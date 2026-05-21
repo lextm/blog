@@ -1,5 +1,5 @@
 ---
-description: A personal reflection on how my mother still sees me as young and the gap between independence and parental perception.
+description: "A personal reflection on how my mother still sees me as young and the gap between independence and parental perception."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /so-young-so-innocent-4bfb6957f065

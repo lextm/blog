@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C#Builder Would Be Dropped?
-description: Discusses why C#Builder might be dropped from RAD Studio Highlander and what that means for the .NET IDE ecosystem.
+description: "Discusses why C#Builder might be dropped from RAD Studio Highlander and what that means for the .NET IDE ecosystem."
 tags: code-beautifier-collection delphi
 categories: [Tools and Platforms]
 permalink: /c-builder-would-be-dropped-aa78d783c4d1

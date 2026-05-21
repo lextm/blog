@@ -1,5 +1,5 @@
 ---
-description: This post is about the release notes of 3.0.
+description: "Summarizes the Trident 3.0 release notes, including SNMP v3 support and future browser/compiler work."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-release-notes-b55aac776781

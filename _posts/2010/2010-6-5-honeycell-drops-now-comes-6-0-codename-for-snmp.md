@@ -1,5 +1,5 @@
 ---
-description: This post is about the codename for the next release of
+description: "Announces HoneyCell 6.0 codename for #SNMP and previews new compiler, browser, and MIB information improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-now-comes-6-0-codename-for-snmp-8f4cff5f981f

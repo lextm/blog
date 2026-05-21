@@ -1,5 +1,5 @@
 ---
-description: Announces Code Beautifier Collection 5.3 and summarizes the latest project progress.
+description: "Announces Code Beautifier Collection 5.3 and summarizes the latest project progress."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-code-beautifier-collection-5-3-is-out-there-7fdefec8a225

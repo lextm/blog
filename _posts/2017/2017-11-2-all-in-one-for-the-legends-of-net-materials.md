@@ -1,6 +1,6 @@
 ---
 categories: [Programming Languages]
-description: A comprehensive collection of articles about the history and legends of .NET technologies, including posts about MSBuild, C# compilers, ASP.NET on IIS, and other important .NET ecosystem stories.
+description: "A comprehensive collection of articles about the history and legends of .NET technologies, including posts about MSBuild, C# compilers, ASP.NET on IIS, and other important .NET ecosystem stories."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /all-in-one-for-the-legends-of-net-materials-43c374a01433

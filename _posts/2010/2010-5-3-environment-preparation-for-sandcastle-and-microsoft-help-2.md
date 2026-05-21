@@ -1,6 +1,5 @@
 ---
-description: This post is about how to prepare the environment for building Microsoft
-  Help 2 in Sandcastle.
+description: "Details environment setup for building Microsoft Help 2 documentation with Sandcastle, including SDK and version compatibility issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /environment-preparation-for-sandcastle-and-microsoft-help-2-5dc393d6cd66

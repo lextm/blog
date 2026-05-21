@@ -1,5 +1,5 @@
 ---
-description: Shares my favorite open source books and reading recommendations for developers who want to understand open source culture.
+description: "Shares my favorite open source books and reading recommendations for developers who want to understand open source culture."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /open-source-must-read-list-from-me-3b179c25158

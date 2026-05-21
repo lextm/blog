@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the table manipulation in #SNMP.'
+description: "Explains #SNMP table manipulation, how GetTable works, sparse table limitations, and OID requirements for correct results."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-table-manipulation-6f8353bc9ebc

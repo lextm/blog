@@ -1,5 +1,5 @@
 ---
-description: This post is about how to write add-ins to extend Visual Studio for Mac.
+description: "Explains how to build Visual Studio for Mac add-ins by extending MonoDevelop/Xamarin Studio add-in workflows and writing compatible extension code."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-write-add-ins-of-visual-studio-for-mac-ee6113db5ddf

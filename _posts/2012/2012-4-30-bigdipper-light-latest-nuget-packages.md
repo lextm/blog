@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the latest NuGet packages for #SNMP.'
+description: "Reviews updated #SNMP NuGet packaging for 7.0 and 7.5, including dependency fixes and multi-target assembly support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-latest-nuget-packages-805787c264ff

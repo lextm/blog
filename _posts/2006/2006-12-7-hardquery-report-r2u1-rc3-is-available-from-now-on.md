@@ -1,5 +1,5 @@
 ---
-description: Announces HardQuery Report R2U1 RC3 availability and summarizes the release candidate updates.
+description: "Announces HardQuery Report R2U1 RC3 availability and summarizes the release candidate updates."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-r2u1-rc3-is-available-from-now-on-bba730f33250

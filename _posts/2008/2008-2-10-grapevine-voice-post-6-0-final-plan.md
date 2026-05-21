@@ -1,5 +1,5 @@
 ---
-description: Outlines the plan for GrapeVine Voice after the 6.0 final release, including follow-up updates and maintenance priorities.
+description: "Outlines the plan for GrapeVine Voice after the 6.0 final release, including follow-up updates and maintenance priorities."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-post-6-0-final-plan-40567d5846c6

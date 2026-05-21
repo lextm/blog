@@ -1,5 +1,5 @@
 ---
-description: This post is about another important release for TwinTower.
+description: "Summarizes the TwinTower refresh release, API cleanup, and the migration plan toward CrossRoad."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-an-extra-refresh-for-twintower-2009c8d650ce

@@ -1,5 +1,5 @@
 ---
-description: Learn about the new ASP.NET Core Diagnostics tool that helps troubleshoot deployment issues with ASP.NET Core on IIS and IIS Express environments.
+description: "Learn about the new ASP.NET Core Diagnostics tool that helps troubleshoot deployment issues with ASP.NET Core on IIS and IIS Express environments."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. A flight to New York City.

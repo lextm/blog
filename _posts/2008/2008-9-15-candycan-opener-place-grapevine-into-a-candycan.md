@@ -1,5 +1,5 @@
 ---
-description: Preview of the next major Code Beautifier Collection release and the preparations behind the CandyCan opener.
+description: "Preview of the next major Code Beautifier Collection release and the preparations behind the CandyCan opener."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /candycan-opener-place-grapevine-into-a-candycan-b64cd552de30

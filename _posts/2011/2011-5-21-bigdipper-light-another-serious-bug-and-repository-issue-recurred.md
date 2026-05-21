@@ -1,5 +1,5 @@
 ---
-description: 'Discussing a critical bug in #SNMP and recurring repository issues on CodePlex, with temporary solutions provided.'
+description: "Discussing a critical bug in #SNMP and recurring repository issues on CodePlex, with temporary solutions provided."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-another-serious-bug-and-repository-issue-recurred-5eb32ee14187

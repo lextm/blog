@@ -1,5 +1,5 @@
 ---
-description: 'This post is about how I updated #SNMP Library for iOS Unified Projects.'
+description: "Describes the #SNMP Library updates for Xamarin.iOS unified projects, including project file changes and component packaging issues."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-update-for-ios-unified-projects-35272fa4bba0

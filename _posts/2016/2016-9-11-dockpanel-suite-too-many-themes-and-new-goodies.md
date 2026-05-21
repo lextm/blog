@@ -1,5 +1,5 @@
 ---
-description: Exploring the significant improvements in DockPanel Suite including new theme generation capabilities, on-the-fly image generation, and Visual Studio theme integration.
+description: "Exploring the significant improvements in DockPanel Suite including new theme generation capabilities, on-the-fly image generation, and Visual Studio theme integration."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /dockpanel-suite-too-many-themes-and-new-goodies-fb4fe55d127e

@@ -1,5 +1,5 @@
 ---
-description: Shares first impressions of migrating C/C++ development to Eclipse CDT from Visual C++.
+description: "Shares first impressions of migrating C/C++ development to Eclipse CDT from Visual C++."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trying-eclipse-cdt-43d754f617e1

@@ -1,5 +1,5 @@
 ---
-description: Notes on using Logon Studio Vista with Windows Vista SP1 RC and the compatibility experience.
+description: "Notes on using Logon Studio Vista with Windows Vista SP1 RC and the compatibility experience."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /logon-studio-vista-with-sp1-rc-b352f50eecdf

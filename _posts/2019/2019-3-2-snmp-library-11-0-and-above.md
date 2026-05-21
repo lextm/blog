@@ -1,5 +1,5 @@
 ---
-description: 'An overview of the significant changes in #SNMP Library version 11.0 and 11.1, including architectural changes and support policy updates.'
+description: "An overview of the significant changes in #SNMP Library version 11.0 and 11.1, including architectural changes and support policy updates."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Tree branches in a winter night, Montreal.

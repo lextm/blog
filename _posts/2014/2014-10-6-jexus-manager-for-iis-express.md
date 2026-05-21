@@ -1,5 +1,5 @@
 ---
-description: Explore how Jexus Manager extends its capabilities to manage IIS Express through Microsoft.Web.Administration namespace implementation, offering a familiar interface for web server configuration.
+description: "Explore how Jexus Manager extends its capabilities to manage IIS Express through Microsoft.Web.Administration namespace implementation, offering a familiar interface for web server configuration."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-for-iis-express-7620e9e976d0

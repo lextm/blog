@@ -1,5 +1,5 @@
 ---
-description: An explanation of the technical decisions behind selecting JEDI Code Format (JCF) and AStyle as the foundation for Code Beautifier Collection, detailing their open-source nature, command-line capabilities, and respective strengths in formatting different programming languages.
+description: "An explanation of the technical decisions behind selecting JEDI Code Format (JCF) and AStyle as the foundation for Code Beautifier Collection, detailing their open-source nature, command-line capabilities, and respective strengths in formatting different programming languages."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /cbc-technote-why-i-choose-jcf-and-astyle-b4cf28311f72

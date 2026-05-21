@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HoneyCell Drops: Pipeline in Browser'
-description: This post is about the pipeline in the browser.
+description: "Describes moving HoneyCell browser code to a pipeline model, replacing obsolete listeners and enabling v3 INFORM support."
 tags: snmp
 categories: [Technologies and Concepts]
 permalink: /honeycell-drops-pipeline-in-browser-2a992a2a61c8

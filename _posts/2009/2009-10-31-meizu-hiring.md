@@ -1,5 +1,5 @@
 ---
-description: “这篇文章是关于 Meizu 招聘职位透露出的未来趋势”
+description: '“这篇文章是关于 Meizu 招聘职位透露出的未来趋势”'
 excerpt_separator: <!--more-->
 layout: post
 permalink: /从meizu的招聘职位看m8的未来-6e20a7e3930d

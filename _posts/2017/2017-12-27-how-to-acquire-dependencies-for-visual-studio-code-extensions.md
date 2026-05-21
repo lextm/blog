@@ -1,5 +1,5 @@
 ---
-description: Learn how to effectively acquire and manage runtime dependencies for Visual Studio Code extensions, with examples from the reStructuredText Language Server implementation using OmniSharp's helper classes.
+description: "Learn how to effectively acquire and manage runtime dependencies for Visual Studio Code extensions, with examples from the reStructuredText Language Server implementation using OmniSharp's helper classes."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-acquire-dependencies-for-visual-studio-code-extensions-9ca828cb168d

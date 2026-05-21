@@ -1,6 +1,5 @@
 ---
-description: this post is about how I implemented the SNMP agent with a different
-  approach
+description: "Describes the chosen SNMP agent architecture, pipeline-inspired design, and the early TestAgent implementation for #SNMP."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-snmp-agent-approach-i-chose-and-the-news-7a95902b8d83

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Let Windows Forms Bite You
-description: This post is about Windows Forms and how to avoid common pitfalls.
+description: "Warns about Windows Forms native dependencies like riched20.dll and suggests using simpler controls or WPF."
 tags: .net
 categories: [Programming Languages]
 permalink: /dont-let-windows-forms-bite-you-3561762b22b7

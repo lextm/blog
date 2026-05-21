@@ -1,5 +1,5 @@
 ---
-description: Learn how to tell whether a .NET assembly is compiled for .NET 4 or .NET 4.5, and why that distinction matters for runtime compatibility.
+description: "Learn how to tell whether a .NET assembly is compiled for .NET 4 or .NET 4.5, and why that distinction matters for runtime compatibility."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-to-tell-net-4-5-only-assemblies-f5e9041533bb

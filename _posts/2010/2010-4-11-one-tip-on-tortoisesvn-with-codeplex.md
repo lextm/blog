@@ -1,5 +1,5 @@
 ---
-description: This post is about one tip on TortoiseSVN with CodePlex
+description: "Shares a TortoiseSVN tip for CodePlex checkouts: use Update to revision with HEAD and Fully recursive to avoid missing files."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /one-tip-on-tortoisesvn-with-codeplex-80a92c141939

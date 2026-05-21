@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the upcoming #SNMP Pro editions.'
+description: "Announces the strategy for upcoming #SNMP Pro editions, the commercial product plan, and how the open source core will remain available."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-the-upcoming-snmp-pro-editions-1b7b38c12c3d

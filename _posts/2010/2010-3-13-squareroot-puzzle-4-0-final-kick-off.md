@@ -1,5 +1,5 @@
 ---
-description: 'This post is about #SNMP 4.0 final release.'
+description: "Announces the kick-off of the #SNMP 4.0 final release and previews the upcoming start of CatPaw 5.0 development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /squareroot-puzzle-4-0-final-kick-off-4a6fd232a6f8

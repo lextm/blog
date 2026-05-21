@@ -1,5 +1,5 @@
 ---
-description: This post is about the issue with Blogger.
+description: "Explains that blog comment approval is unavailable because the Blogger console is blocked by the Great Firewall in China."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /no-more-comments-on-this-blog-67c513e2f419

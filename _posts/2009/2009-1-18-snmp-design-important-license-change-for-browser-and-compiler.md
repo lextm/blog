@@ -1,5 +1,5 @@
 ---
-description: This post is about the license change for the Browser and Compiler.
+description: "Announces the license change for the Browser and Compiler, moving from BSD to MIT while keeping the core library LGPL."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-important-license-change-for-browser-and-compiler-c2c3562565f9

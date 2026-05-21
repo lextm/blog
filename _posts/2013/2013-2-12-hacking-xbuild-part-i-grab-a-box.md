@@ -1,5 +1,5 @@
 ---
-description: How to set up a clean openSUSE box for hacking xbuild with Mono, including package installation and environment preparation.
+description: "How to set up a clean openSUSE box for hacking xbuild with Mono, including package installation and environment preparation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hacking-xbuild-part-i-grab-a-box-24e70b6d2821

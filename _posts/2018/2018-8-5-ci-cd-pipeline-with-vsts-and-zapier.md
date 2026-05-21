@@ -1,5 +1,5 @@
 ---
-description: Setting up a CI/CD pipeline for Sphinx documentation sites using VSTS and Zapier, with automatic deployment to Azure App Service and multi-repository management.
+description: "Setting up a CI/CD pipeline for Sphinx documentation sites using VSTS and Zapier, with automatic deployment to Azure App Service and multi-repository management."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. The canal in the summer, Montreal.

@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the breaking changes in #SNMP Library.'
+description: "Explains the breaking changes to #SNMP Library around OctetString encoding and how the new API handles explicit encodings."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-breaking-changes-coming-part-iii

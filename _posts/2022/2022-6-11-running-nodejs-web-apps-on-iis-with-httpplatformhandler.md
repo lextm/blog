@@ -1,5 +1,5 @@
 ---
-description: Step-by-step tutorial on deploying Node.js applications to IIS using HttpPlatformHandler with troubleshooting for common errors and next steps for Express, Socket.IO, and more
+description: "Step-by-step tutorial on deploying Node.js applications to IIS using HttpPlatformHandler with troubleshooting for common errors and next steps for Express, Socket.IO, and more"
 image:
   path: /images/lake-side-rc-harris-water-treatment-plant.jpg
   alt: Copyright © Lex Li. Lakefront near R.C. Harris Water Treatment Plant, Toronto.

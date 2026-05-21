@@ -1,5 +1,5 @@
 ---
-description: 'This post is about how I created a logo for #SNMP.'
+description: "Shares the creation process for a home-made #SNMP logo and invites reader feedback on the draft design."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-home-made-logo-f95f5099b57c

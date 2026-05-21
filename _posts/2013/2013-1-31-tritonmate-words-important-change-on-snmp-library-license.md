@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about the license change of #SNMP Library.'
+description: "Describes the license change for #SNMP Library from LGPL to MIT/X11 and explains the motivation behind the re-licensing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-important-change-on-snmp-library-license-724c3c25e237

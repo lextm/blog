@@ -1,5 +1,5 @@
 ---
-description: Announces the final HardQuery release and highlights the completed features.
+description: "Announces the final HardQuery release and highlights the completed features."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-hardquery-final-is-finally-out-18730d02c929

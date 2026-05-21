@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the final release of #SNMP 6.0.'
+description: "Announces that #SNMP 6.0 final is expected this weekend and explains that beta 5 will be the last beta before release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /honeycell-drops-final-comes-this-weekend-346ee3dfbcc3

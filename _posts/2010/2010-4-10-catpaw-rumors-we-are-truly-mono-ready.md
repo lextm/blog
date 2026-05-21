@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the Mono support of #SNMP Library'
+description: "Describes the first openSUSE/Mono compatibility milestone for the #SNMP Library and the remaining challenges for Browser and Compiler support."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /catpaw-rumors-we-are-truly-mono-ready-7c2a1d07835d

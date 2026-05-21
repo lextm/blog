@@ -1,5 +1,5 @@
 ---
-description: This post is about how to fix the spelling button in Windows Live Mail.
+description: "Explains how to restore the spelling button in Windows Live Mail 2011 by choosing a default language in options."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-live-mail-spelling-does-not-work-40600aa03433

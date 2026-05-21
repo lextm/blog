@@ -1,5 +1,5 @@
 ---
-description: Learn why Visual Studio Setup Projects are problematic for software deployment and why you should consider alternatives like WiX for creating Windows installers.
+description: "Learn why Visual Studio Setup Projects are problematic for software deployment and why you should consider alternatives like WiX for creating Windows installers."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Seattle Public Library.

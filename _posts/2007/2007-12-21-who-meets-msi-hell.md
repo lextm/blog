@@ -1,5 +1,5 @@
 ---
-description: Describes a Visual Studio installation failure and the resulting MSI troubleshooting experience.
+description: "Describes a Visual Studio installation failure and the resulting MSI troubleshooting experience."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /who-meets-msi-hell-8a16aa535afb

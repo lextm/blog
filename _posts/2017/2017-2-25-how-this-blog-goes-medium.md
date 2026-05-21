@@ -1,5 +1,5 @@
 ---
-description: This post is about how this blog was migrated to Medium.
+description: "Recaps migrating this blog from self-hosted platforms to Medium, including custom domain, Cloudflare, and search engine setup challenges."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /how-this-blog-goes-to-medium-1f2b441f59d2

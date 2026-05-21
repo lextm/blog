@@ -1,5 +1,5 @@
 ---
-description: Announcing the open-sourcing of Jexus Manager with details about its architecture, the Microsoft.Web.Administration clone, and how developers can contribute to this IIS management tool alternative.
+description: "Announcing the open-sourcing of Jexus Manager with details about its architecture, the Microsoft.Web.Administration clone, and how developers can contribute to this IIS management tool alternative."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-is-now-open-source-a48fef80a6e7

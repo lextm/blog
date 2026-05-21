@@ -1,5 +1,5 @@
 ---
-description: 'Exploring the #SNMP Library 12.5 release for .NET 6 with new features including nullable annotations, cancellation token support, and cryptography improvements'
+description: "Exploring the #SNMP Library 12.5 release for .NET 6 with new features including nullable annotations, cancellation token support, and cryptography improvements"
 image:
   path: /images/highway-407-station-outside.jpg
   alt: Copyright © Lex Li. Highway 407 TTC station exterior, Toronto.

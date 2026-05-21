@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '#SNMP Design: REPORT status'
-description: This post is about the status of REPORT message type support.
+description: "Explains the current status of SNMP REPORT message type support and its role in Trident development."
 tags: snmp
 categories: [Technologies and Concepts]
 permalink: /snmp-design-report-status-b89550d49b84

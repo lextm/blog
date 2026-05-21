@@ -1,5 +1,5 @@
 ---
-description: Reports progress on HardQuery 5.3.1 and previews the bug fixes included in the release.
+description: "Reports progress on HardQuery 5.3.1 and previews the bug fixes included in the release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /hardquery-report-finally-5-3-1-is-on-the-way-3d92d36f015b

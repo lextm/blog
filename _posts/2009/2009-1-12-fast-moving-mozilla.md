@@ -1,6 +1,5 @@
 ---
-description: This post is about how much I love the improvements in Firefox 3.1b2
-  and Thunderbird 3.0b1.
+description: "Praises Firefox 3.1b2 and Thunderbird 3.0b1 beta improvements, especially tab dragging and the redesigned UI."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /fast-moving-mozilla-6d25647698db

@@ -1,5 +1,5 @@
 ---
-description: This post is about Windows XP used in Shanghai Metro system.
+description: "Shows how Windows XP is still widely deployed in the Shanghai Metro system and comments on its ubiquity."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /windows-xp-everywhere-eecd7661cc58

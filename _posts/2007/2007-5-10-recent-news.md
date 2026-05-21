@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了自己的近况。
+description: "这篇文章讲述了自己的近况。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /匆匆写就的近况-7261702a4024

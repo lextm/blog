@@ -1,5 +1,5 @@
 ---
-description: This article introduces how to use CVS in Visual Studio 2005.
+description: "Introduces using CVS in Visual Studio 2005 and compares it with alternative source control workflows."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /using-cvs-in-visual-studio-2005-99a59576e68f

@@ -1,5 +1,5 @@
 ---
-description: Learn about the Jexus Manager 2.0 Beta 3 update, including support for multiple web servers and custom IIS Express configuration files in Visual Studio 2015.
+description: "Learn about the Jexus Manager 2.0 Beta 3 update, including support for multiple web servers and custom IIS Express configuration files in Visual Studio 2015."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-renamed-and-local-iis-express-custom-configuration-support-8cff599d012b

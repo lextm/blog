@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讨论了对于开源的常见误会。
+description: "这篇文章讨论了对于开源的常见误会。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /对于开源的种种误读-8f5f38d66030

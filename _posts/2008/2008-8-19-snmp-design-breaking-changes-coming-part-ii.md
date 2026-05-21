@@ -1,5 +1,5 @@
 ---
-description: Preview of breaking changes planned for the next SNMP release and how they affect current users.
+description: "Preview of breaking changes planned for the next SNMP release and how they affect current users."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-breaking-changes-coming-part-ii-398acc62f573

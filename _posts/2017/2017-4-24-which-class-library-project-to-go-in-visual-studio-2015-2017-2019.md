@@ -1,5 +1,5 @@
 ---
-description: This post would show you which class library project to go in Visual Studio 2015/2017/2019/2022.
+description: "Compares Visual Studio class library project templates and guides selection between platform-specific, Portable, and .NET Standard libraries."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /which-class-library-project-to-go-in-visual-studio-2015-2017-a48710cf3dff

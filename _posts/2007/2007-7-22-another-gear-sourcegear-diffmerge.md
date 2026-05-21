@@ -1,5 +1,5 @@
 ---
-description: Reviews SourceGear DiffMerge and compares it with WinMerge for file diffing.
+description: "Reviews SourceGear DiffMerge and compares it with WinMerge for file diffing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /another-gear-sourcegear-diffmerge-5d3475e4a736

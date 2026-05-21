@@ -1,5 +1,5 @@
 ---
-description: A practical guide to upgrading Jexus on Ubuntu, covering download, extraction, and safely stopping the existing server before upgrade.
+description: "A practical guide to upgrading Jexus on Ubuntu, covering download, extraction, and safely stopping the existing server before upgrade."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-series-how-to-upgrade-jexus-on-ubuntu-167ae3a1b6ef

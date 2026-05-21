@@ -1,5 +1,5 @@
 ---
-description: Discusses embedded CLR options and why desktop .NET feels easier than .NET CF on Windows CE.
+description: "Discusses embedded CLR options and why desktop .NET feels easier than .NET CF on Windows CE."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /embedded-clr-choice-448cdc55137c

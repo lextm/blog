@@ -1,5 +1,5 @@
 ---
-description: 'This post is about the updated async support in #SNMP.'
+description: "Describes the updated #SNMP async support and the addition of the required state object parameter for BeginGetResponse."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bigdipper-light-updated-async-support-76d3c950066e

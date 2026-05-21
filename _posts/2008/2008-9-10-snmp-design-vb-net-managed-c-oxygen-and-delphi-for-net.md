@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about how to use #SNMP library in .NET languages.'
+description: "Notes that #SNMP library can be consumed from any .NET language, including VB.NET, Managed C++, Oxygene, and Delphi for .NET."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-vb-net-managed-c-oxygen-and-delphi-for-net-f108f722a29

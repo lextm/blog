@@ -1,5 +1,5 @@
 ---
-description: Introduction to PHP Diagnostics in Jexus Manager, a tool that helps diagnose PHP configuration issues on IIS by analyzing settings and providing guidance on proper installation.
+description: "Introduction to PHP Diagnostics in Jexus Manager, a tool that helps diagnose PHP configuration issues on IIS by analyzing settings and providing guidance on proper installation."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /php-diagnostics-for-iis-and-iis-express-users-ba8beeb99f0c

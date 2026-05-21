@@ -1,5 +1,5 @@
 ---
-description: Tutorial on creating a WSL-like development environment on macOS using Multipass virtual machines with Visual Studio Code Remote Development extension for Linux development.
+description: "Tutorial on creating a WSL-like development environment on macOS using Multipass virtual machines with Visual Studio Code Remote Development extension for Linux development."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Institute for Competitiveness And Prosperity.

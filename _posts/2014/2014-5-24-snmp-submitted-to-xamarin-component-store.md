@@ -1,5 +1,5 @@
 ---
-description: 'Detailed walkthrough of submitting the #SNMP library to Xamarin Component Store, including binary preparation, metadata requirements, sample project configuration, and packaging process.'
+description: "Detailed walkthrough of submitting the #SNMP library to Xamarin Component Store, including binary preparation, metadata requirements, sample project configuration, and packaging process."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-submitted-to-xamarin-component-store-9a22d7d1e9f8

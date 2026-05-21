@@ -1,5 +1,5 @@
 ---
-description: This post is about the release of 3.1.
+description: "Celebrates shipping Trident Refresh 3.1 on National Day and announces the start of SquareRoot development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-3-1-shipped-on-national-day-231f0912d4f0

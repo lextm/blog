@@ -1,5 +1,5 @@
 ---
-description: How to configure ASP.NET state service session sharing between IIS 7.5 and 8.0 for reliable web farm session state.
+description: "How to configure ASP.NET state service session sharing between IIS 7.5 and 8.0 for reliable web farm session state."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /note-on-asp-net-state-service-session-sharing-between-iis-7-5-and-8-0-bfdd9d003395

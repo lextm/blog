@@ -1,5 +1,5 @@
 ---
-description: 'This post talks about how to locate boxing instructions in #SNMP library.'
+description: "Shows how ILDasm helped identify boxing instruction hotspots in #SNMP and the cleanup effort to reduce unnecessary boxing."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-locating-boxing-the-standard-way-13eb1cecfd6b

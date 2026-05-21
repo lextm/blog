@@ -1,5 +1,5 @@
 ---
-description: News on Alex 3 RC and SharpDevelop 4
+description: "News on Alex 3 RC and SharpDevelop 4"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-on-alex-3-rc-and-sharpdevelop-4-5baf4295e586

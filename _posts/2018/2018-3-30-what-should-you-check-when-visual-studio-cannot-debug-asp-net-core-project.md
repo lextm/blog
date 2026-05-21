@@ -1,5 +1,5 @@
 ---
-description: Troubleshooting guide for fixing Visual Studio debugging issues with ASP.NET Core projects, focusing on launchSettings.json configuration and applicationHost.config binding errors.
+description: "Troubleshooting guide for fixing Visual Studio debugging issues with ASP.NET Core projects, focusing on launchSettings.json configuration and applicationHost.config binding errors."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. St Lawrence River in Quebec City.

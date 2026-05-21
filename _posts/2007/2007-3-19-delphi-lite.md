@@ -1,5 +1,5 @@
 ---
-description: 这篇文章讲述了所谓的 Delphi 的 Lite 版本。
+description: "这篇文章讲述了所谓的 Delphi 的 Lite 版本。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /bug-report-reply-delphi的lite版本-58497f576876

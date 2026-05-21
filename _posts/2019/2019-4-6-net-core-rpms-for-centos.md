@@ -1,5 +1,5 @@
 ---
-description: A comprehensive guide to installing .NET Core on CentOS using RPM packages, covering dependencies, package relationships, and deployment options.
+description: "A comprehensive guide to installing .NET Core on CentOS using RPM packages, covering dependencies, package relationships, and deployment options."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Canada flag in a snowy day, Montreal.

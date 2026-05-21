@@ -1,5 +1,5 @@
 ---
-description: Common pitfalls beginners face when publishing ASP.NET Core applications to IIS, including ASP.NET Core Module installation requirements, deployment types, and HTTPS configuration.
+description: "Common pitfalls beginners face when publishing ASP.NET Core applications to IIS, including ASP.NET Core Module installation requirements, deployment types, and HTTPS configuration."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Snow covered ladder in Quebec City.

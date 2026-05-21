@@ -1,5 +1,5 @@
 ---
-description: Reflecting on two years of blogging on Medium after switching from self-hosted WordPress - exploring the advantages, simplicity, and growth in readership.
+description: "Reflecting on two years of blogging on Medium after switching from self-hosted WordPress - exploring the advantages, simplicity, and growth in readership."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. Tree branches, Montreal.

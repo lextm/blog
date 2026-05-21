@@ -1,5 +1,5 @@
 ---
-description: This post is about the release day of SNMP Suite 3.0.
+description: "Marks the #SNMP Suite 3.0 release day and outlines remaining SNMP v3 and browser work for the next release."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-prior-to-release-day-5c36fa76b8b2

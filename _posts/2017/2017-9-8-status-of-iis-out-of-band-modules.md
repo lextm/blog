@@ -1,5 +1,5 @@
 ---
-description: A comprehensive overview of the current status of IIS out-of-band modules for Windows 10/Server 2016 and above, including which modules are still supported and suggested alternatives for deprecated modules.
+description: "A comprehensive overview of the current status of IIS out-of-band modules for Windows 10/Server 2016 and above, including which modules are still supported and suggested alternatives for deprecated modules."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /status-of-iis-out-of-band-modules-80a3af57c489

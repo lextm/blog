@@ -1,5 +1,5 @@
 ---
-description: Announcement of experimental read-only support for full IIS in Jexus Manager Beta 2, allowing users to review IIS settings alongside IIS Express configurations.
+description: "Announcement of experimental read-only support for full IIS in Jexus Manager Beta 2, allowing users to review IIS settings alongside IIS Express configurations."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /jexus-manager-experimental-support-on-full-iis-8bcf2e350647

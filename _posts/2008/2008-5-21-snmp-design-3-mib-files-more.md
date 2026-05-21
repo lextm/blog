@@ -1,5 +1,5 @@
 ---
-description: Describes parsing additional MIB files in SNMP design and the enhancements made to support more modules.
+description: "Describes parsing additional MIB files in SNMP design and the enhancements made to support more modules."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-design-3-mib-files-more-c69206fb3006

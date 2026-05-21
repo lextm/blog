@@ -1,5 +1,5 @@
 ---
-description: 介绍了自己对 Borland 的很多看法
+description: "介绍了自己对 Borland 的很多看法"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /the-borland-i-know-141062ba985a

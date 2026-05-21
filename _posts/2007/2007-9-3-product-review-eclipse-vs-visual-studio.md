@@ -1,5 +1,5 @@
 ---
-description: Compares Eclipse and Visual Studio from a developer perspective and explains the author's preference.
+description: "Compares Eclipse and Visual Studio from a developer perspective and explains the author's preference."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-eclipse-vs-visual-studio-698403cf8503

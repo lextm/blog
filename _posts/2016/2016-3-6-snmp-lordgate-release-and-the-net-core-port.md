@@ -1,5 +1,5 @@
 ---
-description: 'Announcement of #SNMP Library 9.0 (LordGate) release with .NET Framework 4.5+ support and details on the ongoing .NET Core port, including API changes and cross-platform compatibility improvements.'
+description: "Announcement of #SNMP Library 9.0 (LordGate) release with .NET Framework 4.5+ support and details on the ongoing .NET Core port, including API changes and cross-platform compatibility improvements."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /snmp-lordgate-release-and-the-net-core-port-8c655a5eaa69

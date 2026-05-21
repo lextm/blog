@@ -1,5 +1,5 @@
 ---
-description: Critical examination of Mono project's release cycle challenges, including undocumented stable releases, package availability issues, and practical guidance on selecting stable Mono versions for development.
+description: "Critical examination of Mono project's release cycle challenges, including undocumented stable releases, package availability issues, and practical guidance on selecting stable Mono versions for development."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /observation-on-mono-release-cycle-ad4ef995cd19

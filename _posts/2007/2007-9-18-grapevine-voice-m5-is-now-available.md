@@ -1,5 +1,5 @@
 ---
-description: Announces Code Beautifier Collection M5 availability for Delphi 2007 Update 3 and outlines forthcoming updates.
+description: "Announces Code Beautifier Collection M5 availability for Delphi 2007 Update 3 and outlines forthcoming updates."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-voice-m5-is-now-available-828bbd803d88

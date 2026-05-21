@@ -1,5 +1,5 @@
 ---
-description: Understanding IIS and ASP.NET process and thread identities - learn how they affect security, authentication, and resource access in your web applications.
+description: "Understanding IIS and ASP.NET process and thread identities - learn how they affect security, authentication, and resource access in your web applications."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. A cloudy day in Montreal.

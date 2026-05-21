@@ -1,5 +1,5 @@
 ---
-description: Why users should switch from the abandoned PHP Manager 1.x to the new PHP Manager 2.0 for IIS, which addresses compatibility issues with the latest IIS versions.
+description: "Why users should switch from the abandoned PHP Manager 1.x to the new PHP Manager 2.0 for IIS, which addresses compatibility issues with the latest IIS versions."
 excerpt_separator: <!--more-->
 image:
   alt: Copyright © Lex Li. S 3rd St in Philadelphia

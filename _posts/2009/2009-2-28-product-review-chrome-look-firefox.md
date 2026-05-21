@@ -1,5 +1,5 @@
 ---
-description: This post is about how to theme Firefox as Chrome.
+description: "Explains how to make Firefox look like Chrome on Windows 7 Beta using Chromifox and Total ReChrome."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /product-review-chrome-look-firefox-473fe9e6248b

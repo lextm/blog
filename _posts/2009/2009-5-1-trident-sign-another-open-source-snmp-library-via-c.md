@@ -1,5 +1,5 @@
 ---
-description: This post is about another open source SNMP library for .NET, snmp#net.
+description: "Introduces the SnmpSharpNet open source .NET SNMP library and compares its SNMP v3 support to #SNMP."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /trident-sign-another-open-source-snmp-library-via-c-4f2b904252

@@ -1,5 +1,5 @@
 ---
-description: A post about how to bring Sharp Builder Tools and C#Builder Goodies to any BDS version as part of CBC
+description: "A post about how to bring Sharp Builder Tools and C#Builder Goodies to any BDS version as part of CBC"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /walkpace-brings-sharp-builder-tools-and-c-builder-goodies-to-any-bds-version-935f0c0f21a4

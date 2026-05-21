@@ -1,5 +1,5 @@
 ---
-description: Announces NixNewNer Update 1 and summarizes the new features included in the update.
+description: "Announces NixNewNer Update 1 and summarizes the new features included in the update."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /news-nixnewner-update-1-is-out-there-112ae3c9d5ad

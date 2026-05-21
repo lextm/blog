@@ -1,5 +1,5 @@
 ---
-description: 本文记录了 CBC GrapeVine 的当前状况并指出了需要解决的问题。
+description: "本文记录了 CBC GrapeVine 的当前状况并指出了需要解决的问题。"
 excerpt_separator: <!--more-->
 layout: post
 permalink: /grapevine-report-something-needed-to-be-done-19fe776c41b
