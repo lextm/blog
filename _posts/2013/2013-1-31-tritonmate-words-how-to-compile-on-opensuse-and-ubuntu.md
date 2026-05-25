@@ -1,6 +1,5 @@
 ---
-description: "'Finally I learned how to run NuGet on Mono, so below is the updated"
-  steps to build #SNMP latest code base on Mono and openSUSE.'
+description: "Finally I learned how to run NuGet on Mono, so below is the updated steps to build #SNMP latest code base on Mono and openSUSE."
 excerpt_separator: <!--more-->
 layout: post
 permalink: /tritonmate-words-how-to-compile-on-opensuse-and-ubuntu-f4cf99c83309
