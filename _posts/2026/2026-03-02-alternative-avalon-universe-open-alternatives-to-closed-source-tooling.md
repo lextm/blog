@@ -64,27 +64,36 @@ People make real decisions based on what’s publicly supported and where invest
 
 If you are evaluating whether Avalonia is still the right choice, consider these frameworks:
 
+### WPF and the Cross-Platform Forks
+
+For Windows-only applications, [WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) remains mature and stable. It will not run on Linux or macOS, but if your target is Windows, the ecosystem is deep and well-documented. [The XSG tooling for WPF is also being developed](https://github.com/lextudio/wxsg), but depends on anyone's willingness to support it in the open.
+
+WPF can go cross-platform with direct forks like [this](https://github.com/wieslawsoltes/wpf/tree/progpu-rendering-port). They are completely open sourced, and actively maintained. [A community roadmap for WPF](https://github.com/wieslawsoltes/ProGPU/issues/18) is being worked on to ensure that the ecosystem remains healthy and vibrant. These forks can be a good option for developers who want to leverage WPF's capabilities while also targeting multiple platforms.
+
 ### MAUI
 
 Microsoft's [MAUI](https://dotnet.microsoft.com/en-us/maui) remains a solid choice for cross-platform desktop and mobile development. It has commercial backing, clear licensing (MIT). Microsoft continues to improve it in each major .NET release, and XSG based tooling is being developed to enrich the MAUI ecosystem:
 
 - [Simpler XAML syntax](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/) by Microsoft in .NET 10
 - [C# Expressions in XAML](https://github.com/dotnet/maui/blob/main/docs/specs/XamlCSharpExpressions.md) by Microsoft in .NET 11
-- [GTK4 based Linux support](https://github.com/Redth/Maui.Gtk) by a MAUI team member
-
-### WPF
-
-For Windows-only applications, [WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) remains mature and stable. It will not run on Linux or macOS, but if your target is Windows, the ecosystem is deep and well-documented. [The XSG tooling for WPF is also being developed](https://github.com/lextudio/wxsg), but depends on anyone's willingness to support it in the open.
+- [GTK4, WPF and AppKit bindings, CLI and DevFlow](https://github.com/dotnet/maui-labs)
 
 ### Uno Platform
 
 If registration isn't a problem for you, or you can work without commercial tooling, [Uno Platform](https://platform.uno/) is another option for building cross-platform applications with a single codebase.
 
+It is not difficult to migrate WPF components to Uno Platform, and there are new examples:
+
+- [UnoEdit](https://github.com/lextudio/UnoEdit), AvalonEdit port to WinUI/Uno Platform
+- [UnoDock](https://github.com/lextudio/UnoDock), AvalonDock port to WinUI/Uno Platform
+- [WindowsShims](https://github.com/lextudio/WindowsShims), bridging WPF controls to WinUI/Uno Platform, such as DataGrid, RichTextBox, ToolBar, and more. This allows developers to leverage existing WPF components while building cross-platform applications with WinUI/Uno Platform.
+- [UnoDevelop](https://github.com/lextudio/UnoDevelop), SharpDevelop port to WinUI/Uno Platform. A large example of a full IDE port to WinUI/Uno Platform, demonstrating the capabilities of the platform for complex WPF applications to be migrated to.
+
 ### MewUI
 
-[MewUI](https://dev.to/al6uiz/i-wanted-to-ship-a-gui-without-the-net-runtime-two-months-with-mewui-a-cross-platform-ui-17ae) is an AI-native cross-platform UI framework built around NativeAOT. It ships a single executable without requiring a .NET runtime installation, targets minimal deployment size, and already supports GDI, Direct2D, and OpenGL backends with Linux (X11) integration.
+[MewUI](https://dev.to/al6uiz/i-wanted-to-ship-a-gui-without-the-net-runtime-two-months-with-mewui-a-cross-platform-ui-17ae) is an AI-native cross-platform UI framework built around Native AOT. It ships a single executable without requiring a .NET runtime installation, targets minimal deployment size, and already supports GDI, Direct2D, and OpenGL backends.
 
-MewUI represents a different philosophy: lightweight, C# markup, and NativeAOT-first. For small tools and utilities, it may be worth evaluating alongside others.
+MewUI represents a different philosophy: lightweight, C# markup, and Native AOT first. For small tools and utilities, it may be worth evaluating alongside others.
 
 ## What you can do
 
