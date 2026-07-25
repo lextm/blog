@@ -66,9 +66,9 @@ If you are evaluating whether Avalonia is still the right choice, consider these
 
 ### WPF and the Cross-Platform Forks
 
-For Windows-only applications, [WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) remains mature and stable. It will not run on Linux or macOS, but if your target is Windows, the ecosystem is deep and well-documented. [The XSG tooling for WPF is also being developed](https://github.com/lextudio/wxsg), but depends on anyone's willingness to support it in the open.
+For Windows-only applications, [Microsoft WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) remains mature and stable. It will not run on Linux or macOS, but if your target is Windows, the ecosystem is deep and well-documented. [The XSG tooling for WPF is also being developed](https://github.com/lextudio/wxsg), but depends on anyone's willingness to support it in the open.
 
-WPF can go cross-platform with direct forks like [this](https://github.com/wieslawsoltes/wpf/tree/progpu-rendering-port). They are completely open sourced, and actively maintained. [A community roadmap for WPF](https://github.com/wieslawsoltes/ProGPU/issues/18) is being worked on to ensure that the ecosystem remains healthy and vibrant. These forks can be a good option for developers who want to leverage WPF's capabilities while also targeting multiple platforms.
+WPF can go cross-platform with direct forks like [this new LibreWPF project](https://github.com/wieslawsoltes/wpf). They are completely open sourced, and actively maintained. [It is time to build an active community around such forks](https://github.com/wieslawsoltes/ProGPU/issues/18) to ensure that the WPF ecosystem remains healthy and vibrant. Developers can continue to leverage WPF's capabilities while also targeting multiple platforms.
 
 ### MAUI
 
