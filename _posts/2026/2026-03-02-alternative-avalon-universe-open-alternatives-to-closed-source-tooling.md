@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alternative Avalon Universe: Open Alternatives to Closed-Source Tooling"
-description: "A guide to community-built alternatives around Avalonia and the wider XAML ecosystem, with a focus on open tooling, independent governance, and why community forks matter."
+description: "Why community forks around Avalonia face long-term maintenance risk, and which more open frameworks are worth evaluating instead, starting with LibreWPF."
 tags: .net open-source visual-studio visual-studio-code
 categories: [Tools and Platforms]
 excerpt_separator: <!--more-->
@@ -10,116 +10,54 @@ image:
   alt: Avalon illustration.
 ---
 
-Avalonia's tooling and governance have changed considerably since this post was first published. The old Accelerate branding has since been reorganized, while the [Community Spaces Policy](https://avaloniaui.net/legal/community-moderation) introduced in August 2026 now states explicitly that Avalonia is not community-owned or foundation-governed. It also defines Avalonia-operated spaces, including official GitHub repositories and discussions, as company-operated infrastructure.
+This post was first published in March 2026 as a list of community tools around Avalonia. It has been rewritten since, because the situation those tools live in has changed.
 
-Against that background, this post maps the open alternatives that have emerged around Avalonia and the wider XAML ecosystem, and explains why independent tooling and community forks matter.
+The short version: the community forks are still useful today, but I would not bet a long-lived project on them. If you are choosing a framework now, there are more open options.
 
 <!--more-->
 
-## Open alternatives that work today
+## Why the forks carry long-term risk
 
-The community has already shipped viable alternatives for several common gaps for users that prefer open-source and independently maintained tooling. Many of these projects are in active use and continue to evolve independently.
+Avalonia is an open-source framework, but it is developed by a company, AvaloniaUI OÜ, which I will call AvaloniaUI from here on. Its [Community Spaces Policy](https://avaloniaui.net/legal/community-moderation), effective 24 August 2026, states that "Avalonia is not a community-owned project and is not governed by a foundation." It also covers GitHub repositories, issues, discussions, and related project infrastructure as spaces operated by AvaloniaUI. A company is entitled to run its framework that way, but it shapes what a community fork can count on. AvaloniaUI decides the roadmap and how its own rules are read, and a fork maintainer has no neutral body to appeal to.
 
-### MediaPlayer, DataGrid, TreeDataGrid, and DevTools
+Most of these forks also depend on one or two people. Several of the Visual Studio and VS Code forks are no longer actively developed, and I no longer maintain [VS Code Tools for AXAML](https://marketplace.visualstudio.com/items?itemName=lextudio.vscode-axaml) myself. IDE support for Avalonia is built by AvaloniaUI and the IDE vendors, so a community language server or compiler replacement works beside that stack, not inside it. [AXSG](https://github.com/wieslawsoltes/XamlToCSharpGenerator), for example, requires a project to migrate fully to its generator.
 
-This open source [MediaPlayer](https://github.com/wieslawsoltes/MediaPlayer) provides media playback building blocks for Avalonia, with multiple backend options and a reusable sample application layer.
+The ground can also shift. In September 2025 AvaloniaUI opened a [call for maintainers](https://github.com/AvaloniaUI/Avalonia/discussions/19653) for the legacy Visual Studio extension and TreeDataGrid. It described the Avalonia Community organization as a possible "neutral, community-driven home" and said it would "support a smooth handover" if maintainers came forward. Six weeks later, an AvaloniaUI representative wrote in the same thread that no roadmap would be defined for community maintainers, and that they "won't spend time coordinating community forks," as they were "not our responsibility". Its explanation was that nobody stepped up in time. Today both [AvaloniaVS](https://github.com/AvaloniaUI/AvaloniaVS) and [TreeDataGrid](https://github.com/AvaloniaUI/Avalonia.Controls.TreeDataGrid) are archived under the AvaloniaUI organization, and neither lives in the community one.
 
-[ProDataGrid](https://github.com/wieslawsoltes/ProDataGrid) is a fork that addresses gaps many desktop developers encounter. Maintained by Wiesław Šoltés under the MIT license, it evolves independently from Avalonia's built-in DataGrid. [TreeDataGrid](https://github.com/wieslawsoltes/TreeDataGrid) is another component in the same ecosystem.
+Forks of controls and tooling also sit close to what AvaloniaUI sells, so their room to operate depends on how broadly it chooses to read its branding and community rules. I am not claiming these projects will disappear. I am saying the ground they stand on can change, and that is a real cost for anything you plan to maintain for years.
 
-The inclusion of ProDiagnostics DevTools matters too, because debugging layout, binding, and control behavior is where teams spend a great deal of time in complex Avalonia codebases. ProDiagnostics includes features such as remote control and a 3D exploded view, showing how far a community fork can evolve once maintainers are free to explore a different direction.
+## More open options
 
-### Visual Studio extension fork
+### LibreWPF and WPF
 
-[AXAML Viewer](https://marketplace.visualstudio.com/items?itemName=SuessLabs.Avalonia-Lite-VS) is an open fork of the legacy Visual Studio extension.
+[LibreWPF](https://github.com/wieslawsoltes/LibreWPF) is my first recommendation. It is a community fork of Microsoft's open-source WPF repository that takes WPF cross-platform. It reuses as much managed WPF code as possible, including the application model, dependency properties, layout, controls, data binding, XAML, and the XAML compiler, and replaces the Windows-only rendering and platform layers with portable implementations based on [ProGPU](https://github.com/wieslawsoltes/ProGPU)/WebGPU and Silk.NET. Existing WPF applications are meant to switch to the LibreWPF SDK with their source and XAML unchanged, except where they depend on Windows-specific interop or native graphics APIs.
 
-It can be useful for developers who prefer a community-maintained Visual Studio extension with its source available.
-
-### AXSG Tooling
-
-[AXSG Tooling is shipping a new VS Code extension](https://marketplace.visualstudio.com/items?itemName=wieslawsoltes.axsg-language-server), but right now it needs projects to fully migrate to AXSG to work.
-
-XAML Source Generator (XSG) is a relatively new concept. Uno Platform and MAUI are exploring it heavily. [Wiesław Šoltés is building an open-source AXSG implementation that targets the open source Avalonia framework](https://github.com/wieslawsoltes/XamlToCSharpGenerator). Like the default XamlX/XamlIl tooling, AXSG is pluggable and can be used in parallel with the existing XAML toolchain. It is designed to be a drop-in replacement for the XAML compilation step, generating C# code directly from AXAML files. This brings a new AXAML language server, Hot Reload engine, live previewer, and MCP server.
-
-AXSG started with VS Code, but there is a clear path to support Visual Studio and Rider as well. The architecture is designed to be flexible and adaptable to different IDEs and build systems.
-
-### What if you hit issues?
-
-When you hit a blocker with any of these tools, you can file issues and contribute fixes via pull requests. Their priorities are set by their maintainers and contributors rather than by a vendor's commercial roadmap. That can mean faster experimentation in some areas and fewer guarantees in others, which is a normal tradeoff in community-maintained software.
-
-### Why community forks matter
-
-Fragmentation has real costs: duplicated maintenance, competing packages, and more choices for users to evaluate. But forks are also one of the safety valves built into open source.
-
-When upstream priorities change, a fork lets others preserve an existing direction, experiment with a different one, or continue work that the original maintainers no longer want to pursue. It does not require hostility toward the upstream project, and it does not require the vendor's approval.
-
-If "fragmentation" simply means that development happens outside the vendor's control, the term becomes much less useful. Independent implementations and community forks are normal outcomes of permissive open-source licensing.
-
-People make real decisions based on what is publicly supported and where investment is going. If official tooling moves toward closed, registered, or vendor-controlled paths, it is natural that the community explores alternatives. That is not hostility. It is how open ecosystems adapt.
-
-## Alternative frameworks and directions
-
-If you are evaluating whether Avalonia is still the right choice, consider these frameworks and related directions.
-
-### WPF and LibreWPF
-
-For Windows-only applications, [Microsoft WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) remains mature and stable. It will not run on Linux or macOS, but if your target is Windows, the ecosystem is deep and well documented. [The XSG tooling for WPF is also being maintained](https://github.com/lextudio/wxsg), but depends on people's willingness to help shape it further in the open.
-
-[LibreWPF](https://github.com/wieslawsoltes/LibreWPF) takes a different route. It is a community fork of Microsoft's open-source WPF codebase. Its current cross-platform work reuses as much managed WPF code as possible, including the application model, dependency properties, layout, controls, data binding, documents, XAML, resources, themes, and the XAML compiler, while replacing Windows-only rendering and platform layers with portable implementations based on [ProGPU](https://github.com/wieslawsoltes/ProGPU)/WebGPU and Silk.NET.
-
-Existing WPF applications are intended to switch to the LibreWPF SDK while keeping normal WPF source code and XAML unchanged, except where an application depends on Windows-specific interop or unsupported native graphics APIs.
-
-That lineage matters. LibreWPF is a fork of Microsoft's open-source WPF repository. It is taking WPF in a cross-platform direction that Microsoft itself is not currently pursuing.
-
-This is exactly the kind of experimentation that open-source WPF makes possible. Microsoft does not need to pursue cross-platform WPF itself for another community to explore that direction. [Building an active community around WPF and its forks](https://github.com/wieslawsoltes/LibreWPF/issues/2) can keep that ecosystem healthy while allowing new ideas to develop independently.
+What makes it attractive is the lineage. It starts from a mature, MIT-licensed framework with a huge body of code, controls, and documentation, and it does not depend on any single vendor's product plans. [Building an active community around it](https://github.com/wieslawsoltes/LibreWPF/issues/2) would keep it healthy. For Windows-only applications, [Microsoft WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) itself remains mature and stable, and [XSG tooling for WPF](https://github.com/lextudio/wxsg) is maintained in the open as well.
 
 ### MAUI
 
-Microsoft's [MAUI](https://dotnet.microsoft.com/en-us/maui) remains a solid choice for cross-platform desktop and mobile development. It has commercial backing and clear licensing under MIT. Microsoft continues to improve it in each major .NET release, and XSG-based tooling is being developed to enrich the MAUI ecosystem:
+Microsoft's [MAUI](https://dotnet.microsoft.com/en-us/maui) is a solid choice for cross-platform desktop and mobile development. It is developed in the open under the MIT license, and [.NET 11](https://github.com/dotnet/maui/releases/tag/11.0.100-rc.2.26513.2) is already at release candidate stage. XAML source generation is now the default, [C# Expressions in XAML](https://github.com/dotnet/maui/blob/main/docs/specs/XamlCSharpExpressions.md) arrive with it, and [XAML Incremental Hot Reload](https://www.infoq.com/news/2026/08/dotnet-11-preview7-maui/) is on by default for Debug builds as a preview feature.
 
-- [Simpler XAML syntax](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/) by Microsoft in .NET 10
-- [C# Expressions in XAML](https://github.com/dotnet/maui/blob/main/docs/specs/XamlCSharpExpressions.md) by Microsoft in .NET 11
-- [GTK4, WPF, and AppKit bindings, with the new CLI and DevFlow tooling](https://github.com/dotnet/maui-labs)
+Preview 7 also added a cross-platform passkeys API, Shell route templates, and Hot Reload on physical iOS devices through `dotnet watch`. [CollectionView2 arrived on Windows, and Shell on Android was rebuilt on standard handlers](https://www.infoq.com/news/2026/07/net-maui-11-preview-6/), although the Shell change is Android-only for now. The experimental [maui-labs](https://github.com/dotnet/maui-labs) repository adds GTK4, WPF, and AppKit backends, a CLI, and DevFlow tooling, with the caveat that these packages are not covered by the MAUI support policy.
 
 ### Uno Platform
 
-If registration is not a problem for you, or you can work without commercial tooling, [Uno Platform](https://platform.uno/) is another option for building cross-platform applications with a single codebase.
+If registration is not a problem for you, or you can work without commercial tooling, [Uno Platform](https://platform.uno/) lets you build cross-platform applications from a single codebase, and migrating WPF components to it is not difficult. It has been moving fast in areas that matter for real products. [Uno 6.6](https://platform.uno/blog/uno-platform-6-6/) lets Skia-rendered apps work with screen readers on Windows, macOS, and WebAssembly, and adds IME composition on six platforms and automatic fallback fonts.
 
-It is not difficult to migrate WPF components to Uno Platform, and there are new examples:
-
-- [UnoEdit](https://github.com/lextudio/UnoEdit), AvalonEdit port to WinUI/Uno Platform
-- [UnoDock](https://github.com/lextudio/UnoDock), AvalonDock port to WinUI/Uno Platform
-- [WindowsShims](https://github.com/lextudio/WindowsShims), bridging WPF controls to WinUI/Uno Platform, such as DataGrid, RichTextBox, ToolBar, and more. This allows developers to leverage existing WPF components while building cross-platform applications with WinUI/Uno Platform.
-- [UnoDevelop](https://github.com/lextudio/UnoDevelop), SharpDevelop port to WinUI/Uno Platform. This project is archived now in favor of OpenDevelop on LibreWPF, but it remains a large example of a full IDE port to Uno Platform and demonstrates what is involved in migrating a complex WPF application.
+Uno is also now a [formal co-maintainer of SkiaSharp](https://platform.uno/blog/skiasharp4-whats-new/). SkiaSharp 4.x is opt-in in Uno 6.6, with up to 30% faster rendering reported in early testing. A [pluggable drawing backend](https://github.com/unoplatform/uno/pull/24153) merged in September 2026 adds an opt-in WebGPU renderer, and the repository already tracks a 7.0 milestone, so I would treat the WebGPU work as preview-grade until that release ships.
 
 ### MewUI
 
-[MewUI](https://dev.to/al6uiz/i-wanted-to-ship-a-gui-without-the-net-runtime-two-months-with-mewui-a-cross-platform-ui-17ae) is an AI-native cross-platform UI framework built around Native AOT. It ships a single executable without requiring a .NET runtime installation, targets minimal deployment size, and already supports GDI, Direct2D, and OpenGL backends.
+[MewUI](https://github.com/aprillz/MewUI) is an MIT-licensed, code-first cross-platform UI framework built around Native AOT. It ships a single executable without a .NET runtime installation and uses C# markup instead of XAML. Recent releases moved quickly, with [retained-mode rendering](https://github.com/aprillz/MewUI/releases/tag/v0.22.0) in 0.22 so that a window repaints only what changed, and [browser support on WebAssembly and WebGL2](https://github.com/aprillz/MewUI/releases/tag/v0.21.1) in 0.21. Version [0.22.1](https://github.com/aprillz/MewUI/releases/tag/v0.22.1) added typed drag and drop across Windows, Linux, and macOS.
 
-MewUI represents a different philosophy: lightweight, C# markup, and Native AOT first. For small tools and utilities, it may be worth evaluating alongside others.
+It is still pre-1.0, with an API that can break between minor releases, and the author is targeting 1.0 in January 2027. You can try the [gallery in your browser](https://www.aprillz.net/MewUI/Gallery/) before installing anything.
 
-## What you can do
+## If you have good reasons to stay with Avalonia
 
-- **Visual Studio users:** Evaluate [AXAML Viewer](https://marketplace.visualstudio.com/items?itemName=SuessLabs.Avalonia-Lite-VS) and see if it fits your workflow.
-- **VS Code users:** Evaluate [AXSG for VS Code](https://marketplace.visualstudio.com/items?itemName=wieslawsoltes.axsg-language-server) and see how it integrates with your development workflow.
-- **MediaPlayer users:** Evaluate [MediaPlayer](https://github.com/wieslawsoltes/MediaPlayer) for your media playback needs.
-- **DataGrid users:** Evaluate [ProDataGrid](https://github.com/wieslawsoltes/ProDataGrid) for your grid needs.
-- **TreeDataGrid users:** Evaluate the open [TreeDataGrid](https://github.com/wieslawsoltes/TreeDataGrid) fork and decide whether its direction fits your application.
-- **Dev Tools users:** Evaluate ProDiagnostics and the additional diagnostics capabilities it offers.
-- **New projects:** Consider whether Avalonia is still the right choice, or whether WPF/LibreWPF, MAUI, Uno Platform, or MewUI better fit your needs.
-- **Contributors:** The ecosystem needs maintainers, testers, and advocates. Even small contributions help independent projects establish themselves.
+These community projects still work today. Treat them as best-effort, and check their recent activity before you depend on them. [AXAML Viewer](https://marketplace.visualstudio.com/items?itemName=SuessLabs.Avalonia-Lite-VS) is an open fork of the legacy Visual Studio extension, and [AXSG for VS Code](https://marketplace.visualstudio.com/items?itemName=wieslawsoltes.axsg-language-server) is a language server and Hot Reload engine that requires full migration to AXSG. [ProDataGrid](https://github.com/wieslawsoltes/ProDataGrid) and [TreeDataGrid](https://github.com/wieslawsoltes/TreeDataGrid) cover grids, [MediaPlayer](https://github.com/wieslawsoltes/MediaPlayer) covers media playback, and ProDiagnostics offers DevTools with remote control and a 3D exploded view.
 
 ## Closing thoughts
 
-Open-source licensing and open governance are two different things. A framework can remain fully open source while its governance, infrastructure, and community spaces are controlled by a single commercial entity.
-
-Avalonia's Community Spaces Policy reveals more details about AvaloniaUI OÜ's chosen governance model. It does not invalidate the open-source license, but it changes the role that independent community spaces and forks need to play.
-
-Community forks preserve choice when upstream and community priorities diverge — giving developers somewhere else to experiment, maintain existing ideas, and build new ones.
-
-This is also why the earlier [discussion about handing legacy projects to community maintainers](https://github.com/AvaloniaUI/Avalonia/discussions/19653) remains important.
-
-Open alternatives are ecosystem infrastructure. Long-lasting platforms benefit from room for independent experiments, forks, competing tools, and different governance models.
-
-If you prefer clear licensing, independent governance, and the ability to participate without depending on a single vendor's roadmap, these alternatives are worth evaluating.
+Open source and open governance are not the same thing. A framework can be fully open source while one company controls its roadmap, infrastructure, and community spaces. For a long-lived project, I would look at both.
 
 To explore more posts about .NET and open source, check out all posts tagged [.NET]({{ site.baseurl }}/tags/net/) and [open-source]({{ site.baseurl }}/tags/open-source/).
